@@ -1,5 +1,5 @@
 name: ashlar_icons
-description: 1,869 icons in ten styles (Rounded, Standard and Sharp; stroke, solid, duotone, twotone, bulk) as Flutter icon fonts whose codepoints never change. Derived from Lucide.
+description: 1,869 icons in ten styles (Rounded, Standard and Sharp; stroke, solid, duotone, twotone, bulk) as Flutter icon fonts whose codepoints never change.
 version: 0.1.0
 homepage: https://icons.ashlar.ke
 repository: https://github.com/mittolabs/ashlar-icons
@@ -7,7 +7,6 @@ issue_tracker: https://github.com/mittolabs/ashlar-icons/issues
 topics:
   - icons
   - icon-font
-  - lucide
   - ui
 
 environment:

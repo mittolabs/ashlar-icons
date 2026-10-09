@@ -1,11 +1,11 @@
 # ashlaricons
 
 1,869 icons in ten styles for Flutter, as icon fonts whose codepoints never change.
-Derived from [Lucide](https://lucide.dev). Browse them at [icons.ashlar.ke](https://icons.ashlar.ke).
+Browse them at [icons.ashlar.ke](https://icons.ashlar.ke).
 
 | Corner | Styles |
 |---|---|
-| Rounded (Lucide as drawn) | Stroke, Solid, Duotone, Twotone, Bulk |
+| Rounded | Stroke, Solid, Duotone, Twotone, Bulk |
 | Standard (corner radii halved, mitred joins) | Stroke, Solid, Duotone |
 | Sharp (square corners and caps) | Stroke, Solid |
 
@@ -36,11 +36,11 @@ your app draws, however many styles you use.
 
 - **Codepoints never change.** An icon keeps its codepoint in every release, new icons
   are appended, and retired names are never reused.
-- **Renames do not break you.** Names Lucide retired stay as deprecated constants that
+- **Renames do not break you.** Retired names stay as deprecated constants that
   point at the new icon.
 - **One clean outline per glyph.** Strokes are merged, so nothing overlaps at partial
   opacity.
 
 ## Licence
 
-ISC, as Lucide. Icons Lucide took from Feather keep their MIT notice. See `LICENSE`.
+ISC. See `LICENSE`.
