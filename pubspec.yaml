@@ -1,0 +1,56 @@
+name: ashlar_icons
+description: 1,869 icons in ten styles (Rounded, Standard and Sharp; stroke, solid, duotone, twotone, bulk) as Flutter icon fonts whose codepoints never change. Derived from Lucide.
+version: 0.1.0
+homepage: https://icons.ashlar.ke
+repository: https://github.com/mittolabs/ashlar-icons
+issue_tracker: https://github.com/mittolabs/ashlar-icons/issues
+topics:
+  - icons
+  - icon-font
+  - lucide
+  - ui
+
+environment:
+  sdk: ^3.13.4
+  flutter: ">=3.35.0"
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  fonts:
+    - family: AshlarRoundedStroke
+      fonts:
+        - asset: fonts/AshlarRoundedStroke.ttf
+    - family: AshlarRoundedSolid
+      fonts:
+        - asset: fonts/AshlarRoundedSolid.ttf
+    - family: AshlarRoundedBodies
+      fonts:
+        - asset: fonts/AshlarRoundedBodies.ttf
+    - family: AshlarRoundedOuter
+      fonts:
+        - asset: fonts/AshlarRoundedOuter.ttf
+    - family: AshlarRoundedInner
+      fonts:
+        - asset: fonts/AshlarRoundedInner.ttf
+    - family: AshlarRoundedDetails
+      fonts:
+        - asset: fonts/AshlarRoundedDetails.ttf
+    - family: AshlarStandardStroke
+      fonts:
+        - asset: fonts/AshlarStandardStroke.ttf
+    - family: AshlarStandardSolid
+      fonts:
+        - asset: fonts/AshlarStandardSolid.ttf
+    - family: AshlarStandardBodies
+      fonts:
+        - asset: fonts/AshlarStandardBodies.ttf
+    - family: AshlarSharpStroke
+      fonts:
+        - asset: fonts/AshlarSharpStroke.ttf
+    - family: AshlarSharpSolid
+      fonts:
+        - asset: fonts/AshlarSharpSolid.ttf
