@@ -1,0 +1,37 @@
+{
+  "name": "@mittolabs/ashlar-icons",
+  "version": "0.1.0",
+  "description": "ashlaricons for any web page: 6,266 icons in ten styles as one stylesheet with icon fonts, and as SVG files.",
+  "license": "ISC",
+  "homepage": "https://icons.ashlar.ke",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mittolabs/ashlar-icons.git",
+    "directory": "packages/web"
+  },
+  "bugs": "https://github.com/mittolabs/ashlar-icons/issues",
+  "keywords": [
+    "icons",
+    "icon-font",
+    "svg",
+    "css",
+    "ashlaricons"
+  ],
+  "style": "ashlar-icons.css",
+  "jsdelivr": "ashlar-icons.css",
+  "unpkg": "ashlar-icons.css",
+  "exports": {
+    ".": "./ashlar-icons.css",
+    "./ashlar-icons.css": "./ashlar-icons.css",
+    "./fonts/*": "./fonts/*",
+    "./svg/*": "./svg/*"
+  },
+  "files": [
+    "ashlar-icons.css",
+    "fonts",
+    "svg",
+    "LICENSE",
+    "README.md",
+    "CHANGELOG.md"
+  ]
+}

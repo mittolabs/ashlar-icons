@@ -1,0 +1,83 @@
+{
+  "name": "@mittolabs/ashlar-icons-react",
+  "version": "0.1.0",
+  "description": "ashlaricons for React: 6,266 icons in ten styles, each a component that draws inline SVG.",
+  "license": "ISC",
+  "homepage": "https://icons.ashlar.ke",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mittolabs/ashlar-icons.git",
+    "directory": "packages/react"
+  },
+  "bugs": "https://github.com/mittolabs/ashlar-icons/issues",
+  "keywords": [
+    "icons",
+    "react",
+    "svg",
+    "ashlaricons"
+  ],
+  "type": "module",
+  "sideEffects": false,
+  "exports": {
+    ".": {
+      "types": "./index.d.ts",
+      "default": "./index.js"
+    },
+    "./rounded-stroke": {
+      "types": "./icons/rounded-stroke.d.ts",
+      "default": "./icons/rounded-stroke.js"
+    },
+    "./rounded-solid": {
+      "types": "./icons/rounded-solid.d.ts",
+      "default": "./icons/rounded-solid.js"
+    },
+    "./rounded-duotone": {
+      "types": "./icons/rounded-duotone.d.ts",
+      "default": "./icons/rounded-duotone.js"
+    },
+    "./rounded-twotone": {
+      "types": "./icons/rounded-twotone.d.ts",
+      "default": "./icons/rounded-twotone.js"
+    },
+    "./rounded-bulk": {
+      "types": "./icons/rounded-bulk.d.ts",
+      "default": "./icons/rounded-bulk.js"
+    },
+    "./standard-stroke": {
+      "types": "./icons/standard-stroke.d.ts",
+      "default": "./icons/standard-stroke.js"
+    },
+    "./standard-solid": {
+      "types": "./icons/standard-solid.d.ts",
+      "default": "./icons/standard-solid.js"
+    },
+    "./standard-duotone": {
+      "types": "./icons/standard-duotone.d.ts",
+      "default": "./icons/standard-duotone.js"
+    },
+    "./sharp-stroke": {
+      "types": "./icons/sharp-stroke.d.ts",
+      "default": "./icons/sharp-stroke.js"
+    },
+    "./sharp-solid": {
+      "types": "./icons/sharp-solid.d.ts",
+      "default": "./icons/sharp-solid.js"
+    }
+  },
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "runtime.js",
+    "runtime.d.ts",
+    "icons",
+    "LICENSE",
+    "README.md",
+    "CHANGELOG.md"
+  ],
+  "dependencies": {
+    "@mittolabs/ashlar-icons-core": "0.1.0"
+  },
+  "peerDependencies": {
+    "react": ">=18"
+  }
+}

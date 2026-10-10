@@ -1,7 +1,15 @@
 # ashlaricons
 
-6,266 icons in ten styles for Flutter, as icon fonts whose codepoints never change.
-Browse them at [icons.ashlar.ke](https://icons.ashlar.ke).
+6,266 icons in ten styles, for Flutter, Jaspr, React and any web page. Browse them at
+[icons.ashlar.ke](https://icons.ashlar.ke).
+
+| Package | For | Install |
+|---|---|---|
+| [`ashlar_icons`](packages/ashlar_icons) | Flutter | `flutter pub add ashlar_icons` |
+| [`ashlar_icons_jaspr`](packages/ashlar_icons_jaspr) | Jaspr | `dart pub add ashlar_icons_jaspr` |
+| [`@mittolabs/ashlar-icons-react`](packages/react) | React | `npm install @mittolabs/ashlar-icons-react` |
+| [`@mittolabs/ashlar-icons`](packages/web) | Any web page: stylesheet, fonts, SVGs | `npm install @mittolabs/ashlar-icons` |
+| [`@mittolabs/ashlar-icons-core`](packages/core) | The drawings as data, for icon components | `npm install @mittolabs/ashlar-icons-core` |
 
 | Corner | Styles |
 |---|---|
@@ -9,37 +17,7 @@ Browse them at [icons.ashlar.ke](https://icons.ashlar.ke).
 | Standard (corner radii halved, mitred joins) | Stroke, Solid, Duotone |
 | Sharp (square corners and caps) | Stroke, Solid |
 
-## Use
-
-```sh
-flutter pub add ashlar_icons
-```
-
-```dart
-import 'package:ashlar_icons/ashlar_icons.dart';
-
-Icon(AshlarIconsRoundedStroke.calendar, size: 24)
-Icon(AshlarIconsSharpSolid.calendar)
-
-// Duotone, Twotone and Bulk draw two layers.
-AshlarLayeredIcon(
-  AshlarIconsRoundedDuotone.calendar,
-  color: Colors.indigo,
-  secondaryColor: Colors.indigo.shade100, // optional; defaults to color at 40%
-)
-```
-
-Every icon is a `const IconData`, so Flutter's icon tree shaking keeps only the glyphs
-your app draws, however many styles you use.
-
-## Promises
-
-- **Codepoints never change.** An icon keeps its codepoint in every release, new icons
-  are appended, and retired names are never reused.
-- **Renames do not break you.** Retired names stay as deprecated constants that
-  point at the new icon.
-- **One clean outline per glyph.** Strokes are merged, so nothing overlaps at partial
-  opacity.
+Every package has the same icons, names and styles, and releases share one version.
 
 ## Licence
 

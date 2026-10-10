@@ -1,0 +1,17 @@
+name: ashlar_icons_jaspr
+description: 6,266 icons in ten styles (Rounded, Standard and Sharp; stroke, solid, duotone, twotone, bulk) for Jaspr, drawn as inline SVG.
+version: 0.1.0
+homepage: https://icons.ashlar.ke
+repository: https://github.com/mittolabs/ashlar-icons/tree/main/packages/ashlar_icons_jaspr
+issue_tracker: https://github.com/mittolabs/ashlar-icons/issues
+topics:
+  - icons
+  - jaspr
+  - svg
+  - ui
+
+environment:
+  sdk: ^3.9.0
+
+dependencies:
+  jaspr: ^0.23.4
