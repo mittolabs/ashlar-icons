@@ -1,6 +1,6 @@
 # ashlaricons
 
-1,869 icons in ten styles for Flutter, as icon fonts whose codepoints never change.
+6,266 icons in ten styles for Flutter, as icon fonts whose codepoints never change.
 Browse them at [icons.ashlar.ke](https://icons.ashlar.ke).
 
 | Corner | Styles |
@@ -43,4 +43,4 @@ your app draws, however many styles you use.
 
 ## Licence
 
-ISC. See `LICENSE`.
+ISC, with the MIT notices of the designs it builds on. See `LICENSE`.
