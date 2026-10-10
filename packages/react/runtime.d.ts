@@ -16,8 +16,8 @@ export type AshlarIconComponent = ForwardRefExoticComponent<AshlarIconProps & Re
 
 /** Draws any icon from @mittolabs/ashlar-icons-core. */
 export declare const AshlarIcon: ForwardRefExoticComponent<
-  AshlarIconProps & { icon: AshlarIconData } & RefAttributes<SVGSVGElement>
+  AshlarIconProps & { icon: AshlarIconData; iconName?: string } & RefAttributes<SVGSVGElement>
 >;
 
 /** Makes a named component that draws one icon, as every export of this package is. */
-export declare function createAshlarIcon(name: string, icon: AshlarIconData): AshlarIconComponent;
+export declare function createAshlarIcon(name: string, icon: AshlarIconData, iconName?: string): AshlarIconComponent;

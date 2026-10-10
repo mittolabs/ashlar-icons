@@ -12,3 +12,5 @@ export type AshlarIconStyle =
 
 /** The ten styles, each importable as `@mittolabs/ashlar-icons-core/<style>`. */
 export declare const styles: readonly AshlarIconStyle[];
+
+export * from './icons/rounded-stroke.js';

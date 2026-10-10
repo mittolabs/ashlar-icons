@@ -8,7 +8,7 @@ const label = (props) => props['aria-label'] || props['aria-labelledby'] || prop
  * does. A secondaryColor is drawn as given, at full strength unless secondaryOpacity says otherwise.
  */
 export const AshlarIcon = forwardRef(function AshlarIcon(
-  { icon, size = 24, color = 'currentColor', secondaryColor, secondaryOpacity, children, ...props },
+  { icon, iconName, size = 24, color = 'currentColor', secondaryColor, secondaryOpacity, className, children, ...props },
   ref,
 ) {
   const faint = {
@@ -27,6 +27,8 @@ export const AshlarIcon = forwardRef(function AshlarIcon(
       fill: color,
       'aria-hidden': label(props) ? undefined : true,
       role: label(props) ? 'img' : undefined,
+      // Names the set and the icon, as other sets do, so a page shows where an icon came from.
+      className: ['ashlar-icon', iconName && `ashlar-icon-${iconName}`, className].filter(Boolean).join(' '),
       ...props,
     },
     ...icon.map(([d, isFaint], i) => createElement('path', isFaint ? { key: i, d, style: faint } : { key: i, d })),
@@ -35,8 +37,8 @@ export const AshlarIcon = forwardRef(function AshlarIcon(
 });
 
 /** Makes a named component that draws one icon, as every export of this package is. */
-export function createAshlarIcon(name, icon) {
-  const Icon = forwardRef((props, ref) => createElement(AshlarIcon, { ...props, ref, icon }));
+export function createAshlarIcon(name, icon, iconName) {
+  const Icon = forwardRef((props, ref) => createElement(AshlarIcon, { ...props, ref, icon, iconName }));
   Icon.displayName = name;
   return Icon;
 }

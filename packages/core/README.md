@@ -12,7 +12,8 @@ one of those instead:
 
 ## The data
 
-Each style is its own module, and each icon a named export:
+Each style is its own module, and each icon a named export. The package root is
+Rounded Stroke:
 
 ```js
 import { CalendarIcon } from '@mittolabs/ashlar-icons-core/rounded-duotone';

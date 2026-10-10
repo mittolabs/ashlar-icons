@@ -5,8 +5,10 @@ import 'package:jaspr/jaspr.dart';
 /// style (Duotone, Twotone, Bulk), its [faint] layer.
 @immutable
 class AshlarIconData {
-  const AshlarIconData(this.d, {this.faint, this.faintOnTop = false});
+  const AshlarIconData(this.name, this.d, {this.faint, this.faintOnTop = false});
 
+  /// The icon's name in every package: calendar, a-arrow-down.
+  final String name;
   final String d;
 
   /// The layer drawn at 40%, or in its own colour. Null for one-layer styles, and for
@@ -68,7 +70,8 @@ class AshlarIcon extends StatelessComponent {
           );
     return Component.element(
       tag: 'svg',
-      classes: classes,
+      // Names the set and the icon, as other sets do, so a page shows where an icon came from.
+      classes: 'ashlar-icon ashlar-icon-${icon.name}${classes == null ? '' : ' $classes'}',
       styles: styles,
       attributes: {
         'xmlns': 'http://www.w3.org/2000/svg',

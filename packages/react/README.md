@@ -31,6 +31,12 @@ An icon is an `<svg>`: it takes the text colour, is 24 pixels unless you size it
 passes every other prop and `className` through, so utility classes such as `size-4`
 work. Without an `aria-label` it is hidden from screen readers, as decoration should be.
 
+Every icon is also exported with the set in its name, `AshlarCalendar` beside
+`CalendarIcon`, for code that should say whose icon it is, or an app that already
+has another set's `CalendarIcon`. Both are the same component. Rendered, each icon
+carries the classes `ashlar-icon ashlar-icon-calendar`, so every ashlaricons icon on
+a page can be found or styled at once.
+
 Only the icons you import end up in your bundle.
 
 ## Two-layer styles
