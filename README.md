@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://icons.ashlar.ke">
-    <img src=".github/ashlaricons.png" alt="ashlaricons: 6,266 icons in 10 styles, for Flutter, React, Jaspr and the web" width="100%" />
+    <img src=".github/ashlaricons.png" alt="ashlaricons: 6,553 icons in 10 styles, for Flutter, React, Jaspr and the web" width="100%" />
   </a>
 </p>
 
 <p align="center">
-  6,266 icons in 10 matching styles, ready to install for Flutter, React, Jaspr and the web.
+  6,553 icons in 10 matching styles, ready to install for Flutter, React, Jaspr and the web.
 </p>
 
 <p align="center">

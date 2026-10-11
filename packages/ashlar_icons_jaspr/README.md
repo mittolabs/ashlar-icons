@@ -1,6 +1,6 @@
 # ashlaricons for Jaspr
 
-6,266 icons in ten styles for [Jaspr](https://jaspr.site), drawn as inline SVG, so
+6,553 icons in ten styles for [Jaspr](https://jaspr.site), drawn as inline SVG, so
 they render on the server and need nothing loaded. Browse them at
 [icons.ashlar.ke](https://icons.ashlar.ke).
 

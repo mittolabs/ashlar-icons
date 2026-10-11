@@ -23,6 +23,8 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData accessibility = AshlarIconData(IconData(0xe003, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData accessible = AshlarIconData(IconData(0xe755, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe755, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData accessibleOff = AshlarIconData(IconData(0xe756, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData acorn = AshlarIconData(IconData(0xf87a, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData acrobatic = AshlarIconData(IconData(0xf87b, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData activity = AshlarIconData(IconData(0xe004, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData activityHeartbeat = AshlarIconData(IconData(0xe757, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData ad = AshlarIconData(IconData(0xe005, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe005, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -62,12 +64,14 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData aiAgent = AshlarIconData(IconData(0xe779, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData aiAgents = AshlarIconData(IconData(0xe77a, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData aiGateway = AshlarIconData(IconData(0xe77b, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
-  static const AshlarIconData airBalloon = AshlarIconData(IconData(0xe77c, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe77c, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData airBalloon = AshlarIconData(IconData(0xe77c, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData airConditioning = AshlarIconData(IconData(0xe77d, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe77d, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData airConditioningDisabled = AshlarIconData(IconData(0xe77e, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe77e, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData airTrafficControl = AshlarIconData(IconData(0xe77f, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData airVent = AshlarIconData(IconData(0xe006, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe006, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData airplay = AshlarIconData(IconData(0xe007, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData airpodsL = AshlarIconData(IconData(0xf87c, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData airpodsR = AshlarIconData(IconData(0xf87d, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData alarm = AshlarIconData(IconData(0xe780, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe780, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData alarmAverage = AshlarIconData(IconData(0xe781, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe781, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData alarmClock = AshlarIconData(IconData(0xe008, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe008, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -135,9 +139,14 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData alpha = AshlarIconData(IconData(0xe7a4, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData alphabetArabic = AshlarIconData(IconData(0xe7a5, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData alphabetBangla = AshlarIconData(IconData(0xe7a6, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData alphabetChinese = AshlarIconData(IconData(0xf87e, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData alphabetCyrillic = AshlarIconData(IconData(0xe7a7, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData alphabetDevanagari = AshlarIconData(IconData(0xf87f, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData alphabetEthiopic = AshlarIconData(IconData(0xf880, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData alphabetGeorgian = AshlarIconData(IconData(0xf881, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData alphabetGreek = AshlarIconData(IconData(0xe7a8, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData alphabetHebrew = AshlarIconData(IconData(0xe7a9, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData alphabetJapanese = AshlarIconData(IconData(0xf882, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData alphabetKorean = AshlarIconData(IconData(0xe7aa, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData alphabetLatin = AshlarIconData(IconData(0xe7ab, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData alphabetPolish = AshlarIconData(IconData(0xe7ac, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -153,6 +162,8 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData anchor = AshlarIconData(IconData(0xe028, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData anchorOff = AshlarIconData(IconData(0xe7b2, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData angle = AshlarIconData(IconData(0xe029, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData angleAcute = AshlarIconData(IconData(0xf883, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData angleObtuse = AshlarIconData(IconData(0xf884, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData ankh = AshlarIconData(IconData(0xe7b3, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData antenna = AshlarIconData(IconData(0xe02a, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData antennaBars1 = AshlarIconData(IconData(0xe7b4, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -171,12 +182,19 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData apiBook = AshlarIconData(IconData(0xe7bf, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData apiOff = AshlarIconData(IconData(0xe7c0, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe7c0, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData appWindow = AshlarIconData(IconData(0xe02d, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe02d, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData appWindowBottom = AshlarIconData(IconData(0xf885, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf885, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData appWindowBottomLeft = AshlarIconData(IconData(0xf886, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf886, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData appWindowBottomRight = AshlarIconData(IconData(0xf887, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf887, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData appWindowCenter = AshlarIconData(IconData(0xf888, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf888, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData appWindowMac = AshlarIconData(IconData(0xe02e, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe02e, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData apple = AshlarIconData(IconData(0xe02f, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData apps = AshlarIconData(IconData(0xe7c1, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData appsOff = AshlarIconData(IconData(0xe7c2, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData apron = AshlarIconData(IconData(0xf889, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf889, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData archeryArrow = AshlarIconData(IconData(0xe7c3, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData archive = AshlarIconData(IconData(0xe030, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData archiveArrowDown = AshlarIconData(IconData(0xf88a, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData archiveArrowUp = AshlarIconData(IconData(0xf88b, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData archiveOff = AshlarIconData(IconData(0xe7c4, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData archiveRestore = AshlarIconData(IconData(0xe031, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData archiveX = AshlarIconData(IconData(0xe032, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -260,6 +278,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData arrowElbowLeft = AshlarIconData(IconData(0xe7fb, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData arrowElbowRight = AshlarIconData(IconData(0xe7fc, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData arrowFork = AshlarIconData(IconData(0xe7fd, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData arrowForkTriple = AshlarIconData(IconData(0xf88c, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData arrowForward = AshlarIconData(IconData(0xe7fe, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData arrowForwardUp = AshlarIconData(IconData(0xe7ff, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData arrowForwardUpDouble = AshlarIconData(IconData(0xe800, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -411,6 +430,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData atom = AshlarIconData(IconData(0xe063, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe063, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData atom2 = AshlarIconData(IconData(0xe879, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData atomOff = AshlarIconData(IconData(0xe87a, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData audioAi = AshlarIconData(IconData(0xf88d, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData audioLines = AshlarIconData(IconData(0xe064, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData audioLinesOff = AshlarIconData(IconData(0xe065, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData audioLinesX = AshlarIconData(IconData(0xe066, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -503,6 +523,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData barbellOff = AshlarIconData(IconData(0xe8ae, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData barcode = AshlarIconData(IconData(0xe08a, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData barcodeOff = AshlarIconData(IconData(0xe8af, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData barn = AshlarIconData(IconData(0xf88e, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf88e, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData barrel = AshlarIconData(IconData(0xe08b, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe08b, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData barrelOff = AshlarIconData(IconData(0xe8b0, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData barrierBlock = AshlarIconData(IconData(0xe8b1, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe8b1, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -536,6 +557,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData bat = AshlarIconData(IconData(0xe8cc, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe8cc, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData bath = AshlarIconData(IconData(0xe08d, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData bathOff = AshlarIconData(IconData(0xe8cd, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData bathroomScale = AshlarIconData(IconData(0xf88f, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf88f, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData battery = AshlarIconData(IconData(0xe08e, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData battery1 = AshlarIconData(IconData(0xe8ce, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe8ce, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData battery2 = AshlarIconData(IconData(0xe8cf, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe8cf, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -605,6 +627,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData bellUp = AshlarIconData(IconData(0xe8f7, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData bellX = AshlarIconData(IconData(0xe8f8, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData bellZ = AshlarIconData(IconData(0xe8f9, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe8f9, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData belt = AshlarIconData(IconData(0xf890, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf890, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData beta = AshlarIconData(IconData(0xe8fa, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData betweenHorizontalEnd = AshlarIconData(IconData(0xe0a7, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData betweenHorizontalStart = AshlarIconData(IconData(0xe0a8, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -635,6 +658,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData blind = AshlarIconData(IconData(0xe907, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData blinds = AshlarIconData(IconData(0xe0b5, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData blob = AshlarIconData(IconData(0xe908, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData blobDashed = AshlarIconData(IconData(0xf891, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData blockquote = AshlarIconData(IconData(0xe909, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData blocks = AshlarIconData(IconData(0xe0b6, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData bluetooth = AshlarIconData(IconData(0xe0b7, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -679,6 +703,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData bookOpenText = AshlarIconData(IconData(0xe0d1, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe0d1, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData bookPlus = AshlarIconData(IconData(0xe0d2, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData bookSearch = AshlarIconData(IconData(0xe0d3, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData bookSparkle = AshlarIconData(IconData(0xf892, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData bookText = AshlarIconData(IconData(0xe0d4, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData bookType = AshlarIconData(IconData(0xe0d5, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData bookUp = AshlarIconData(IconData(0xe0d6, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -735,6 +760,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData bounceRight = AshlarIconData(IconData(0xe93b, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData bow = AshlarIconData(IconData(0xe93c, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData bowArrow = AshlarIconData(IconData(0xe0e5, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData bowTie = AshlarIconData(IconData(0xf893, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData bowl = AshlarIconData(IconData(0xe93d, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData bowlChopsticks = AshlarIconData(IconData(0xe93e, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData bowlSpoon = AshlarIconData(IconData(0xe93f, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -767,6 +793,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData boxOff = AshlarIconData(IconData(0xe959, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData boxPadding = AshlarIconData(IconData(0xe95a, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe95a, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData boxes = AshlarIconData(IconData(0xe0e7, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe0e7, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData boxingGlove = AshlarIconData(IconData(0xf894, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf894, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData braces = AshlarIconData(IconData(0xe0e8, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData bracesOff = AshlarIconData(IconData(0xe95b, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData brackets = AshlarIconData(IconData(0xe0e9, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -783,7 +810,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData brand4chan = AshlarIconData(IconData(0xe963, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData brandAbstract = AshlarIconData(IconData(0xe964, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData brandAdobe = AshlarIconData(IconData(0xe965, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
-  static const AshlarIconData brandAdobeAfterEffect = AshlarIconData(IconData(0xe966, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData brandAdobeAfterEffects = AshlarIconData(IconData(0xf895, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData brandAdobeIllustrator = AshlarIconData(IconData(0xe967, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData brandAdobeIndesign = AshlarIconData(IconData(0xe968, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData brandAdobePhotoshop = AshlarIconData(IconData(0xe969, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -813,6 +840,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData brandArc = AshlarIconData(IconData(0xe981, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData brandAsana = AshlarIconData(IconData(0xe982, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData brandAstro = AshlarIconData(IconData(0xe983, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData brandAudible = AshlarIconData(IconData(0xf896, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData brandAuth0 = AshlarIconData(IconData(0xe984, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData brandAws = AshlarIconData(IconData(0xe985, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData brandAzure = AshlarIconData(IconData(0xe986, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -950,7 +978,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData brandJavascript = AshlarIconData(IconData(0xea0a, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData brandJira = AshlarIconData(IconData(0xea0b, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData brandJuejin = AshlarIconData(IconData(0xea0c, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
-  static const AshlarIconData brandKakoTalk = AshlarIconData(IconData(0xea0d, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData brandKakaoTalk = AshlarIconData(IconData(0xf897, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData brandKbin = AshlarIconData(IconData(0xea0e, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData brandKick = AshlarIconData(IconData(0xea0f, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData brandKickstarter = AshlarIconData(IconData(0xea10, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -1046,6 +1074,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData brandSharik = AshlarIconData(IconData(0xea6a, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData brandShazam = AshlarIconData(IconData(0xea6b, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData brandShopee = AshlarIconData(IconData(0xea6c, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData brandSignal = AshlarIconData(IconData(0xf898, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData brandSketch = AshlarIconData(IconData(0xea6d, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData brandSkype = AshlarIconData(IconData(0xea6e, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData brandSlack = AshlarIconData(IconData(0xea6f, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -1061,6 +1090,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData brandStackoverflow = AshlarIconData(IconData(0xea79, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData brandStackshare = AshlarIconData(IconData(0xea7a, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData brandSteam = AshlarIconData(IconData(0xea7b, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData brandStellar = AshlarIconData(IconData(0xf899, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData brandStocktwits = AshlarIconData(IconData(0xea7c, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData brandStorj = AshlarIconData(IconData(0xea7d, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData brandStorybook = AshlarIconData(IconData(0xea7e, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -1108,6 +1138,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData brandUnsplash = AshlarIconData(IconData(0xeaa8, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData brandUpwork = AshlarIconData(IconData(0xeaa9, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData brandValorant = AshlarIconData(IconData(0xeaaa, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData brandVechain = AshlarIconData(IconData(0xf89a, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData brandVercel = AshlarIconData(IconData(0xeaab, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData brandVimeo = AshlarIconData(IconData(0xeaac, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData brandVinted = AshlarIconData(IconData(0xeaad, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -1161,10 +1192,13 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData briefcase = AshlarIconData(IconData(0xe0f1, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData briefcase2 = AshlarIconData(IconData(0xead9, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData briefcaseBusiness = AshlarIconData(IconData(0xe0f2, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe0f2, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData briefcaseClock = AshlarIconData(IconData(0xf89b, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf89b, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData briefcaseConveyorBelt = AshlarIconData(IconData(0xe0f3, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData briefcaseDollar = AshlarIconData(IconData(0xf89c, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf89c, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData briefcaseMedical = AshlarIconData(IconData(0xe0f4, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe0f4, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData briefcaseOff = AshlarIconData(IconData(0xeada, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData briefcasePlus = AshlarIconData(IconData(0xe0f5, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData briefcaseSearch = AshlarIconData(IconData(0xf89d, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData brightness = AshlarIconData(IconData(0xeadb, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xeadb, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData brightness2 = AshlarIconData(IconData(0xeadc, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xeadc, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData brightnessAuto = AshlarIconData(IconData(0xeadd, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xeadd, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -1179,6 +1213,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData broom = AshlarIconData(IconData(0xe0f8, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe0f8, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData broomSparkles = AshlarIconData(IconData(0xe0f9, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe0f9, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData browser = AshlarIconData(IconData(0xeae4, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xeae4, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData browserAi = AshlarIconData(IconData(0xf89e, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData browserCheck = AshlarIconData(IconData(0xeae5, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xeae5, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData browserMaximize = AshlarIconData(IconData(0xeae6, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData browserMinus = AshlarIconData(IconData(0xeae7, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -1220,6 +1255,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData buildingComplex = AshlarIconData(IconData(0xe101, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe101, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData buildingComplexPlus = AshlarIconData(IconData(0xe102, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData buildingCottage = AshlarIconData(IconData(0xeb04, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xeb04, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData buildingEiffelTower = AshlarIconData(IconData(0xf89f, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData buildingEstate = AshlarIconData(IconData(0xeb05, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xeb05, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData buildingFactory = AshlarIconData(IconData(0xeb06, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData buildingFactory2 = AshlarIconData(IconData(0xeb07, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -1242,6 +1278,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData bulb = AshlarIconData(IconData(0xeb18, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xeb18, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData bulbOff = AshlarIconData(IconData(0xeb19, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData bulldozer = AshlarIconData(IconData(0xeb1a, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData bunkBed = AshlarIconData(IconData(0xf8a0, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData burger = AshlarIconData(IconData(0xeb1b, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData bus = AshlarIconData(IconData(0xe103, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData busFront = AshlarIconData(IconData(0xe104, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe104, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -1280,6 +1317,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData calendarExclamation = AshlarIconData(IconData(0xeb2d, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData calendarFold = AshlarIconData(IconData(0xe114, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe114, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData calendarHeart = AshlarIconData(IconData(0xe115, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData calendarLock = AshlarIconData(IconData(0xf8a1, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData calendarMinus = AshlarIconData(IconData(0xe116, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData calendarMinus2 = AshlarIconData(IconData(0xe117, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe117, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData calendarMonth = AshlarIconData(IconData(0xeb2e, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xeb2e, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -1295,6 +1333,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData calendarSearch = AshlarIconData(IconData(0xe11c, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData calendarShare = AshlarIconData(IconData(0xeb34, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData calendarSmile = AshlarIconData(IconData(0xeb35, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xeb35, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData calendarSparkle = AshlarIconData(IconData(0xf8a2, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf8a2, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData calendarStar = AshlarIconData(IconData(0xeb36, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData calendarStats = AshlarIconData(IconData(0xeb37, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xeb37, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData calendarSync = AshlarIconData(IconData(0xe11d, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -1359,6 +1398,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData carBattery = AshlarIconData(IconData(0xe12d, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe12d, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData carCrane = AshlarIconData(IconData(0xeb63, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData carCrash = AshlarIconData(IconData(0xeb64, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData carDoor = AshlarIconData(IconData(0xf8a3, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf8a3, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData carFan = AshlarIconData(IconData(0xeb65, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData carFan1 = AshlarIconData(IconData(0xeb66, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData carFan2 = AshlarIconData(IconData(0xeb67, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -1366,6 +1406,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData carFanAuto = AshlarIconData(IconData(0xeb69, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData carFront = AshlarIconData(IconData(0xe12e, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe12e, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData carGarage = AshlarIconData(IconData(0xeb6a, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData carLifter = AshlarIconData(IconData(0xf8a4, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData carOff = AshlarIconData(IconData(0xeb6b, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData carOffRoad = AshlarIconData(IconData(0xeb6c, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData carSuspension = AshlarIconData(IconData(0xeb6d, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -1402,6 +1443,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData cashBanknoteMoveBack = AshlarIconData(IconData(0xeb83, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData cashBanknoteOff = AshlarIconData(IconData(0xeb84, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData cashBanknotePlus = AshlarIconData(IconData(0xeb85, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData cashCoin = AshlarIconData(IconData(0xf8a5, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData cashEdit = AshlarIconData(IconData(0xeb86, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData cashHeart = AshlarIconData(IconData(0xeb87, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData cashMinus = AshlarIconData(IconData(0xeb88, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -1494,6 +1536,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData chartScatter3d = AshlarIconData(IconData(0xebc3, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData chartSpline = AshlarIconData(IconData(0xe154, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData chartTreemap = AshlarIconData(IconData(0xebc4, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xebc4, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData chartWaterfall = AshlarIconData(IconData(0xf8a6, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData check = AshlarIconData(IconData(0xe155, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData checkCheck = AshlarIconData(IconData(0xe156, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData checkLine = AshlarIconData(IconData(0xe157, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -1542,6 +1585,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData chevronsUpLeft = AshlarIconData(IconData(0xebd8, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData chevronsUpRight = AshlarIconData(IconData(0xebd9, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData chisel = AshlarIconData(IconData(0xebda, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData chocolate = AshlarIconData(IconData(0xf8a7, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf8a7, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData christmasBall = AshlarIconData(IconData(0xebdb, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xebdb, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData christmasTree = AshlarIconData(IconData(0xebdc, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData christmasTreeOff = AshlarIconData(IconData(0xebdd, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -1659,6 +1703,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData circleHalf = AshlarIconData(IconData(0xec2e, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xec2e, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData circleHalf2 = AshlarIconData(IconData(0xec2f, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xec2f, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData circleHalfVertical = AshlarIconData(IconData(0xec30, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xec30, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData circleHeart = AshlarIconData(IconData(0xf8a8, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf8a8, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData circleKey = AshlarIconData(IconData(0xec31, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xec31, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData circleLetterA = AshlarIconData(IconData(0xec32, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xec32, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData circleLetterB = AshlarIconData(IconData(0xec33, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xec33, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -1754,8 +1799,10 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData clapperboard = AshlarIconData(IconData(0xe1a4, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe1a4, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData clearAll = AshlarIconData(IconData(0xec77, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData clearFormatting = AshlarIconData(IconData(0xec78, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData clef = AshlarIconData(IconData(0xf8a9, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData clefAlto = AshlarIconData(IconData(0xe1a5, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData clefBass = AshlarIconData(IconData(0xe1a6, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData clefStaff = AshlarIconData(IconData(0xf8aa, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData clefTreble = AshlarIconData(IconData(0xe1a7, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData click = AshlarIconData(IconData(0xec79, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData cliffJumping = AshlarIconData(IconData(0xec7a, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -1875,6 +1922,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData cloudSearch = AshlarIconData(IconData(0xecbb, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData cloudShare = AshlarIconData(IconData(0xecbc, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData cloudSnow = AshlarIconData(IconData(0xe1d9, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData cloudSparkle = AshlarIconData(IconData(0xf8ab, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf8ab, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData cloudStar = AshlarIconData(IconData(0xecbd, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData cloudStorm = AshlarIconData(IconData(0xecbe, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData cloudSun = AshlarIconData(IconData(0xe1da, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -1889,6 +1937,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData club = AshlarIconData(IconData(0xe1e0, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData clubs = AshlarIconData(IconData(0xecc2, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData code = AshlarIconData(IconData(0xe1e1, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData codeAi = AshlarIconData(IconData(0xf8ac, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData codeAsterisk = AshlarIconData(IconData(0xecc3, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData codeCircle = AshlarIconData(IconData(0xecc4, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xecc4, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData codeCircle2 = AshlarIconData(IconData(0xecc5, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xecc5, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -1902,6 +1951,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData codeXml = AshlarIconData(IconData(0xe1e2, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData codeblock = AshlarIconData(IconData(0xeccd, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData coffee = AshlarIconData(IconData(0xe1e3, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData coffeeBean = AshlarIconData(IconData(0xf8ad, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf8ad, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData coffeeOff = AshlarIconData(IconData(0xecce, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData coffin = AshlarIconData(IconData(0xeccf, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xeccf, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData cog = AshlarIconData(IconData(0xe1e4, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe1e4, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -1992,8 +2042,10 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData cornerUpLeftDouble = AshlarIconData(IconData(0xed02, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData cornerUpRight = AshlarIconData(IconData(0xe207, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData cornerUpRightDouble = AshlarIconData(IconData(0xed03, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData cowboyHat = AshlarIconData(IconData(0xf8ae, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData cpu = AshlarIconData(IconData(0xe208, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe208, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData cpu2 = AshlarIconData(IconData(0xed04, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xed04, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData cpuAi = AshlarIconData(IconData(0xf8af, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf8af, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData cpuOff = AshlarIconData(IconData(0xed05, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData crane = AshlarIconData(IconData(0xed06, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData craneOff = AshlarIconData(IconData(0xed07, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -2007,15 +2059,19 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData creditCard = AshlarIconData(IconData(0xe20a, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe20a, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData creditCardCheck = AshlarIconData(IconData(0xe20b, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData creditCardHand = AshlarIconData(IconData(0xed0e, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData creditCardLock = AshlarIconData(IconData(0xf8b0, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData creditCardMinus = AshlarIconData(IconData(0xe20c, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData creditCardOff = AshlarIconData(IconData(0xed0f, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData creditCardPay = AshlarIconData(IconData(0xed10, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData creditCardPlus = AshlarIconData(IconData(0xe20d, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData creditCardReader = AshlarIconData(IconData(0xe20e, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe20e, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData creditCardRefund = AshlarIconData(IconData(0xed11, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData creditCardSnowflake = AshlarIconData(IconData(0xf8b1, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData creditCardX = AshlarIconData(IconData(0xe20f, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData credits = AshlarIconData(IconData(0xed12, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData crib = AshlarIconData(IconData(0xf8b2, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData cricket = AshlarIconData(IconData(0xed13, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData cricketBat = AshlarIconData(IconData(0xf8b3, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData croissant = AshlarIconData(IconData(0xe210, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData crop = AshlarIconData(IconData(0xe211, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData crop11 = AshlarIconData(IconData(0xed14, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -2025,6 +2081,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData crop75 = AshlarIconData(IconData(0xed18, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData cropLandscape = AshlarIconData(IconData(0xed19, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData cropPortrait = AshlarIconData(IconData(0xed1a, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData cropSparkle = AshlarIconData(IconData(0xf8b4, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData cross = AshlarIconData(IconData(0xe212, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData crossOff = AshlarIconData(IconData(0xed1b, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData crosshair = AshlarIconData(IconData(0xe213, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe213, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -2076,6 +2133,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData currencyFrank = AshlarIconData(IconData(0xed44, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData currencyGuarani = AshlarIconData(IconData(0xed45, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData currencyHryvnia = AshlarIconData(IconData(0xed46, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData currencyHusd = AshlarIconData(IconData(0xf8b5, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData currencyIranianRial = AshlarIconData(IconData(0xed47, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData currencyKip = AshlarIconData(IconData(0xed48, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData currencyKroneCzech = AshlarIconData(IconData(0xed49, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -2100,7 +2158,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData currencyRenminbi = AshlarIconData(IconData(0xed5c, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData currencyRipple = AshlarIconData(IconData(0xed5d, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData currencyRiyal = AshlarIconData(IconData(0xed5e, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
-  static const AshlarIconData currencyRubel = AshlarIconData(IconData(0xed5f, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData currencyRuble = AshlarIconData(IconData(0xf8b6, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData currencyRufiyaa = AshlarIconData(IconData(0xed60, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData currencyRupee = AshlarIconData(IconData(0xed61, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData currencyRupeeNepalese = AshlarIconData(IconData(0xed62, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -2109,17 +2167,20 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData currencySom = AshlarIconData(IconData(0xed65, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData currencyTaka = AshlarIconData(IconData(0xed66, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData currencyTenge = AshlarIconData(IconData(0xed67, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData currencyTether = AshlarIconData(IconData(0xf8b7, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData currencyTugrik = AshlarIconData(IconData(0xed68, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData currencyWon = AshlarIconData(IconData(0xed69, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData currencyXrp = AshlarIconData(IconData(0xed6a, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData currencyYen = AshlarIconData(IconData(0xed6b, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData currencyYenOff = AshlarIconData(IconData(0xed6c, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData currencyYuan = AshlarIconData(IconData(0xed6d, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData currencyZcash = AshlarIconData(IconData(0xf8b8, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData currencyZloty = AshlarIconData(IconData(0xed6e, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData currentLocation = AshlarIconData(IconData(0xed6f, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xed6f, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData currentLocationOff = AshlarIconData(IconData(0xed70, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData cursorOff = AshlarIconData(IconData(0xed71, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData cursorText = AshlarIconData(IconData(0xed72, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData curtains = AshlarIconData(IconData(0xf8b9, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData cut = AshlarIconData(IconData(0xed73, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData cylinder = AshlarIconData(IconData(0xe219, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData cylinderOff = AshlarIconData(IconData(0xed74, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -2140,6 +2201,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData databaseHeart = AshlarIconData(IconData(0xed7d, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData databaseImport = AshlarIconData(IconData(0xed7e, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData databaseLeak = AshlarIconData(IconData(0xed7f, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData databaseLock = AshlarIconData(IconData(0xf8ba, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData databaseMinus = AshlarIconData(IconData(0xe220, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData databaseOff = AshlarIconData(IconData(0xed80, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData databasePlus = AshlarIconData(IconData(0xe221, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -2175,6 +2237,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData deviceCctv = AshlarIconData(IconData(0xed97, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xed97, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData deviceCctvOff = AshlarIconData(IconData(0xed98, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData deviceComputerCamera = AshlarIconData(IconData(0xed99, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xed99, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData deviceComputerCamera2 = AshlarIconData(IconData(0xf8bb, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf8bb, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData deviceComputerCameraOff = AshlarIconData(IconData(0xed9a, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData deviceDesktop = AshlarIconData(IconData(0xed9b, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData deviceDesktopAnalytics = AshlarIconData(IconData(0xed9c, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xed9c, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -2333,6 +2396,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData deviceUnknown = AshlarIconData(IconData(0xee35, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xee35, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData deviceUsb = AshlarIconData(IconData(0xee36, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData deviceVisionPro = AshlarIconData(IconData(0xee37, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData deviceVisionProWifi = AshlarIconData(IconData(0xf8bc, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData deviceWatch = AshlarIconData(IconData(0xee38, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData deviceWatchBolt = AshlarIconData(IconData(0xee39, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData deviceWatchCancel = AshlarIconData(IconData(0xee3a, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xee3a, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -2356,6 +2420,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData deviceWatchStats2 = AshlarIconData(IconData(0xee4c, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xee4c, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData deviceWatchUp = AshlarIconData(IconData(0xee4d, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData deviceWatchX = AshlarIconData(IconData(0xee4e, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData deviceWorkstation = AshlarIconData(IconData(0xf8bd, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData devices = AshlarIconData(IconData(0xee4f, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xee4f, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData devices2 = AshlarIconData(IconData(0xee50, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xee50, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData devicesBolt = AshlarIconData(IconData(0xee51, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -2421,6 +2486,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData discOff = AshlarIconData(IconData(0xee7c, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData discount = AshlarIconData(IconData(0xee7d, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xee7d, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData discountOff = AshlarIconData(IconData(0xee7e, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData dishwasher = AshlarIconData(IconData(0xf8be, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf8be, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData divide = AshlarIconData(IconData(0xe23a, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData dna = AshlarIconData(IconData(0xe23b, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData dna2 = AshlarIconData(IconData(0xee7f, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -2431,6 +2497,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData dogBowl = AshlarIconData(IconData(0xee81, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData dollarSign = AshlarIconData(IconData(0xe23f, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData dome = AshlarIconData(IconData(0xe240, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe240, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData domino = AshlarIconData(IconData(0xf8bf, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf8bf, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData donut = AshlarIconData(IconData(0xe241, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe241, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData door = AshlarIconData(IconData(0xee82, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xee82, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData doorClosed = AshlarIconData(IconData(0xe242, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe242, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -2439,6 +2506,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData doorClosedPackage = AshlarIconData(IconData(0xe245, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe245, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData doorEnter = AshlarIconData(IconData(0xee83, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData doorExit = AshlarIconData(IconData(0xee84, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData doorHanger = AshlarIconData(IconData(0xf8c0, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf8c0, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData doorOff = AshlarIconData(IconData(0xee85, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData doorOpen = AshlarIconData(IconData(0xe246, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe246, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData doorStairwell = AshlarIconData(IconData(0xe247, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe247, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -2453,7 +2521,9 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData draftingCompass = AshlarIconData(IconData(0xe24a, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData dragDrop = AshlarIconData(IconData(0xee8c, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData dragDrop2 = AshlarIconData(IconData(0xee8d, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData dragon = AshlarIconData(IconData(0xf8c1, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData drama = AshlarIconData(IconData(0xe24b, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe24b, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData dress = AshlarIconData(IconData(0xf8c2, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData drill = AshlarIconData(IconData(0xe24c, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData drone = AshlarIconData(IconData(0xe24d, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData droneOff = AshlarIconData(IconData(0xee8e, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -2473,6 +2543,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData dropletMinus = AshlarIconData(IconData(0xee9b, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData dropletOff = AshlarIconData(IconData(0xe24f, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData dropletPause = AshlarIconData(IconData(0xee9c, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData dropletPercent = AshlarIconData(IconData(0xf8c3, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf8c3, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData dropletPin = AshlarIconData(IconData(0xee9d, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xee9d, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData dropletPlus = AshlarIconData(IconData(0xee9e, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData dropletQuestion = AshlarIconData(IconData(0xee9f, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -2486,11 +2557,14 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData drumstick = AshlarIconData(IconData(0xe252, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData dualScreen = AshlarIconData(IconData(0xeea5, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData dumbbell = AshlarIconData(IconData(0xe253, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData dumpTruck = AshlarIconData(IconData(0xf8c4, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData dumpling = AshlarIconData(IconData(0xeea6, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData duplicate = AshlarIconData(IconData(0xf8c5, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf8c5, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData ePassport = AshlarIconData(IconData(0xeea7, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xeea7, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData ear = AshlarIconData(IconData(0xe254, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe254, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData earOff = AshlarIconData(IconData(0xe255, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData earScan = AshlarIconData(IconData(0xeea8, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData earphoneBluetooth = AshlarIconData(IconData(0xf8c6, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf8c6, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData earth = AshlarIconData(IconData(0xe256, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe256, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData earthLock = AshlarIconData(IconData(0xe257, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData easeIn = AshlarIconData(IconData(0xeea9, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -2500,6 +2574,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData easeOut = AshlarIconData(IconData(0xeead, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData easeOutControlPoint = AshlarIconData(IconData(0xeeae, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData eclipse = AshlarIconData(IconData(0xe258, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe258, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData editBulk = AshlarIconData(IconData(0xf8c7, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf8c7, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData editCircle = AshlarIconData(IconData(0xeeaf, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xeeaf, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData editCircleOff = AshlarIconData(IconData(0xeeb0, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData editOff = AshlarIconData(IconData(0xeeb1, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -2514,6 +2589,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData ellipse = AshlarIconData(IconData(0xe25d, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData ellipsis = AshlarIconData(IconData(0xe25e, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData ellipsisVertical = AshlarIconData(IconData(0xe25f, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData emailStamp = AshlarIconData(IconData(0xf8c8, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf8c8, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData emergencyBed = AshlarIconData(IconData(0xeeb6, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData empathize = AshlarIconData(IconData(0xeeb7, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData empathizeOff = AshlarIconData(IconData(0xeeb8, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -2527,6 +2603,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData equalNot = AshlarIconData(IconData(0xe264, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData eraser = AshlarIconData(IconData(0xe265, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData eraserOff = AshlarIconData(IconData(0xeebc, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData eraserSparkle = AshlarIconData(IconData(0xf8c9, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData error404 = AshlarIconData(IconData(0xeebd, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData error404Off = AshlarIconData(IconData(0xeebe, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData escalator = AshlarIconData(IconData(0xeebf, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -2540,6 +2617,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData exclamationCircle = AshlarIconData(IconData(0xeec4, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xeec4, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData exclamationMark = AshlarIconData(IconData(0xeec5, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData exclamationMarkOff = AshlarIconData(IconData(0xeec6, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData exerciseBall = AshlarIconData(IconData(0xf8ca, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf8ca, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData expand = AshlarIconData(IconData(0xe269, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData explicit = AshlarIconData(IconData(0xeec7, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xeec7, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData explicitOff = AshlarIconData(IconData(0xeec8, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -2577,6 +2655,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData eyeSearch = AshlarIconData(IconData(0xeee3, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData eyeShare = AshlarIconData(IconData(0xeee4, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData eyeSpark = AshlarIconData(IconData(0xeee5, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData eyeSparkle = AshlarIconData(IconData(0xf8cb, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf8cb, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData eyeStar = AshlarIconData(IconData(0xeee6, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData eyeTable = AshlarIconData(IconData(0xeee7, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xeee7, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData eyeUp = AshlarIconData(IconData(0xeee8, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -2620,6 +2699,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData fileBadge = AshlarIconData(IconData(0xe280, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData fileBarcode = AshlarIconData(IconData(0xeefd, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xeefd, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData fileBitcoin = AshlarIconData(IconData(0xeefe, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData fileBookmark = AshlarIconData(IconData(0xf8cc, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData fileBox = AshlarIconData(IconData(0xe281, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe281, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData fileBraces = AshlarIconData(IconData(0xe282, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe282, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData fileBracesCorner = AshlarIconData(IconData(0xe283, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -2633,6 +2713,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData fileCheck = AshlarIconData(IconData(0xe288, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe288, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData fileCheckCorner = AshlarIconData(IconData(0xe289, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData fileClock = AshlarIconData(IconData(0xe28a, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe28a, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData fileCloud = AshlarIconData(IconData(0xf8cd, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData fileCode = AshlarIconData(IconData(0xe28b, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe28b, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData fileCodeCorner = AshlarIconData(IconData(0xe28c, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData fileCog = AshlarIconData(IconData(0xe28d, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -2651,6 +2732,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData fileExcel = AshlarIconData(IconData(0xef0b, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xef0b, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData fileExclamationPoint = AshlarIconData(IconData(0xe291, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe291, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData fileExport = AshlarIconData(IconData(0xef0c, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData fileEye = AshlarIconData(IconData(0xf8ce, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf8ce, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData fileFunction = AshlarIconData(IconData(0xef0d, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xef0d, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData fileHeadphone = AshlarIconData(IconData(0xe292, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData fileHeart = AshlarIconData(IconData(0xe293, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -2666,6 +2748,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData fileLambda = AshlarIconData(IconData(0xef14, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xef14, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData fileLike = AshlarIconData(IconData(0xef15, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData fileLock = AshlarIconData(IconData(0xe297, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData fileLockOpen = AshlarIconData(IconData(0xf8cf, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData fileMinus = AshlarIconData(IconData(0xe298, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe298, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData fileMinusCorner = AshlarIconData(IconData(0xe299, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData fileMusic = AshlarIconData(IconData(0xe29a, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -2678,6 +2761,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData filePencil = AshlarIconData(IconData(0xef19, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xef19, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData filePercent = AshlarIconData(IconData(0xef1a, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xef1a, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData filePhone = AshlarIconData(IconData(0xef1b, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xef1b, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData filePin = AshlarIconData(IconData(0xf8d0, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf8d0, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData filePlay = AshlarIconData(IconData(0xe29e, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe29e, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData filePlus = AshlarIconData(IconData(0xe29f, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe29f, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData filePlusCorner = AshlarIconData(IconData(0xe2a0, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -2691,6 +2775,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData fileSearch = AshlarIconData(IconData(0xe2a3, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe2a3, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData fileSearchCorner = AshlarIconData(IconData(0xe2a4, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData fileSettings = AshlarIconData(IconData(0xef21, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xef21, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData fileShield = AshlarIconData(IconData(0xf8d1, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData fileShredder = AshlarIconData(IconData(0xef22, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xef22, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData fileSignal = AshlarIconData(IconData(0xe2a5, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe2a5, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData fileSliders = AshlarIconData(IconData(0xe2a6, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe2a6, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -2746,6 +2831,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData files = AshlarIconData(IconData(0xe2b4, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData filesOff = AshlarIconData(IconData(0xef47, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData film = AshlarIconData(IconData(0xe2b5, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe2b5, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData filmRoll = AshlarIconData(IconData(0xf8d2, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData filter2 = AshlarIconData(IconData(0xef48, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData filter2Bolt = AshlarIconData(IconData(0xef49, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData filter2Cancel = AshlarIconData(IconData(0xef4a, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -2852,14 +2938,18 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData flaskConicalOff = AshlarIconData(IconData(0xe2c6, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData flaskOff = AshlarIconData(IconData(0xef9f, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData flaskRound = AshlarIconData(IconData(0xe2c7, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe2c7, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData flaskSparkle = AshlarIconData(IconData(0xf8d3, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData flipFlops = AshlarIconData(IconData(0xefa0, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xefa0, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData floatCenter = AshlarIconData(IconData(0xefa1, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData floatLeft = AshlarIconData(IconData(0xefa2, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData floatNone = AshlarIconData(IconData(0xefa3, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData floatRight = AshlarIconData(IconData(0xefa4, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData flood = AshlarIconData(IconData(0xf8d4, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData floorPlan = AshlarIconData(IconData(0xf8d5, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf8d5, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData flower = AshlarIconData(IconData(0xe2c8, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe2c8, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData flower2 = AshlarIconData(IconData(0xe2c9, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData flowerOff = AshlarIconData(IconData(0xefa5, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData flowerPot = AshlarIconData(IconData(0xf8d6, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData focus = AshlarIconData(IconData(0xe2ca, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData focus2 = AshlarIconData(IconData(0xefa6, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xefa6, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData focusAuto = AshlarIconData(IconData(0xefa7, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -2870,6 +2960,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData foldUp = AshlarIconData(IconData(0xefab, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData foldVertical = AshlarIconData(IconData(0xe2cc, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData folder = AshlarIconData(IconData(0xe2cd, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData folderAi = AshlarIconData(IconData(0xf8d7, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData folderArchive = AshlarIconData(IconData(0xe2ce, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData folderBolt = AshlarIconData(IconData(0xefac, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData folderBookmark = AshlarIconData(IconData(0xe2cf, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe2cf, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -2877,12 +2968,14 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData folderCheck = AshlarIconData(IconData(0xe2d0, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe2d0, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData folderClock = AshlarIconData(IconData(0xe2d1, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe2d1, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData folderClosed = AshlarIconData(IconData(0xe2d2, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe2d2, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData folderCloud = AshlarIconData(IconData(0xf8d8, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData folderCode = AshlarIconData(IconData(0xe2d3, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe2d3, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData folderCog = AshlarIconData(IconData(0xe2d4, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData folderDollar = AshlarIconData(IconData(0xefae, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData folderDot = AshlarIconData(IconData(0xe2d5, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe2d5, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData folderDown = AshlarIconData(IconData(0xe2d6, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe2d6, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData folderExclamation = AshlarIconData(IconData(0xefaf, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData folderEye = AshlarIconData(IconData(0xf8d9, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf8d9, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData folderGit = AshlarIconData(IconData(0xe2d7, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe2d7, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData folderGit2 = AshlarIconData(IconData(0xe2d8, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData folderHeart = AshlarIconData(IconData(0xe2d9, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -2890,7 +2983,9 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData folderKanban = AshlarIconData(IconData(0xe2db, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe2db, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData folderKey = AshlarIconData(IconData(0xe2dc, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData folderLock = AshlarIconData(IconData(0xe2dd, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData folderLockOpen = AshlarIconData(IconData(0xf8da, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData folderMinus = AshlarIconData(IconData(0xe2de, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe2de, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData folderMusic = AshlarIconData(IconData(0xf8db, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData folderOff = AshlarIconData(IconData(0xefb0, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData folderOpen = AshlarIconData(IconData(0xe2df, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData folderOpenDot = AshlarIconData(IconData(0xe2e0, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -2904,15 +2999,21 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData folderSearch = AshlarIconData(IconData(0xe2e5, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData folderSearch2 = AshlarIconData(IconData(0xe2e6, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe2e6, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData folderShare = AshlarIconData(IconData(0xefb4, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData folderShield = AshlarIconData(IconData(0xf8dc, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData folderSparkle = AshlarIconData(IconData(0xf8dd, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData folderStar = AshlarIconData(IconData(0xefb5, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData folderStats = AshlarIconData(IconData(0xf8de, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData folderSymlink = AshlarIconData(IconData(0xe2e7, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData folderSync = AshlarIconData(IconData(0xe2e8, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData folderTree = AshlarIconData(IconData(0xe2e9, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData folderUp = AshlarIconData(IconData(0xe2ea, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe2ea, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData folderUser = AshlarIconData(IconData(0xf8df, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData folderVideo = AshlarIconData(IconData(0xf8e0, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData folderX = AshlarIconData(IconData(0xe2eb, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe2eb, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData folders = AshlarIconData(IconData(0xe2ec, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData foldersOff = AshlarIconData(IconData(0xefb6, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData footprints = AshlarIconData(IconData(0xe2ed, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe2ed, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData footsteps = AshlarIconData(IconData(0xf8e1, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData forbid = AshlarIconData(IconData(0xefb7, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xefb7, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData forbid2 = AshlarIconData(IconData(0xefb8, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xefb8, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData forklift = AshlarIconData(IconData(0xe2ee, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -2927,6 +3028,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData freezeColumn = AshlarIconData(IconData(0xefbe, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xefbe, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData freezeRow = AshlarIconData(IconData(0xefbf, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xefbf, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData freezeRowColumn = AshlarIconData(IconData(0xefc0, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xefc0, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData frenchFries = AshlarIconData(IconData(0xf8e2, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData fridge = AshlarIconData(IconData(0xefc1, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xefc1, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData fridgeOff = AshlarIconData(IconData(0xefc2, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData friends = AshlarIconData(IconData(0xefc3, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -2934,6 +3036,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData frustum = AshlarIconData(IconData(0xefc5, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xefc5, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData frustumOff = AshlarIconData(IconData(0xefc6, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData frustumPlus = AshlarIconData(IconData(0xefc7, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData fryingPan = AshlarIconData(IconData(0xf8e3, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData fuel = AshlarIconData(IconData(0xe2f2, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe2f2, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData fullscreen = AshlarIconData(IconData(0xe2f3, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData function = AshlarIconData(IconData(0xefc8, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xefc8, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -2952,6 +3055,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData gamepadDirectional = AshlarIconData(IconData(0xe2ff, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData gapHorizontal = AshlarIconData(IconData(0xe300, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData gapVertical = AshlarIconData(IconData(0xe301, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData garbageTruck = AshlarIconData(IconData(0xf8e4, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData gardenCart = AshlarIconData(IconData(0xefca, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData gardenCartOff = AshlarIconData(IconData(0xefcb, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData gasStation = AshlarIconData(IconData(0xefcc, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xefcc, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -2977,7 +3081,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData genderNeutrois = AshlarIconData(IconData(0xefdd, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData genderThird = AshlarIconData(IconData(0xefde, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData genderTransgender = AshlarIconData(IconData(0xefdf, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
-  static const AshlarIconData genderTrasvesti = AshlarIconData(IconData(0xefe0, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData genderTravesti = AshlarIconData(IconData(0xf8e5, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData geometry = AshlarIconData(IconData(0xefe1, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData georgianLari = AshlarIconData(IconData(0xe305, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData germ = AshlarIconData(IconData(0xe306, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe306, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -2991,9 +3095,11 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData giftCard = AshlarIconData(IconData(0xefe6, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xefe6, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData giftOff = AshlarIconData(IconData(0xefe7, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData gitBranch = AshlarIconData(IconData(0xe30a, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData gitBranchCheck = AshlarIconData(IconData(0xf8e6, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData gitBranchDeleted = AshlarIconData(IconData(0xefe8, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData gitBranchMinus = AshlarIconData(IconData(0xe30b, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData gitBranchPlus = AshlarIconData(IconData(0xe30c, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData gitBranchX = AshlarIconData(IconData(0xf8e7, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData gitCherryPick = AshlarIconData(IconData(0xefe9, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData gitCommitHorizontal = AshlarIconData(IconData(0xe30d, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData gitCommitVertical = AshlarIconData(IconData(0xe30e, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -3003,12 +3109,16 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData gitGraph = AshlarIconData(IconData(0xe312, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData gitMerge = AshlarIconData(IconData(0xe313, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData gitMergeConflict = AshlarIconData(IconData(0xe314, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData gitMergeQueue = AshlarIconData(IconData(0xf8e8, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData gitPullRequest = AshlarIconData(IconData(0xe315, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData gitPullRequestArrow = AshlarIconData(IconData(0xe316, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData gitPullRequestClosed = AshlarIconData(IconData(0xe317, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData gitPullRequestConflict = AshlarIconData(IconData(0xf8e9, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData gitPullRequestCreate = AshlarIconData(IconData(0xe318, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData gitPullRequestCreateArrow = AshlarIconData(IconData(0xe319, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData gitPullRequestDraft = AshlarIconData(IconData(0xe31a, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData gitPullRequestLocked = AshlarIconData(IconData(0xf8ea, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData gitPullRequestUnlisted = AshlarIconData(IconData(0xf8eb, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData gizmo = AshlarIconData(IconData(0xefea, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData glass = AshlarIconData(IconData(0xefeb, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData glassChampagne = AshlarIconData(IconData(0xefec, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -3026,12 +3136,15 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData globeX = AshlarIconData(IconData(0xe322, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData goGame = AshlarIconData(IconData(0xeff1, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData goal = AshlarIconData(IconData(0xe323, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData goldBars = AshlarIconData(IconData(0xf8ec, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData golf = AshlarIconData(IconData(0xeff2, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData golfOff = AshlarIconData(IconData(0xeff3, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData gps = AshlarIconData(IconData(0xeff4, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xeff4, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData gpu = AshlarIconData(IconData(0xe324, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe324, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData gpu2 = AshlarIconData(IconData(0xf8ed, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf8ed, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData gradienter = AshlarIconData(IconData(0xeff5, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData graduationCap = AshlarIconData(IconData(0xe325, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData graduationCapSparkle = AshlarIconData(IconData(0xf8ee, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData grain = AshlarIconData(IconData(0xeff6, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData grape = AshlarIconData(IconData(0xe326, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData graph = AshlarIconData(IconData(0xeff7, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xeff7, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -3061,6 +3174,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData growth = AshlarIconData(IconData(0xf004, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData guitar = AshlarIconData(IconData(0xe332, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe332, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData guitarPick = AshlarIconData(IconData(0xf005, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData gymnasticRings = AshlarIconData(IconData(0xf8ef, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData gymnastics = AshlarIconData(IconData(0xf006, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData h1 = AshlarIconData(IconData(0xf007, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData h2 = AshlarIconData(IconData(0xf008, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -3068,9 +3182,11 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData h4 = AshlarIconData(IconData(0xf00a, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData h5 = AshlarIconData(IconData(0xf00b, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData h6 = AshlarIconData(IconData(0xf00c, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData hairDryer = AshlarIconData(IconData(0xf8f0, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf8f0, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData ham = AshlarIconData(IconData(0xe333, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe333, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData hamburger = AshlarIconData(IconData(0xe334, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData hammer = AshlarIconData(IconData(0xe335, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData hammerDrill = AshlarIconData(IconData(0xf8f1, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData hammerOff = AshlarIconData(IconData(0xf00d, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData hand = AshlarIconData(IconData(0xe336, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData handClick = AshlarIconData(IconData(0xf00e, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -3098,6 +3214,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData handThreeFingers = AshlarIconData(IconData(0xf01d, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData handTwoFingers = AshlarIconData(IconData(0xf01e, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData handbag = AshlarIconData(IconData(0xe33e, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData handleBottomRight = AshlarIconData(IconData(0xf8f2, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData handshake = AshlarIconData(IconData(0xe33f, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData hanger = AshlarIconData(IconData(0xf01f, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData hanger2 = AshlarIconData(IconData(0xf020, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -3268,6 +3385,8 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData homeStats = AshlarIconData(IconData(0xf0a5, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData homeUp = AshlarIconData(IconData(0xf0a6, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData homeX = AshlarIconData(IconData(0xf0a7, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData honeyJar = AshlarIconData(IconData(0xf8f3, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf8f3, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData hoodie = AshlarIconData(IconData(0xf8f4, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData hop = AshlarIconData(IconData(0xe360, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData hopOff = AshlarIconData(IconData(0xe361, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData horse = AshlarIconData(IconData(0xf0a8, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -3275,6 +3394,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData horseshoe = AshlarIconData(IconData(0xf0aa, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData hospital = AshlarIconData(IconData(0xe362, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe362, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData hospitalCircle = AshlarIconData(IconData(0xf0ab, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf0ab, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData hotdog = AshlarIconData(IconData(0xf8f5, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData hotel = AshlarIconData(IconData(0xe363, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe363, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData hotelService = AshlarIconData(IconData(0xf0ac, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData hourglass = AshlarIconData(IconData(0xe364, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -3313,6 +3433,9 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData httpQueOff = AshlarIconData(IconData(0xf0c5, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData httpTrace = AshlarIconData(IconData(0xf0c6, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData httpTraceOff = AshlarIconData(IconData(0xf0c7, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData hulaHoop = AshlarIconData(IconData(0xf8f6, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData hut = AshlarIconData(IconData(0xf8f7, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData hyperbola = AshlarIconData(IconData(0xf8f8, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData iceCreamBowl = AshlarIconData(IconData(0xe36d, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData iceCreamCone = AshlarIconData(IconData(0xe36e, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData iceCreamOff = AshlarIconData(IconData(0xf0c8, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -3320,14 +3443,16 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData iceberg = AshlarIconData(IconData(0xf0ca, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData icons = AshlarIconData(IconData(0xf0cb, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData iconsOff = AshlarIconData(IconData(0xf0cc, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData icosahedron = AshlarIconData(IconData(0xf8f9, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf8f9, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData id = AshlarIconData(IconData(0xf0cd, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf0cd, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData idBadge = AshlarIconData(IconData(0xf0ce, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf0ce, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData idBadge2 = AshlarIconData(IconData(0xf0cf, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData idBadgeOff = AshlarIconData(IconData(0xf0d0, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData idCard = AshlarIconData(IconData(0xe36f, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe36f, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData idCardCheck = AshlarIconData(IconData(0xf8fa, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData idCardLanyard = AshlarIconData(IconData(0xe370, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData idCardX = AshlarIconData(IconData(0xf8fb, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData idOff = AshlarIconData(IconData(0xf0d1, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
-  static const AshlarIconData ikosaedr = AshlarIconData(IconData(0xf0d2, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf0d2, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData image = AshlarIconData(IconData(0xe371, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe371, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData imageDown = AshlarIconData(IconData(0xe372, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe372, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData imageGeneration = AshlarIconData(IconData(0xf0d3, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -3341,9 +3466,13 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData images = AshlarIconData(IconData(0xe379, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe379, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData importIcon = AshlarIconData(IconData(0xe37a, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe37a, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData inbox = AshlarIconData(IconData(0xe37b, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe37b, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData inboxArrowDown = AshlarIconData(IconData(0xf8fc, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData inboxArrowUp = AshlarIconData(IconData(0xf8fd, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData inboxCheck = AshlarIconData(IconData(0xf8fe, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData inboxOff = AshlarIconData(IconData(0xf0d5, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData indianRupee = AshlarIconData(IconData(0xe37c, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData infinity = AshlarIconData(IconData(0xe37d, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData infinity2 = AshlarIconData(IconData(0xf8ff, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData infinityOff = AshlarIconData(IconData(0xf0d6, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData info = AshlarIconData(IconData(0xe37e, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe37e, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData infoCircle = AshlarIconData(IconData(0xf0d7, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf0d7, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -3379,6 +3508,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData irregularPolyhedronOff = AshlarIconData(IconData(0xf0f4, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData irregularPolyhedronPlus = AshlarIconData(IconData(0xf0f5, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData italic = AshlarIconData(IconData(0xe380, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData italicOff = AshlarIconData(IconData(0xf0000, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData iterationCcw = AshlarIconData(IconData(0xe381, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData iterationCw = AshlarIconData(IconData(0xe382, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData ivBag = AshlarIconData(IconData(0xe383, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe383, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -3400,6 +3530,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData kayak = AshlarIconData(IconData(0xe387, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData kazakhTenge = AshlarIconData(IconData(0xe388, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData kerning = AshlarIconData(IconData(0xf102, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf102, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData kettlebell = AshlarIconData(IconData(0xf0001, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData key = AshlarIconData(IconData(0xe389, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData keyOff = AshlarIconData(IconData(0xf103, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData keyRound = AshlarIconData(IconData(0xe38a, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe38a, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -3414,6 +3545,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData keyframeAlignHorizontal = AshlarIconData(IconData(0xf108, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData keyframeAlignVertical = AshlarIconData(IconData(0xf109, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData keyframes = AshlarIconData(IconData(0xf10a, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData kidneys = AshlarIconData(IconData(0xf0002, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData label = AshlarIconData(IconData(0xf10b, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData labelImportant = AshlarIconData(IconData(0xf10c, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData labelOff = AshlarIconData(IconData(0xf10d, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -3437,9 +3569,11 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData languageKatakana = AshlarIconData(IconData(0xf116, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData languageOff = AshlarIconData(IconData(0xf117, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData languages = AshlarIconData(IconData(0xe398, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData lantern = AshlarIconData(IconData(0xf0003, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf0003, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData laptop = AshlarIconData(IconData(0xe399, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe399, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData laptopMinimal = AshlarIconData(IconData(0xe39a, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData laptopMinimalCheck = AshlarIconData(IconData(0xe39b, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe39b, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData laptopSparkle = AshlarIconData(IconData(0xf0004, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf0004, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData lasso = AshlarIconData(IconData(0xe39c, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData lassoOff = AshlarIconData(IconData(0xf118, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData lassoPolygon = AshlarIconData(IconData(0xf119, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -3448,6 +3582,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData laurelWreath1 = AshlarIconData(IconData(0xf11b, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData laurelWreath2 = AshlarIconData(IconData(0xf11c, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData laurelWreath3 = AshlarIconData(IconData(0xf11d, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData lawnMower = AshlarIconData(IconData(0xf0005, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData layerArrowDown = AshlarIconData(IconData(0xe39e, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData layerArrowUp = AshlarIconData(IconData(0xe39f, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData layers = AshlarIconData(IconData(0xe3a0, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -3509,9 +3644,11 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData layoutSidebarRightCollapse = AshlarIconData(IconData(0xf147, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf147, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData layoutSidebarRightExpand = AshlarIconData(IconData(0xf148, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf148, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData layoutSidebarRightInactive = AshlarIconData(IconData(0xf149, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf149, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData layoutSparkle = AshlarIconData(IconData(0xf0006, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf0006, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData layoutTemplate = AshlarIconData(IconData(0xe3af, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData leaf = AshlarIconData(IconData(0xe3b0, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData leaf2 = AshlarIconData(IconData(0xf14a, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData leafMaple = AshlarIconData(IconData(0xf0007, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData leafOff = AshlarIconData(IconData(0xf14b, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData leafyGreen = AshlarIconData(IconData(0xe3b1, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe3b1, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData lectern = AshlarIconData(IconData(0xe3b2, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -3519,6 +3656,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData legoOff = AshlarIconData(IconData(0xf14d, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData lemon = AshlarIconData(IconData(0xf14e, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf14e, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData lemon2 = AshlarIconData(IconData(0xf14f, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData lens = AshlarIconData(IconData(0xf0008, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf0008, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData lensConcave = AshlarIconData(IconData(0xe3b3, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData lensConvex = AshlarIconData(IconData(0xe3b4, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData letterA = AshlarIconData(IconData(0xf150, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf150, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -3592,6 +3730,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData ligature = AshlarIconData(IconData(0xe3b9, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData lightbulb = AshlarIconData(IconData(0xe3ba, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData lightbulbOff = AshlarIconData(IconData(0xe3bb, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData lightbulbSparkle = AshlarIconData(IconData(0xf0009, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf0009, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData lighter = AshlarIconData(IconData(0xf190, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData lighthouse = AshlarIconData(IconData(0xe3bc, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData line = AshlarIconData(IconData(0xf191, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -3645,6 +3784,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData loadBalancer = AshlarIconData(IconData(0xf1a0, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData loader = AshlarIconData(IconData(0xe3de, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData loader3 = AshlarIconData(IconData(0xf1a1, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData loader4 = AshlarIconData(IconData(0xf000a, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData loaderCircle = AshlarIconData(IconData(0xe3df, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData loaderPinwheel = AshlarIconData(IconData(0xe3e0, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe3e0, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData loaderQuarter = AshlarIconData(IconData(0xf1a2, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -3701,6 +3841,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData lockQuestion = AshlarIconData(IconData(0xf1ce, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData lockSearch = AshlarIconData(IconData(0xf1cf, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData lockShare = AshlarIconData(IconData(0xf1d0, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData lockSparkle = AshlarIconData(IconData(0xf000b, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf000b, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData lockSquare = AshlarIconData(IconData(0xf1d1, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf1d1, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData lockSquareRounded = AshlarIconData(IconData(0xf1d2, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf1d2, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData lockStar = AshlarIconData(IconData(0xf1d3, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -3723,6 +3864,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData logs = AshlarIconData(IconData(0xe3ea, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData lollipop = AshlarIconData(IconData(0xe3eb, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe3eb, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData lollipopOff = AshlarIconData(IconData(0xf1e2, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData loyaltyCard = AshlarIconData(IconData(0xf000c, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf000c, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData luggage = AshlarIconData(IconData(0xe3ec, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData luggageOff = AshlarIconData(IconData(0xf1e3, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData lungs = AshlarIconData(IconData(0xf1e4, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -3743,11 +3885,14 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData mailCode = AshlarIconData(IconData(0xf1ee, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData mailCog = AshlarIconData(IconData(0xf1ef, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData mailDollar = AshlarIconData(IconData(0xf1f0, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData mailDot = AshlarIconData(IconData(0xf000d, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData mailDown = AshlarIconData(IconData(0xf1f1, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData mailExclamation = AshlarIconData(IconData(0xf1f2, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData mailFast = AshlarIconData(IconData(0xf1f3, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf1f3, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData mailForward = AshlarIconData(IconData(0xf1f4, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData mailHeart = AshlarIconData(IconData(0xf1f5, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData mailLock = AshlarIconData(IconData(0xf000e, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData mailLockOpen = AshlarIconData(IconData(0xf000f, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData mailMinus = AshlarIconData(IconData(0xe3f2, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData mailOff = AshlarIconData(IconData(0xf1f6, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData mailOpen = AshlarIconData(IconData(0xe3f3, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe3f3, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -3757,8 +3902,10 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData mailPin = AshlarIconData(IconData(0xf1f9, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf1f9, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData mailPlus = AshlarIconData(IconData(0xe3f5, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData mailQuestionMark = AshlarIconData(IconData(0xe3f6, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData mailReply = AshlarIconData(IconData(0xf0010, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData mailSearch = AshlarIconData(IconData(0xe3f7, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe3f7, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData mailShare = AshlarIconData(IconData(0xf1fa, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData mailShield = AshlarIconData(IconData(0xf0011, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData mailSpark = AshlarIconData(IconData(0xf1fb, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData mailStar = AshlarIconData(IconData(0xf1fc, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData mailUp = AshlarIconData(IconData(0xf1fd, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -3884,6 +4031,8 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData maximize = AshlarIconData(IconData(0xe410, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData maximize2 = AshlarIconData(IconData(0xe411, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData maximizeOff = AshlarIconData(IconData(0xf25d, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData maximizeSparkle = AshlarIconData(IconData(0xf0012, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData maze = AshlarIconData(IconData(0xf0013, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf0013, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData meat = AshlarIconData(IconData(0xf25e, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf25e, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData meatOff = AshlarIconData(IconData(0xf25f, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf25f, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData medal = AshlarIconData(IconData(0xe412, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe412, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -3896,6 +4045,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData megaphone = AshlarIconData(IconData(0xe413, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe413, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData megaphoneOff = AshlarIconData(IconData(0xe414, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData melon = AshlarIconData(IconData(0xf266, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData memory = AshlarIconData(IconData(0xf0014, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf0014, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData memoryStick = AshlarIconData(IconData(0xe415, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe415, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData menorah = AshlarIconData(IconData(0xf267, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf267, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData menu = AshlarIconData(IconData(0xe416, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -3908,6 +4058,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData mesh = AshlarIconData(IconData(0xf26d, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf26d, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData message = AshlarIconData(IconData(0xf26e, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf26e, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData message2 = AshlarIconData(IconData(0xf26f, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf26f, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData message2Ai = AshlarIconData(IconData(0xf0015, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData message2Bolt = AshlarIconData(IconData(0xf270, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData message2Cancel = AshlarIconData(IconData(0xf271, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf271, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData message2Check = AshlarIconData(IconData(0xf272, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -3925,9 +4076,11 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData message2Question = AshlarIconData(IconData(0xf27e, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData message2Search = AshlarIconData(IconData(0xf27f, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData message2Share = AshlarIconData(IconData(0xf280, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData message2Sparkle = AshlarIconData(IconData(0xf0016, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData message2Star = AshlarIconData(IconData(0xf281, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData message2Up = AshlarIconData(IconData(0xf282, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData message2X = AshlarIconData(IconData(0xf283, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData messageAi = AshlarIconData(IconData(0xf0017, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData messageBolt = AshlarIconData(IconData(0xf284, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData messageCancel = AshlarIconData(IconData(0xf285, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf285, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData messageChatbot = AshlarIconData(IconData(0xf286, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf286, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -3959,6 +4112,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData messageCircleUser = AshlarIconData(IconData(0xf295, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData messageCircleWarning = AshlarIconData(IconData(0xe423, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe423, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData messageCircleX = AshlarIconData(IconData(0xe424, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe424, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData messageClock = AshlarIconData(IconData(0xf0018, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf0018, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData messageCode = AshlarIconData(IconData(0xf296, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData messageCog = AshlarIconData(IconData(0xf297, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData messageDollar = AshlarIconData(IconData(0xf298, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -3968,6 +4122,8 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData messageForward = AshlarIconData(IconData(0xf29c, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf29c, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData messageHeart = AshlarIconData(IconData(0xf29d, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData messageLanguage = AshlarIconData(IconData(0xf29e, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf29e, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData messageLock = AshlarIconData(IconData(0xf0019, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData messageLockOpen = AshlarIconData(IconData(0xf001a, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData messageMinus = AshlarIconData(IconData(0xf29f, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData messageOff = AshlarIconData(IconData(0xf2a0, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData messagePause = AshlarIconData(IconData(0xf2a1, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -3978,6 +4134,8 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData messageReport = AshlarIconData(IconData(0xf2a6, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf2a6, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData messageSearch = AshlarIconData(IconData(0xf2a7, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData messageShare = AshlarIconData(IconData(0xf2a8, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData messageShield = AshlarIconData(IconData(0xf001b, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData messageSparkle = AshlarIconData(IconData(0xf001c, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData messageSquare = AshlarIconData(IconData(0xe425, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData messageSquareCheck = AshlarIconData(IconData(0xe426, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe426, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData messageSquareCode = AshlarIconData(IconData(0xe427, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe427, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -4012,6 +4170,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData micAudioLines = AshlarIconData(IconData(0xe43a, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData micOff = AshlarIconData(IconData(0xe43b, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData micSignal = AshlarIconData(IconData(0xe43c, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData micSparkle = AshlarIconData(IconData(0xf001d, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData micVocal = AshlarIconData(IconData(0xe43d, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData michelinBibGourmand = AshlarIconData(IconData(0xf2b3, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf2b3, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData michelinStar = AshlarIconData(IconData(0xf2b4, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -4033,8 +4192,10 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData militaryAward = AshlarIconData(IconData(0xf2bf, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData militaryRank = AshlarIconData(IconData(0xf2c0, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf2c0, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData milk = AshlarIconData(IconData(0xe443, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe443, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData milkCarton = AshlarIconData(IconData(0xf001e, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf001e, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData milkOff = AshlarIconData(IconData(0xe444, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData milkshake = AshlarIconData(IconData(0xf2c1, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData minibus = AshlarIconData(IconData(0xf001f, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData minimize = AshlarIconData(IconData(0xe445, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData minimize2 = AshlarIconData(IconData(0xe446, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData minus = AshlarIconData(IconData(0xe447, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -4045,6 +4206,8 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData mistOff = AshlarIconData(IconData(0xf2c4, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData mobiledata = AshlarIconData(IconData(0xf2c5, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData mobiledataOff = AshlarIconData(IconData(0xf2c6, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData modelAi = AshlarIconData(IconData(0xf0020, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData molecule = AshlarIconData(IconData(0xf0021, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData moneybag = AshlarIconData(IconData(0xf2c7, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData moneybagEdit = AshlarIconData(IconData(0xf2c8, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData moneybagHeart = AshlarIconData(IconData(0xf2c9, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -4063,11 +4226,13 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData monitorPc = AshlarIconData(IconData(0xe452, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe452, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData monitorPlay = AshlarIconData(IconData(0xe453, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe453, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData monitorSmartphone = AshlarIconData(IconData(0xe454, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData monitorSparkle = AshlarIconData(IconData(0xf0022, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf0022, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData monitorSpeaker = AshlarIconData(IconData(0xe455, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe455, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData monitorStop = AshlarIconData(IconData(0xe456, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe456, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData monitorUp = AshlarIconData(IconData(0xe457, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe457, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData monitorX = AshlarIconData(IconData(0xe458, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe458, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData monkeybar = AshlarIconData(IconData(0xf2ce, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf2ce, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData moodAngel = AshlarIconData(IconData(0xf0023, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf0023, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData moodAngry = AshlarIconData(IconData(0xf2cf, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf2cf, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData moodAnnoyed = AshlarIconData(IconData(0xf2d0, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf2d0, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData moodAnnoyed2 = AshlarIconData(IconData(0xf2d1, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf2d1, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -4075,7 +4240,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData moodBoy = AshlarIconData(IconData(0xf2d3, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData moodCheck = AshlarIconData(IconData(0xf2d4, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData moodCog = AshlarIconData(IconData(0xf2d5, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
-  static const AshlarIconData moodConfuzed = AshlarIconData(IconData(0xf2d6, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf2d6, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData moodConfused = AshlarIconData(IconData(0xf0024, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf0024, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData moodCrazyHappy = AshlarIconData(IconData(0xf2d7, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf2d7, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData moodCry = AshlarIconData(IconData(0xf2d8, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData moodDollar = AshlarIconData(IconData(0xf2d9, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -4109,6 +4274,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData moodSmileBeam = AshlarIconData(IconData(0xf2f5, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf2f5, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData moodSmileDizzy = AshlarIconData(IconData(0xf2f6, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf2f6, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData moodSpark = AshlarIconData(IconData(0xf2f7, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData moodSparkle = AshlarIconData(IconData(0xf0025, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData moodSurprised = AshlarIconData(IconData(0xf2f8, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf2f8, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData moodTongue = AshlarIconData(IconData(0xf2f9, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf2f9, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData moodTongueWink = AshlarIconData(IconData(0xf2fa, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf2fa, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -4224,6 +4390,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData navigationUp = AshlarIconData(IconData(0xf33f, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData navigationWest = AshlarIconData(IconData(0xf340, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData navigationX = AshlarIconData(IconData(0xf341, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData necklace = AshlarIconData(IconData(0xf0026, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData needle = AshlarIconData(IconData(0xf342, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf342, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData needleThread = AshlarIconData(IconData(0xf343, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf343, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData nepaliRupee = AshlarIconData(IconData(0xe482, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -4238,8 +4405,10 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData noCopyright = AshlarIconData(IconData(0xf349, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf349, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData noCreativeCommons = AshlarIconData(IconData(0xf34a, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf34a, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData noDerivatives = AshlarIconData(IconData(0xf34b, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf34b, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData noiseReduction = AshlarIconData(IconData(0xf0027, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf0027, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData nonBinary = AshlarIconData(IconData(0xe486, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData northStar = AshlarIconData(IconData(0xf34c, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData notdef = AshlarIconData(IconData(0xf0028, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf0028, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData note = AshlarIconData(IconData(0xf34d, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf34d, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData noteOff = AshlarIconData(IconData(0xf34e, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData notebook = AshlarIconData(IconData(0xe487, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe487, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -4386,6 +4555,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData octahedron = AshlarIconData(IconData(0xf3ce, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf3ce, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData octahedronOff = AshlarIconData(IconData(0xf3cf, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData octahedronPlus = AshlarIconData(IconData(0xf3d0, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData octopus = AshlarIconData(IconData(0xf0029, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf0029, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData old = AshlarIconData(IconData(0xf3d1, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData olympicTorch = AshlarIconData(IconData(0xf3d2, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData olympics = AshlarIconData(IconData(0xf3d3, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -4394,15 +4564,19 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData omega = AshlarIconData(IconData(0xe495, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData option = AshlarIconData(IconData(0xe496, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData orbit = AshlarIconData(IconData(0xe497, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData orbitVertical = AshlarIconData(IconData(0xf002a, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData orbits = AshlarIconData(IconData(0xf002b, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData origami = AshlarIconData(IconData(0xe498, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData outbound = AshlarIconData(IconData(0xf3d6, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf3d6, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData outlet = AshlarIconData(IconData(0xf3d7, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf3d7, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData oval = AshlarIconData(IconData(0xf3d8, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData ovalVertical = AshlarIconData(IconData(0xf3d9, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData ovenMitt = AshlarIconData(IconData(0xf002c, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData overline = AshlarIconData(IconData(0xf3da, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData package = AshlarIconData(IconData(0xe499, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe499, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData package2 = AshlarIconData(IconData(0xe49a, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe49a, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData packageCheck = AshlarIconData(IconData(0xe49b, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData packageClock = AshlarIconData(IconData(0xf002d, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf002d, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData packageExport = AshlarIconData(IconData(0xf3db, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData packageImport = AshlarIconData(IconData(0xf3dc, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData packageMinus = AshlarIconData(IconData(0xe49c, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -4451,8 +4625,10 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData paperBag = AshlarIconData(IconData(0xe4bc, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData paperBagOff = AshlarIconData(IconData(0xf3e8, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData paperclip = AshlarIconData(IconData(0xe4bd, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData parabola = AshlarIconData(IconData(0xf002e, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData parachute = AshlarIconData(IconData(0xf3e9, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf3e9, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData parachuteOff = AshlarIconData(IconData(0xf3ea, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData parallelogram = AshlarIconData(IconData(0xf002f, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData parasol = AshlarIconData(IconData(0xe4be, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData parentheses = AshlarIconData(IconData(0xe4bf, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData parenthesesOff = AshlarIconData(IconData(0xf3eb, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -4478,6 +4654,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData penOff = AshlarIconData(IconData(0xe4c8, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData penTool = AshlarIconData(IconData(0xe4c9, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData pencil = AshlarIconData(IconData(0xe4ca, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe4ca, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData pencilAi = AshlarIconData(IconData(0xf0030, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData pencilBolt = AshlarIconData(IconData(0xf3f7, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf3f7, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData pencilCancel = AshlarIconData(IconData(0xf3f8, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf3f8, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData pencilCheck = AshlarIconData(IconData(0xf3f9, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf3f9, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -4502,6 +4679,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData pencilStar = AshlarIconData(IconData(0xf408, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData pencilUp = AshlarIconData(IconData(0xf409, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf409, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData pencilX = AshlarIconData(IconData(0xf40a, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf40a, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData pendulum = AshlarIconData(IconData(0xf0031, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData pennant = AshlarIconData(IconData(0xf40b, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData pennant2 = AshlarIconData(IconData(0xf40c, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData pennantOff = AshlarIconData(IconData(0xf40d, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -4554,6 +4732,8 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData phoneEnd = AshlarIconData(IconData(0xf435, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData phoneForwarded = AshlarIconData(IconData(0xe4d6, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData phoneIncoming = AshlarIconData(IconData(0xe4d7, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData phoneLock = AshlarIconData(IconData(0xf0032, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData phoneLog = AshlarIconData(IconData(0xf0033, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData phoneMissed = AshlarIconData(IconData(0xe4d8, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData phoneOff = AshlarIconData(IconData(0xe4d9, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData phoneOutgoing = AshlarIconData(IconData(0xe4da, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -4564,6 +4744,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData phoneX = AshlarIconData(IconData(0xf43a, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData photo = AshlarIconData(IconData(0xf43b, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf43b, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData photoAi = AshlarIconData(IconData(0xf43c, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData photoAlt = AshlarIconData(IconData(0xf0034, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf0034, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData photoBitcoin = AshlarIconData(IconData(0xf43d, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData photoBolt = AshlarIconData(IconData(0xf43e, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData photoCancel = AshlarIconData(IconData(0xf43f, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf43f, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -4594,16 +4775,18 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData photoShare = AshlarIconData(IconData(0xf458, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData photoShield = AshlarIconData(IconData(0xf459, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData photoSpark = AshlarIconData(IconData(0xf45a, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData photoSparkle = AshlarIconData(IconData(0xf0035, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf0035, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData photoSquareRounded = AshlarIconData(IconData(0xf45b, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf45b, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData photoStar = AshlarIconData(IconData(0xf45c, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData photoUp = AshlarIconData(IconData(0xf45d, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData photoVideo = AshlarIconData(IconData(0xf45e, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf45e, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData photoX = AshlarIconData(IconData(0xf45f, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
-  static const AshlarIconData physotherapist = AshlarIconData(IconData(0xf460, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData physiotherapist = AshlarIconData(IconData(0xf0036, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData pi = AshlarIconData(IconData(0xe4db, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData piano = AshlarIconData(IconData(0xe4dc, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe4dc, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData pick = AshlarIconData(IconData(0xf461, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData pickaxe = AshlarIconData(IconData(0xe4dd, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData pickupTruck = AshlarIconData(IconData(0xf0037, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData picnicTable = AshlarIconData(IconData(0xf462, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData pictureInPicture = AshlarIconData(IconData(0xe4de, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData pictureInPicture2 = AshlarIconData(IconData(0xe4df, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -4632,6 +4815,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData pipeline = AshlarIconData(IconData(0xf471, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData pipette = AshlarIconData(IconData(0xe4e8, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData pizza = AshlarIconData(IconData(0xe4e9, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe4e9, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData pizzaCutter = AshlarIconData(IconData(0xf0038, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf0038, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData pizzaOff = AshlarIconData(IconData(0xf472, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData placeholder = AshlarIconData(IconData(0xf473, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData plane = AshlarIconData(IconData(0xe4ea, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -4651,6 +4835,8 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData plantPot = AshlarIconData(IconData(0xe4ed, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData play = AshlarIconData(IconData(0xe4ee, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData playBasketball = AshlarIconData(IconData(0xf47f, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData playBug = AshlarIconData(IconData(0xf0039, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData playBugs = AshlarIconData(IconData(0xf003a, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData playCard = AshlarIconData(IconData(0xf480, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf480, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData playCard1 = AshlarIconData(IconData(0xf481, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf481, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData playCard10 = AshlarIconData(IconData(0xf482, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf482, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -4699,6 +4885,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData plugOff = AshlarIconData(IconData(0xf4a7, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData plugX = AshlarIconData(IconData(0xf4a8, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData plugZap = AshlarIconData(IconData(0xe4f5, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData plunger = AshlarIconData(IconData(0xf003b, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData plus = AshlarIconData(IconData(0xe4f6, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData plusEqual = AshlarIconData(IconData(0xf4a9, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData plusMinus = AshlarIconData(IconData(0xf4aa, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -4709,11 +4896,14 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData point = AshlarIconData(IconData(0xf4ad, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData pointOff = AshlarIconData(IconData(0xf4ae, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData pointer = AshlarIconData(IconData(0xe4f9, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData pointer2 = AshlarIconData(IconData(0xf003c, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData pointerBolt = AshlarIconData(IconData(0xf4af, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData pointerCancel = AshlarIconData(IconData(0xf4b0, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf4b0, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData pointerCheck = AshlarIconData(IconData(0xf4b1, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData pointerCode = AshlarIconData(IconData(0xf4b2, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData pointerCog = AshlarIconData(IconData(0xf4b3, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData pointerCollaboration = AshlarIconData(IconData(0xf003d, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData pointerCollaboration2 = AshlarIconData(IconData(0xf003e, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData pointerDollar = AshlarIconData(IconData(0xf4b4, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData pointerDown = AshlarIconData(IconData(0xf4b5, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData pointerExclamation = AshlarIconData(IconData(0xf4b6, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -4733,6 +4923,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData pokeballOff = AshlarIconData(IconData(0xf4c3, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData pokerChip = AshlarIconData(IconData(0xf4c4, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf4c4, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData polaroid = AshlarIconData(IconData(0xf4c5, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf4c5, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData policeCar = AshlarIconData(IconData(0xf003f, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData polygon = AshlarIconData(IconData(0xf4c6, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData polygonOff = AshlarIconData(IconData(0xf4c7, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData poo = AshlarIconData(IconData(0xf4c8, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf4c8, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -4744,6 +4935,8 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData power = AshlarIconData(IconData(0xe4fe, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData powerOff = AshlarIconData(IconData(0xe4ff, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData pray = AshlarIconData(IconData(0xf4cb, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData prayerBeads = AshlarIconData(IconData(0xf0040, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData prayerRug = AshlarIconData(IconData(0xf0041, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf0041, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData premiumRights = AshlarIconData(IconData(0xf4cc, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf4cc, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData prescription = AshlarIconData(IconData(0xf4cd, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData presentation = AshlarIconData(IconData(0xe500, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -4774,6 +4967,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData proportions = AshlarIconData(IconData(0xe506, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe506, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData protocol = AshlarIconData(IconData(0xf4e1, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData pumpkinScary = AshlarIconData(IconData(0xf4e2, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf4e2, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData punchingBag = AshlarIconData(IconData(0xf0042, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf0042, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData puzzle = AshlarIconData(IconData(0xe507, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData puzzle2 = AshlarIconData(IconData(0xf4e3, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf4e3, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData puzzleOff = AshlarIconData(IconData(0xf4e4, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -4857,6 +5051,8 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData redo = AshlarIconData(IconData(0xe527, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData redo2 = AshlarIconData(IconData(0xe528, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData redoDot = AshlarIconData(IconData(0xe529, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData reduceMotion = AshlarIconData(IconData(0xf0043, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf0043, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData referenceImage = AshlarIconData(IconData(0xf0044, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf0044, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData refresh = AshlarIconData(IconData(0xf513, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData refreshAlert = AshlarIconData(IconData(0xf514, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData refreshCcw = AshlarIconData(IconData(0xe52a, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -4865,6 +5061,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData refreshCwOff = AshlarIconData(IconData(0xe52d, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData refreshDot = AshlarIconData(IconData(0xf515, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData refreshOff = AshlarIconData(IconData(0xf516, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData refreshSparkle = AshlarIconData(IconData(0xf0045, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf0045, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData refrigerator = AshlarIconData(IconData(0xe52e, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe52e, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData regex = AshlarIconData(IconData(0xe52f, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData regexOff = AshlarIconData(IconData(0xf517, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -4873,6 +5070,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData relationOneToMany = AshlarIconData(IconData(0xf51a, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf51a, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData relationOneToOne = AshlarIconData(IconData(0xf51b, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf51b, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData reload = AshlarIconData(IconData(0xf51c, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData remoteControl = AshlarIconData(IconData(0xf0046, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf0046, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData removeFormatting = AshlarIconData(IconData(0xe530, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData reorder = AshlarIconData(IconData(0xf51d, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData repeat = AshlarIconData(IconData(0xe531, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -4934,6 +5132,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData rollerSkating = AshlarIconData(IconData(0xf546, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData rollercoaster = AshlarIconData(IconData(0xf547, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData rollercoasterOff = AshlarIconData(IconData(0xf548, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData rollingPin = AshlarIconData(IconData(0xf0047, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData rose = AshlarIconData(IconData(0xe541, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData rosette = AshlarIconData(IconData(0xf549, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData rosetteAsterisk = AshlarIconData(IconData(0xf54a, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf54a, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -4967,6 +5166,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData rotateCwSquare = AshlarIconData(IconData(0xe54a, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData rotateDot = AshlarIconData(IconData(0xf55e, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData rotateRectangle = AshlarIconData(IconData(0xf55f, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData roulette = AshlarIconData(IconData(0xf0048, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf0048, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData route = AshlarIconData(IconData(0xe54b, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData route2 = AshlarIconData(IconData(0xf560, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData routeAltLeft = AshlarIconData(IconData(0xf561, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -4988,6 +5188,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData rss = AshlarIconData(IconData(0xe551, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData rubberStamp = AshlarIconData(IconData(0xf56c, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData rubberStampOff = AshlarIconData(IconData(0xf56d, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData rugby = AshlarIconData(IconData(0xf0049, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData rugbyBall = AshlarIconData(IconData(0xe552, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe552, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData ruler = AshlarIconData(IconData(0xe553, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe553, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData ruler2 = AshlarIconData(IconData(0xf56e, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf56e, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -4998,6 +5199,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData rulerMeasure2 = AshlarIconData(IconData(0xf572, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf572, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData rulerOff = AshlarIconData(IconData(0xf573, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData run = AshlarIconData(IconData(0xf574, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData runSprint = AshlarIconData(IconData(0xf004a, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData russianRuble = AshlarIconData(IconData(0xe555, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData rvTruck = AshlarIconData(IconData(0xf575, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData sTurnDown = AshlarIconData(IconData(0xf576, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -5031,6 +5233,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData scan = AshlarIconData(IconData(0xe565, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData scanBarcode = AshlarIconData(IconData(0xe566, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData scanBox = AshlarIconData(IconData(0xe567, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe567, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData scanCube = AshlarIconData(IconData(0xf004b, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf004b, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData scanEye = AshlarIconData(IconData(0xe568, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe568, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData scanFace = AshlarIconData(IconData(0xe569, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData scanHeart = AshlarIconData(IconData(0xe56a, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -5058,6 +5261,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData screenShare = AshlarIconData(IconData(0xe575, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData screenShareOff = AshlarIconData(IconData(0xe576, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData screenshot = AshlarIconData(IconData(0xf58e, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData screw = AshlarIconData(IconData(0xf004c, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData scribble = AshlarIconData(IconData(0xf58f, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData scribbleOff = AshlarIconData(IconData(0xf590, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData script = AshlarIconData(IconData(0xf591, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -5077,11 +5281,14 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData searchCode = AshlarIconData(IconData(0xe57c, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe57c, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData searchOff = AshlarIconData(IconData(0xf59a, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData searchSlash = AshlarIconData(IconData(0xe57d, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe57d, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData searchSparkle = AshlarIconData(IconData(0xf004d, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf004d, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData searchX = AshlarIconData(IconData(0xe57e, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe57e, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData secretPhrases = AshlarIconData(IconData(0xf004e, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf004e, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData section = AshlarIconData(IconData(0xe57f, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData sectionSign = AshlarIconData(IconData(0xf59b, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData seedling = AshlarIconData(IconData(0xf59c, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData seedlingOff = AshlarIconData(IconData(0xf59d, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData seesaw = AshlarIconData(IconData(0xf004f, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData segway = AshlarIconData(IconData(0xf59e, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf59e, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData select = AshlarIconData(IconData(0xf59f, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf59f, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData selectAll = AshlarIconData(IconData(0xf5a0, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -5162,6 +5369,8 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData shieldExclamation = AshlarIconData(IconData(0xf5d2, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData shieldHalf = AshlarIconData(IconData(0xe599, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe599, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData shieldHeart = AshlarIconData(IconData(0xf5d3, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData shieldHouse = AshlarIconData(IconData(0xf0050, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf0050, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData shieldKey = AshlarIconData(IconData(0xf0051, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf0051, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData shieldKeyhole = AshlarIconData(IconData(0xe59a, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe59a, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData shieldLock = AshlarIconData(IconData(0xe59b, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData shieldMinus = AshlarIconData(IconData(0xe59c, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe59c, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -5172,6 +5381,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData shieldQuestionMark = AshlarIconData(IconData(0xe59f, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe59f, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData shieldSearch = AshlarIconData(IconData(0xf5d6, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData shieldShare = AshlarIconData(IconData(0xf5d7, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData shieldSparkle = AshlarIconData(IconData(0xf0052, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf0052, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData shieldStar = AshlarIconData(IconData(0xf5d8, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData shieldUp = AshlarIconData(IconData(0xf5d9, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData shieldUser = AshlarIconData(IconData(0xe5a0, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe5a0, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -5182,6 +5392,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData shipWheel = AshlarIconData(IconData(0xe5a4, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe5a4, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData shirt = AshlarIconData(IconData(0xe5a5, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData shirtOff = AshlarIconData(IconData(0xf5db, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData shirtSparkle = AshlarIconData(IconData(0xf0053, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf0053, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData shirtSport = AshlarIconData(IconData(0xf5dc, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf5dc, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData shoe = AshlarIconData(IconData(0xf5dd, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf5dd, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData shoeOff = AshlarIconData(IconData(0xf5de, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -5219,6 +5430,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData shoppingCartStar = AshlarIconData(IconData(0xf5f9, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData shoppingCartUp = AshlarIconData(IconData(0xf5fa, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData shoppingCartX = AshlarIconData(IconData(0xf5fb, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData shorts = AshlarIconData(IconData(0xf0054, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf0054, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData shovel = AshlarIconData(IconData(0xe5ab, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData shovelPitchforks = AshlarIconData(IconData(0xf5fc, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData showerHead = AshlarIconData(IconData(0xe5ac, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -5228,6 +5440,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData shrink = AshlarIconData(IconData(0xe5b0, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData shrub = AshlarIconData(IconData(0xe5b1, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe5b1, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData shuffle = AshlarIconData(IconData(0xe5b2, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData shuttlecock = AshlarIconData(IconData(0xf0055, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf0055, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData sigma = AshlarIconData(IconData(0xe5b3, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData signLeft = AshlarIconData(IconData(0xf5fd, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData signRight = AshlarIconData(IconData(0xf5fe, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -5257,6 +5470,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData skateboard = AshlarIconData(IconData(0xf60d, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData skateboardOff = AshlarIconData(IconData(0xf60e, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData skateboarding = AshlarIconData(IconData(0xf60f, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData sketching = AshlarIconData(IconData(0xf0056, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData skewX = AshlarIconData(IconData(0xf610, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData skewY = AshlarIconData(IconData(0xf611, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData skiJumping = AshlarIconData(IconData(0xf612, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -5273,8 +5487,11 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData smartHome = AshlarIconData(IconData(0xf616, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf616, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData smartHomeOff = AshlarIconData(IconData(0xf617, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData smartphone = AshlarIconData(IconData(0xe5c4, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe5c4, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData smartphoneCash = AshlarIconData(IconData(0xf0057, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf0057, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData smartphoneCharging = AshlarIconData(IconData(0xe5c5, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe5c5, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData smartphoneNfc = AshlarIconData(IconData(0xe5c6, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData smartphoneSparkle = AshlarIconData(IconData(0xf0058, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf0058, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData smartphoneWifi = AshlarIconData(IconData(0xf0059, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf0059, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData smoking = AshlarIconData(IconData(0xf618, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf618, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData smokingNo = AshlarIconData(IconData(0xf619, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData snail = AshlarIconData(IconData(0xe5c7, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe5c7, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -5287,8 +5504,10 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData social = AshlarIconData(IconData(0xf61e, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData socialOff = AshlarIconData(IconData(0xf61f, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData sock = AshlarIconData(IconData(0xf620, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf620, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData socks = AshlarIconData(IconData(0xf005a, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf005a, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData sofa = AshlarIconData(IconData(0xe5ca, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData sofaOff = AshlarIconData(IconData(0xf621, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData soilMoisture = AshlarIconData(IconData(0xf005b, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData solarElectricity = AshlarIconData(IconData(0xf622, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf622, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData solarPanel = AshlarIconData(IconData(0xe5cb, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe5cb, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData solarPanel2 = AshlarIconData(IconData(0xf623, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf623, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -5319,15 +5538,20 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData spacingVertical = AshlarIconData(IconData(0xf63a, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData spade = AshlarIconData(IconData(0xe5ce, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData sparkle = AshlarIconData(IconData(0xe5cf, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData sparkle2 = AshlarIconData(IconData(0xf005c, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData sparkleHighlight = AshlarIconData(IconData(0xf005d, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData sparkles = AshlarIconData(IconData(0xe5d0, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData sparkles2 = AshlarIconData(IconData(0xf63b, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData sparkles2Off = AshlarIconData(IconData(0xf005e, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData speaker = AshlarIconData(IconData(0xe5d1, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe5d1, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData speakerphone = AshlarIconData(IconData(0xf63c, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData speech = AshlarIconData(IconData(0xe5d2, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData speechToText = AshlarIconData(IconData(0xf005f, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData speedboat = AshlarIconData(IconData(0xf63d, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData spellCheck = AshlarIconData(IconData(0xe5d3, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData spellCheck2 = AshlarIconData(IconData(0xe5d4, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData sphere = AshlarIconData(IconData(0xf63e, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf63e, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData sphere2 = AshlarIconData(IconData(0xf0060, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf0060, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData sphereOff = AshlarIconData(IconData(0xf63f, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData spherePlus = AshlarIconData(IconData(0xf640, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData spider = AshlarIconData(IconData(0xf641, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -5337,7 +5561,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData splinePointer = AshlarIconData(IconData(0xe5d6, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData split = AshlarIconData(IconData(0xe5d7, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData spool = AshlarIconData(IconData(0xe5d8, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
-  static const AshlarIconData sportBillard = AshlarIconData(IconData(0xf644, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf644, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData sportBilliard = AshlarIconData(IconData(0xf0061, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf0061, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData sportShoe = AshlarIconData(IconData(0xe5d9, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData spotlight = AshlarIconData(IconData(0xe5da, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData spray = AshlarIconData(IconData(0xf645, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -5562,11 +5786,15 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData stack3 = AshlarIconData(IconData(0xf6c8, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData stackBack = AshlarIconData(IconData(0xf6c9, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData stackBackward = AshlarIconData(IconData(0xf6ca, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData stackCheck = AshlarIconData(IconData(0xf0062, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData stackForward = AshlarIconData(IconData(0xf6cb, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData stackFront = AshlarIconData(IconData(0xf6cc, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData stackMiddle = AshlarIconData(IconData(0xf6cd, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData stackMinus = AshlarIconData(IconData(0xf0063, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData stackPlus = AshlarIconData(IconData(0xf0064, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData stackPop = AshlarIconData(IconData(0xf6ce, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData stackPush = AshlarIconData(IconData(0xf6cf, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData stackX = AshlarIconData(IconData(0xf0065, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData stairs = AshlarIconData(IconData(0xf6d0, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData stairsDown = AshlarIconData(IconData(0xf6d1, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData stairsUp = AshlarIconData(IconData(0xf6d2, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -5592,6 +5820,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData stethoscopeOff = AshlarIconData(IconData(0xf6db, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData sticker = AshlarIconData(IconData(0xe63e, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe63e, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData sticker2 = AshlarIconData(IconData(0xf6dc, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData stickerSmile = AshlarIconData(IconData(0xf0066, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf0066, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData stickyNote = AshlarIconData(IconData(0xe63f, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe63f, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData stickyNoteCheck = AshlarIconData(IconData(0xe640, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData stickyNoteMinus = AshlarIconData(IconData(0xe641, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -5602,8 +5831,11 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData stone = AshlarIconData(IconData(0xe646, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe646, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData stopwatch = AshlarIconData(IconData(0xf6dd, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf6dd, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData store = AshlarIconData(IconData(0xe647, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData storeMinus = AshlarIconData(IconData(0xf0067, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData storePlus = AshlarIconData(IconData(0xf0068, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData storm = AshlarIconData(IconData(0xf6de, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf6de, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData stormOff = AshlarIconData(IconData(0xf6df, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData stove = AshlarIconData(IconData(0xf0069, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf0069, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData stretchHorizontal = AshlarIconData(IconData(0xe648, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData stretchVertical = AshlarIconData(IconData(0xe649, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData stretching = AshlarIconData(IconData(0xf6e0, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -5636,6 +5868,8 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData sunset = AshlarIconData(IconData(0xe653, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData sunset2 = AshlarIconData(IconData(0xf6f2, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData superscript = AshlarIconData(IconData(0xe654, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData surfboard = AshlarIconData(IconData(0xf006a, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf006a, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData sushi = AshlarIconData(IconData(0xf006b, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData svg = AshlarIconData(IconData(0xf6f3, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData swatchBook = AshlarIconData(IconData(0xe655, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe655, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData swimming = AshlarIconData(IconData(0xf6f4, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -5655,6 +5889,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData swordOff = AshlarIconData(IconData(0xf6ff, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData swords = AshlarIconData(IconData(0xe659, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData syringe = AshlarIconData(IconData(0xe65a, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData tabClose = AshlarIconData(IconData(0xf006c, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData table = AshlarIconData(IconData(0xe65b, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe65b, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData table2 = AshlarIconData(IconData(0xe65c, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe65c, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData tableAlias = AshlarIconData(IconData(0xf700, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -5662,7 +5897,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData tableCellsSplit = AshlarIconData(IconData(0xe65e, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe65e, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData tableColumn = AshlarIconData(IconData(0xf701, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf701, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData tableColumnsSplit = AshlarIconData(IconData(0xe65f, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe65f, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
-  static const AshlarIconData tableDashed = AshlarIconData(IconData(0xf702, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf702, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData tableDashed = AshlarIconData(IconData(0xf702, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData tableDown = AshlarIconData(IconData(0xf703, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData tableExport = AshlarIconData(IconData(0xf704, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData tableHeart = AshlarIconData(IconData(0xf705, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -5673,14 +5908,17 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData tableOptions = AshlarIconData(IconData(0xf709, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData tablePlus = AshlarIconData(IconData(0xf70a, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData tableProperties = AshlarIconData(IconData(0xe661, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe661, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData tableRound = AshlarIconData(IconData(0xf006d, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData tableRow = AshlarIconData(IconData(0xf70b, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf70b, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData tableRowsSplit = AshlarIconData(IconData(0xe662, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe662, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData tableShare = AshlarIconData(IconData(0xf70c, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData tableShortcut = AshlarIconData(IconData(0xf70d, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData tableSpark = AshlarIconData(IconData(0xf70e, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData tableSparkle = AshlarIconData(IconData(0xf006e, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf006e, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData tablet = AshlarIconData(IconData(0xe663, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe663, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData tabletSmartphone = AshlarIconData(IconData(0xe664, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe664, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData tablets = AshlarIconData(IconData(0xe665, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe665, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData tabs = AshlarIconData(IconData(0xf006f, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf006f, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData tag = AshlarIconData(IconData(0xe666, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe666, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData tagMinus = AshlarIconData(IconData(0xf70f, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData tagOff = AshlarIconData(IconData(0xf710, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -5688,7 +5926,13 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData tagStarred = AshlarIconData(IconData(0xf711, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf711, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData tagX = AshlarIconData(IconData(0xe668, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe668, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData tags = AshlarIconData(IconData(0xe669, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe669, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData tagsChevronDown = AshlarIconData(IconData(0xf0070, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf0070, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData tagsChevronLeft = AshlarIconData(IconData(0xf0071, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf0071, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData tagsChevronRight = AshlarIconData(IconData(0xf0072, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf0072, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData tagsChevronUp = AshlarIconData(IconData(0xf0073, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf0073, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData tagsOff = AshlarIconData(IconData(0xf712, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData taiwanDollar = AshlarIconData(IconData(0xf0074, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData tajMahal = AshlarIconData(IconData(0xf0075, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf0075, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData tally1 = AshlarIconData(IconData(0xe66a, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData tally2 = AshlarIconData(IconData(0xe66b, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData tally3 = AshlarIconData(IconData(0xe66c, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -5701,7 +5945,10 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData tallymarks = AshlarIconData(IconData(0xf717, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData tangent = AshlarIconData(IconData(0xe66f, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData tank = AshlarIconData(IconData(0xf718, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData tankerTruck = AshlarIconData(IconData(0xf0076, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData tapeMeasure = AshlarIconData(IconData(0xf0077, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf0077, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData target = AshlarIconData(IconData(0xe670, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe670, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData target2 = AshlarIconData(IconData(0xf0078, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf0078, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData targetArrow = AshlarIconData(IconData(0xf719, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData targetOff = AshlarIconData(IconData(0xf71a, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData tax = AshlarIconData(IconData(0xf71b, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf71b, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -5720,6 +5967,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData temperatureSun = AshlarIconData(IconData(0xf727, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf727, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData template = AshlarIconData(IconData(0xf728, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData templateOff = AshlarIconData(IconData(0xf729, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData tennisRacket = AshlarIconData(IconData(0xf0079, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf0079, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData tent = AshlarIconData(IconData(0xe672, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData tentOff = AshlarIconData(IconData(0xf72a, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData tentTree = AshlarIconData(IconData(0xe673, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe673, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -5750,22 +5998,35 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData textIncrease = AshlarIconData(IconData(0xf736, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf736, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData textInitial = AshlarIconData(IconData(0xe681, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData textOrientation = AshlarIconData(IconData(0xf737, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData textOutline = AshlarIconData(IconData(0xf007a, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData textPlus = AshlarIconData(IconData(0xf738, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData textQuote = AshlarIconData(IconData(0xe682, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData textRecognition = AshlarIconData(IconData(0xf739, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData textRegexAsterisk = AshlarIconData(IconData(0xf007b, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData textRegexEnd = AshlarIconData(IconData(0xf007c, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData textRegexPlus = AshlarIconData(IconData(0xf007d, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData textRegexQuestion = AshlarIconData(IconData(0xf007e, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData textRegexStart = AshlarIconData(IconData(0xf007f, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData textResize = AshlarIconData(IconData(0xf73a, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData textScan2 = AshlarIconData(IconData(0xf73b, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData textScanAi = AshlarIconData(IconData(0xf0080, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData textSearch = AshlarIconData(IconData(0xe683, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData textSize = AshlarIconData(IconData(0xf73c, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData textSpellcheck = AshlarIconData(IconData(0xf73d, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf73d, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData textToSpeech = AshlarIconData(IconData(0xf0081, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData textWrap = AshlarIconData(IconData(0xe684, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData textWrapColumn = AshlarIconData(IconData(0xf73e, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData textWrapDisabled = AshlarIconData(IconData(0xf73f, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData textarea = AshlarIconData(IconData(0xf0082, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf0082, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData texture = AshlarIconData(IconData(0xf740, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData theater = AshlarIconData(IconData(0xe685, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData thermometer = AshlarIconData(IconData(0xe686, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData thermometerSnowflake = AshlarIconData(IconData(0xe687, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData thermometerSun = AshlarIconData(IconData(0xe688, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData thinkingHigh = AshlarIconData(IconData(0xf0083, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf0083, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData thinkingLow = AshlarIconData(IconData(0xf0084, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf0084, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData thinkingMedium = AshlarIconData(IconData(0xf0085, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf0085, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData thoughtBubble = AshlarIconData(IconData(0xf0086, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData thumbDown = AshlarIconData(IconData(0xf741, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData thumbDownOff = AshlarIconData(IconData(0xf742, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData thumbUp = AshlarIconData(IconData(0xf743, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -5812,6 +6073,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData tipJarEuro = AshlarIconData(IconData(0xf75c, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData tipJarPound = AshlarIconData(IconData(0xf75d, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData tir = AshlarIconData(IconData(0xf75e, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData tissueBox = AshlarIconData(IconData(0xf0087, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData toggleLeft = AshlarIconData(IconData(0xe699, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe699, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData toggleRight = AshlarIconData(IconData(0xe69a, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe69a, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData toilet = AshlarIconData(IconData(0xe69b, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -5867,6 +6129,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData trainFrontTunnel = AshlarIconData(IconData(0xe6ab, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe6ab, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData trainTrack = AshlarIconData(IconData(0xe6ac, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData tramFront = AshlarIconData(IconData(0xe6ad, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe6ad, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData trampoline = AshlarIconData(IconData(0xf0088, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData transactionBitcoin = AshlarIconData(IconData(0xf781, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf781, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData transactionDollar = AshlarIconData(IconData(0xf782, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData transactionEuro = AshlarIconData(IconData(0xf783, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -5893,6 +6156,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData trashOff = AshlarIconData(IconData(0xe6b0, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData trashX = AshlarIconData(IconData(0xf796, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf796, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData treadmill = AshlarIconData(IconData(0xf797, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData treasureChest = AshlarIconData(IconData(0xf0089, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf0089, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData tree = AshlarIconData(IconData(0xf798, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf798, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData treeDeciduous = AshlarIconData(IconData(0xe6b1, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData treePalm = AshlarIconData(IconData(0xe6b2, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -5921,6 +6185,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData trianglesCenterlineDashedHorizontal = AshlarIconData(IconData(0xe6bc, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData trianglesCenterlineDashedVertical = AshlarIconData(IconData(0xe6bd, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData trident = AshlarIconData(IconData(0xf7a6, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData tripod = AshlarIconData(IconData(0xf008a, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf008a, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData trolley = AshlarIconData(IconData(0xf7a7, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData trophy = AshlarIconData(IconData(0xe6be, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData trophyOff = AshlarIconData(IconData(0xf7a8, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -5931,6 +6196,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData truckLoading = AshlarIconData(IconData(0xf7ab, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData truckOff = AshlarIconData(IconData(0xf7ac, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData truckReturn = AshlarIconData(IconData(0xf7ad, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData tsunami = AshlarIconData(IconData(0xf008b, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData tubeLotion = AshlarIconData(IconData(0xe6c1, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe6c1, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData turkishLira = AshlarIconData(IconData(0xe6c2, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData turntable = AshlarIconData(IconData(0xe6c3, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe6c3, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -5938,6 +6204,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData tv = AshlarIconData(IconData(0xe6c5, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData tvMinimal = AshlarIconData(IconData(0xe6c6, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData tvMinimalPlay = AshlarIconData(IconData(0xe6c7, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe6c7, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData twig = AshlarIconData(IconData(0xf008c, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData txt = AshlarIconData(IconData(0xf7ae, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData type = AshlarIconData(IconData(0xe6c8, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData typeOutline = AshlarIconData(IconData(0xe6c9, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -5955,12 +6222,14 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData umbrellaClosed2 = AshlarIconData(IconData(0xf7b9, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData umbrellaOff = AshlarIconData(IconData(0xe6cb, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData underline = AshlarIconData(IconData(0xe6cc, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData underlineOff = AshlarIconData(IconData(0xf008d, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData undo = AshlarIconData(IconData(0xe6cd, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData undo2 = AshlarIconData(IconData(0xe6ce, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData undoDot = AshlarIconData(IconData(0xe6cf, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData unfoldHorizontal = AshlarIconData(IconData(0xe6d0, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData unfoldVertical = AshlarIconData(IconData(0xe6d1, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData ungroup = AshlarIconData(IconData(0xe6d2, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData unicycle = AshlarIconData(IconData(0xf008e, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData universe = AshlarIconData(IconData(0xf7ba, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData university = AshlarIconData(IconData(0xe6d3, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe6d3, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData unlink = AshlarIconData(IconData(0xe6d4, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -6004,12 +6273,14 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData userRoundPen = AshlarIconData(IconData(0xe6ea, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData userRoundPlus = AshlarIconData(IconData(0xe6eb, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData userRoundSearch = AshlarIconData(IconData(0xe6ec, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData userRoundStar = AshlarIconData(IconData(0xf008f, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData userRoundX = AshlarIconData(IconData(0xe6ed, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData userScan = AshlarIconData(IconData(0xf7cb, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData userScreen = AshlarIconData(IconData(0xf7cc, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData userSearch = AshlarIconData(IconData(0xe6ee, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData userShare = AshlarIconData(IconData(0xf7cd, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData userShield = AshlarIconData(IconData(0xe6ef, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData userSparkle = AshlarIconData(IconData(0xf0090, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData userSquareRounded = AshlarIconData(IconData(0xf7ce, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf7ce, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData userStar = AshlarIconData(IconData(0xe6f0, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData userUp = AshlarIconData(IconData(0xf7cf, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -6034,6 +6305,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData variableMinus = AshlarIconData(IconData(0xf7da, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData variableOff = AshlarIconData(IconData(0xf7db, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData variablePlus = AshlarIconData(IconData(0xf7dc, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData vase = AshlarIconData(IconData(0xf0091, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData vault = AshlarIconData(IconData(0xe6f9, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe6f9, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData vector = AshlarIconData(IconData(0xf7dd, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData vectorBezier = AshlarIconData(IconData(0xf7de, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -6052,12 +6324,14 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData venusAndMars = AshlarIconData(IconData(0xe6ff, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData versions = AshlarIconData(IconData(0xf7e6, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData versionsOff = AshlarIconData(IconData(0xf7e7, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData vest = AshlarIconData(IconData(0xf0092, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData vibrate = AshlarIconData(IconData(0xe700, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData vibrateOff = AshlarIconData(IconData(0xe701, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData video = AshlarIconData(IconData(0xe702, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData videoMinus = AshlarIconData(IconData(0xf7e8, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf7e8, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData videoOff = AshlarIconData(IconData(0xe703, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData videoPlus = AshlarIconData(IconData(0xf7e9, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf7e9, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData videoSparkle = AshlarIconData(IconData(0xf0093, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf0093, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData videotape = AshlarIconData(IconData(0xe704, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe704, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData view = AshlarIconData(IconData(0xe705, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe705, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData view360 = AshlarIconData(IconData(0xf7ea, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf7ea, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -6070,15 +6344,19 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData viewportShort = AshlarIconData(IconData(0xf7f1, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData viewportTall = AshlarIconData(IconData(0xf7f2, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData viewportWide = AshlarIconData(IconData(0xf7f3, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData vignette = AshlarIconData(IconData(0xf0094, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf0094, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData vinyl = AshlarIconData(IconData(0xf7f4, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData vip = AshlarIconData(IconData(0xf7f5, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData vip2 = AshlarIconData(IconData(0xf7f6, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData vipOff = AshlarIconData(IconData(0xf7f7, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData virtualSpace = AshlarIconData(IconData(0xf0095, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData virus = AshlarIconData(IconData(0xe706, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe706, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData virusOff = AshlarIconData(IconData(0xe707, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData virusSearch = AshlarIconData(IconData(0xf7f8, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData vocabulary = AshlarIconData(IconData(0xf7f9, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf7f9, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData vocabularyOff = AshlarIconData(IconData(0xf7fa, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData voice = AshlarIconData(IconData(0xf0096, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf0096, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData voice2 = AshlarIconData(IconData(0xf0097, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf0097, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData voicemail = AshlarIconData(IconData(0xe708, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData volcano = AshlarIconData(IconData(0xf7fb, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf7fb, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData volleyball = AshlarIconData(IconData(0xe709, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe709, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -6095,9 +6373,14 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData wall = AshlarIconData(IconData(0xf800, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf800, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData wallOff = AshlarIconData(IconData(0xf801, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData wallet = AshlarIconData(IconData(0xe710, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData walletArrowDown = AshlarIconData(IconData(0xf0098, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData walletArrowUp = AshlarIconData(IconData(0xf0099, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData walletCards = AshlarIconData(IconData(0xe711, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe711, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData walletCheck = AshlarIconData(IconData(0xf009a, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData walletMinimal = AshlarIconData(IconData(0xe712, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData walletMinus = AshlarIconData(IconData(0xf009b, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData walletOff = AshlarIconData(IconData(0xf802, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData walletPlus = AshlarIconData(IconData(0xf009c, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData wallpaper = AshlarIconData(IconData(0xe713, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe713, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData wallpaperOff = AshlarIconData(IconData(0xf803, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData wand = AshlarIconData(IconData(0xe714, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -6136,6 +6419,8 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData washTumbleOff = AshlarIconData(IconData(0xf822, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData washingMachine = AshlarIconData(IconData(0xe717, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe717, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData watch = AshlarIconData(IconData(0xe718, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xe718, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData watchSparkle = AshlarIconData(IconData(0xf009d, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf009d, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData waterPump = AshlarIconData(IconData(0xf009e, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData waterpolo = AshlarIconData(IconData(0xf823, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData waveSawTool = AshlarIconData(IconData(0xf824, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData waveSine = AshlarIconData(IconData(0xf825, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -6168,6 +6453,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData wifi2 = AshlarIconData(IconData(0xf82f, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData wifiCog = AshlarIconData(IconData(0xe72a, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData wifiHigh = AshlarIconData(IconData(0xe72b, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData wifiLock = AshlarIconData(IconData(0xf009f, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData wifiLow = AshlarIconData(IconData(0xe72c, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData wifiOff = AshlarIconData(IconData(0xe72d, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData wifiPen = AshlarIconData(IconData(0xe72e, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -6237,6 +6523,7 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData xboxY = AshlarIconData(IconData(0xf862, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf862, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData xd = AshlarIconData(IconData(0xf863, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData xxx = AshlarIconData(IconData(0xf864, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
+  static const AshlarIconData yarn = AshlarIconData(IconData(0xf00a0, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf00a0, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData yinYang = AshlarIconData(IconData(0xf865, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: IconData(0xf865, fontFamily: 'AshlarRoundedInner', fontPackage: _p), secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData yoga = AshlarIconData(IconData(0xf866, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
   static const AshlarIconData zap = AshlarIconData(IconData(0xe73c, fontFamily: 'AshlarRoundedOuter', fontPackage: _p), secondary: null, secondaryOpacity: 0.4, secondaryOnTop: true);
@@ -6383,6 +6670,10 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData bookTemplate = bookDashed;
   @Deprecated('Renamed: use squareDashed')
   static const AshlarIconData boxSelect = squareDashed;
+  @Deprecated('Renamed: use brandAdobeAfterEffects')
+  static const AshlarIconData brandAdobeAfterEffect = brandAdobeAfterEffects;
+  @Deprecated('Renamed: use brandKakaoTalk')
+  static const AshlarIconData brandKakoTalk = brandKakaoTalk;
   @Deprecated('Renamed: use buildingComplex')
   static const AshlarIconData building2 = buildingComplex;
   @Deprecated('Renamed: use chartCandlestick')
@@ -6431,6 +6722,8 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData contact2 = contactRound;
   @Deprecated('Renamed: use braces')
   static const AshlarIconData curlyBraces = braces;
+  @Deprecated('Renamed: use currencyRuble')
+  static const AshlarIconData currencyRubel = currencyRuble;
   @Deprecated('Renamed: use circleDivide')
   static const AshlarIconData divideCircle = circleDivide;
   @Deprecated('Renamed: use squareDivide')
@@ -6535,6 +6828,8 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData ganttChartSquare = squareChartGantt;
   @Deprecated('Renamed: use circleGauge')
   static const AshlarIconData gaugeCircle = circleGauge;
+  @Deprecated('Renamed: use genderTravesti')
+  static const AshlarIconData genderTrasvesti = genderTravesti;
   @Deprecated('Renamed: use gitCommitHorizontal')
   static const AshlarIconData gitCommit = gitCommitHorizontal;
   @Deprecated('Renamed: use earth')
@@ -6565,6 +6860,8 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData iceCream = iceCreamCone;
   @Deprecated('Renamed: use iceCreamBowl')
   static const AshlarIconData iceCream2 = iceCreamBowl;
+  @Deprecated('Renamed: use icosahedron')
+  static const AshlarIconData ikosaedr = icosahedron;
   @Deprecated('Renamed: use listIndentIncrease')
   static const AshlarIconData indent = listIndentIncrease;
   @Deprecated('Renamed: use listIndentDecrease')
@@ -6611,6 +6908,8 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData minusCircle = circleMinus;
   @Deprecated('Renamed: use squareMinus')
   static const AshlarIconData minusSquare = squareMinus;
+  @Deprecated('Renamed: use moodConfused')
+  static const AshlarIconData moodConfuzed = moodConfused;
   @Deprecated('Renamed: use ellipsis')
   static const AshlarIconData moreHorizontal = ellipsis;
   @Deprecated('Renamed: use ellipsisVertical')
@@ -6659,6 +6958,8 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData percentDiamond = diamondPercent;
   @Deprecated('Renamed: use squarePercent')
   static const AshlarIconData percentSquare = squarePercent;
+  @Deprecated('Renamed: use physiotherapist')
+  static const AshlarIconData physotherapist = physiotherapist;
   @Deprecated('Renamed: use squarePi')
   static const AshlarIconData piSquare = squarePi;
   @Deprecated('Renamed: use chartPie')
@@ -6725,6 +7026,8 @@ abstract final class AshlarIconsRoundedTwotone {
   static const AshlarIconData splitSquareHorizontal = squareSplitHorizontal;
   @Deprecated('Renamed: use squareSplitVertical')
   static const AshlarIconData splitSquareVertical = squareSplitVertical;
+  @Deprecated('Renamed: use sportBilliard')
+  static const AshlarIconData sportBillard = sportBilliard;
   @Deprecated('Renamed: use squareChartGantt')
   static const AshlarIconData squareGanttChart = squareChartGantt;
   @Deprecated('Renamed: use sparkles')

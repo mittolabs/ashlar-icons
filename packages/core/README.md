@@ -1,6 +1,6 @@
 # @mittolabs/ashlar-icons-core
 
-The ashlaricons drawings as data: 6,266 icons in ten styles, on a 24 by 24 grid.
+The ashlaricons drawings as data: 6,553 icons in ten styles, on a 24 by 24 grid.
 Browse them at [icons.ashlar.ke](https://icons.ashlar.ke).
 
 This package is what the framework packages draw from. To put icons in an app, use

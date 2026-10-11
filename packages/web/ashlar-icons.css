@@ -44,6 +44,8 @@
 .ash-accessibility { --ash-cp: "\e003"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-accessible { --ash-cp: "\e755"; }
 .ash-accessible-off { --ash-cp: "\e756"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-acorn { --ash-cp: "\f87a"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-acrobatic { --ash-cp: "\f87b"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-activity { --ash-cp: "\e004"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-activity-heartbeat { --ash-cp: "\e757"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-ad { --ash-cp: "\e005"; }
@@ -83,12 +85,14 @@
 .ash-ai-agent { --ash-cp: "\e779"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-ai-agents { --ash-cp: "\e77a"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-ai-gateway { --ash-cp: "\e77b"; --ash-cp-secondary-rounded-twotone: ""; }
-.ash-air-balloon { --ash-cp: "\e77c"; }
+.ash-air-balloon { --ash-cp: "\e77c"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-air-conditioning { --ash-cp: "\e77d"; }
 .ash-air-conditioning-disabled { --ash-cp: "\e77e"; }
 .ash-air-traffic-control { --ash-cp: "\e77f"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-air-vent { --ash-cp: "\e006"; }
 .ash-airplay { --ash-cp: "\e007"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-airpods-l { --ash-cp: "\f87c"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-airpods-r { --ash-cp: "\f87d"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-alarm { --ash-cp: "\e780"; }
 .ash-alarm-average { --ash-cp: "\e781"; }
 .ash-alarm-clock { --ash-cp: "\e008"; }
@@ -156,9 +160,14 @@
 .ash-alpha { --ash-cp: "\e7a4"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-alphabet-arabic { --ash-cp: "\e7a5"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-alphabet-bangla { --ash-cp: "\e7a6"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-alphabet-chinese { --ash-cp: "\f87e"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-alphabet-cyrillic { --ash-cp: "\e7a7"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-alphabet-devanagari { --ash-cp: "\f87f"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-alphabet-ethiopic { --ash-cp: "\f880"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-alphabet-georgian { --ash-cp: "\f881"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-alphabet-greek { --ash-cp: "\e7a8"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-alphabet-hebrew { --ash-cp: "\e7a9"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-alphabet-japanese { --ash-cp: "\f882"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-alphabet-korean { --ash-cp: "\e7aa"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-alphabet-latin { --ash-cp: "\e7ab"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-alphabet-polish { --ash-cp: "\e7ac"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
@@ -174,6 +183,8 @@
 .ash-anchor { --ash-cp: "\e028"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-anchor-off { --ash-cp: "\e7b2"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-angle { --ash-cp: "\e029"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-angle-acute { --ash-cp: "\f883"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-angle-obtuse { --ash-cp: "\f884"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-ankh { --ash-cp: "\e7b3"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-antenna { --ash-cp: "\e02a"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-antenna-bars-1 { --ash-cp: "\e7b4"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
@@ -192,12 +203,19 @@
 .ash-api-book { --ash-cp: "\e7bf"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-api-off { --ash-cp: "\e7c0"; }
 .ash-app-window { --ash-cp: "\e02d"; }
+.ash-app-window-bottom { --ash-cp: "\f885"; }
+.ash-app-window-bottom-left { --ash-cp: "\f886"; }
+.ash-app-window-bottom-right { --ash-cp: "\f887"; }
+.ash-app-window-center { --ash-cp: "\f888"; }
 .ash-app-window-mac { --ash-cp: "\e02e"; }
 .ash-apple { --ash-cp: "\e02f"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-apps { --ash-cp: "\e7c1"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-apps-off { --ash-cp: "\e7c2"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-apron { --ash-cp: "\f889"; }
 .ash-archery-arrow { --ash-cp: "\e7c3"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-archive { --ash-cp: "\e030"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-archive-arrow-down { --ash-cp: "\f88a"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-archive-arrow-up { --ash-cp: "\f88b"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-archive-off { --ash-cp: "\e7c4"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-archive-restore { --ash-cp: "\e031"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-archive-x { --ash-cp: "\e032"; --ash-cp-secondary-rounded-twotone: ""; }
@@ -281,6 +299,7 @@
 .ash-arrow-elbow-left { --ash-cp: "\e7fb"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-arrow-elbow-right { --ash-cp: "\e7fc"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-arrow-fork { --ash-cp: "\e7fd"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-arrow-fork-triple { --ash-cp: "\f88c"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-arrow-forward { --ash-cp: "\e7fe"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-arrow-forward-up { --ash-cp: "\e7ff"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-arrow-forward-up-double { --ash-cp: "\e800"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
@@ -432,6 +451,7 @@
 .ash-atom { --ash-cp: "\e063"; }
 .ash-atom-2 { --ash-cp: "\e879"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-atom-off { --ash-cp: "\e87a"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-audio-ai { --ash-cp: "\f88d"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-audio-lines { --ash-cp: "\e064"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-audio-lines-off { --ash-cp: "\e065"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-audio-lines-x { --ash-cp: "\e066"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
@@ -524,6 +544,7 @@
 .ash-barbell-off { --ash-cp: "\e8ae"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-barcode { --ash-cp: "\e08a"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-barcode-off { --ash-cp: "\e8af"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-barn { --ash-cp: "\f88e"; }
 .ash-barrel { --ash-cp: "\e08b"; }
 .ash-barrel-off { --ash-cp: "\e8b0"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-barrier-block { --ash-cp: "\e8b1"; }
@@ -557,6 +578,7 @@
 .ash-bat { --ash-cp: "\e8cc"; }
 .ash-bath { --ash-cp: "\e08d"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-bath-off { --ash-cp: "\e8cd"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-bathroom-scale { --ash-cp: "\f88f"; }
 .ash-battery { --ash-cp: "\e08e"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-battery-1 { --ash-cp: "\e8ce"; }
 .ash-battery-2 { --ash-cp: "\e8cf"; }
@@ -626,6 +648,7 @@
 .ash-bell-up { --ash-cp: "\e8f7"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-bell-x { --ash-cp: "\e8f8"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-bell-z { --ash-cp: "\e8f9"; }
+.ash-belt { --ash-cp: "\f890"; }
 .ash-beta { --ash-cp: "\e8fa"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-between-horizontal-end { --ash-cp: "\e0a7"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-between-horizontal-start { --ash-cp: "\e0a8"; --ash-cp-secondary-rounded-twotone: ""; }
@@ -656,6 +679,7 @@
 .ash-blind { --ash-cp: "\e907"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-blinds { --ash-cp: "\e0b5"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-blob { --ash-cp: "\e908"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-blob-dashed { --ash-cp: "\f891"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-blockquote { --ash-cp: "\e909"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-blocks { --ash-cp: "\e0b6"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-bluetooth { --ash-cp: "\e0b7"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
@@ -700,6 +724,7 @@
 .ash-book-open-text { --ash-cp: "\e0d1"; }
 .ash-book-plus { --ash-cp: "\e0d2"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-book-search { --ash-cp: "\e0d3"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-book-sparkle { --ash-cp: "\f892"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-book-text { --ash-cp: "\e0d4"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-book-type { --ash-cp: "\e0d5"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-book-up { --ash-cp: "\e0d6"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
@@ -756,6 +781,7 @@
 .ash-bounce-right { --ash-cp: "\e93b"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-bow { --ash-cp: "\e93c"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-bow-arrow { --ash-cp: "\e0e5"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-bow-tie { --ash-cp: "\f893"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-bowl { --ash-cp: "\e93d"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-bowl-chopsticks { --ash-cp: "\e93e"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-bowl-spoon { --ash-cp: "\e93f"; --ash-cp-secondary-rounded-twotone: ""; }
@@ -788,6 +814,7 @@
 .ash-box-off { --ash-cp: "\e959"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-box-padding { --ash-cp: "\e95a"; }
 .ash-boxes { --ash-cp: "\e0e7"; }
+.ash-boxing-glove { --ash-cp: "\f894"; }
 .ash-braces { --ash-cp: "\e0e8"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-braces-off { --ash-cp: "\e95b"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-brackets { --ash-cp: "\e0e9"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
@@ -804,7 +831,7 @@
 .ash-brand-4chan { --ash-cp: "\e963"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-brand-abstract { --ash-cp: "\e964"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-brand-adobe { --ash-cp: "\e965"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
-.ash-brand-adobe-after-effect { --ash-cp: "\e966"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-brand-adobe-after-effects { --ash-cp: "\f895"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-brand-adobe-illustrator { --ash-cp: "\e967"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-brand-adobe-indesign { --ash-cp: "\e968"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-brand-adobe-photoshop { --ash-cp: "\e969"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
@@ -834,6 +861,7 @@
 .ash-brand-arc { --ash-cp: "\e981"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-brand-asana { --ash-cp: "\e982"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-brand-astro { --ash-cp: "\e983"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-brand-audible { --ash-cp: "\f896"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-brand-auth0 { --ash-cp: "\e984"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-brand-aws { --ash-cp: "\e985"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-brand-azure { --ash-cp: "\e986"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
@@ -971,7 +999,7 @@
 .ash-brand-javascript { --ash-cp: "\ea0a"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-brand-jira { --ash-cp: "\ea0b"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-brand-juejin { --ash-cp: "\ea0c"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
-.ash-brand-kako-talk { --ash-cp: "\ea0d"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-brand-kakao-talk { --ash-cp: "\f897"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-brand-kbin { --ash-cp: "\ea0e"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-brand-kick { --ash-cp: "\ea0f"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-brand-kickstarter { --ash-cp: "\ea10"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
@@ -1067,6 +1095,7 @@
 .ash-brand-sharik { --ash-cp: "\ea6a"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-brand-shazam { --ash-cp: "\ea6b"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-brand-shopee { --ash-cp: "\ea6c"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-brand-signal { --ash-cp: "\f898"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-brand-sketch { --ash-cp: "\ea6d"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-brand-skype { --ash-cp: "\ea6e"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-brand-slack { --ash-cp: "\ea6f"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
@@ -1082,6 +1111,7 @@
 .ash-brand-stackoverflow { --ash-cp: "\ea79"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-brand-stackshare { --ash-cp: "\ea7a"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-brand-steam { --ash-cp: "\ea7b"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-brand-stellar { --ash-cp: "\f899"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-brand-stocktwits { --ash-cp: "\ea7c"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-brand-storj { --ash-cp: "\ea7d"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-brand-storybook { --ash-cp: "\ea7e"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
@@ -1129,6 +1159,7 @@
 .ash-brand-unsplash { --ash-cp: "\eaa8"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-brand-upwork { --ash-cp: "\eaa9"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-brand-valorant { --ash-cp: "\eaaa"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-brand-vechain { --ash-cp: "\f89a"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-brand-vercel { --ash-cp: "\eaab"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-brand-vimeo { --ash-cp: "\eaac"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-brand-vinted { --ash-cp: "\eaad"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
@@ -1182,10 +1213,13 @@
 .ash-briefcase { --ash-cp: "\e0f1"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-briefcase-2 { --ash-cp: "\ead9"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-briefcase-business { --ash-cp: "\e0f2"; }
+.ash-briefcase-clock { --ash-cp: "\f89b"; }
 .ash-briefcase-conveyor-belt { --ash-cp: "\e0f3"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-briefcase-dollar { --ash-cp: "\f89c"; }
 .ash-briefcase-medical { --ash-cp: "\e0f4"; }
 .ash-briefcase-off { --ash-cp: "\eada"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-briefcase-plus { --ash-cp: "\e0f5"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-briefcase-search { --ash-cp: "\f89d"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-brightness { --ash-cp: "\eadb"; }
 .ash-brightness-2 { --ash-cp: "\eadc"; }
 .ash-brightness-auto { --ash-cp: "\eadd"; }
@@ -1200,6 +1234,7 @@
 .ash-broom { --ash-cp: "\e0f8"; }
 .ash-broom-sparkles { --ash-cp: "\e0f9"; }
 .ash-browser { --ash-cp: "\eae4"; }
+.ash-browser-ai { --ash-cp: "\f89e"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-browser-check { --ash-cp: "\eae5"; }
 .ash-browser-maximize { --ash-cp: "\eae6"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-browser-minus { --ash-cp: "\eae7"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
@@ -1241,6 +1276,7 @@
 .ash-building-complex { --ash-cp: "\e101"; }
 .ash-building-complex-plus { --ash-cp: "\e102"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-building-cottage { --ash-cp: "\eb04"; }
+.ash-building-eiffel-tower { --ash-cp: "\f89f"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-building-estate { --ash-cp: "\eb05"; }
 .ash-building-factory { --ash-cp: "\eb06"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-building-factory-2 { --ash-cp: "\eb07"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
@@ -1263,6 +1299,7 @@
 .ash-bulb { --ash-cp: "\eb18"; }
 .ash-bulb-off { --ash-cp: "\eb19"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-bulldozer { --ash-cp: "\eb1a"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-bunk-bed { --ash-cp: "\f8a0"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-burger { --ash-cp: "\eb1b"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-bus { --ash-cp: "\e103"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-bus-front { --ash-cp: "\e104"; }
@@ -1301,6 +1338,7 @@
 .ash-calendar-exclamation { --ash-cp: "\eb2d"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-calendar-fold { --ash-cp: "\e114"; }
 .ash-calendar-heart { --ash-cp: "\e115"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-calendar-lock { --ash-cp: "\f8a1"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-calendar-minus { --ash-cp: "\e116"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-calendar-minus-2 { --ash-cp: "\e117"; }
 .ash-calendar-month { --ash-cp: "\eb2e"; }
@@ -1316,6 +1354,7 @@
 .ash-calendar-search { --ash-cp: "\e11c"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-calendar-share { --ash-cp: "\eb34"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-calendar-smile { --ash-cp: "\eb35"; }
+.ash-calendar-sparkle { --ash-cp: "\f8a2"; }
 .ash-calendar-star { --ash-cp: "\eb36"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-calendar-stats { --ash-cp: "\eb37"; }
 .ash-calendar-sync { --ash-cp: "\e11d"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
@@ -1380,6 +1419,7 @@
 .ash-car-battery { --ash-cp: "\e12d"; }
 .ash-car-crane { --ash-cp: "\eb63"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-car-crash { --ash-cp: "\eb64"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-car-door { --ash-cp: "\f8a3"; }
 .ash-car-fan { --ash-cp: "\eb65"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-car-fan-1 { --ash-cp: "\eb66"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-car-fan-2 { --ash-cp: "\eb67"; --ash-cp-secondary-rounded-twotone: ""; }
@@ -1387,6 +1427,7 @@
 .ash-car-fan-auto { --ash-cp: "\eb69"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-car-front { --ash-cp: "\e12e"; }
 .ash-car-garage { --ash-cp: "\eb6a"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-car-lifter { --ash-cp: "\f8a4"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-car-off { --ash-cp: "\eb6b"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-car-off-road { --ash-cp: "\eb6c"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-car-suspension { --ash-cp: "\eb6d"; --ash-cp-secondary-rounded-twotone: ""; }
@@ -1423,6 +1464,7 @@
 .ash-cash-banknote-move-back { --ash-cp: "\eb83"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-cash-banknote-off { --ash-cp: "\eb84"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-cash-banknote-plus { --ash-cp: "\eb85"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-cash-coin { --ash-cp: "\f8a5"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-cash-edit { --ash-cp: "\eb86"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-cash-heart { --ash-cp: "\eb87"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-cash-minus { --ash-cp: "\eb88"; --ash-cp-secondary-rounded-twotone: ""; }
@@ -1515,6 +1557,7 @@
 .ash-chart-scatter-3d { --ash-cp: "\ebc3"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-chart-spline { --ash-cp: "\e154"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-chart-treemap { --ash-cp: "\ebc4"; }
+.ash-chart-waterfall { --ash-cp: "\f8a6"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-check { --ash-cp: "\e155"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-check-check { --ash-cp: "\e156"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-check-line { --ash-cp: "\e157"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
@@ -1563,6 +1606,7 @@
 .ash-chevrons-up-left { --ash-cp: "\ebd8"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-chevrons-up-right { --ash-cp: "\ebd9"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-chisel { --ash-cp: "\ebda"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-chocolate { --ash-cp: "\f8a7"; }
 .ash-christmas-ball { --ash-cp: "\ebdb"; }
 .ash-christmas-tree { --ash-cp: "\ebdc"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-christmas-tree-off { --ash-cp: "\ebdd"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
@@ -1680,6 +1724,7 @@
 .ash-circle-half { --ash-cp: "\ec2e"; }
 .ash-circle-half-2 { --ash-cp: "\ec2f"; }
 .ash-circle-half-vertical { --ash-cp: "\ec30"; }
+.ash-circle-heart { --ash-cp: "\f8a8"; }
 .ash-circle-key { --ash-cp: "\ec31"; }
 .ash-circle-letter-a { --ash-cp: "\ec32"; }
 .ash-circle-letter-b { --ash-cp: "\ec33"; }
@@ -1775,11 +1820,13 @@
 .ash-clapperboard { --ash-cp: "\e1a4"; }
 .ash-clear-all { --ash-cp: "\ec77"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-clear-formatting { --ash-cp: "\ec78"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-clef { --ash-cp: "\f8a9"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-clef-alto { --ash-cp: "\e1a5"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-clef-bass { --ash-cp: "\e1a6"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-clef-staff { --ash-cp: "\f8aa"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-clef-treble { --ash-cp: "\e1a7"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-click { --ash-cp: "\ec79"; --ash-cp-secondary-rounded-twotone: ""; }
-.ash-cliff-jumping { --ash-cp: "\ec7a"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-cliff-jumping { --ash-cp: "\ec7a"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-clipboard { --ash-cp: "\e1a8"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-clipboard-check { --ash-cp: "\e1a9"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-clipboard-clock { --ash-cp: "\e1aa"; }
@@ -1896,6 +1943,7 @@
 .ash-cloud-search { --ash-cp: "\ecbb"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-cloud-share { --ash-cp: "\ecbc"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-cloud-snow { --ash-cp: "\e1d9"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-cloud-sparkle { --ash-cp: "\f8ab"; }
 .ash-cloud-star { --ash-cp: "\ecbd"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-cloud-storm { --ash-cp: "\ecbe"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-cloud-sun { --ash-cp: "\e1da"; --ash-cp-secondary-rounded-twotone: ""; }
@@ -1910,6 +1958,7 @@
 .ash-club { --ash-cp: "\e1e0"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-clubs { --ash-cp: "\ecc2"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-code { --ash-cp: "\e1e1"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-code-ai { --ash-cp: "\f8ac"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-code-asterisk { --ash-cp: "\ecc3"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-code-circle { --ash-cp: "\ecc4"; }
 .ash-code-circle-2 { --ash-cp: "\ecc5"; }
@@ -1923,6 +1972,7 @@
 .ash-code-xml { --ash-cp: "\e1e2"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-codeblock { --ash-cp: "\eccd"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-coffee { --ash-cp: "\e1e3"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-coffee-bean { --ash-cp: "\f8ad"; }
 .ash-coffee-off { --ash-cp: "\ecce"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-coffin { --ash-cp: "\eccf"; }
 .ash-cog { --ash-cp: "\e1e4"; }
@@ -2013,8 +2063,10 @@
 .ash-corner-up-left-double { --ash-cp: "\ed02"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-corner-up-right { --ash-cp: "\e207"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-corner-up-right-double { --ash-cp: "\ed03"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-cowboy-hat { --ash-cp: "\f8ae"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-cpu { --ash-cp: "\e208"; }
 .ash-cpu-2 { --ash-cp: "\ed04"; }
+.ash-cpu-ai { --ash-cp: "\f8af"; }
 .ash-cpu-off { --ash-cp: "\ed05"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-crane { --ash-cp: "\ed06"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-crane-off { --ash-cp: "\ed07"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
@@ -2028,15 +2080,19 @@
 .ash-credit-card { --ash-cp: "\e20a"; }
 .ash-credit-card-check { --ash-cp: "\e20b"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-credit-card-hand { --ash-cp: "\ed0e"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-credit-card-lock { --ash-cp: "\f8b0"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-credit-card-minus { --ash-cp: "\e20c"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-credit-card-off { --ash-cp: "\ed0f"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-credit-card-pay { --ash-cp: "\ed10"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-credit-card-plus { --ash-cp: "\e20d"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-credit-card-reader { --ash-cp: "\e20e"; }
 .ash-credit-card-refund { --ash-cp: "\ed11"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-credit-card-snowflake { --ash-cp: "\f8b1"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-credit-card-x { --ash-cp: "\e20f"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-credits { --ash-cp: "\ed12"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-crib { --ash-cp: "\f8b2"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-cricket { --ash-cp: "\ed13"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-cricket-bat { --ash-cp: "\f8b3"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-croissant { --ash-cp: "\e210"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-crop { --ash-cp: "\e211"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-crop-1-1 { --ash-cp: "\ed14"; --ash-cp-secondary-rounded-twotone: ""; }
@@ -2046,6 +2102,7 @@
 .ash-crop-7-5 { --ash-cp: "\ed18"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-crop-landscape { --ash-cp: "\ed19"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-crop-portrait { --ash-cp: "\ed1a"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-crop-sparkle { --ash-cp: "\f8b4"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-cross { --ash-cp: "\e212"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-cross-off { --ash-cp: "\ed1b"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-crosshair { --ash-cp: "\e213"; }
@@ -2097,6 +2154,7 @@
 .ash-currency-frank { --ash-cp: "\ed44"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-currency-guarani { --ash-cp: "\ed45"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-currency-hryvnia { --ash-cp: "\ed46"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-currency-husd { --ash-cp: "\f8b5"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-currency-iranian-rial { --ash-cp: "\ed47"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-currency-kip { --ash-cp: "\ed48"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-currency-krone-czech { --ash-cp: "\ed49"; --ash-cp-secondary-rounded-twotone: ""; }
@@ -2121,7 +2179,7 @@
 .ash-currency-renminbi { --ash-cp: "\ed5c"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-currency-ripple { --ash-cp: "\ed5d"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-currency-riyal { --ash-cp: "\ed5e"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
-.ash-currency-rubel { --ash-cp: "\ed5f"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-currency-ruble { --ash-cp: "\f8b6"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-currency-rufiyaa { --ash-cp: "\ed60"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-currency-rupee { --ash-cp: "\ed61"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-currency-rupee-nepalese { --ash-cp: "\ed62"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
@@ -2130,17 +2188,20 @@
 .ash-currency-som { --ash-cp: "\ed65"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-currency-taka { --ash-cp: "\ed66"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-currency-tenge { --ash-cp: "\ed67"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-currency-tether { --ash-cp: "\f8b7"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-currency-tugrik { --ash-cp: "\ed68"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-currency-won { --ash-cp: "\ed69"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-currency-xrp { --ash-cp: "\ed6a"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-currency-yen { --ash-cp: "\ed6b"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-currency-yen-off { --ash-cp: "\ed6c"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-currency-yuan { --ash-cp: "\ed6d"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-currency-zcash { --ash-cp: "\f8b8"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-currency-zloty { --ash-cp: "\ed6e"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-current-location { --ash-cp: "\ed6f"; }
 .ash-current-location-off { --ash-cp: "\ed70"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-cursor-off { --ash-cp: "\ed71"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-cursor-text { --ash-cp: "\ed72"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-curtains { --ash-cp: "\f8b9"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-cut { --ash-cp: "\ed73"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-cylinder { --ash-cp: "\e219"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-cylinder-off { --ash-cp: "\ed74"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
@@ -2161,6 +2222,7 @@
 .ash-database-heart { --ash-cp: "\ed7d"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-database-import { --ash-cp: "\ed7e"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-database-leak { --ash-cp: "\ed7f"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-database-lock { --ash-cp: "\f8ba"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-database-minus { --ash-cp: "\e220"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-database-off { --ash-cp: "\ed80"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-database-plus { --ash-cp: "\e221"; --ash-cp-secondary-rounded-twotone: ""; }
@@ -2196,6 +2258,7 @@
 .ash-device-cctv { --ash-cp: "\ed97"; }
 .ash-device-cctv-off { --ash-cp: "\ed98"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-device-computer-camera { --ash-cp: "\ed99"; }
+.ash-device-computer-camera-2 { --ash-cp: "\f8bb"; }
 .ash-device-computer-camera-off { --ash-cp: "\ed9a"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-device-desktop { --ash-cp: "\ed9b"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-device-desktop-analytics { --ash-cp: "\ed9c"; }
@@ -2354,6 +2417,7 @@
 .ash-device-unknown { --ash-cp: "\ee35"; }
 .ash-device-usb { --ash-cp: "\ee36"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-device-vision-pro { --ash-cp: "\ee37"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-device-vision-pro-wifi { --ash-cp: "\f8bc"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-device-watch { --ash-cp: "\ee38"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-device-watch-bolt { --ash-cp: "\ee39"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-device-watch-cancel { --ash-cp: "\ee3a"; }
@@ -2377,6 +2441,7 @@
 .ash-device-watch-stats-2 { --ash-cp: "\ee4c"; }
 .ash-device-watch-up { --ash-cp: "\ee4d"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-device-watch-x { --ash-cp: "\ee4e"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-device-workstation { --ash-cp: "\f8bd"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-devices { --ash-cp: "\ee4f"; }
 .ash-devices-2 { --ash-cp: "\ee50"; }
 .ash-devices-bolt { --ash-cp: "\ee51"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
@@ -2442,6 +2507,7 @@
 .ash-disc-off { --ash-cp: "\ee7c"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-discount { --ash-cp: "\ee7d"; }
 .ash-discount-off { --ash-cp: "\ee7e"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-dishwasher { --ash-cp: "\f8be"; }
 .ash-divide { --ash-cp: "\e23a"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-dna { --ash-cp: "\e23b"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-dna-2 { --ash-cp: "\ee7f"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
@@ -2452,6 +2518,7 @@
 .ash-dog-bowl { --ash-cp: "\ee81"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-dollar-sign { --ash-cp: "\e23f"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-dome { --ash-cp: "\e240"; }
+.ash-domino { --ash-cp: "\f8bf"; }
 .ash-donut { --ash-cp: "\e241"; }
 .ash-door { --ash-cp: "\ee82"; }
 .ash-door-closed { --ash-cp: "\e242"; }
@@ -2460,6 +2527,7 @@
 .ash-door-closed-package { --ash-cp: "\e245"; }
 .ash-door-enter { --ash-cp: "\ee83"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-door-exit { --ash-cp: "\ee84"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-door-hanger { --ash-cp: "\f8c0"; }
 .ash-door-off { --ash-cp: "\ee85"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-door-open { --ash-cp: "\e246"; }
 .ash-door-stairwell { --ash-cp: "\e247"; }
@@ -2474,7 +2542,9 @@
 .ash-drafting-compass { --ash-cp: "\e24a"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-drag-drop { --ash-cp: "\ee8c"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-drag-drop-2 { --ash-cp: "\ee8d"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-dragon { --ash-cp: "\f8c1"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-drama { --ash-cp: "\e24b"; }
+.ash-dress { --ash-cp: "\f8c2"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-drill { --ash-cp: "\e24c"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-drone { --ash-cp: "\e24d"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-drone-off { --ash-cp: "\ee8e"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
@@ -2494,6 +2564,7 @@
 .ash-droplet-minus { --ash-cp: "\ee9b"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-droplet-off { --ash-cp: "\e24f"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-droplet-pause { --ash-cp: "\ee9c"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-droplet-percent { --ash-cp: "\f8c3"; }
 .ash-droplet-pin { --ash-cp: "\ee9d"; }
 .ash-droplet-plus { --ash-cp: "\ee9e"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-droplet-question { --ash-cp: "\ee9f"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
@@ -2507,11 +2578,14 @@
 .ash-drumstick { --ash-cp: "\e252"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-dual-screen { --ash-cp: "\eea5"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-dumbbell { --ash-cp: "\e253"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-dump-truck { --ash-cp: "\f8c4"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-dumpling { --ash-cp: "\eea6"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-duplicate { --ash-cp: "\f8c5"; }
 .ash-e-passport { --ash-cp: "\eea7"; }
 .ash-ear { --ash-cp: "\e254"; }
 .ash-ear-off { --ash-cp: "\e255"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-ear-scan { --ash-cp: "\eea8"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-earphone-bluetooth { --ash-cp: "\f8c6"; }
 .ash-earth { --ash-cp: "\e256"; }
 .ash-earth-lock { --ash-cp: "\e257"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-ease-in { --ash-cp: "\eea9"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
@@ -2521,6 +2595,7 @@
 .ash-ease-out { --ash-cp: "\eead"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-ease-out-control-point { --ash-cp: "\eeae"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-eclipse { --ash-cp: "\e258"; }
+.ash-edit-bulk { --ash-cp: "\f8c7"; }
 .ash-edit-circle { --ash-cp: "\eeaf"; }
 .ash-edit-circle-off { --ash-cp: "\eeb0"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-edit-off { --ash-cp: "\eeb1"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
@@ -2535,6 +2610,7 @@
 .ash-ellipse { --ash-cp: "\e25d"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-ellipsis { --ash-cp: "\e25e"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-ellipsis-vertical { --ash-cp: "\e25f"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-email-stamp { --ash-cp: "\f8c8"; }
 .ash-emergency-bed { --ash-cp: "\eeb6"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-empathize { --ash-cp: "\eeb7"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-empathize-off { --ash-cp: "\eeb8"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
@@ -2548,6 +2624,7 @@
 .ash-equal-not { --ash-cp: "\e264"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-eraser { --ash-cp: "\e265"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-eraser-off { --ash-cp: "\eebc"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-eraser-sparkle { --ash-cp: "\f8c9"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-error-404 { --ash-cp: "\eebd"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-error-404-off { --ash-cp: "\eebe"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-escalator { --ash-cp: "\eebf"; --ash-cp-secondary-rounded-twotone: ""; }
@@ -2561,6 +2638,7 @@
 .ash-exclamation-circle { --ash-cp: "\eec4"; }
 .ash-exclamation-mark { --ash-cp: "\eec5"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-exclamation-mark-off { --ash-cp: "\eec6"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-exercise-ball { --ash-cp: "\f8ca"; }
 .ash-expand { --ash-cp: "\e269"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-explicit { --ash-cp: "\eec7"; }
 .ash-explicit-off { --ash-cp: "\eec8"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
@@ -2598,6 +2676,7 @@
 .ash-eye-search { --ash-cp: "\eee3"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-eye-share { --ash-cp: "\eee4"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-eye-spark { --ash-cp: "\eee5"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-eye-sparkle { --ash-cp: "\f8cb"; }
 .ash-eye-star { --ash-cp: "\eee6"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-eye-table { --ash-cp: "\eee7"; }
 .ash-eye-up { --ash-cp: "\eee8"; --ash-cp-secondary-rounded-twotone: ""; }
@@ -2641,6 +2720,7 @@
 .ash-file-badge { --ash-cp: "\e280"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-file-barcode { --ash-cp: "\eefd"; }
 .ash-file-bitcoin { --ash-cp: "\eefe"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-file-bookmark { --ash-cp: "\f8cc"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-file-box { --ash-cp: "\e281"; }
 .ash-file-braces { --ash-cp: "\e282"; }
 .ash-file-braces-corner { --ash-cp: "\e283"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
@@ -2654,6 +2734,7 @@
 .ash-file-check { --ash-cp: "\e288"; }
 .ash-file-check-corner { --ash-cp: "\e289"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-file-clock { --ash-cp: "\e28a"; }
+.ash-file-cloud { --ash-cp: "\f8cd"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-file-code { --ash-cp: "\e28b"; }
 .ash-file-code-corner { --ash-cp: "\e28c"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-file-cog { --ash-cp: "\e28d"; --ash-cp-secondary-rounded-twotone: ""; }
@@ -2672,6 +2753,7 @@
 .ash-file-excel { --ash-cp: "\ef0b"; }
 .ash-file-exclamation-point { --ash-cp: "\e291"; }
 .ash-file-export { --ash-cp: "\ef0c"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-file-eye { --ash-cp: "\f8ce"; }
 .ash-file-function { --ash-cp: "\ef0d"; }
 .ash-file-headphone { --ash-cp: "\e292"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-file-heart { --ash-cp: "\e293"; --ash-cp-secondary-rounded-twotone: ""; }
@@ -2687,6 +2769,7 @@
 .ash-file-lambda { --ash-cp: "\ef14"; }
 .ash-file-like { --ash-cp: "\ef15"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-file-lock { --ash-cp: "\e297"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-file-lock-open { --ash-cp: "\f8cf"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-file-minus { --ash-cp: "\e298"; }
 .ash-file-minus-corner { --ash-cp: "\e299"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-file-music { --ash-cp: "\e29a"; --ash-cp-secondary-rounded-twotone: ""; }
@@ -2699,6 +2782,7 @@
 .ash-file-pencil { --ash-cp: "\ef19"; }
 .ash-file-percent { --ash-cp: "\ef1a"; }
 .ash-file-phone { --ash-cp: "\ef1b"; }
+.ash-file-pin { --ash-cp: "\f8d0"; }
 .ash-file-play { --ash-cp: "\e29e"; }
 .ash-file-plus { --ash-cp: "\e29f"; }
 .ash-file-plus-corner { --ash-cp: "\e2a0"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
@@ -2712,6 +2796,7 @@
 .ash-file-search { --ash-cp: "\e2a3"; }
 .ash-file-search-corner { --ash-cp: "\e2a4"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-file-settings { --ash-cp: "\ef21"; }
+.ash-file-shield { --ash-cp: "\f8d1"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-file-shredder { --ash-cp: "\ef22"; }
 .ash-file-signal { --ash-cp: "\e2a5"; }
 .ash-file-sliders { --ash-cp: "\e2a6"; }
@@ -2767,6 +2852,7 @@
 .ash-files { --ash-cp: "\e2b4"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-files-off { --ash-cp: "\ef47"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-film { --ash-cp: "\e2b5"; }
+.ash-film-roll { --ash-cp: "\f8d2"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-filter-2 { --ash-cp: "\ef48"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-filter-2-bolt { --ash-cp: "\ef49"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-filter-2-cancel { --ash-cp: "\ef4a"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
@@ -2873,14 +2959,18 @@
 .ash-flask-conical-off { --ash-cp: "\e2c6"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-flask-off { --ash-cp: "\ef9f"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-flask-round { --ash-cp: "\e2c7"; }
+.ash-flask-sparkle { --ash-cp: "\f8d3"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-flip-flops { --ash-cp: "\efa0"; }
 .ash-float-center { --ash-cp: "\efa1"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-float-left { --ash-cp: "\efa2"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-float-none { --ash-cp: "\efa3"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-float-right { --ash-cp: "\efa4"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-flood { --ash-cp: "\f8d4"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-floor-plan { --ash-cp: "\f8d5"; }
 .ash-flower { --ash-cp: "\e2c8"; }
 .ash-flower-2 { --ash-cp: "\e2c9"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-flower-off { --ash-cp: "\efa5"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-flower-pot { --ash-cp: "\f8d6"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-focus { --ash-cp: "\e2ca"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-focus-2 { --ash-cp: "\efa6"; }
 .ash-focus-auto { --ash-cp: "\efa7"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
@@ -2891,6 +2981,7 @@
 .ash-fold-up { --ash-cp: "\efab"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-fold-vertical { --ash-cp: "\e2cc"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-folder { --ash-cp: "\e2cd"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-folder-ai { --ash-cp: "\f8d7"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-folder-archive { --ash-cp: "\e2ce"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-folder-bolt { --ash-cp: "\efac"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-folder-bookmark { --ash-cp: "\e2cf"; }
@@ -2898,12 +2989,14 @@
 .ash-folder-check { --ash-cp: "\e2d0"; }
 .ash-folder-clock { --ash-cp: "\e2d1"; }
 .ash-folder-closed { --ash-cp: "\e2d2"; }
+.ash-folder-cloud { --ash-cp: "\f8d8"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-folder-code { --ash-cp: "\e2d3"; }
 .ash-folder-cog { --ash-cp: "\e2d4"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-folder-dollar { --ash-cp: "\efae"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-folder-dot { --ash-cp: "\e2d5"; }
 .ash-folder-down { --ash-cp: "\e2d6"; }
 .ash-folder-exclamation { --ash-cp: "\efaf"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-folder-eye { --ash-cp: "\f8d9"; }
 .ash-folder-git { --ash-cp: "\e2d7"; }
 .ash-folder-git-2 { --ash-cp: "\e2d8"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-folder-heart { --ash-cp: "\e2d9"; --ash-cp-secondary-rounded-twotone: ""; }
@@ -2911,7 +3004,9 @@
 .ash-folder-kanban { --ash-cp: "\e2db"; }
 .ash-folder-key { --ash-cp: "\e2dc"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-folder-lock { --ash-cp: "\e2dd"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-folder-lock-open { --ash-cp: "\f8da"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-folder-minus { --ash-cp: "\e2de"; }
+.ash-folder-music { --ash-cp: "\f8db"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-folder-off { --ash-cp: "\efb0"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-folder-open { --ash-cp: "\e2df"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-folder-open-dot { --ash-cp: "\e2e0"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
@@ -2925,15 +3020,21 @@
 .ash-folder-search { --ash-cp: "\e2e5"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-folder-search-2 { --ash-cp: "\e2e6"; }
 .ash-folder-share { --ash-cp: "\efb4"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-folder-shield { --ash-cp: "\f8dc"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-folder-sparkle { --ash-cp: "\f8dd"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-folder-star { --ash-cp: "\efb5"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-folder-stats { --ash-cp: "\f8de"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-folder-symlink { --ash-cp: "\e2e7"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-folder-sync { --ash-cp: "\e2e8"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-folder-tree { --ash-cp: "\e2e9"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-folder-up { --ash-cp: "\e2ea"; }
+.ash-folder-user { --ash-cp: "\f8df"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-folder-video { --ash-cp: "\f8e0"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-folder-x { --ash-cp: "\e2eb"; }
 .ash-folders { --ash-cp: "\e2ec"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-folders-off { --ash-cp: "\efb6"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-footprints { --ash-cp: "\e2ed"; }
+.ash-footsteps { --ash-cp: "\f8e1"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-forbid { --ash-cp: "\efb7"; }
 .ash-forbid-2 { --ash-cp: "\efb8"; }
 .ash-forklift { --ash-cp: "\e2ee"; --ash-cp-secondary-rounded-twotone: ""; }
@@ -2948,6 +3049,7 @@
 .ash-freeze-column { --ash-cp: "\efbe"; }
 .ash-freeze-row { --ash-cp: "\efbf"; }
 .ash-freeze-row-column { --ash-cp: "\efc0"; }
+.ash-french-fries { --ash-cp: "\f8e2"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-fridge { --ash-cp: "\efc1"; }
 .ash-fridge-off { --ash-cp: "\efc2"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-friends { --ash-cp: "\efc3"; --ash-cp-secondary-rounded-twotone: ""; }
@@ -2955,6 +3057,7 @@
 .ash-frustum { --ash-cp: "\efc5"; }
 .ash-frustum-off { --ash-cp: "\efc6"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-frustum-plus { --ash-cp: "\efc7"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-frying-pan { --ash-cp: "\f8e3"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-fuel { --ash-cp: "\e2f2"; }
 .ash-fullscreen { --ash-cp: "\e2f3"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-function { --ash-cp: "\efc8"; }
@@ -2973,6 +3076,7 @@
 .ash-gamepad-directional { --ash-cp: "\e2ff"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-gap-horizontal { --ash-cp: "\e300"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-gap-vertical { --ash-cp: "\e301"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-garbage-truck { --ash-cp: "\f8e4"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-garden-cart { --ash-cp: "\efca"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-garden-cart-off { --ash-cp: "\efcb"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-gas-station { --ash-cp: "\efcc"; }
@@ -2998,7 +3102,7 @@
 .ash-gender-neutrois { --ash-cp: "\efdd"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-gender-third { --ash-cp: "\efde"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-gender-transgender { --ash-cp: "\efdf"; --ash-cp-secondary-rounded-twotone: ""; }
-.ash-gender-trasvesti { --ash-cp: "\efe0"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-gender-travesti { --ash-cp: "\f8e5"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-geometry { --ash-cp: "\efe1"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-georgian-lari { --ash-cp: "\e305"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-germ { --ash-cp: "\e306"; }
@@ -3012,9 +3116,11 @@
 .ash-gift-card { --ash-cp: "\efe6"; }
 .ash-gift-off { --ash-cp: "\efe7"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-git-branch { --ash-cp: "\e30a"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-git-branch-check { --ash-cp: "\f8e6"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-git-branch-deleted { --ash-cp: "\efe8"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-git-branch-minus { --ash-cp: "\e30b"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-git-branch-plus { --ash-cp: "\e30c"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-git-branch-x { --ash-cp: "\f8e7"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-git-cherry-pick { --ash-cp: "\efe9"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-git-commit-horizontal { --ash-cp: "\e30d"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-git-commit-vertical { --ash-cp: "\e30e"; --ash-cp-secondary-rounded-twotone: ""; }
@@ -3024,12 +3130,16 @@
 .ash-git-graph { --ash-cp: "\e312"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-git-merge { --ash-cp: "\e313"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-git-merge-conflict { --ash-cp: "\e314"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-git-merge-queue { --ash-cp: "\f8e8"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-git-pull-request { --ash-cp: "\e315"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-git-pull-request-arrow { --ash-cp: "\e316"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-git-pull-request-closed { --ash-cp: "\e317"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-git-pull-request-conflict { --ash-cp: "\f8e9"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-git-pull-request-create { --ash-cp: "\e318"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-git-pull-request-create-arrow { --ash-cp: "\e319"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-git-pull-request-draft { --ash-cp: "\e31a"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-git-pull-request-locked { --ash-cp: "\f8ea"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-git-pull-request-unlisted { --ash-cp: "\f8eb"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-gizmo { --ash-cp: "\efea"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-glass { --ash-cp: "\efeb"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-glass-champagne { --ash-cp: "\efec"; --ash-cp-secondary-rounded-twotone: ""; }
@@ -3047,12 +3157,15 @@
 .ash-globe-x { --ash-cp: "\e322"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-go-game { --ash-cp: "\eff1"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-goal { --ash-cp: "\e323"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-gold-bars { --ash-cp: "\f8ec"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-golf { --ash-cp: "\eff2"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-golf-off { --ash-cp: "\eff3"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-gps { --ash-cp: "\eff4"; }
 .ash-gpu { --ash-cp: "\e324"; }
+.ash-gpu-2 { --ash-cp: "\f8ed"; }
 .ash-gradienter { --ash-cp: "\eff5"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-graduation-cap { --ash-cp: "\e325"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-graduation-cap-sparkle { --ash-cp: "\f8ee"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-grain { --ash-cp: "\eff6"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-grape { --ash-cp: "\e326"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-graph { --ash-cp: "\eff7"; }
@@ -3082,6 +3195,7 @@
 .ash-growth { --ash-cp: "\f004"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-guitar { --ash-cp: "\e332"; }
 .ash-guitar-pick { --ash-cp: "\f005"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-gymnastic-rings { --ash-cp: "\f8ef"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-gymnastics { --ash-cp: "\f006"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-h-1 { --ash-cp: "\f007"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-h-2 { --ash-cp: "\f008"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
@@ -3089,9 +3203,11 @@
 .ash-h-4 { --ash-cp: "\f00a"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-h-5 { --ash-cp: "\f00b"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-h-6 { --ash-cp: "\f00c"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-hair-dryer { --ash-cp: "\f8f0"; }
 .ash-ham { --ash-cp: "\e333"; }
 .ash-hamburger { --ash-cp: "\e334"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-hammer { --ash-cp: "\e335"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-hammer-drill { --ash-cp: "\f8f1"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-hammer-off { --ash-cp: "\f00d"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-hand { --ash-cp: "\e336"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-hand-click { --ash-cp: "\f00e"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
@@ -3119,6 +3235,7 @@
 .ash-hand-three-fingers { --ash-cp: "\f01d"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-hand-two-fingers { --ash-cp: "\f01e"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-handbag { --ash-cp: "\e33e"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-handle-bottom-right { --ash-cp: "\f8f2"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-handshake { --ash-cp: "\e33f"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-hanger { --ash-cp: "\f01f"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-hanger-2 { --ash-cp: "\f020"; --ash-cp-secondary-rounded-twotone: ""; }
@@ -3289,6 +3406,8 @@
 .ash-home-stats { --ash-cp: "\f0a5"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-home-up { --ash-cp: "\f0a6"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-home-x { --ash-cp: "\f0a7"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-honey-jar { --ash-cp: "\f8f3"; }
+.ash-hoodie { --ash-cp: "\f8f4"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-hop { --ash-cp: "\e360"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-hop-off { --ash-cp: "\e361"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-horse { --ash-cp: "\f0a8"; --ash-cp-secondary-rounded-twotone: ""; }
@@ -3296,6 +3415,7 @@
 .ash-horseshoe { --ash-cp: "\f0aa"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-hospital { --ash-cp: "\e362"; }
 .ash-hospital-circle { --ash-cp: "\f0ab"; }
+.ash-hotdog { --ash-cp: "\f8f5"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-hotel { --ash-cp: "\e363"; }
 .ash-hotel-service { --ash-cp: "\f0ac"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-hourglass { --ash-cp: "\e364"; --ash-cp-secondary-rounded-twotone: ""; }
@@ -3334,6 +3454,9 @@
 .ash-http-que-off { --ash-cp: "\f0c5"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-http-trace { --ash-cp: "\f0c6"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-http-trace-off { --ash-cp: "\f0c7"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-hula-hoop { --ash-cp: "\f8f6"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-hut { --ash-cp: "\f8f7"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-hyperbola { --ash-cp: "\f8f8"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-ice-cream-bowl { --ash-cp: "\e36d"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-ice-cream-cone { --ash-cp: "\e36e"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-ice-cream-off { --ash-cp: "\f0c8"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
@@ -3341,14 +3464,16 @@
 .ash-iceberg { --ash-cp: "\f0ca"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-icons { --ash-cp: "\f0cb"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-icons-off { --ash-cp: "\f0cc"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-icosahedron { --ash-cp: "\f8f9"; }
 .ash-id { --ash-cp: "\f0cd"; }
 .ash-id-badge { --ash-cp: "\f0ce"; }
 .ash-id-badge-2 { --ash-cp: "\f0cf"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-id-badge-off { --ash-cp: "\f0d0"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-id-card { --ash-cp: "\e36f"; }
+.ash-id-card-check { --ash-cp: "\f8fa"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-id-card-lanyard { --ash-cp: "\e370"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-id-card-x { --ash-cp: "\f8fb"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-id-off { --ash-cp: "\f0d1"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
-.ash-ikosaedr { --ash-cp: "\f0d2"; }
 .ash-image { --ash-cp: "\e371"; }
 .ash-image-down { --ash-cp: "\e372"; }
 .ash-image-generation { --ash-cp: "\f0d3"; --ash-cp-secondary-rounded-twotone: ""; }
@@ -3362,9 +3487,13 @@
 .ash-images { --ash-cp: "\e379"; }
 .ash-import { --ash-cp: "\e37a"; }
 .ash-inbox { --ash-cp: "\e37b"; }
+.ash-inbox-arrow-down { --ash-cp: "\f8fc"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-inbox-arrow-up { --ash-cp: "\f8fd"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-inbox-check { --ash-cp: "\f8fe"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-inbox-off { --ash-cp: "\f0d5"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-indian-rupee { --ash-cp: "\e37c"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-infinity { --ash-cp: "\e37d"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-infinity-2 { --ash-cp: "\f8ff"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-infinity-off { --ash-cp: "\f0d6"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-info { --ash-cp: "\e37e"; }
 .ash-info-circle { --ash-cp: "\f0d7"; }
@@ -3400,6 +3529,7 @@
 .ash-irregular-polyhedron-off { --ash-cp: "\f0f4"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-irregular-polyhedron-plus { --ash-cp: "\f0f5"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-italic { --ash-cp: "\e380"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-italic-off { --ash-cp: "\f0000"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-iteration-ccw { --ash-cp: "\e381"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-iteration-cw { --ash-cp: "\e382"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-iv-bag { --ash-cp: "\e383"; }
@@ -3417,10 +3547,11 @@
 .ash-json { --ash-cp: "\f0ff"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-jump-rope { --ash-cp: "\f100"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-kanban { --ash-cp: "\e386"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
-.ash-karate { --ash-cp: "\f101"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-karate { --ash-cp: "\f101"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-kayak { --ash-cp: "\e387"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-kazakh-tenge { --ash-cp: "\e388"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-kerning { --ash-cp: "\f102"; }
+.ash-kettlebell { --ash-cp: "\f0001"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-key { --ash-cp: "\e389"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-key-off { --ash-cp: "\f103"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-key-round { --ash-cp: "\e38a"; }
@@ -3435,6 +3566,7 @@
 .ash-keyframe-align-horizontal { --ash-cp: "\f108"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-keyframe-align-vertical { --ash-cp: "\f109"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-keyframes { --ash-cp: "\f10a"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-kidneys { --ash-cp: "\f0002"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-label { --ash-cp: "\f10b"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-label-important { --ash-cp: "\f10c"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-label-off { --ash-cp: "\f10d"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
@@ -3458,9 +3590,11 @@
 .ash-language-katakana { --ash-cp: "\f116"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-language-off { --ash-cp: "\f117"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-languages { --ash-cp: "\e398"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-lantern { --ash-cp: "\f0003"; }
 .ash-laptop { --ash-cp: "\e399"; }
 .ash-laptop-minimal { --ash-cp: "\e39a"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-laptop-minimal-check { --ash-cp: "\e39b"; }
+.ash-laptop-sparkle { --ash-cp: "\f0004"; }
 .ash-lasso { --ash-cp: "\e39c"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-lasso-off { --ash-cp: "\f118"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-lasso-polygon { --ash-cp: "\f119"; --ash-cp-secondary-rounded-twotone: ""; }
@@ -3469,6 +3603,7 @@
 .ash-laurel-wreath-1 { --ash-cp: "\f11b"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-laurel-wreath-2 { --ash-cp: "\f11c"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-laurel-wreath-3 { --ash-cp: "\f11d"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-lawn-mower { --ash-cp: "\f0005"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-layer-arrow-down { --ash-cp: "\e39e"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-layer-arrow-up { --ash-cp: "\e39f"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-layers { --ash-cp: "\e3a0"; --ash-cp-secondary-rounded-twotone: ""; }
@@ -3530,9 +3665,11 @@
 .ash-layout-sidebar-right-collapse { --ash-cp: "\f147"; }
 .ash-layout-sidebar-right-expand { --ash-cp: "\f148"; }
 .ash-layout-sidebar-right-inactive { --ash-cp: "\f149"; }
+.ash-layout-sparkle { --ash-cp: "\f0006"; }
 .ash-layout-template { --ash-cp: "\e3af"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-leaf { --ash-cp: "\e3b0"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-leaf-2 { --ash-cp: "\f14a"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-leaf-maple { --ash-cp: "\f0007"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-leaf-off { --ash-cp: "\f14b"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-leafy-green { --ash-cp: "\e3b1"; }
 .ash-lectern { --ash-cp: "\e3b2"; --ash-cp-secondary-rounded-twotone: ""; }
@@ -3540,6 +3677,7 @@
 .ash-lego-off { --ash-cp: "\f14d"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-lemon { --ash-cp: "\f14e"; }
 .ash-lemon-2 { --ash-cp: "\f14f"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-lens { --ash-cp: "\f0008"; }
 .ash-lens-concave { --ash-cp: "\e3b3"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-lens-convex { --ash-cp: "\e3b4"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-letter-a { --ash-cp: "\f150"; }
@@ -3613,6 +3751,7 @@
 .ash-ligature { --ash-cp: "\e3b9"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-lightbulb { --ash-cp: "\e3ba"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-lightbulb-off { --ash-cp: "\e3bb"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-lightbulb-sparkle { --ash-cp: "\f0009"; }
 .ash-lighter { --ash-cp: "\f190"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-lighthouse { --ash-cp: "\e3bc"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-line { --ash-cp: "\f191"; --ash-cp-secondary-rounded-twotone: ""; }
@@ -3666,6 +3805,7 @@
 .ash-load-balancer { --ash-cp: "\f1a0"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-loader { --ash-cp: "\e3de"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-loader-3 { --ash-cp: "\f1a1"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-loader-4 { --ash-cp: "\f000a"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-loader-circle { --ash-cp: "\e3df"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-loader-pinwheel { --ash-cp: "\e3e0"; }
 .ash-loader-quarter { --ash-cp: "\f1a2"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
@@ -3722,6 +3862,7 @@
 .ash-lock-question { --ash-cp: "\f1ce"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-lock-search { --ash-cp: "\f1cf"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-lock-share { --ash-cp: "\f1d0"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-lock-sparkle { --ash-cp: "\f000b"; }
 .ash-lock-square { --ash-cp: "\f1d1"; }
 .ash-lock-square-rounded { --ash-cp: "\f1d2"; }
 .ash-lock-star { --ash-cp: "\f1d3"; --ash-cp-secondary-rounded-twotone: ""; }
@@ -3744,6 +3885,7 @@
 .ash-logs { --ash-cp: "\e3ea"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-lollipop { --ash-cp: "\e3eb"; }
 .ash-lollipop-off { --ash-cp: "\f1e2"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-loyalty-card { --ash-cp: "\f000c"; }
 .ash-luggage { --ash-cp: "\e3ec"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-luggage-off { --ash-cp: "\f1e3"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-lungs { --ash-cp: "\f1e4"; --ash-cp-secondary-rounded-twotone: ""; }
@@ -3764,11 +3906,14 @@
 .ash-mail-code { --ash-cp: "\f1ee"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-mail-cog { --ash-cp: "\f1ef"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-mail-dollar { --ash-cp: "\f1f0"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-mail-dot { --ash-cp: "\f000d"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-mail-down { --ash-cp: "\f1f1"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-mail-exclamation { --ash-cp: "\f1f2"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-mail-fast { --ash-cp: "\f1f3"; }
 .ash-mail-forward { --ash-cp: "\f1f4"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-mail-heart { --ash-cp: "\f1f5"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-mail-lock { --ash-cp: "\f000e"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-mail-lock-open { --ash-cp: "\f000f"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-mail-minus { --ash-cp: "\e3f2"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-mail-off { --ash-cp: "\f1f6"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-mail-open { --ash-cp: "\e3f3"; }
@@ -3778,8 +3923,10 @@
 .ash-mail-pin { --ash-cp: "\f1f9"; }
 .ash-mail-plus { --ash-cp: "\e3f5"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-mail-question-mark { --ash-cp: "\e3f6"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-mail-reply { --ash-cp: "\f0010"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-mail-search { --ash-cp: "\e3f7"; }
 .ash-mail-share { --ash-cp: "\f1fa"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-mail-shield { --ash-cp: "\f0011"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-mail-spark { --ash-cp: "\f1fb"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-mail-star { --ash-cp: "\f1fc"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-mail-up { --ash-cp: "\f1fd"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
@@ -3905,6 +4052,8 @@
 .ash-maximize { --ash-cp: "\e410"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-maximize-2 { --ash-cp: "\e411"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-maximize-off { --ash-cp: "\f25d"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-maximize-sparkle { --ash-cp: "\f0012"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-maze { --ash-cp: "\f0013"; }
 .ash-meat { --ash-cp: "\f25e"; }
 .ash-meat-off { --ash-cp: "\f25f"; }
 .ash-medal { --ash-cp: "\e412"; }
@@ -3917,6 +4066,7 @@
 .ash-megaphone { --ash-cp: "\e413"; }
 .ash-megaphone-off { --ash-cp: "\e414"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-melon { --ash-cp: "\f266"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-memory { --ash-cp: "\f0014"; }
 .ash-memory-stick { --ash-cp: "\e415"; }
 .ash-menorah { --ash-cp: "\f267"; }
 .ash-menu { --ash-cp: "\e416"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
@@ -3929,6 +4079,7 @@
 .ash-mesh { --ash-cp: "\f26d"; }
 .ash-message { --ash-cp: "\f26e"; }
 .ash-message-2 { --ash-cp: "\f26f"; }
+.ash-message-2-ai { --ash-cp: "\f0015"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-message-2-bolt { --ash-cp: "\f270"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-message-2-cancel { --ash-cp: "\f271"; }
 .ash-message-2-check { --ash-cp: "\f272"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
@@ -3946,9 +4097,11 @@
 .ash-message-2-question { --ash-cp: "\f27e"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-message-2-search { --ash-cp: "\f27f"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-message-2-share { --ash-cp: "\f280"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-message-2-sparkle { --ash-cp: "\f0016"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-message-2-star { --ash-cp: "\f281"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-message-2-up { --ash-cp: "\f282"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-message-2-x { --ash-cp: "\f283"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-message-ai { --ash-cp: "\f0017"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-message-bolt { --ash-cp: "\f284"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-message-cancel { --ash-cp: "\f285"; }
 .ash-message-chatbot { --ash-cp: "\f286"; }
@@ -3980,6 +4133,7 @@
 .ash-message-circle-user { --ash-cp: "\f295"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-message-circle-warning { --ash-cp: "\e423"; }
 .ash-message-circle-x { --ash-cp: "\e424"; }
+.ash-message-clock { --ash-cp: "\f0018"; }
 .ash-message-code { --ash-cp: "\f296"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-message-cog { --ash-cp: "\f297"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-message-dollar { --ash-cp: "\f298"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
@@ -3989,6 +4143,8 @@
 .ash-message-forward { --ash-cp: "\f29c"; }
 .ash-message-heart { --ash-cp: "\f29d"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-message-language { --ash-cp: "\f29e"; }
+.ash-message-lock { --ash-cp: "\f0019"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-message-lock-open { --ash-cp: "\f001a"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-message-minus { --ash-cp: "\f29f"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-message-off { --ash-cp: "\f2a0"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-message-pause { --ash-cp: "\f2a1"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
@@ -3999,6 +4155,8 @@
 .ash-message-report { --ash-cp: "\f2a6"; }
 .ash-message-search { --ash-cp: "\f2a7"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-message-share { --ash-cp: "\f2a8"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-message-shield { --ash-cp: "\f001b"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-message-sparkle { --ash-cp: "\f001c"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-message-square { --ash-cp: "\e425"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-message-square-check { --ash-cp: "\e426"; }
 .ash-message-square-code { --ash-cp: "\e427"; }
@@ -4033,6 +4191,7 @@
 .ash-mic-audio-lines { --ash-cp: "\e43a"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-mic-off { --ash-cp: "\e43b"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-mic-signal { --ash-cp: "\e43c"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-mic-sparkle { --ash-cp: "\f001d"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-mic-vocal { --ash-cp: "\e43d"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-michelin-bib-gourmand { --ash-cp: "\f2b3"; }
 .ash-michelin-star { --ash-cp: "\f2b4"; --ash-cp-secondary-rounded-twotone: ""; }
@@ -4054,8 +4213,10 @@
 .ash-military-award { --ash-cp: "\f2bf"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-military-rank { --ash-cp: "\f2c0"; }
 .ash-milk { --ash-cp: "\e443"; }
+.ash-milk-carton { --ash-cp: "\f001e"; }
 .ash-milk-off { --ash-cp: "\e444"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-milkshake { --ash-cp: "\f2c1"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-minibus { --ash-cp: "\f001f"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-minimize { --ash-cp: "\e445"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-minimize-2 { --ash-cp: "\e446"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-minus { --ash-cp: "\e447"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
@@ -4066,6 +4227,8 @@
 .ash-mist-off { --ash-cp: "\f2c4"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-mobiledata { --ash-cp: "\f2c5"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-mobiledata-off { --ash-cp: "\f2c6"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-model-ai { --ash-cp: "\f0020"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-molecule { --ash-cp: "\f0021"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-moneybag { --ash-cp: "\f2c7"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-moneybag-edit { --ash-cp: "\f2c8"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-moneybag-heart { --ash-cp: "\f2c9"; --ash-cp-secondary-rounded-twotone: ""; }
@@ -4084,11 +4247,13 @@
 .ash-monitor-pc { --ash-cp: "\e452"; }
 .ash-monitor-play { --ash-cp: "\e453"; }
 .ash-monitor-smartphone { --ash-cp: "\e454"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-monitor-sparkle { --ash-cp: "\f0022"; }
 .ash-monitor-speaker { --ash-cp: "\e455"; }
 .ash-monitor-stop { --ash-cp: "\e456"; }
 .ash-monitor-up { --ash-cp: "\e457"; }
 .ash-monitor-x { --ash-cp: "\e458"; }
 .ash-monkeybar { --ash-cp: "\f2ce"; }
+.ash-mood-angel { --ash-cp: "\f0023"; }
 .ash-mood-angry { --ash-cp: "\f2cf"; }
 .ash-mood-annoyed { --ash-cp: "\f2d0"; }
 .ash-mood-annoyed-2 { --ash-cp: "\f2d1"; }
@@ -4096,7 +4261,7 @@
 .ash-mood-boy { --ash-cp: "\f2d3"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-mood-check { --ash-cp: "\f2d4"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-mood-cog { --ash-cp: "\f2d5"; --ash-cp-secondary-rounded-twotone: ""; }
-.ash-mood-confuzed { --ash-cp: "\f2d6"; }
+.ash-mood-confused { --ash-cp: "\f0024"; }
 .ash-mood-crazy-happy { --ash-cp: "\f2d7"; }
 .ash-mood-cry { --ash-cp: "\f2d8"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-mood-dollar { --ash-cp: "\f2d9"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
@@ -4130,6 +4295,7 @@
 .ash-mood-smile-beam { --ash-cp: "\f2f5"; }
 .ash-mood-smile-dizzy { --ash-cp: "\f2f6"; }
 .ash-mood-spark { --ash-cp: "\f2f7"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-mood-sparkle { --ash-cp: "\f0025"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-mood-surprised { --ash-cp: "\f2f8"; }
 .ash-mood-tongue { --ash-cp: "\f2f9"; }
 .ash-mood-tongue-wink { --ash-cp: "\f2fa"; }
@@ -4245,6 +4411,7 @@
 .ash-navigation-up { --ash-cp: "\f33f"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-navigation-west { --ash-cp: "\f340"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-navigation-x { --ash-cp: "\f341"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-necklace { --ash-cp: "\f0026"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-needle { --ash-cp: "\f342"; }
 .ash-needle-thread { --ash-cp: "\f343"; }
 .ash-nepali-rupee { --ash-cp: "\e482"; --ash-cp-secondary-rounded-twotone: ""; }
@@ -4259,8 +4426,10 @@
 .ash-no-copyright { --ash-cp: "\f349"; }
 .ash-no-creative-commons { --ash-cp: "\f34a"; }
 .ash-no-derivatives { --ash-cp: "\f34b"; }
+.ash-noise-reduction { --ash-cp: "\f0027"; }
 .ash-non-binary { --ash-cp: "\e486"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-north-star { --ash-cp: "\f34c"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-notdef { --ash-cp: "\f0028"; }
 .ash-note { --ash-cp: "\f34d"; }
 .ash-note-off { --ash-cp: "\f34e"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-notebook { --ash-cp: "\e487"; }
@@ -4407,6 +4576,7 @@
 .ash-octahedron { --ash-cp: "\f3ce"; }
 .ash-octahedron-off { --ash-cp: "\f3cf"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-octahedron-plus { --ash-cp: "\f3d0"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-octopus { --ash-cp: "\f0029"; }
 .ash-old { --ash-cp: "\f3d1"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-olympic-torch { --ash-cp: "\f3d2"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-olympics { --ash-cp: "\f3d3"; --ash-cp-secondary-rounded-twotone: ""; }
@@ -4415,15 +4585,19 @@
 .ash-omega { --ash-cp: "\e495"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-option { --ash-cp: "\e496"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-orbit { --ash-cp: "\e497"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-orbit-vertical { --ash-cp: "\f002a"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-orbits { --ash-cp: "\f002b"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-origami { --ash-cp: "\e498"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-outbound { --ash-cp: "\f3d6"; }
 .ash-outlet { --ash-cp: "\f3d7"; }
 .ash-oval { --ash-cp: "\f3d8"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-oval-vertical { --ash-cp: "\f3d9"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-oven-mitt { --ash-cp: "\f002c"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-overline { --ash-cp: "\f3da"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-package { --ash-cp: "\e499"; }
 .ash-package-2 { --ash-cp: "\e49a"; }
 .ash-package-check { --ash-cp: "\e49b"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-package-clock { --ash-cp: "\f002d"; }
 .ash-package-export { --ash-cp: "\f3db"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-package-import { --ash-cp: "\f3dc"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-package-minus { --ash-cp: "\e49c"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
@@ -4472,8 +4646,10 @@
 .ash-paper-bag { --ash-cp: "\e4bc"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-paper-bag-off { --ash-cp: "\f3e8"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-paperclip { --ash-cp: "\e4bd"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-parabola { --ash-cp: "\f002e"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-parachute { --ash-cp: "\f3e9"; }
 .ash-parachute-off { --ash-cp: "\f3ea"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-parallelogram { --ash-cp: "\f002f"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-parasol { --ash-cp: "\e4be"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-parentheses { --ash-cp: "\e4bf"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-parentheses-off { --ash-cp: "\f3eb"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
@@ -4499,6 +4675,7 @@
 .ash-pen-off { --ash-cp: "\e4c8"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-pen-tool { --ash-cp: "\e4c9"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-pencil { --ash-cp: "\e4ca"; }
+.ash-pencil-ai { --ash-cp: "\f0030"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-pencil-bolt { --ash-cp: "\f3f7"; }
 .ash-pencil-cancel { --ash-cp: "\f3f8"; }
 .ash-pencil-check { --ash-cp: "\f3f9"; }
@@ -4523,6 +4700,7 @@
 .ash-pencil-star { --ash-cp: "\f408"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-pencil-up { --ash-cp: "\f409"; }
 .ash-pencil-x { --ash-cp: "\f40a"; }
+.ash-pendulum { --ash-cp: "\f0031"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-pennant { --ash-cp: "\f40b"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-pennant-2 { --ash-cp: "\f40c"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-pennant-off { --ash-cp: "\f40d"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
@@ -4575,6 +4753,8 @@
 .ash-phone-end { --ash-cp: "\f435"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-phone-forwarded { --ash-cp: "\e4d6"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-phone-incoming { --ash-cp: "\e4d7"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-phone-lock { --ash-cp: "\f0032"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-phone-log { --ash-cp: "\f0033"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-phone-missed { --ash-cp: "\e4d8"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-phone-off { --ash-cp: "\e4d9"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-phone-outgoing { --ash-cp: "\e4da"; --ash-cp-secondary-rounded-twotone: ""; }
@@ -4585,6 +4765,7 @@
 .ash-phone-x { --ash-cp: "\f43a"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-photo { --ash-cp: "\f43b"; }
 .ash-photo-ai { --ash-cp: "\f43c"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-photo-alt { --ash-cp: "\f0034"; }
 .ash-photo-bitcoin { --ash-cp: "\f43d"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-photo-bolt { --ash-cp: "\f43e"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-photo-cancel { --ash-cp: "\f43f"; }
@@ -4615,16 +4796,18 @@
 .ash-photo-share { --ash-cp: "\f458"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-photo-shield { --ash-cp: "\f459"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-photo-spark { --ash-cp: "\f45a"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-photo-sparkle { --ash-cp: "\f0035"; }
 .ash-photo-square-rounded { --ash-cp: "\f45b"; }
 .ash-photo-star { --ash-cp: "\f45c"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-photo-up { --ash-cp: "\f45d"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-photo-video { --ash-cp: "\f45e"; }
 .ash-photo-x { --ash-cp: "\f45f"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
-.ash-physotherapist { --ash-cp: "\f460"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-physiotherapist { --ash-cp: "\f0036"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-pi { --ash-cp: "\e4db"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-piano { --ash-cp: "\e4dc"; }
 .ash-pick { --ash-cp: "\f461"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-pickaxe { --ash-cp: "\e4dd"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-pickup-truck { --ash-cp: "\f0037"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-picnic-table { --ash-cp: "\f462"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-picture-in-picture { --ash-cp: "\e4de"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-picture-in-picture-2 { --ash-cp: "\e4df"; --ash-cp-secondary-rounded-twotone: ""; }
@@ -4653,6 +4836,7 @@
 .ash-pipeline { --ash-cp: "\f471"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-pipette { --ash-cp: "\e4e8"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-pizza { --ash-cp: "\e4e9"; }
+.ash-pizza-cutter { --ash-cp: "\f0038"; }
 .ash-pizza-off { --ash-cp: "\f472"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-placeholder { --ash-cp: "\f473"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-plane { --ash-cp: "\e4ea"; --ash-cp-secondary-rounded-twotone: ""; }
@@ -4671,7 +4855,9 @@
 .ash-plant-off { --ash-cp: "\f47e"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-plant-pot { --ash-cp: "\e4ed"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-play { --ash-cp: "\e4ee"; --ash-cp-secondary-rounded-twotone: ""; }
-.ash-play-basketball { --ash-cp: "\f47f"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-play-basketball { --ash-cp: "\f47f"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-play-bug { --ash-cp: "\f0039"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-play-bugs { --ash-cp: "\f003a"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-play-card { --ash-cp: "\f480"; }
 .ash-play-card-1 { --ash-cp: "\f481"; }
 .ash-play-card-10 { --ash-cp: "\f482"; }
@@ -4689,10 +4875,10 @@
 .ash-play-card-off { --ash-cp: "\f48e"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-play-card-q { --ash-cp: "\f48f"; }
 .ash-play-card-star { --ash-cp: "\f490"; }
-.ash-play-football { --ash-cp: "\f491"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
-.ash-play-handball { --ash-cp: "\f492"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-play-football { --ash-cp: "\f491"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-play-handball { --ash-cp: "\f492"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-play-off { --ash-cp: "\e4ef"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
-.ash-play-volleyball { --ash-cp: "\f493"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-play-volleyball { --ash-cp: "\f493"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-player-eject { --ash-cp: "\f494"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-player-pause { --ash-cp: "\f495"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-player-play { --ash-cp: "\f496"; --ash-cp-secondary-rounded-twotone: ""; }
@@ -4720,6 +4906,7 @@
 .ash-plug-off { --ash-cp: "\f4a7"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-plug-x { --ash-cp: "\f4a8"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-plug-zap { --ash-cp: "\e4f5"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-plunger { --ash-cp: "\f003b"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-plus { --ash-cp: "\e4f6"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-plus-equal { --ash-cp: "\f4a9"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-plus-minus { --ash-cp: "\f4aa"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
@@ -4730,11 +4917,14 @@
 .ash-point { --ash-cp: "\f4ad"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-point-off { --ash-cp: "\f4ae"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-pointer { --ash-cp: "\e4f9"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-pointer-2 { --ash-cp: "\f003c"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-pointer-bolt { --ash-cp: "\f4af"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-pointer-cancel { --ash-cp: "\f4b0"; }
 .ash-pointer-check { --ash-cp: "\f4b1"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-pointer-code { --ash-cp: "\f4b2"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-pointer-cog { --ash-cp: "\f4b3"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-pointer-collaboration { --ash-cp: "\f003d"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-pointer-collaboration-2 { --ash-cp: "\f003e"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-pointer-dollar { --ash-cp: "\f4b4"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-pointer-down { --ash-cp: "\f4b5"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-pointer-exclamation { --ash-cp: "\f4b6"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
@@ -4754,6 +4944,7 @@
 .ash-pokeball-off { --ash-cp: "\f4c3"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-poker-chip { --ash-cp: "\f4c4"; }
 .ash-polaroid { --ash-cp: "\f4c5"; }
+.ash-police-car { --ash-cp: "\f003f"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-polygon { --ash-cp: "\f4c6"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-polygon-off { --ash-cp: "\f4c7"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-poo { --ash-cp: "\f4c8"; }
@@ -4765,6 +4956,8 @@
 .ash-power { --ash-cp: "\e4fe"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-power-off { --ash-cp: "\e4ff"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-pray { --ash-cp: "\f4cb"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-prayer-beads { --ash-cp: "\f0040"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-prayer-rug { --ash-cp: "\f0041"; }
 .ash-premium-rights { --ash-cp: "\f4cc"; }
 .ash-prescription { --ash-cp: "\f4cd"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-presentation { --ash-cp: "\e500"; --ash-cp-secondary-rounded-twotone: ""; }
@@ -4795,6 +4988,7 @@
 .ash-proportions { --ash-cp: "\e506"; }
 .ash-protocol { --ash-cp: "\f4e1"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-pumpkin-scary { --ash-cp: "\f4e2"; }
+.ash-punching-bag { --ash-cp: "\f0042"; }
 .ash-puzzle { --ash-cp: "\e507"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-puzzle-2 { --ash-cp: "\f4e3"; }
 .ash-puzzle-off { --ash-cp: "\f4e4"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
@@ -4878,6 +5072,8 @@
 .ash-redo { --ash-cp: "\e527"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-redo-2 { --ash-cp: "\e528"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-redo-dot { --ash-cp: "\e529"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-reduce-motion { --ash-cp: "\f0043"; }
+.ash-reference-image { --ash-cp: "\f0044"; }
 .ash-refresh { --ash-cp: "\f513"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-refresh-alert { --ash-cp: "\f514"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-refresh-ccw { --ash-cp: "\e52a"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
@@ -4886,6 +5082,7 @@
 .ash-refresh-cw-off { --ash-cp: "\e52d"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-refresh-dot { --ash-cp: "\f515"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-refresh-off { --ash-cp: "\f516"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-refresh-sparkle { --ash-cp: "\f0045"; }
 .ash-refrigerator { --ash-cp: "\e52e"; }
 .ash-regex { --ash-cp: "\e52f"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-regex-off { --ash-cp: "\f517"; --ash-cp-secondary-rounded-twotone: ""; }
@@ -4894,6 +5091,7 @@
 .ash-relation-one-to-many { --ash-cp: "\f51a"; }
 .ash-relation-one-to-one { --ash-cp: "\f51b"; }
 .ash-reload { --ash-cp: "\f51c"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-remote-control { --ash-cp: "\f0046"; }
 .ash-remove-formatting { --ash-cp: "\e530"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-reorder { --ash-cp: "\f51d"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-repeat { --ash-cp: "\e531"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
@@ -4955,6 +5153,7 @@
 .ash-roller-skating { --ash-cp: "\f546"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-rollercoaster { --ash-cp: "\f547"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-rollercoaster-off { --ash-cp: "\f548"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-rolling-pin { --ash-cp: "\f0047"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-rose { --ash-cp: "\e541"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-rosette { --ash-cp: "\f549"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-rosette-asterisk { --ash-cp: "\f54a"; }
@@ -4988,6 +5187,7 @@
 .ash-rotate-cw-square { --ash-cp: "\e54a"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-rotate-dot { --ash-cp: "\f55e"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-rotate-rectangle { --ash-cp: "\f55f"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-roulette { --ash-cp: "\f0048"; }
 .ash-route { --ash-cp: "\e54b"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-route-2 { --ash-cp: "\f560"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-route-alt-left { --ash-cp: "\f561"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
@@ -5009,6 +5209,7 @@
 .ash-rss { --ash-cp: "\e551"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-rubber-stamp { --ash-cp: "\f56c"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-rubber-stamp-off { --ash-cp: "\f56d"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-rugby { --ash-cp: "\f0049"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-rugby-ball { --ash-cp: "\e552"; }
 .ash-ruler { --ash-cp: "\e553"; }
 .ash-ruler-2 { --ash-cp: "\f56e"; }
@@ -5018,7 +5219,8 @@
 .ash-ruler-measure { --ash-cp: "\f571"; }
 .ash-ruler-measure-2 { --ash-cp: "\f572"; }
 .ash-ruler-off { --ash-cp: "\f573"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
-.ash-run { --ash-cp: "\f574"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-run { --ash-cp: "\f574"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-run-sprint { --ash-cp: "\f004a"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-russian-ruble { --ash-cp: "\e555"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-rv-truck { --ash-cp: "\f575"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-s-turn-down { --ash-cp: "\f576"; --ash-cp-secondary-rounded-twotone: ""; }
@@ -5052,6 +5254,7 @@
 .ash-scan { --ash-cp: "\e565"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-scan-barcode { --ash-cp: "\e566"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-scan-box { --ash-cp: "\e567"; }
+.ash-scan-cube { --ash-cp: "\f004b"; }
 .ash-scan-eye { --ash-cp: "\e568"; }
 .ash-scan-face { --ash-cp: "\e569"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-scan-heart { --ash-cp: "\e56a"; --ash-cp-secondary-rounded-twotone: ""; }
@@ -5079,6 +5282,7 @@
 .ash-screen-share { --ash-cp: "\e575"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-screen-share-off { --ash-cp: "\e576"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-screenshot { --ash-cp: "\f58e"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-screw { --ash-cp: "\f004c"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-scribble { --ash-cp: "\f58f"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-scribble-off { --ash-cp: "\f590"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-script { --ash-cp: "\f591"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
@@ -5098,11 +5302,14 @@
 .ash-search-code { --ash-cp: "\e57c"; }
 .ash-search-off { --ash-cp: "\f59a"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-search-slash { --ash-cp: "\e57d"; }
+.ash-search-sparkle { --ash-cp: "\f004d"; }
 .ash-search-x { --ash-cp: "\e57e"; }
+.ash-secret-phrases { --ash-cp: "\f004e"; }
 .ash-section { --ash-cp: "\e57f"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-section-sign { --ash-cp: "\f59b"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-seedling { --ash-cp: "\f59c"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-seedling-off { --ash-cp: "\f59d"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-seesaw { --ash-cp: "\f004f"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-segway { --ash-cp: "\f59e"; }
 .ash-select { --ash-cp: "\f59f"; }
 .ash-select-all { --ash-cp: "\f5a0"; --ash-cp-secondary-rounded-twotone: ""; }
@@ -5183,6 +5390,8 @@
 .ash-shield-exclamation { --ash-cp: "\f5d2"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-shield-half { --ash-cp: "\e599"; }
 .ash-shield-heart { --ash-cp: "\f5d3"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-shield-house { --ash-cp: "\f0050"; }
+.ash-shield-key { --ash-cp: "\f0051"; }
 .ash-shield-keyhole { --ash-cp: "\e59a"; }
 .ash-shield-lock { --ash-cp: "\e59b"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-shield-minus { --ash-cp: "\e59c"; }
@@ -5193,6 +5402,7 @@
 .ash-shield-question-mark { --ash-cp: "\e59f"; }
 .ash-shield-search { --ash-cp: "\f5d6"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-shield-share { --ash-cp: "\f5d7"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-shield-sparkle { --ash-cp: "\f0052"; }
 .ash-shield-star { --ash-cp: "\f5d8"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-shield-up { --ash-cp: "\f5d9"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-shield-user { --ash-cp: "\e5a0"; }
@@ -5203,6 +5413,7 @@
 .ash-ship-wheel { --ash-cp: "\e5a4"; }
 .ash-shirt { --ash-cp: "\e5a5"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-shirt-off { --ash-cp: "\f5db"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-shirt-sparkle { --ash-cp: "\f0053"; }
 .ash-shirt-sport { --ash-cp: "\f5dc"; }
 .ash-shoe { --ash-cp: "\f5dd"; }
 .ash-shoe-off { --ash-cp: "\f5de"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
@@ -5240,6 +5451,7 @@
 .ash-shopping-cart-star { --ash-cp: "\f5f9"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-shopping-cart-up { --ash-cp: "\f5fa"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-shopping-cart-x { --ash-cp: "\f5fb"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-shorts { --ash-cp: "\f0054"; }
 .ash-shovel { --ash-cp: "\e5ab"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-shovel-pitchforks { --ash-cp: "\f5fc"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-shower-head { --ash-cp: "\e5ac"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
@@ -5249,6 +5461,7 @@
 .ash-shrink { --ash-cp: "\e5b0"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-shrub { --ash-cp: "\e5b1"; }
 .ash-shuffle { --ash-cp: "\e5b2"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-shuttlecock { --ash-cp: "\f0055"; }
 .ash-sigma { --ash-cp: "\e5b3"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-sign-left { --ash-cp: "\f5fd"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-sign-right { --ash-cp: "\f5fe"; --ash-cp-secondary-rounded-twotone: ""; }
@@ -5277,10 +5490,11 @@
 .ash-sitemap-off { --ash-cp: "\f60c"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-skateboard { --ash-cp: "\f60d"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-skateboard-off { --ash-cp: "\f60e"; --ash-cp-secondary-rounded-twotone: ""; }
-.ash-skateboarding { --ash-cp: "\f60f"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-skateboarding { --ash-cp: "\f60f"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-sketching { --ash-cp: "\f0056"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-skew-x { --ash-cp: "\f610"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-skew-y { --ash-cp: "\f611"; --ash-cp-secondary-rounded-twotone: ""; }
-.ash-ski-jumping { --ash-cp: "\f612"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-ski-jumping { --ash-cp: "\f612"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-skip-back { --ash-cp: "\e5bd"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-skip-forward { --ash-cp: "\e5be"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-skull { --ash-cp: "\e5bf"; }
@@ -5294,8 +5508,11 @@
 .ash-smart-home { --ash-cp: "\f616"; }
 .ash-smart-home-off { --ash-cp: "\f617"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-smartphone { --ash-cp: "\e5c4"; }
+.ash-smartphone-cash { --ash-cp: "\f0057"; }
 .ash-smartphone-charging { --ash-cp: "\e5c5"; }
 .ash-smartphone-nfc { --ash-cp: "\e5c6"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-smartphone-sparkle { --ash-cp: "\f0058"; }
+.ash-smartphone-wifi { --ash-cp: "\f0059"; }
 .ash-smoking { --ash-cp: "\f618"; }
 .ash-smoking-no { --ash-cp: "\f619"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-snail { --ash-cp: "\e5c7"; }
@@ -5308,8 +5525,10 @@
 .ash-social { --ash-cp: "\f61e"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-social-off { --ash-cp: "\f61f"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-sock { --ash-cp: "\f620"; }
+.ash-socks { --ash-cp: "\f005a"; }
 .ash-sofa { --ash-cp: "\e5ca"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-sofa-off { --ash-cp: "\f621"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-soil-moisture { --ash-cp: "\f005b"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-solar-electricity { --ash-cp: "\f622"; }
 .ash-solar-panel { --ash-cp: "\e5cb"; }
 .ash-solar-panel-2 { --ash-cp: "\f623"; }
@@ -5340,15 +5559,20 @@
 .ash-spacing-vertical { --ash-cp: "\f63a"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-spade { --ash-cp: "\e5ce"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-sparkle { --ash-cp: "\e5cf"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-sparkle-2 { --ash-cp: "\f005c"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-sparkle-highlight { --ash-cp: "\f005d"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-sparkles { --ash-cp: "\e5d0"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-sparkles-2 { --ash-cp: "\f63b"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-sparkles-2-off { --ash-cp: "\f005e"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-speaker { --ash-cp: "\e5d1"; }
 .ash-speakerphone { --ash-cp: "\f63c"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-speech { --ash-cp: "\e5d2"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-speech-to-text { --ash-cp: "\f005f"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-speedboat { --ash-cp: "\f63d"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-spell-check { --ash-cp: "\e5d3"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-spell-check-2 { --ash-cp: "\e5d4"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-sphere { --ash-cp: "\f63e"; }
+.ash-sphere-2 { --ash-cp: "\f0060"; }
 .ash-sphere-off { --ash-cp: "\f63f"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-sphere-plus { --ash-cp: "\f640"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-spider { --ash-cp: "\f641"; --ash-cp-secondary-rounded-twotone: ""; }
@@ -5358,7 +5582,7 @@
 .ash-spline-pointer { --ash-cp: "\e5d6"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-split { --ash-cp: "\e5d7"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-spool { --ash-cp: "\e5d8"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
-.ash-sport-billard { --ash-cp: "\f644"; }
+.ash-sport-billiard { --ash-cp: "\f0061"; }
 .ash-sport-shoe { --ash-cp: "\e5d9"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-spotlight { --ash-cp: "\e5da"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-spray { --ash-cp: "\f645"; --ash-cp-secondary-rounded-twotone: ""; }
@@ -5583,11 +5807,15 @@
 .ash-stack-3 { --ash-cp: "\f6c8"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-stack-back { --ash-cp: "\f6c9"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-stack-backward { --ash-cp: "\f6ca"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-stack-check { --ash-cp: "\f0062"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-stack-forward { --ash-cp: "\f6cb"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-stack-front { --ash-cp: "\f6cc"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-stack-middle { --ash-cp: "\f6cd"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-stack-minus { --ash-cp: "\f0063"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-stack-plus { --ash-cp: "\f0064"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-stack-pop { --ash-cp: "\f6ce"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-stack-push { --ash-cp: "\f6cf"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-stack-x { --ash-cp: "\f0065"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-stairs { --ash-cp: "\f6d0"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-stairs-down { --ash-cp: "\f6d1"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-stairs-up { --ash-cp: "\f6d2"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
@@ -5613,6 +5841,7 @@
 .ash-stethoscope-off { --ash-cp: "\f6db"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-sticker { --ash-cp: "\e63e"; }
 .ash-sticker-2 { --ash-cp: "\f6dc"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-sticker-smile { --ash-cp: "\f0066"; }
 .ash-sticky-note { --ash-cp: "\e63f"; }
 .ash-sticky-note-check { --ash-cp: "\e640"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-sticky-note-minus { --ash-cp: "\e641"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
@@ -5623,12 +5852,15 @@
 .ash-stone { --ash-cp: "\e646"; }
 .ash-stopwatch { --ash-cp: "\f6dd"; }
 .ash-store { --ash-cp: "\e647"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-store-minus { --ash-cp: "\f0067"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-store-plus { --ash-cp: "\f0068"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-storm { --ash-cp: "\f6de"; }
 .ash-storm-off { --ash-cp: "\f6df"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-stove { --ash-cp: "\f0069"; }
 .ash-stretch-horizontal { --ash-cp: "\e648"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-stretch-vertical { --ash-cp: "\e649"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-stretching { --ash-cp: "\f6e0"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
-.ash-stretching-2 { --ash-cp: "\f6e1"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-stretching-2 { --ash-cp: "\f6e1"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-strikethrough { --ash-cp: "\e64a"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-stroke-curved { --ash-cp: "\f6e2"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-stroke-dynamic { --ash-cp: "\f6e3"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
@@ -5657,6 +5889,8 @@
 .ash-sunset { --ash-cp: "\e653"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-sunset-2 { --ash-cp: "\f6f2"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-superscript { --ash-cp: "\e654"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-surfboard { --ash-cp: "\f006a"; }
+.ash-sushi { --ash-cp: "\f006b"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-svg { --ash-cp: "\f6f3"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-swatch-book { --ash-cp: "\e655"; }
 .ash-swimming { --ash-cp: "\f6f4"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
@@ -5676,6 +5910,7 @@
 .ash-sword-off { --ash-cp: "\f6ff"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-swords { --ash-cp: "\e659"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-syringe { --ash-cp: "\e65a"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-tab-close { --ash-cp: "\f006c"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-table { --ash-cp: "\e65b"; }
 .ash-table-2 { --ash-cp: "\e65c"; }
 .ash-table-alias { --ash-cp: "\f700"; --ash-cp-secondary-rounded-twotone: ""; }
@@ -5683,7 +5918,7 @@
 .ash-table-cells-split { --ash-cp: "\e65e"; }
 .ash-table-column { --ash-cp: "\f701"; }
 .ash-table-columns-split { --ash-cp: "\e65f"; }
-.ash-table-dashed { --ash-cp: "\f702"; }
+.ash-table-dashed { --ash-cp: "\f702"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-table-down { --ash-cp: "\f703"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-table-export { --ash-cp: "\f704"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-table-heart { --ash-cp: "\f705"; --ash-cp-secondary-rounded-twotone: ""; }
@@ -5694,14 +5929,17 @@
 .ash-table-options { --ash-cp: "\f709"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-table-plus { --ash-cp: "\f70a"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-table-properties { --ash-cp: "\e661"; }
+.ash-table-round { --ash-cp: "\f006d"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-table-row { --ash-cp: "\f70b"; }
 .ash-table-rows-split { --ash-cp: "\e662"; }
 .ash-table-share { --ash-cp: "\f70c"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-table-shortcut { --ash-cp: "\f70d"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-table-spark { --ash-cp: "\f70e"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-table-sparkle { --ash-cp: "\f006e"; }
 .ash-tablet { --ash-cp: "\e663"; }
 .ash-tablet-smartphone { --ash-cp: "\e664"; }
 .ash-tablets { --ash-cp: "\e665"; }
+.ash-tabs { --ash-cp: "\f006f"; }
 .ash-tag { --ash-cp: "\e666"; }
 .ash-tag-minus { --ash-cp: "\f70f"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-tag-off { --ash-cp: "\f710"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
@@ -5709,7 +5947,13 @@
 .ash-tag-starred { --ash-cp: "\f711"; }
 .ash-tag-x { --ash-cp: "\e668"; }
 .ash-tags { --ash-cp: "\e669"; }
+.ash-tags-chevron-down { --ash-cp: "\f0070"; }
+.ash-tags-chevron-left { --ash-cp: "\f0071"; }
+.ash-tags-chevron-right { --ash-cp: "\f0072"; }
+.ash-tags-chevron-up { --ash-cp: "\f0073"; }
 .ash-tags-off { --ash-cp: "\f712"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-taiwan-dollar { --ash-cp: "\f0074"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-taj-mahal { --ash-cp: "\f0075"; }
 .ash-tally-1 { --ash-cp: "\e66a"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-tally-2 { --ash-cp: "\e66b"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-tally-3 { --ash-cp: "\e66c"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
@@ -5722,7 +5966,10 @@
 .ash-tallymarks { --ash-cp: "\f717"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-tangent { --ash-cp: "\e66f"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-tank { --ash-cp: "\f718"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-tanker-truck { --ash-cp: "\f0076"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-tape-measure { --ash-cp: "\f0077"; }
 .ash-target { --ash-cp: "\e670"; }
+.ash-target-2 { --ash-cp: "\f0078"; }
 .ash-target-arrow { --ash-cp: "\f719"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-target-off { --ash-cp: "\f71a"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-tax { --ash-cp: "\f71b"; }
@@ -5741,6 +5988,7 @@
 .ash-temperature-sun { --ash-cp: "\f727"; }
 .ash-template { --ash-cp: "\f728"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-template-off { --ash-cp: "\f729"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-tennis-racket { --ash-cp: "\f0079"; }
 .ash-tent { --ash-cp: "\e672"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-tent-off { --ash-cp: "\f72a"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-tent-tree { --ash-cp: "\e673"; }
@@ -5771,22 +6019,35 @@
 .ash-text-increase { --ash-cp: "\f736"; }
 .ash-text-initial { --ash-cp: "\e681"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-text-orientation { --ash-cp: "\f737"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-text-outline { --ash-cp: "\f007a"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-text-plus { --ash-cp: "\f738"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-text-quote { --ash-cp: "\e682"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-text-recognition { --ash-cp: "\f739"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-text-regex-asterisk { --ash-cp: "\f007b"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-text-regex-end { --ash-cp: "\f007c"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-text-regex-plus { --ash-cp: "\f007d"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-text-regex-question { --ash-cp: "\f007e"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-text-regex-start { --ash-cp: "\f007f"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-text-resize { --ash-cp: "\f73a"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-text-scan-2 { --ash-cp: "\f73b"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-text-scan-ai { --ash-cp: "\f0080"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-text-search { --ash-cp: "\e683"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-text-size { --ash-cp: "\f73c"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-text-spellcheck { --ash-cp: "\f73d"; }
+.ash-text-to-speech { --ash-cp: "\f0081"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-text-wrap { --ash-cp: "\e684"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-text-wrap-column { --ash-cp: "\f73e"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-text-wrap-disabled { --ash-cp: "\f73f"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-textarea { --ash-cp: "\f0082"; }
 .ash-texture { --ash-cp: "\f740"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-theater { --ash-cp: "\e685"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-thermometer { --ash-cp: "\e686"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-thermometer-snowflake { --ash-cp: "\e687"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-thermometer-sun { --ash-cp: "\e688"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-thinking-high { --ash-cp: "\f0083"; }
+.ash-thinking-low { --ash-cp: "\f0084"; }
+.ash-thinking-medium { --ash-cp: "\f0085"; }
+.ash-thought-bubble { --ash-cp: "\f0086"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-thumb-down { --ash-cp: "\f741"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-thumb-down-off { --ash-cp: "\f742"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-thumb-up { --ash-cp: "\f743"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
@@ -5833,6 +6094,7 @@
 .ash-tip-jar-euro { --ash-cp: "\f75c"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-tip-jar-pound { --ash-cp: "\f75d"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-tir { --ash-cp: "\f75e"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-tissue-box { --ash-cp: "\f0087"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-toggle-left { --ash-cp: "\e699"; }
 .ash-toggle-right { --ash-cp: "\e69a"; }
 .ash-toilet { --ash-cp: "\e69b"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
@@ -5888,6 +6150,7 @@
 .ash-train-front-tunnel { --ash-cp: "\e6ab"; }
 .ash-train-track { --ash-cp: "\e6ac"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-tram-front { --ash-cp: "\e6ad"; }
+.ash-trampoline { --ash-cp: "\f0088"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-transaction-bitcoin { --ash-cp: "\f781"; }
 .ash-transaction-dollar { --ash-cp: "\f782"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-transaction-euro { --ash-cp: "\f783"; --ash-cp-secondary-rounded-twotone: ""; }
@@ -5914,6 +6177,7 @@
 .ash-trash-off { --ash-cp: "\e6b0"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-trash-x { --ash-cp: "\f796"; }
 .ash-treadmill { --ash-cp: "\f797"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-treasure-chest { --ash-cp: "\f0089"; }
 .ash-tree { --ash-cp: "\f798"; }
 .ash-tree-deciduous { --ash-cp: "\e6b1"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-tree-palm { --ash-cp: "\e6b2"; --ash-cp-secondary-rounded-twotone: ""; }
@@ -5942,6 +6206,7 @@
 .ash-triangles-centerline-dashed-horizontal { --ash-cp: "\e6bc"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-triangles-centerline-dashed-vertical { --ash-cp: "\e6bd"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-trident { --ash-cp: "\f7a6"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-tripod { --ash-cp: "\f008a"; }
 .ash-trolley { --ash-cp: "\f7a7"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-trophy { --ash-cp: "\e6be"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-trophy-off { --ash-cp: "\f7a8"; --ash-cp-secondary-rounded-twotone: ""; }
@@ -5952,6 +6217,7 @@
 .ash-truck-loading { --ash-cp: "\f7ab"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-truck-off { --ash-cp: "\f7ac"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-truck-return { --ash-cp: "\f7ad"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-tsunami { --ash-cp: "\f008b"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-tube-lotion { --ash-cp: "\e6c1"; }
 .ash-turkish-lira { --ash-cp: "\e6c2"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-turntable { --ash-cp: "\e6c3"; }
@@ -5959,6 +6225,7 @@
 .ash-tv { --ash-cp: "\e6c5"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-tv-minimal { --ash-cp: "\e6c6"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-tv-minimal-play { --ash-cp: "\e6c7"; }
+.ash-twig { --ash-cp: "\f008c"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-txt { --ash-cp: "\f7ae"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-type { --ash-cp: "\e6c8"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-type-outline { --ash-cp: "\e6c9"; --ash-cp-secondary-rounded-twotone: ""; }
@@ -5976,12 +6243,14 @@
 .ash-umbrella-closed-2 { --ash-cp: "\f7b9"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-umbrella-off { --ash-cp: "\e6cb"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-underline { --ash-cp: "\e6cc"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-underline-off { --ash-cp: "\f008d"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-undo { --ash-cp: "\e6cd"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-undo-2 { --ash-cp: "\e6ce"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-undo-dot { --ash-cp: "\e6cf"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-unfold-horizontal { --ash-cp: "\e6d0"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-unfold-vertical { --ash-cp: "\e6d1"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-ungroup { --ash-cp: "\e6d2"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-unicycle { --ash-cp: "\f008e"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-universe { --ash-cp: "\f7ba"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-university { --ash-cp: "\e6d3"; }
 .ash-unlink { --ash-cp: "\e6d4"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
@@ -6025,12 +6294,14 @@
 .ash-user-round-pen { --ash-cp: "\e6ea"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-user-round-plus { --ash-cp: "\e6eb"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-user-round-search { --ash-cp: "\e6ec"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-user-round-star { --ash-cp: "\f008f"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-user-round-x { --ash-cp: "\e6ed"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-user-scan { --ash-cp: "\f7cb"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-user-screen { --ash-cp: "\f7cc"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-user-search { --ash-cp: "\e6ee"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-user-share { --ash-cp: "\f7cd"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-user-shield { --ash-cp: "\e6ef"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-user-sparkle { --ash-cp: "\f0090"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-user-square-rounded { --ash-cp: "\f7ce"; }
 .ash-user-star { --ash-cp: "\e6f0"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-user-up { --ash-cp: "\f7cf"; --ash-cp-secondary-rounded-twotone: ""; }
@@ -6055,6 +6326,7 @@
 .ash-variable-minus { --ash-cp: "\f7da"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-variable-off { --ash-cp: "\f7db"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-variable-plus { --ash-cp: "\f7dc"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-vase { --ash-cp: "\f0091"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-vault { --ash-cp: "\e6f9"; }
 .ash-vector { --ash-cp: "\f7dd"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-vector-bezier { --ash-cp: "\f7de"; --ash-cp-secondary-rounded-twotone: ""; }
@@ -6073,12 +6345,14 @@
 .ash-venus-and-mars { --ash-cp: "\e6ff"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-versions { --ash-cp: "\f7e6"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-versions-off { --ash-cp: "\f7e7"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-vest { --ash-cp: "\f0092"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-vibrate { --ash-cp: "\e700"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-vibrate-off { --ash-cp: "\e701"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-video { --ash-cp: "\e702"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-video-minus { --ash-cp: "\f7e8"; }
 .ash-video-off { --ash-cp: "\e703"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-video-plus { --ash-cp: "\f7e9"; }
+.ash-video-sparkle { --ash-cp: "\f0093"; }
 .ash-videotape { --ash-cp: "\e704"; }
 .ash-view { --ash-cp: "\e705"; }
 .ash-view-360 { --ash-cp: "\f7ea"; }
@@ -6091,15 +6365,19 @@
 .ash-viewport-short { --ash-cp: "\f7f1"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-viewport-tall { --ash-cp: "\f7f2"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-viewport-wide { --ash-cp: "\f7f3"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-vignette { --ash-cp: "\f0094"; }
 .ash-vinyl { --ash-cp: "\f7f4"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-vip { --ash-cp: "\f7f5"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-vip-2 { --ash-cp: "\f7f6"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-vip-off { --ash-cp: "\f7f7"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-virtual-space { --ash-cp: "\f0095"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-virus { --ash-cp: "\e706"; }
 .ash-virus-off { --ash-cp: "\e707"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-virus-search { --ash-cp: "\f7f8"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-vocabulary { --ash-cp: "\f7f9"; }
 .ash-vocabulary-off { --ash-cp: "\f7fa"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-voice { --ash-cp: "\f0096"; }
+.ash-voice-2 { --ash-cp: "\f0097"; }
 .ash-voicemail { --ash-cp: "\e708"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-volcano { --ash-cp: "\f7fb"; }
 .ash-volleyball { --ash-cp: "\e709"; }
@@ -6116,9 +6394,14 @@
 .ash-wall { --ash-cp: "\f800"; }
 .ash-wall-off { --ash-cp: "\f801"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-wallet { --ash-cp: "\e710"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-wallet-arrow-down { --ash-cp: "\f0098"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-wallet-arrow-up { --ash-cp: "\f0099"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-wallet-cards { --ash-cp: "\e711"; }
+.ash-wallet-check { --ash-cp: "\f009a"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-wallet-minimal { --ash-cp: "\e712"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-wallet-minus { --ash-cp: "\f009b"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-wallet-off { --ash-cp: "\f802"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-wallet-plus { --ash-cp: "\f009c"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-wallpaper { --ash-cp: "\e713"; }
 .ash-wallpaper-off { --ash-cp: "\f803"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-wand { --ash-cp: "\e714"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
@@ -6157,7 +6440,9 @@
 .ash-wash-tumble-off { --ash-cp: "\f822"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-washing-machine { --ash-cp: "\e717"; }
 .ash-watch { --ash-cp: "\e718"; }
-.ash-waterpolo { --ash-cp: "\f823"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-watch-sparkle { --ash-cp: "\f009d"; }
+.ash-water-pump { --ash-cp: "\f009e"; --ash-cp-secondary-rounded-twotone: ""; }
+.ash-waterpolo { --ash-cp: "\f823"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-wave-saw-tool { --ash-cp: "\f824"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-wave-sine { --ash-cp: "\f825"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-wave-square { --ash-cp: "\f826"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
@@ -6189,6 +6474,7 @@
 .ash-wifi-2 { --ash-cp: "\f82f"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-wifi-cog { --ash-cp: "\e72a"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-wifi-high { --ash-cp: "\e72b"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-wifi-lock { --ash-cp: "\f009f"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-wifi-low { --ash-cp: "\e72c"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-wifi-off { --ash-cp: "\e72d"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-wifi-pen { --ash-cp: "\e72e"; --ash-cp-secondary-rounded-twotone: ""; }
@@ -6258,8 +6544,9 @@
 .ash-xbox-y { --ash-cp: "\f862"; }
 .ash-xd { --ash-cp: "\f863"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-xxx { --ash-cp: "\f864"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-yarn { --ash-cp: "\f00a0"; }
 .ash-yin-yang { --ash-cp: "\f865"; }
-.ash-yoga { --ash-cp: "\f866"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
+.ash-yoga { --ash-cp: "\f866"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-zap { --ash-cp: "\e73c"; --ash-cp-secondary-rounded-twotone: ""; }
 .ash-zap-off { --ash-cp: "\e73d"; --ash-cp-secondary-rounded-duotone: ""; --ash-cp-secondary-rounded-twotone: ""; --ash-cp-secondary-rounded-bulk: ""; --ash-cp-secondary-standard-duotone: ""; }
 .ash-zeppelin { --ash-cp: "\f867"; --ash-cp-secondary-rounded-twotone: ""; }
@@ -6351,6 +6638,8 @@
 .ash-book-marked { --ash-cp: "\e0c4"; }
 .ash-book-template { --ash-cp: "\e0c7"; }
 .ash-box-select { --ash-cp: "\e5fa"; }
+.ash-brand-adobe-after-effect { --ash-cp: "\f895"; }
+.ash-brand-kako-talk { --ash-cp: "\f897"; }
 .ash-building-2 { --ash-cp: "\e101"; }
 .ash-candlestick-chart { --ash-cp: "\e144"; }
 .ash-check-circle { --ash-cp: "\e17d"; }
@@ -6375,6 +6664,7 @@
 .ash-columns-settings { --ash-cp: "\e1e8"; }
 .ash-contact-2 { --ash-cp: "\e1f3"; }
 .ash-curly-braces { --ash-cp: "\e0e8"; }
+.ash-currency-rubel { --ash-cp: "\f8b6"; }
 .ash-divide-circle { --ash-cp: "\e184"; }
 .ash-divide-square { --ash-cp: "\e605"; }
 .ash-dot-square { --ash-cp: "\e606"; }
@@ -6427,6 +6717,7 @@
 .ash-gantt-chart { --ash-cp: "\e151"; }
 .ash-gantt-chart-square { --ash-cp: "\e5f2"; }
 .ash-gauge-circle { --ash-cp: "\e18d"; }
+.ash-gender-trasvesti { --ash-cp: "\f8e5"; }
 .ash-git-commit { --ash-cp: "\e30d"; }
 .ash-globe-2 { --ash-cp: "\e256"; }
 .ash-grab { --ash-cp: "\e339"; }
@@ -6442,6 +6733,7 @@
 .ash-home { --ash-cp: "\e366"; }
 .ash-ice-cream { --ash-cp: "\e36e"; }
 .ash-ice-cream-2 { --ash-cp: "\e36d"; }
+.ash-ikosaedr { --ash-cp: "\f8f9"; }
 .ash-indent { --ash-cp: "\e3d1"; }
 .ash-indent-decrease { --ash-cp: "\e3d0"; }
 .ash-indent-increase { --ash-cp: "\e3d1"; }
@@ -6465,6 +6757,7 @@
 .ash-mic-2 { --ash-cp: "\e43d"; }
 .ash-minus-circle { --ash-cp: "\e18e"; }
 .ash-minus-square { --ash-cp: "\e60e"; }
+.ash-mood-confuzed { --ash-cp: "\f0024"; }
 .ash-more-horizontal { --ash-cp: "\e25e"; }
 .ash-more-vertical { --ash-cp: "\e25f"; }
 .ash-mouse-pointer-square-dashed { --ash-cp: "\e5fe"; }
@@ -6489,6 +6782,7 @@
 .ash-percent-circle { --ash-cp: "\e193"; }
 .ash-percent-diamond { --ash-cp: "\e22c"; }
 .ash-percent-square { --ash-cp: "\e615"; }
+.ash-physotherapist { --ash-cp: "\f0036"; }
 .ash-pi-square { --ash-cp: "\e616"; }
 .ash-pie-chart { --ash-cp: "\e152"; }
 .ash-pilcrow-square { --ash-cp: "\e617"; }
@@ -6522,6 +6816,7 @@
 .ash-sort-desc { --ash-cp: "\e048"; }
 .ash-split-square-horizontal { --ash-cp: "\e621"; }
 .ash-split-square-vertical { --ash-cp: "\e622"; }
+.ash-sport-billard { --ash-cp: "\f0061"; }
 .ash-square-gantt-chart { --ash-cp: "\e5f2"; }
 .ash-stars { --ash-cp: "\e5d0"; }
 .ash-stop-circle { --ash-cp: "\e19e"; }

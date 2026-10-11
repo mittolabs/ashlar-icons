@@ -1,6 +1,6 @@
 # @mittolabs/ashlar-icons
 
-ashlaricons for any web page: 6,266 icons in ten styles, as one stylesheet with icon
+ashlaricons for any web page: 6,553 icons in ten styles, as one stylesheet with icon
 fonts, and as SVG files. Browse them at [icons.ashlar.ke](https://icons.ashlar.ke).
 
 For React, use [`@mittolabs/ashlar-icons-react`](https://www.npmjs.com/package/@mittolabs/ashlar-icons-react)

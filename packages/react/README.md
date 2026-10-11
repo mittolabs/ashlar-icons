@@ -1,6 +1,6 @@
 # @mittolabs/ashlar-icons-react
 
-ashlaricons for React: 6,266 icons in ten styles, drawn as inline SVG by one
+ashlaricons for React: 6,553 icons in ten styles, drawn as inline SVG by one
 component. Browse them at [icons.ashlar.ke](https://icons.ashlar.ke).
 
 | Corner | Styles |
