@@ -66,6 +66,7 @@
   "files": [
     "index.js",
     "index.d.ts",
+    "same.js",
     "icons",
     "LICENSE",
     "README.md",

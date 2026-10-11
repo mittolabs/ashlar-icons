@@ -35,8 +35,9 @@ import { AshlarIcon, CalendarIcon } from '@mittolabs/ashlar-icons-react/sharp-so
 An icon is an `<svg>`: it takes the text colour, is 24 pixels unless you size it, and
 passes every other prop and `className` through, so utility classes such as `size-4`
 work. Without an `aria-label` it is hidden from screen readers, as decoration should be.
-Rendered, each icon carries the classes `ashlar-icon ashlar-icon-calendar`, so every
-ashlaricons icon on a page can be found or styled at once.
+Rendered, each icon carries the web font's classes, `ash ash-rounded-stroke ash-calendar`,
+so every ashlaricons icon on a page, inline or font, answers to the same selectors.
+Loading the stylesheet as well does not resize it.
 
 Only the icons you import end up in your bundle.
 

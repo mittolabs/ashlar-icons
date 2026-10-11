@@ -27,8 +27,9 @@ export const AshlarIcon = forwardRef(function AshlarIcon(
       fill: color,
       'aria-hidden': label(props) ? undefined : true,
       role: label(props) ? 'img' : undefined,
-      // Names the set and the icon, as other sets do, so a page shows where an icon came from.
-      className: ['ashlar-icon', `ashlar-icon-${icon.name}`, className].filter(Boolean).join(' '),
+      // The web font's classes, so every ashlaricons icon on a page answers to the same
+      // selectors (.ash, .ash-calendar), whichever package drew it.
+      className: ['ash', `ash-${icon.style}`, `ash-${icon.name}`, className].filter(Boolean).join(' '),
       ...props,
     },
     ...icon.layers.map(([d, isFaint], i) => createElement('path', isFaint ? { key: i, d, style: faint } : { key: i, d })),

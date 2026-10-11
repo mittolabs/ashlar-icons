@@ -41,8 +41,11 @@ expects this repository checked out beside it, in the workspace's `products/`.
 - **Names match across packages**: `AshlarIconsRoundedStroke.calendar` in Dart,
   `CalendarIcon` from `<package>/<style>` in JavaScript, with Rounded Stroke at each
   package's root, `ash-calendar` in CSS.
-- **An icon says whose it is.** React and Jaspr render `class="ashlar-icon
-  ashlar-icon-<name>"`, never `ash`, which the stylesheet sizes for the icon font.
+- **One set of classes for every icon.** React and Jaspr render the web font's own
+  classes, `class="ash ash-<style> ash-<name>"`, so `.ash` and `.ash-calendar` find
+  every ashlaricons icon on a page whichever package drew it. The stylesheet's box
+  rule is `.ash:not(:where(svg))`, so it never resizes an inline icon. (Supersedes the
+  `ashlar-icon` classes, 2026-10-11.)
 - **The CSS prefix is `ash`.** Ashlar UI works like shadcn/ui and has no classes of its
   own to clash with.
 - **`ashlar_icons` depends only on Flutter's widgets layer**, never Material or

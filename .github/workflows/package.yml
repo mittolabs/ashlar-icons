@@ -83,7 +83,7 @@ jobs:
           import { AshlarIcon, CalendarIcon } from '@mittolabs/ashlar-icons-react';
           import { CalendarIcon as Duo } from '@mittolabs/ashlar-icons-react/rounded-duotone';
           const html = renderToStaticMarkup(<p><AshlarIcon icon={CalendarIcon} className="size-4" /><AshlarIcon icon={Duo} secondaryColor="#c7d2fe" /></p>);
-          if (!html.includes('<path d="M') || !html.includes('fill:#c7d2fe') || !html.includes('ashlar-icon-calendar')) throw new Error(html);
+          if (!html.includes('<path d="M') || !html.includes('fill:#c7d2fe') || !html.includes('class="ash ash-rounded-stroke ash-calendar size-4"')) throw new Error(html);
           console.log('renders');
           TSX
           npx tsc --strict --jsx react-jsx --module nodenext --moduleResolution nodenext --target es2022 --outDir out try.tsx

@@ -5,25 +5,47 @@ import 'package:jaspr/jaspr.dart';
 /// style (Duotone, Twotone, Bulk), its [faint] layer.
 @immutable
 class AshlarIconData {
-  const AshlarIconData(this.name, this.d, {this.faint, this.faintOnTop = false});
+  const AshlarIconData(String name, this.style, String d, {String? faint, bool faintOnTop = false})
+    : _name = name,
+      _d = d,
+      _faint = faint,
+      _faintOnTop = faintOnTop,
+      _drawing = null;
+
+  /// An icon [style] draws exactly as an earlier style does: the same drawing, under
+  /// its own style.
+  const AshlarIconData.same(this.style, AshlarIconData drawing)
+    : _name = '',
+      _d = '',
+      _faint = null,
+      _faintOnTop = false,
+      _drawing = drawing;
+
+  /// The style it is drawn in: rounded-stroke, sharp-solid.
+  final String style;
+  final String _name;
+  final String _d;
+  final String? _faint;
+  final bool _faintOnTop;
+  final AshlarIconData? _drawing;
 
   /// The icon's name in every package: calendar, a-arrow-down.
-  final String name;
-  final String d;
+  String get name => _drawing?.name ?? _name;
+  String get d => _drawing?.d ?? _d;
 
   /// The layer drawn at 40%, or in its own colour. Null for one-layer styles, and for
   /// icons with nothing to tint (an arrow has no body).
-  final String? faint;
+  String? get faint => _drawing == null ? _faint : _drawing.faint;
 
   /// Twotone draws its faint layer over the main one; Duotone and Bulk under it.
-  final bool faintOnTop;
+  bool get faintOnTop => _drawing?.faintOnTop ?? _faintOnTop;
 }
 
 /// Draws an [AshlarIconData] as inline SVG, so it renders on the server and needs
 /// nothing loaded. It takes the text colour unless [color] is given. The faint layer
 /// follows --ash-secondary and --ash-secondary-opacity, as the web font does. A
 /// [secondaryColor] is drawn as given, at full strength unless [secondaryOpacity] says
-/// otherwise, as Flutter's AshlarLayeredIcon does.
+/// otherwise, as Flutter's AshlarIcon does.
 class AshlarIcon extends StatelessComponent {
   const AshlarIcon(
     this.icon, {
@@ -70,8 +92,9 @@ class AshlarIcon extends StatelessComponent {
           );
     return Component.element(
       tag: 'svg',
-      // Names the set and the icon, as other sets do, so a page shows where an icon came from.
-      classes: 'ashlar-icon ashlar-icon-${icon.name}${classes == null ? '' : ' $classes'}',
+      // The web font's classes, so every ashlaricons icon on a page answers to the same
+      // selectors (.ash, .ash-calendar), whichever package drew it.
+      classes: 'ash ash-${icon.style} ash-${icon.name}${classes == null ? '' : ' $classes'}',
       styles: styles,
       attributes: {
         'xmlns': 'http://www.w3.org/2000/svg',

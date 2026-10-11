@@ -37,8 +37,9 @@ and is 24 pixels unless you size it; a class that sets its size overrides that. 
 a `label` it is hidden from screen readers, as decoration should be. The faint layer
 also follows the CSS variables `--ash-secondary` and `--ash-secondary-opacity`.
 
-Rendered, each icon carries the classes `ashlar-icon ashlar-icon-calendar` before your
-own, so every ashlaricons icon on a page can be found or styled at once.
+Rendered, each icon carries the web font's classes, `ash ash-rounded-stroke ash-calendar`,
+before your own, so every ashlaricons icon on a page, inline or font, answers to the
+same selectors. Loading the stylesheet as well does not resize it.
 
 Every icon is a `const AshlarIconData`, so a compiled site keeps only the icons it uses.
 
