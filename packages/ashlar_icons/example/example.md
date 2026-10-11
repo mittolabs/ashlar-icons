@@ -7,9 +7,9 @@ class Toolbar extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) => const Row(children: [
-        Icon(AshlarIconsRoundedStroke.house),
-        Icon(AshlarIconsRoundedSolid.bell),
-        AshlarLayeredIcon(AshlarIconsRoundedDuotone.calendar),
+        AshlarIcon(AshlarIconsRoundedStroke.house),
+        AshlarIcon(AshlarIconsRoundedSolid.bell),
+        AshlarIcon(AshlarIconsRoundedDuotone.calendar),
       ]);
 }
 ```

@@ -33,9 +33,14 @@ expects this repository checked out beside it, in the workspace's `products/`.
   append-only. A name keeps its codepoint forever and a retired name is never
   reused.
 - **The name is ashlaricons**, one lowercase word, in anything a user reads.
+- **One way to draw an icon, in every framework**: `AshlarIcon`, given the icon as
+  data, in any style, with the same arguments (`size`, `color`, `secondaryColor` and
+  each framework's own label). `AshlarIcon(AshlarIconsSharpSolid.calendar)` in Flutter
+  and Jaspr, `<AshlarIcon icon={CalendarIcon} />` in React. Changing style changes
+  only the class or the import, never the widget. No per-icon components.
 - **Names match across packages**: `AshlarIconsRoundedStroke.calendar` in Dart,
-  `CalendarIcon` (and `AshlarCalendar`, the same icon) from `<package>/<style>` in
-  JavaScript, with Rounded Stroke at each package's root, `ash-calendar` in CSS.
+  `CalendarIcon` from `<package>/<style>` in JavaScript, with Rounded Stroke at each
+  package's root, `ash-calendar` in CSS.
 - **An icon says whose it is.** React and Jaspr render `class="ashlar-icon
   ashlar-icon-<name>"`, never `ash`, which the stylesheet sizes for the icon font.
 - **The CSS prefix is `ash`.** Ashlar UI works like shadcn/ui and has no classes of its
@@ -55,4 +60,4 @@ the npm packages. `git config core.hooksPath .githooks` installs the commit-msg 
 ## Commits
 
 Conventional Commits, per the workspace's `docs/engineering/commits.md`. The
-scope is the area (`icons`, `react`, `jaspr`, `web`, `layered`, `docs`), never a file.
+scope is the area (`icons`, `flutter`, `react`, `jaspr`, `web`, `docs`), never a file.

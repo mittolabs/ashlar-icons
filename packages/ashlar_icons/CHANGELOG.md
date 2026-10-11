@@ -2,4 +2,4 @@
 
 - First release: 6,266 icons in ten styles (Rounded Stroke, Solid,
   Duotone, Twotone and Bulk; Standard Stroke, Solid and Duotone; Sharp Stroke and
-  Solid), with `AshlarLayeredIcon` for the two-layer styles.
+  Solid), each drawn with `AshlarIcon`.

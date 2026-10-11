@@ -2,6 +2,8 @@ import type { ForwardRefExoticComponent, RefAttributes, SVGProps } from 'react';
 import type { AshlarIconData } from '@mittolabs/ashlar-icons-core';
 
 export interface AshlarIconProps extends Omit<SVGProps<SVGSVGElement>, 'ref' | 'color'> {
+  /** The icon to draw, in its style: CalendarIcon from this package or `<package>/<style>`. */
+  icon: AshlarIconData;
   /** Width and height. Defaults to 24. A size class (size-4) overrides it. */
   size?: number | string;
   /** Defaults to currentColor, so the icon takes the text colour. */
@@ -12,12 +14,5 @@ export interface AshlarIconProps extends Omit<SVGProps<SVGSVGElement>, 'ref' | '
   secondaryOpacity?: number | string;
 }
 
-export type AshlarIconComponent = ForwardRefExoticComponent<AshlarIconProps & RefAttributes<SVGSVGElement>>;
-
-/** Draws any icon from @mittolabs/ashlar-icons-core. */
-export declare const AshlarIcon: ForwardRefExoticComponent<
-  AshlarIconProps & { icon: AshlarIconData; iconName?: string } & RefAttributes<SVGSVGElement>
->;
-
-/** Makes a named component that draws one icon, as every export of this package is. */
-export declare function createAshlarIcon(name: string, icon: AshlarIconData, iconName?: string): AshlarIconComponent;
+/** Draws any ashlaricons icon, in any style, as inline SVG. */
+export declare const AshlarIcon: ForwardRefExoticComponent<AshlarIconProps & RefAttributes<SVGSVGElement>>;

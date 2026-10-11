@@ -18,20 +18,30 @@ flutter pub add ashlar_icons
 ```dart
 import 'package:ashlar_icons/ashlar_icons.dart';
 
-Icon(AshlarIconsRoundedStroke.calendar, size: 24)
-Icon(AshlarIconsSharpSolid.calendar)
+AshlarIcon(AshlarIconsRoundedStroke.calendar)
+AshlarIcon(AshlarIconsSharpSolid.calendar, size: 32, semanticLabel: 'Calendar')
 
-// Duotone, Twotone and Bulk draw two layers.
-AshlarLayeredIcon(
+// Duotone, Twotone and Bulk draw a faint layer at 40%, or in its own colour.
+AshlarIcon(
   AshlarIconsRoundedDuotone.calendar,
   color: Color(0xFF4F46E5),
-  secondaryColor: Color(0xFFC7D2FE), // optional; defaults to color at 40%
+  secondaryColor: Color(0xFFC7D2FE),
 )
 ```
 
-Every icon is a `const IconData`, so Flutter's icon tree shaking keeps only the glyphs
-your app draws, however many styles you use. The package needs only Flutter's widgets
-layer, not Material or Cupertino.
+`AshlarIcon` draws every style, so changing style is changing the class name. It is
+sized and coloured by the `IconTheme` like Flutter's `Icon`, so buttons, app bars and
+navigation bars style it as they would any icon.
+
+For a widget that only takes an `IconData`, use the icon's `iconData`:
+
+```dart
+SomeNavItem(icon: AshlarIconsRoundedStroke.house.iconData)
+```
+
+Every icon is a `const`, so Flutter's icon tree shaking keeps only the glyphs your app
+draws, however many styles you use. The package needs only Flutter's widgets layer,
+not Material or Cupertino.
 
 ## Promises
 

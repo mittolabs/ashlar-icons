@@ -80,10 +80,10 @@ jobs:
           npm install react@19 react-dom@19 @types/react@19 @types/react-dom@19 typescript@5
           cat > try.tsx <<'TSX'
           import { renderToStaticMarkup } from 'react-dom/server';
-          import { CalendarIcon } from '@mittolabs/ashlar-icons-react';
+          import { AshlarIcon, CalendarIcon } from '@mittolabs/ashlar-icons-react';
           import { CalendarIcon as Duo } from '@mittolabs/ashlar-icons-react/rounded-duotone';
-          const html = renderToStaticMarkup(<p><CalendarIcon className="size-4" /><Duo secondaryColor="#c7d2fe" /></p>);
-          if (!html.includes('<path d="M') || !html.includes('fill:#c7d2fe')) throw new Error(html);
+          const html = renderToStaticMarkup(<p><AshlarIcon icon={CalendarIcon} className="size-4" /><AshlarIcon icon={Duo} secondaryColor="#c7d2fe" /></p>);
+          if (!html.includes('<path d="M') || !html.includes('fill:#c7d2fe') || !html.includes('ashlar-icon-calendar')) throw new Error(html);
           console.log('renders');
           TSX
           npx tsc --strict --jsx react-jsx --module nodenext --moduleResolution nodenext --target es2022 --outDir out try.tsx

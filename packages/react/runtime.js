@@ -3,12 +3,12 @@ import { createElement, forwardRef } from 'react';
 const label = (props) => props['aria-label'] || props['aria-labelledby'] || props.title;
 
 /**
- * Draws any icon from @mittolabs/ashlar-icons-core as inline SVG. The faint layer of a
- * two-layer style follows --ash-secondary and --ash-secondary-opacity, as the web font
- * does. A secondaryColor is drawn as given, at full strength unless secondaryOpacity says otherwise.
+ * Draws any ashlaricons icon, in any style, as inline SVG. The faint layer of a two-layer
+ * style follows --ash-secondary and --ash-secondary-opacity, as the web font does. A
+ * secondaryColor is drawn as given, at full strength unless secondaryOpacity says otherwise.
  */
 export const AshlarIcon = forwardRef(function AshlarIcon(
-  { icon, iconName, size = 24, color = 'currentColor', secondaryColor, secondaryOpacity, className, children, ...props },
+  { icon, size = 24, color = 'currentColor', secondaryColor, secondaryOpacity, className, children, ...props },
   ref,
 ) {
   const faint = {
@@ -28,17 +28,10 @@ export const AshlarIcon = forwardRef(function AshlarIcon(
       'aria-hidden': label(props) ? undefined : true,
       role: label(props) ? 'img' : undefined,
       // Names the set and the icon, as other sets do, so a page shows where an icon came from.
-      className: ['ashlar-icon', iconName && `ashlar-icon-${iconName}`, className].filter(Boolean).join(' '),
+      className: ['ashlar-icon', `ashlar-icon-${icon.name}`, className].filter(Boolean).join(' '),
       ...props,
     },
-    ...icon.map(([d, isFaint], i) => createElement('path', isFaint ? { key: i, d, style: faint } : { key: i, d })),
+    ...icon.layers.map(([d, isFaint], i) => createElement('path', isFaint ? { key: i, d, style: faint } : { key: i, d })),
     children,
   );
 });
-
-/** Makes a named component that draws one icon, as every export of this package is. */
-export function createAshlarIcon(name, icon, iconName) {
-  const Icon = forwardRef((props, ref) => createElement(AshlarIcon, { ...props, ref, icon, iconName }));
-  Icon.displayName = name;
-  return Icon;
-}

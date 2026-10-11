@@ -34,23 +34,24 @@ Every package has the same icons and names, and releases share one version.
 
 ## Quick start
 
+One component, `AshlarIcon`, draws every icon in every style, in every framework.
+
 ### Flutter
 
 ```dart
 import 'package:ashlar_icons/ashlar_icons.dart';
 
-Icon(AshlarIconsRoundedStroke.calendar)
-Icon(AshlarIconsSharpSolid.calendar, size: 32)
+AshlarIcon(AshlarIconsRoundedStroke.calendar)
+AshlarIcon(AshlarIconsSharpSolid.calendar, size: 32)
 ```
 
 ### React
 
 ```tsx
-import { CalendarIcon } from '@mittolabs/ashlar-icons-react';
-import { CalendarIcon as SharpCalendarIcon } from '@mittolabs/ashlar-icons-react/sharp-solid';
+import { AshlarIcon, CalendarIcon } from '@mittolabs/ashlar-icons-react/sharp-solid';
 
-<CalendarIcon className="size-4" />
-<SharpCalendarIcon size={32} />
+<AshlarIcon icon={CalendarIcon} className="size-4" />
+<AshlarIcon icon={CalendarIcon} size={32} />
 ```
 
 Only the icons you import end up in your bundle.

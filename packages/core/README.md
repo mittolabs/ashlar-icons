@@ -17,15 +17,15 @@ Rounded Stroke:
 
 ```js
 import { CalendarIcon } from '@mittolabs/ashlar-icons-core/rounded-duotone';
-// [['M3 5c0-1.1.9-2 2-2h14...', 1], ['M7 2c0-.55.45-1 1-1...']]
+// { name: 'calendar', layers: [['M3 5c0-1.1.9-2 2-2h14...', 1], ['M7 2c0-.55.45-1 1-1...']] }
 ```
 
-An icon is its layers, drawn bottom to top. Each layer is its path data, plus a `1`
+An icon is its name and its layers, drawn bottom to top. Each layer is its path data, plus a `1`
 when it is the faint layer of a two-layer style (Duotone, Twotone, Bulk), which is
 drawn at 40% or in its own colour. Draw every layer as a filled path:
 
 ```js
-const svg = `<svg viewBox="0 0 24 24" fill="currentColor">${CalendarIcon
+const svg = `<svg viewBox="0 0 24 24" fill="currentColor">${CalendarIcon.layers
   .map(([d, faint]) => `<path d="${d}"${faint ? ' opacity=".4"' : ''}/>`)
   .join('')}</svg>`;
 ```

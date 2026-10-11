@@ -1,7 +1,7 @@
 # @mittolabs/ashlar-icons-react
 
-ashlaricons for React: 6,266 icons in ten styles, each a component that draws inline
-SVG. Browse them at [icons.ashlar.ke](https://icons.ashlar.ke).
+ashlaricons for React: 6,266 icons in ten styles, drawn as inline SVG by one
+component. Browse them at [icons.ashlar.ke](https://icons.ashlar.ke).
 
 | Corner | Styles |
 |---|---|
@@ -16,26 +16,27 @@ npm install @mittolabs/ashlar-icons-react
 ```
 
 ```tsx
-import { CalendarIcon } from '@mittolabs/ashlar-icons-react';
-import { CalendarIcon as SharpCalendarIcon } from '@mittolabs/ashlar-icons-react/sharp-solid';
+import { AshlarIcon, CalendarIcon } from '@mittolabs/ashlar-icons-react';
 
-<CalendarIcon />
-<CalendarIcon className="size-4 text-muted-foreground" />
-<SharpCalendarIcon size={32} color="#4f46e5" aria-label="Calendar" />
+<AshlarIcon icon={CalendarIcon} />
+<AshlarIcon icon={CalendarIcon} className="size-4 text-muted-foreground" />
+<AshlarIcon icon={CalendarIcon} size={32} color="#4f46e5" aria-label="Calendar" />
 ```
 
-The package's root is Rounded Stroke; every style is `@mittolabs/ashlar-icons-react/<style>`
-(`rounded-duotone`, `standard-stroke`, `sharp-solid`, ...), with the same names in each.
+`AshlarIcon` draws every icon in every style, so changing style is changing the
+import. The package's root is Rounded Stroke; every style is
+`@mittolabs/ashlar-icons-react/<style>` (`rounded-duotone`, `standard-stroke`,
+`sharp-solid`, ...), with the same names in each, and `AshlarIcon` beside them:
+
+```tsx
+import { AshlarIcon, CalendarIcon } from '@mittolabs/ashlar-icons-react/sharp-solid';
+```
 
 An icon is an `<svg>`: it takes the text colour, is 24 pixels unless you size it, and
 passes every other prop and `className` through, so utility classes such as `size-4`
 work. Without an `aria-label` it is hidden from screen readers, as decoration should be.
-
-Every icon is also exported with the set in its name, `AshlarCalendar` beside
-`CalendarIcon`, for code that should say whose icon it is, or an app that already
-has another set's `CalendarIcon`. Both are the same component. Rendered, each icon
-carries the classes `ashlar-icon ashlar-icon-calendar`, so every ashlaricons icon on
-a page can be found or styled at once.
+Rendered, each icon carries the classes `ashlar-icon ashlar-icon-calendar`, so every
+ashlaricons icon on a page can be found or styled at once.
 
 Only the icons you import end up in your bundle.
 
@@ -45,22 +46,25 @@ Duotone, Twotone and Bulk draw a faint layer at 40%. Give it a colour of its own
 `secondaryColor`, or from CSS with `--ash-secondary` (and `--ash-secondary-opacity`):
 
 ```tsx
-import { CalendarIcon } from '@mittolabs/ashlar-icons-react/rounded-duotone';
+import { AshlarIcon, CalendarIcon } from '@mittolabs/ashlar-icons-react/rounded-duotone';
 
-<CalendarIcon color="#4f46e5" secondaryColor="#c7d2fe" />
-<CalendarIcon className="text-primary [--ash-secondary:var(--color-primary)]" />
+<AshlarIcon icon={CalendarIcon} color="#4f46e5" secondaryColor="#c7d2fe" />
+<AshlarIcon icon={CalendarIcon} className="text-primary [--ash-secondary:var(--color-primary)]" />
 ```
 
-## Any icon by value
+## Icons chosen at run time
 
-`AshlarIcon` draws an icon passed as data from `@mittolabs/ashlar-icons-core`, for
-when the icon is chosen at run time:
+An icon is plain data, so it can be kept in state, a list or a prop:
 
 ```tsx
-import { AshlarIcon } from '@mittolabs/ashlar-icons-react';
-import { HouseIcon } from '@mittolabs/ashlar-icons-core/rounded-bulk';
+import { AshlarIcon, HouseIcon, SettingsIcon, type AshlarIconData } from '@mittolabs/ashlar-icons-react';
 
-<AshlarIcon icon={HouseIcon} size={20} />
+const nav: { label: string; icon: AshlarIconData }[] = [
+  { label: 'Home', icon: HouseIcon },
+  { label: 'Settings', icon: SettingsIcon },
+];
+
+nav.map(({ label, icon }) => <AshlarIcon key={label} icon={icon} />);
 ```
 
 ## Licence
