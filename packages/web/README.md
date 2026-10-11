@@ -1,7 +1,7 @@
 # @mittolabs/ashlar-icons
 
 ashlaricons for any web page: 6,553 icons in ten styles, as one stylesheet with icon
-fonts, and as SVG files. Browse them at [icons.ashlar.ke](https://icons.ashlar.ke).
+fonts. Browse them at [icons.ashlar.ke](https://icons.ashlar.ke).
 
 For React, use [`@mittolabs/ashlar-icons-react`](https://www.npmjs.com/package/@mittolabs/ashlar-icons-react)
 instead: it draws inline SVG and ships only the icons you use.
@@ -38,11 +38,16 @@ strength:
 
 ## SVG files
 
-Every icon in every style is `svg/<style>/<name>.svg`, drawn in `currentColor`:
+Every icon in every style is at `https://icons.ashlar.ke/svg/<style>/<name>.svg`, drawn in
+`currentColor`:
 
 ```html
-<img src="https://cdn.jsdelivr.net/npm/@mittolabs/ashlar-icons@0.1.0/svg/rounded-stroke/calendar.svg" alt="">
+<img src="https://icons.ashlar.ke/svg/rounded-stroke/calendar.svg" alt="">
 ```
+
+[icons.ashlar.ke](https://icons.ashlar.ke/icons) also downloads any icon as SVG or PNG in your
+colours. This package carries the stylesheet and fonts only; for icons drawn from code, use
+the React or Jaspr package.
 
 ## Licence
 

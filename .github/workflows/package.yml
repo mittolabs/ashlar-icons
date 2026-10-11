@@ -88,4 +88,5 @@ jobs:
           TSX
           npx tsc --strict --jsx react-jsx --module nodenext --moduleResolution nodenext --target es2022 --outDir out try.tsx
           node out/try.js
-          test -f node_modules/@mittolabs/ashlar-icons/svg/rounded-stroke/calendar.svg
+          test -f node_modules/@mittolabs/ashlar-icons/ashlar-icons.css
+          test -f node_modules/@mittolabs/ashlar-icons/fonts/AshlarRoundedStroke.woff2
