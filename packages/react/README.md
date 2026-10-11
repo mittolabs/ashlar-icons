@@ -70,4 +70,4 @@ nav.map(({ label, icon }) => <AshlarIcon key={label} icon={icon} />);
 
 ## Licence
 
-ISC, with the MIT notices of the designs it builds on. See `LICENSE`.
+ISC, with the MIT notices of the designs it builds on in `NOTICE`. See `LICENSE`.

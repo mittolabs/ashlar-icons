@@ -5,12 +5,17 @@ import 'package:jaspr/jaspr.dart';
 /// style (Duotone, Twotone, Bulk), its [faint] layer.
 @immutable
 class AshlarIconData {
-  const AshlarIconData(String name, this.style, String d, {String? faint, bool faintOnTop = false})
-    : _name = name,
-      _d = d,
-      _faint = faint,
-      _faintOnTop = faintOnTop,
-      _drawing = null;
+  const AshlarIconData(
+    String name,
+    this.style,
+    String d, {
+    String? faint,
+    bool faintOnTop = false,
+  }) : _name = name,
+       _d = d,
+       _faint = faint,
+       _faintOnTop = faintOnTop,
+       _drawing = null;
 
   /// An icon [style] draws exactly as an earlier style does: the same drawing, under
   /// its own style.
@@ -94,7 +99,8 @@ class AshlarIcon extends StatelessComponent {
       tag: 'svg',
       // The web font's classes, so every ashlaricons icon on a page answers to the same
       // selectors (.ash, .ash-calendar), whichever package drew it.
-      classes: 'ash ash-${icon.style} ash-${icon.name}${classes == null ? '' : ' $classes'}',
+      classes:
+          'ash ash-${icon.style} ash-${icon.name}${classes == null ? '' : ' $classes'}',
       styles: styles,
       attributes: {
         'xmlns': 'http://www.w3.org/2000/svg',
@@ -102,7 +108,12 @@ class AshlarIcon extends StatelessComponent {
         'height': '$size',
         'viewBox': '0 0 24 24',
         'fill': fill,
-        if (label == null) 'aria-hidden': 'true' else ...{'role': 'img', 'aria-label': label!},
+        if (label == null)
+          'aria-hidden': 'true'
+        else ...{
+          'role': 'img',
+          'aria-label': label!,
+        },
         ...?attributes,
       },
       children: [

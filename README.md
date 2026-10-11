@@ -90,7 +90,7 @@ Each package's README covers sizing, colours and the two-colour styles.
 
 ## Licence
 
-ISC, with the MIT notices of the designs it builds on. See [`LICENSE`](LICENSE).
+ISC, with the MIT notices of the designs it builds on in [`NOTICE`](NOTICE). See [`LICENSE`](LICENSE).
 
 <p align="center">
   <sub>Made by Mittolabs</sub>

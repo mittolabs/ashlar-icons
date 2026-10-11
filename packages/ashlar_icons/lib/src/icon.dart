@@ -8,7 +8,13 @@ import 'package:flutter/widgets.dart';
 /// its own colour.
 @immutable
 class AshlarIconData {
-  const AshlarIconData(this.iconData, {this.secondary, this.secondaryOpacity = 0.4, this.secondaryOnTop = false});
+  /// An icon from its main layer and, for a two-layer style, its faint layer.
+  const AshlarIconData(
+    this.iconData, {
+    this.secondary,
+    this.secondaryOpacity = 0.4,
+    this.secondaryOnTop = false,
+  });
 
   /// The icon's main layer: on its own, for a widget that only takes [IconData].
   final IconData iconData;
@@ -16,7 +22,11 @@ class AshlarIconData {
   /// The faint layer; null in a one-layer style, or when the icon has nothing
   /// for this layer (an arrow has no body to tint).
   final IconData? secondary;
+
+  /// How strongly the faint layer is drawn when it takes the icon's colour.
   final double secondaryOpacity;
+
+  /// Whether the faint layer is drawn over the main one (Twotone) or under it.
   final bool secondaryOnTop;
 }
 
@@ -24,27 +34,58 @@ class AshlarIconData {
 /// [size] and [color] are given. In the two-layer styles the faint layer is
 /// [color] at the style's opacity, or [secondaryColor] at full strength.
 class AshlarIcon extends StatelessWidget {
-  const AshlarIcon(this.icon, {super.key, this.size, this.color, this.secondaryColor, this.semanticLabel});
+  /// Draws [icon]; every other argument is optional.
+  const AshlarIcon(
+    this.icon, {
+    super.key,
+    this.size,
+    this.color,
+    this.secondaryColor,
+    this.semanticLabel,
+  });
 
+  /// The icon to draw, in its style: AshlarIconsRoundedStroke.calendar.
   final AshlarIconData icon;
+
+  /// Width and height in logical pixels. Defaults to the [IconTheme]'s size.
   final double? size;
+
+  /// Defaults to the [IconTheme]'s colour.
   final Color? color;
+
+  /// The faint layer of a two-layer style, drawn as given. Defaults to [color] at the
+  /// style's opacity.
   final Color? secondaryColor;
+
+  /// Read out by screen readers. Without one the icon is decorative.
   final String? semanticLabel;
 
   @override
   Widget build(BuildContext context) {
-    final primary = Icon(icon.iconData, size: size, color: color, semanticLabel: semanticLabel);
+    final primary = Icon(
+      icon.iconData,
+      size: size,
+      color: color,
+      semanticLabel: semanticLabel,
+    );
     final secondaryIcon = icon.secondary;
     if (secondaryIcon == null) return primary;
     final iconTheme = IconTheme.of(context);
     final base = color ?? iconTheme.color ?? const Color(0xFF000000);
     final secondary = ExcludeSemantics(
-      child: Icon(secondaryIcon, size: size, color: secondaryColor ?? base.withValues(alpha: base.a * icon.secondaryOpacity)),
+      child: Icon(
+        secondaryIcon,
+        size: size,
+        color:
+            secondaryColor ??
+            base.withValues(alpha: base.a * icon.secondaryOpacity),
+      ),
     );
     return Stack(
       alignment: Alignment.center,
-      children: icon.secondaryOnTop ? [primary, secondary] : [secondary, primary],
+      children: icon.secondaryOnTop
+          ? [primary, secondary]
+          : [secondary, primary],
     );
   }
 }

@@ -1,6 +1,6 @@
 {
   "name": "@mittolabs/ashlar-icons",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "ashlaricons for any web page: 6,553 icons in ten styles as one stylesheet with icon fonts.",
   "license": "ISC",
   "homepage": "https://icons.ashlar.ke",
@@ -29,6 +29,7 @@
     "ashlar-icons.css",
     "fonts",
     "LICENSE",
+    "NOTICE",
     "README.md",
     "CHANGELOG.md"
   ],

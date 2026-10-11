@@ -51,4 +51,4 @@ the React or Jaspr package.
 
 ## Licence
 
-ISC, with the MIT notices of the designs it builds on. See `LICENSE`.
+ISC, with the MIT notices of the designs it builds on in `NOTICE`. See `LICENSE`.

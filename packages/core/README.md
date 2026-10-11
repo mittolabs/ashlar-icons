@@ -34,4 +34,4 @@ Only the icons you import end up in your bundle.
 
 ## Licence
 
-ISC, as is everything in ashlaricons. See `LICENSE`.
+ISC, with the MIT notices of the designs it builds on in `NOTICE`. See `LICENSE`.
