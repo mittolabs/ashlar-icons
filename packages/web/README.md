@@ -11,7 +11,7 @@ instead: it draws inline SVG and ships only the icons you use.
 From a CDN:
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@mittolabs/ashlar-icons@0.1.0/ashlar-icons.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@mittolabs/ashlar-icons@0.1/ashlar-icons.css">
 ```
 
 or installed, `npm install @mittolabs/ashlar-icons`, then

@@ -68,7 +68,7 @@ AshlarIcon(AshlarIconsSharpSolid.calendar, size: 32)
 ### Web
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@mittolabs/ashlar-icons@0.1.0/ashlar-icons.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@mittolabs/ashlar-icons@0.1/ashlar-icons.css">
 
 <i class="ash ash-rounded-stroke ash-calendar"></i>
 <i class="ash ash-sharp-solid ash-calendar"></i>
