@@ -76,6 +76,8 @@ AshlarIcon(AshlarIconsSharpSolid.calendar, size: 32)
 
 Or download any icon as SVG or PNG from [icons.ashlar.ke](https://icons.ashlar.ke/icons).
 
+Working apps for each, installed from the registries: [`examples/`](examples).
+
 ## Styles
 
 Every icon comes in all ten styles, so you can switch style, or mix them, and everything still lines up.
