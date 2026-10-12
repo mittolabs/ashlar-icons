@@ -33,15 +33,20 @@ AshlarIcon(
 sized and coloured by the `IconTheme` like Flutter's `Icon`, so buttons, app bars and
 navigation bars style it as they would any icon.
 
-For a widget that only takes an `IconData`, use the icon's `iconData`:
+Every icon is a `const IconData`, so it also works anywhere Flutter takes one:
 
 ```dart
-SomeNavItem(icon: AshlarIconsRoundedStroke.house.iconData)
+Icon(AshlarIconsRoundedStroke.house)
+SomeNavItem(icon: AshlarIconsRoundedStroke.house)
 ```
 
-Every icon is a `const`, so Flutter's icon tree shaking keeps only the glyphs your app
-draws, however many styles you use. The package needs only Flutter's widgets layer,
-not Material or Cupertino.
+In Duotone, Twotone and Bulk, draw with `AshlarIcon`: `Icon` draws only the main layer.
+
+Release builds keep only the glyphs your app draws. An app that uses one icon ships
+under 1 KB of each style's font. The faint layers of Duotone, Twotone and Bulk are the
+exception: their three fonts ship whole, about 740 KB in all, because nothing in your
+code names their glyphs. The package needs only Flutter's widgets layer, not Material
+or Cupertino.
 
 ## Promises
 

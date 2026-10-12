@@ -1,6 +1,6 @@
 {
   "name": "@mittolabs/ashlar-icons-react",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "ashlaricons for React: 6,553 icons in ten styles, drawn as inline SVG by one AshlarIcon component.",
   "license": "ISC",
   "homepage": "https://icons.ashlar.ke",
@@ -76,7 +76,7 @@
     "CHANGELOG.md"
   ],
   "dependencies": {
-    "@mittolabs/ashlar-icons-core": "0.1.1"
+    "@mittolabs/ashlar-icons-core": "0.2.0"
   },
   "peerDependencies": {
     "react": ">=18"

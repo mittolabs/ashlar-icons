@@ -1,3 +1,7 @@
+## 0.2.0
+
+- Released with the Flutter package's 0.2.0, which fixes its tree shaking. No change here.
+
 ## 0.1.1
 
 - The licence is plain ISC in `LICENSE`, with the notices of the designs it builds on in

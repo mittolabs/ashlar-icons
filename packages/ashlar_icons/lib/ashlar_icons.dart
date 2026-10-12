@@ -7,6 +7,7 @@
 /// AshlarIcon(AshlarIconsRoundedStroke.calendar)
 /// AshlarIcon(AshlarIconsSharpSolid.calendar, size: 32)
 /// AshlarIcon(AshlarIconsRoundedDuotone.calendar, secondaryColor: Color(0xFFC7D2FE))
+/// Icon(AshlarIconsRoundedStroke.calendar) // the one-layer styles work with Icon too
 /// ```
 library;
 

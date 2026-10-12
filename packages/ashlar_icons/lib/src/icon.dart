@@ -3,36 +3,38 @@
 
 import 'package:flutter/widgets.dart';
 
-/// An icon, in any style: [iconData] alone, or with a [secondary] layer for the
-/// two-layer styles (duotone, twotone, bulk), drawn at [secondaryOpacity] or in
-/// its own colour.
-@immutable
-class AshlarIconData {
-  /// An icon from its main layer and, for a two-layer style, its faint layer.
-  const AshlarIconData(
-    this.iconData, {
-    this.secondary,
-    this.secondaryOpacity = 0.4,
-    this.secondaryOnTop = false,
-  });
+const String _p = 'ashlar_icons';
 
-  /// The icon's main layer: on its own, for a widget that only takes [IconData].
-  final IconData iconData;
+/// The icons of a style are [IconData], so they also work with [Icon]. In the two-layer
+/// styles (duotone, twotone, bulk) an icon names its faint layer's font in
+/// [IconData.fontFamilyFallback], and [AshlarIcon] draws that layer as well.
+@Deprecated('Every icon is an IconData: use IconData.')
+typedef AshlarIconData = IconData;
 
-  /// The faint layer; null in a one-layer style, or when the icon has nothing
-  /// for this layer (an arrow has no body to tint).
-  final IconData? secondary;
-
-  /// How strongly the faint layer is drawn when it takes the icon's colour.
-  final double secondaryOpacity;
-
-  /// Whether the faint layer is drawn over the main one (Twotone) or under it.
-  final bool secondaryOnTop;
+/// Kept for code written against 0.1, where icons were AshlarIconData.
+extension AshlarIconDataCompat on IconData {
+  /// The icon itself.
+  @Deprecated('Every icon is an IconData: pass it directly.')
+  IconData get iconData => this;
 }
 
-/// Draws an [AshlarIconData], sized and coloured by the [IconTheme] unless
-/// [size] and [color] are given. In the two-layer styles the faint layer is
-/// [color] at the style's opacity, or [secondaryColor] at full strength.
+// One glyph of each main-layer font (see font.mjs): it makes Flutter's icon tree shaking
+// trim the fonts an app never uses, not only those it does.
+// ignore: unused_element
+const List<IconData> _fonts = [
+  IconData(0xe000, fontFamily: 'AshlarRoundedStroke', fontPackage: _p),
+  IconData(0xe000, fontFamily: 'AshlarRoundedSolid', fontPackage: _p),
+  IconData(0xe000, fontFamily: 'AshlarRoundedOuter', fontPackage: _p),
+  IconData(0xe000, fontFamily: 'AshlarRoundedDetails', fontPackage: _p),
+  IconData(0xe000, fontFamily: 'AshlarStandardStroke', fontPackage: _p),
+  IconData(0xe000, fontFamily: 'AshlarStandardSolid', fontPackage: _p),
+  IconData(0xe000, fontFamily: 'AshlarSharpStroke', fontPackage: _p),
+  IconData(0xe000, fontFamily: 'AshlarSharpSolid', fontPackage: _p),
+];
+
+/// Draws an icon in any style, sized and coloured by the [IconTheme] unless [size] and
+/// [color] are given. In the two-layer styles the faint layer is [color] at 40%, or
+/// [secondaryColor] at full strength.
 class AshlarIcon extends StatelessWidget {
   /// Draws [icon]; every other argument is optional.
   const AshlarIcon(
@@ -45,7 +47,7 @@ class AshlarIcon extends StatelessWidget {
   });
 
   /// The icon to draw, in its style: AshlarIconsRoundedStroke.calendar.
-  final AshlarIconData icon;
+  final IconData icon;
 
   /// Width and height in logical pixels. Defaults to the [IconTheme]'s size.
   final double? size;
@@ -53,8 +55,7 @@ class AshlarIcon extends StatelessWidget {
   /// Defaults to the [IconTheme]'s colour.
   final Color? color;
 
-  /// The faint layer of a two-layer style, drawn as given. Defaults to [color] at the
-  /// style's opacity.
+  /// The faint layer of a two-layer style, drawn as given. Defaults to [color] at 40%.
   final Color? secondaryColor;
 
   /// Read out by screen readers. Without one the icon is decorative.
@@ -63,29 +64,46 @@ class AshlarIcon extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final primary = Icon(
-      icon.iconData,
+      icon,
       size: size,
       color: color,
       semanticLabel: semanticLabel,
     );
-    final secondaryIcon = icon.secondary;
-    if (secondaryIcon == null) return primary;
+    final faint = icon.fontFamilyFallback?.firstOrNull;
+    if (faint == null || !faint.startsWith('Ashlar')) return primary;
     final iconTheme = IconTheme.of(context);
+    final iconSize = size ?? iconTheme.size ?? 24;
     final base = color ?? iconTheme.color ?? const Color(0xFF000000);
-    final secondary = ExcludeSemantics(
-      child: Icon(
-        secondaryIcon,
-        size: size,
-        color:
-            secondaryColor ??
-            base.withValues(alpha: base.a * icon.secondaryOpacity),
+    // Drawn as Icon draws, from the faint layer's font at the same codepoint.
+    final layer = ExcludeSemantics(
+      child: SizedBox(
+        width: iconSize,
+        height: iconSize,
+        child: Center(
+          child: RichText(
+            overflow: TextOverflow.visible,
+            textDirection: Directionality.maybeOf(context) ?? TextDirection.ltr,
+            text: TextSpan(
+              text: String.fromCharCode(icon.codePoint),
+              style: TextStyle(
+                inherit: false,
+                color: secondaryColor ?? base.withValues(alpha: base.a * 0.4),
+                fontSize: iconSize,
+                fontFamily: faint,
+                package: icon.fontPackage ?? _p,
+                height: 1,
+                leadingDistribution: TextLeadingDistribution.even,
+              ),
+            ),
+          ),
+        ),
       ),
     );
+    // Twotone draws its faint layer (the inner details) over the outline.
+    final onTop = faint.endsWith('Inner');
     return Stack(
       alignment: Alignment.center,
-      children: icon.secondaryOnTop
-          ? [primary, secondary]
-          : [secondary, primary],
+      children: onTop ? [primary, layer] : [layer, primary],
     );
   }
 }
