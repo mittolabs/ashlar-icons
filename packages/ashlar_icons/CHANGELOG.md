@@ -1,3 +1,9 @@
+## 0.3.0
+
+- 271 flags of countries and regions, in colour, in a rectangle or a circle (AshlarFlag).
+- Outlines of 231 countries and territories and 7 continents, as icons in all ten styles.
+- 6,791 icons in all.
+
 ## 0.2.0
 
 - Release builds now keep only the icons an app uses. Before, Flutter's icon tree

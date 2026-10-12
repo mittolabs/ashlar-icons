@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://icons.ashlar.ke">
-    <img src=".github/ashlaricons.png" alt="ashlaricons: 6,553 icons in 10 styles, for Flutter, React, Jaspr and the web" width="100%" />
+    <img src=".github/ashlaricons.png" alt="ashlaricons: 6,791 icons in 10 styles, for Flutter, React, Jaspr and the web" width="100%" />
   </a>
 </p>
 
 <p align="center">
-  6,553 icons in 10 matching styles, ready to install for Flutter, React, Jaspr and the web.
+  6,791 icons in 10 matching styles, ready to install for Flutter, React, Jaspr and the web.
 </p>
 
 <p align="center">
@@ -68,7 +68,7 @@ AshlarIcon(AshlarIconsSharpSolid.calendar, size: 32)
 ### Web
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@mittolabs/ashlar-icons@0.1/ashlar-icons.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@mittolabs/ashlar-icons@0.3/ashlar-icons.css">
 
 <i class="ash ash-rounded-stroke ash-calendar"></i>
 <i class="ash ash-sharp-solid ash-calendar"></i>

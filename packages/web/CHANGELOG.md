@@ -1,3 +1,9 @@
+## 0.3.0
+
+- 271 flags of countries and regions, in colour, in a rectangle or a circle (ashlar-flags.css and SVG files).
+- Outlines of 231 countries and territories and 7 continents, as icons in all ten styles.
+- 6,791 icons in all.
+
 ## 0.2.0
 
 - Released with the Flutter package's 0.2.0, which fixes its tree shaking. No change here.

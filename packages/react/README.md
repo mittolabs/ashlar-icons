@@ -1,6 +1,6 @@
 # @mittolabs/ashlar-icons-react
 
-ashlaricons for React: 6,553 icons in ten styles, drawn as inline SVG by one
+ashlaricons for React: 6,791 icons in ten styles, drawn as inline SVG by one
 component. Browse them at [icons.ashlar.ke](https://icons.ashlar.ke).
 
 | Corner | Styles |
@@ -67,6 +67,33 @@ const nav: { label: string; icon: AshlarIconData }[] = [
 
 nav.map(({ label, icon }) => <AshlarIcon key={label} icon={icon} />);
 ```
+
+## Flags
+
+271 flags of countries and regions, drawn in colour as inline SVG: 4:3 in a rectangle
+with rounded corners, or 1:1 in a circle from `/flags/circle`. A flag is named by its
+code in upper case, as a country picker keeps it.
+
+```tsx
+import { AshlarFlag, KE } from '@mittolabs/ashlar-icons-react/flags';
+import { AshlarFlag as Round, KE as KenyaRound } from '@mittolabs/ashlar-icons-react/flags/circle';
+
+<AshlarFlag flag={KE} />
+<Round flag={KenyaRound} size={32} aria-label="Kenya" />
+```
+
+For a country picker, `byCode` holds every flag (and keeps every flag in your bundle):
+
+```tsx
+import { AshlarFlag, byCode } from '@mittolabs/ashlar-icons-react/flags/circle';
+
+<AshlarFlag flag={byCode[country.code]} />
+```
+
+## Countries and continents
+
+Outlines of 231 countries and territories and 7 continents, as icons in all ten styles,
+named `country-<name>` and `continent-<name>`: `<AshlarIcon icon={CountryKenyaIcon} />`, `ContinentAfricaIcon`.
 
 ## Licence
 

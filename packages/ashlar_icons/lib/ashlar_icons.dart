@@ -22,3 +22,6 @@ export 'src/standard_solid.dart';
 export 'src/standard_duotone.dart';
 export 'src/sharp_stroke.dart';
 export 'src/sharp_solid.dart';
+export 'src/flag.dart';
+export 'src/flags_circle.dart';
+export 'src/flags_rect.dart';

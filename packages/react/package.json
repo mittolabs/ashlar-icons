@@ -1,7 +1,7 @@
 {
   "name": "@mittolabs/ashlar-icons-react",
-  "version": "0.2.0",
-  "description": "ashlaricons for React: 6,553 icons in ten styles, drawn as inline SVG by one AshlarIcon component.",
+  "version": "0.3.0",
+  "description": "ashlaricons for React: 6,791 icons in ten styles, drawn as inline SVG by one AshlarIcon component.",
   "license": "ISC",
   "homepage": "https://icons.ashlar.ke",
   "repository": {
@@ -62,6 +62,18 @@
     "./sharp-solid": {
       "types": "./icons/sharp-solid.d.ts",
       "default": "./icons/sharp-solid.js"
+    },
+    "./flags": {
+      "types": "./flags/rect.d.ts",
+      "default": "./flags/rect.js"
+    },
+    "./flags/rect": {
+      "types": "./flags/rect.d.ts",
+      "default": "./flags/rect.js"
+    },
+    "./flags/circle": {
+      "types": "./flags/circle.d.ts",
+      "default": "./flags/circle.js"
     }
   },
   "files": [
@@ -70,13 +82,16 @@
     "runtime.js",
     "runtime.d.ts",
     "icons",
+    "flags",
+    "flag.d.ts",
+    "flag.js",
     "LICENSE",
     "NOTICE",
     "README.md",
     "CHANGELOG.md"
   ],
   "dependencies": {
-    "@mittolabs/ashlar-icons-core": "0.2.0"
+    "@mittolabs/ashlar-icons-core": "0.3.0"
   },
   "peerDependencies": {
     "react": ">=18"

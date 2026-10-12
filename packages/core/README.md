@@ -1,6 +1,6 @@
 # @mittolabs/ashlar-icons-core
 
-The ashlaricons drawings as data: 6,553 icons in ten styles, on a 24 by 24 grid.
+The ashlaricons drawings as data: 6,791 icons in ten styles, on a 24 by 24 grid.
 Browse them at [icons.ashlar.ke](https://icons.ashlar.ke).
 
 This package is what the framework packages draw from. To put icons in an app, use
@@ -31,6 +31,12 @@ const svg = `<svg viewBox="0 0 24 24" fill="currentColor">${CalendarIcon.layers
 ```
 
 Only the icons you import end up in your bundle.
+
+## Flags
+
+`@mittolabs/ashlar-icons-core/flags` (4:3) and `/flags/circle` (1:1) hold 271 flags as
+display lists: `{ code, name, shape, width, height, ops }`, each op a path with its fill
+and stroke, or a clip and its restore. `byCode` holds them all, by code.
 
 ## Licence
 

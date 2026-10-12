@@ -13589,6 +13589,55 @@ abstract final class AshlarIconsSharpStroke {
     'M1.59 3l1.41-1.41 1.41 1.41 .59 0 0 .59 3.41 3.41 .59 0 0 .59 7.41 7.41 .59 0 0 .59 3.41 3.41 .59 0 0 .59 1.41 1.41-1.41 1.41-1.4-1.4-.6 0 0-.6-2-2 0 2.59-10 0 0-12.59-3.4-3.4-.6 0 0-.6z m6 .58c.37-.37 .88-.58 1.41-.58l8 0 0 10-2 0 0-8-6 0-.71 .7-1.41-1.42z m11.41 1.43l0-2.01 2 0 0 2.01z m-16 4l0-2.01 2 0 0 2.01z m16 0l0-2.01 2 0 0 2.01z m-10 1.4l0 8.59 6 0 0-2.59z m-6 2.6l0-2.01 2 0 0 2.01z m16 0l0-2.01 2 0 0 2.01z m-16 4l0-2.01 2 0 0 2.01z m16 0l0-2.01 2 0 0 2.01z m-16 4l0-2.01 2 0 0 2.01z',
   );
 
+  /// ![continent-africa](https://icons.ashlar.ke/svg/sharp-stroke/continent-africa.svg) continent-africa, sharp stroke.
+  static const continentAfrica = AshlarIconData(
+    'continent-africa',
+    'sharp-stroke',
+    'M5.15 1.48l5.67-.57 .23 1.37 1.28 .5 .63-.61 4.83 .62 0 1.87-.07 .03 2.24 4.09 .24-.83 3.03 1.02-1.93 2.4-.01 .04-.02-.01-2.03 2.53 .47 2.95-1.71 1.35 .2 1.12-2.63 3.07-3.26 .73-2.81-5.71 .58-1.93-1.41-2.86 .17-.83-.62-.27-3.57 .61-3.27-3.59 .58-3.27z m4.01 1.61l-2.99 .29-2.33 2.8-.32 1.77 1.87 2.05 3.07-.52 2.68 1.16-.37 1.75 1.45 2.94-.58 1.93 1.77 3.59 1.08-.23 1.57-1.85-.24-1.36 1.73-1.37-.43-2.67 2.11-2.62-.58-.19-3.24-5.92 .16-.12-1.91-.25-.87 .85-3.52-1.4z',
+  );
+
+  /// ![continent-antarctica](https://icons.ashlar.ke/svg/sharp-stroke/continent-antarctica.svg) continent-antarctica, sharp stroke.
+  static const continentAntarctica = AshlarIconData(
+    'continent-antarctica',
+    'sharp-stroke',
+    'M11.7 3.09l6.29-.19 2.15 1.31 1.18 2.66 1.06-.19 .3 6.64-1.14 1.17 .52 .12-1.31 4.7-2.79 .28-.38 1.29-1.94-.48-1.65 1.01-4.34-.36-2.24-5.13 1.45-.53-.19-.7-.27 .08-1.04-.7-.71 2.07-2.99 .74-.58 1.69-1.93-.52 .63-2.99 2.11-.93-.36-3.75 .96-.55-.03-1.13 2.15-2.33 2.89-.77 .08 .62 1.16 .62-.03 1.24 .09 .06 .11-.07 .53 .43 .67-.63-.37-.86 1-1.22z m5.75 1.83l-2.87 .09 .44 1.16-.96 1.16 .45 1.04-1.71 1.59 0 2.02-2 0 0-1.43-2.11-1.41 .01-.37-.72 .49-.16-1.14-.13 .03-1.21 1.31 .04 1.52-.1 .06 2.3 1.53 1.33-.42 1.21 4.48-1.17 .43 .92 2.09 2.5 .22 1.79-1.11 .9 .22 .22-.75 2.77-.28 .39-1.38-1.35-.33 .07-1.96 1.36-.23 .98-1.01-.16-3.48-.36 .07-1.56-3.54z m-11.18 6.2l-.63 .33 .11 1.17z',
+  );
+
+  /// ![continent-asia](https://icons.ashlar.ke/svg/sharp-stroke/continent-asia.svg) continent-asia, sharp stroke.
+  static const continentAsia = AshlarIconData(
+    'continent-asia',
+    'sharp-stroke',
+    'M7.55 5.6l4.58-1.07 1.51 .37 .06 .59 8.37 .55 .64 1.7-.44 .45-.19 .95-1.56 .31-.68 1.13-1.8-.39-1.74 2.02 .06 .26-.98 .84-.35 1.78-1.62 .71-.14 1.51-.36 .1 .21 .76-1.87 .69-1.01-2.13-.72 1.12-1.81-.3-.49-1.93-.07-.03-3.29 2.49-1.78-4 .13-.95-.54-.19 0-1.88 2.35-.84 .33 .22 .26-1.15 .78-.07 .06-3.48 2.22 .41 .19-.01z m4.5 1l-2.12 .5 .48 .81-3.01 .76-.03 2.39-.83 .07 .09 1.25-.76 .44 .32 .15 .11-.06 .09 .15 2.53 1.14 .17 .65 .45-.71 1.74 .12 .22 .47 .03-.29 1.74-.76 .3-1.51 .28 .05 .48-1.06 .17 .07 1.23-1.43 .14-1.35 1.99-.68-5.66-.37z m-7.77 6.17l-.13 .91 .66-.57z',
+  );
+
+  /// ![continent-europe](https://icons.ashlar.ke/svg/sharp-stroke/continent-europe.svg) continent-europe, sharp stroke.
+  static const continentEurope = AshlarIconData(
+    'continent-europe',
+    'sharp-stroke',
+    'M12.35 2.1l2.7-1.08 2.4 .38 .55 1.7-.45 .45 1.03 3.8-1.23 .69-.13 1.58 .98 .64 .28 1.91 2.99 1.53-.26 2.1-2.55 1.91-.67-.51-.92 2.16-1.55 .71 .13 1.61-1.93 .45-.46-1.17-.03 .15-1.97-.09-.1-.84-1.66-1.8-.87 .33-1.85 3.69-1.95 .68-1.98-.99-.25-1.61 .14-3.53 2.64-.09-1.78-2.56 .86-.26-1.12 0 1.3-2.29-.87-1.16-.04 0 .02-.03-.33-.43 1.62-1.72 .44 .33 .01-.03 .79 .06 .33 .82 .02 .02-.01 .01 .33 .81-.07 .08 1.01 1.05 .26-.34 .65-.07-.32-1.01-1.08-.28 .44-1.15-.29-.13-.09-1.75 .57-.06-.02-.37 1.98-1.02z m2.93 .98l-1.65 .66-2.3 3.2-.45 .23 .86 1.76 .4-.61-.56-1.65 2.46-2.79 1.62 .35-.31-1.14z m.83 2.82l-.97 1.08 1.1-.61z m-2.93 4.47l-.16 .25 .22-.01z m2.2 .53l.4 1.59-4.39 .21 .05 .15-2.23 .27-1.67 2.09-.72 .21 .96 1.38-.05 .11 2.33-.87 .3 .32 .82-1.71 3.12 3.53 .09 .21 1.14-.53 1.62-3.82 1.52 1.17 .55-.41-2.56-1.31-.3-2.05-.83-.53z m-9.04 7.92l-1.68 .07-.06 1.47 .07 .41 .3 .15 .39-.14z',
+  );
+
+  /// ![continent-north-america](https://icons.ashlar.ke/svg/sharp-stroke/continent-north-america.svg) continent-north-america, sharp stroke.
+  static const continentNorthAmerica = AshlarIconData(
+    'continent-north-america',
+    'sharp-stroke',
+    'M13.92 5.07l3.94-.96 4.22 .33 .16 1.97-.26 .06 .11 1.06-.96 .2-.06 .63-2 .77-.89 1.92-1.25-1.16 .95 1.24-1.17 .59 .47 .59-2.65 1.51-.34 2-1.34 .34 .47 .39-.12 .54 1.06 1.18-1.29 1.51-2.43-1.54-.13 .05-.02-.15-1.1-.69-.48-.96-.26 .11-1.89-3.17 .09-1.82-.94-1.1-1.26-.34-1.37 .94-.42-.51-.38 .05-1.57-1.67 .79-.69-.18-.79 1.79-1.27 7.19 .81 0-.03 1.29-.44 0-.36 1.45-.42 .69 .35z m4.1 1.06l-.75 .18 .75 .33-.2 .82 1.78-.68 .09-.52z m-11.55 2.48l.46 .12 1.86 2.2-.1 2 .77 1.29 .37-.15 .24 .46 2.46-.92 .18-1.05 1.17-.67-.26-.46-.89 .4-2.48-1.88 .16-.9z',
+  );
+
+  /// ![continent-oceania](https://icons.ashlar.ke/svg/sharp-stroke/continent-oceania.svg) continent-oceania, sharp stroke.
+  static const continentOceania = AshlarIconData(
+    'continent-oceania',
+    'sharp-stroke',
+    'M14.69 4.56l.1-3.62 2.75 .95 3.8 3.77-.77 1.71-1.79-.11-1.26-.85 1.75 4.02 3.31 3.51 .45 2.38-2.06 5.23-2.42 1.17-3.74-.83-1-1.73-.87 1.03-1.22-2.2-.9-.33-8.11 1.9-2.11-6.92 .86 .1-.08-1.91 3.89-1.35 2.78-3.3 1.47 .51 .36-1.05 1.24-.2 .35-.55 3.4 .61-.64 1.89 .67 .38 .51-1.88-.48 .06-.16-1.55-.3-.21 .27-.15z m2.02-.68l0 .08 .05-.03z m.47 2.3l-.02 .06 .1-.01z m-5.03 2.13l-.77 .12-.62 1.8-2.07-.71-2.24 2.66-3.01 1.05 .12 2.77-.16-.02 .67 2.2 6.87-1.6 2.16 .79 .18 .32 .13-.15 .66 .37 .49-.46 1.55 2.68 2.2 .49 1.08-.53 1.56-3.97-.23-1.24-3.15-3.33-.83-1.93-.6 2.17-4.33-2.48z',
+  );
+
+  /// ![continent-south-america](https://icons.ashlar.ke/svg/sharp-stroke/continent-south-america.svg) continent-south-america, sharp stroke.
+  static const continentSouthAmerica = AshlarIconData(
+    'continent-south-america',
+    'sharp-stroke',
+    'M7.89 1.32l.19-.36 3.44 .64 .88 1.29 1.74 .24 .2-.13 1.07 2.42 2.12 .23 2.2 1.93-2.12 5.54-2.26 1.05-1.76 3.24 0 .01-.01 0-.1 .18-.11-.07-1.84 .9 .25 .35-1.06 .94 .43 .48-3.05 3.52-2.38-4.15 1.2-.9 .57-6.89-1.31-.95-1.81-3.56 1.29-4.71 1.98-1.38z m1.29 1.88l-.13 .26-.86-.23-.79 .55-.89 3.27 1.23 2.44 1.83 1.33-.54 6.62 2.14-1.06-.16-.54 1.46-1.16 .25 .14 1.19-2.19 2.12-.99 1.34-3.48-.68-.59-3.27-.36-.62-1.68 .06-.05-.85-.53 .01-.09-.76-.11-.92-1.33z m-.22 15.08l-.03 .36 .17-.16z m-.59 1.8l-.03 .03 .1 .17 .05-.06z',
+  );
+
   /// ![contract](https://icons.ashlar.ke/svg/sharp-stroke/contract.svg) contract, sharp stroke.
   static const contract = AshlarIconData(
     'contract',
@@ -13845,6 +13894,1623 @@ abstract final class AshlarIconsSharpStroke {
     'corner-up-right-double',
     'sharp-stroke',
     'M8.59 5l1.41-1.41 4.41 4.41 .59 0 0 .59 .41 .41-.41 .41 0 .59-.59 0-4.41 4.41-1.41-1.41 3-3-6.59 0 0 9-2 0 0-11 8.59 0z m5 0l1.41-1.41 5.41 5.41-5.41 5.41-1.41-1.41 4-4z',
+  );
+
+  /// ![country-afghanistan](https://icons.ashlar.ke/svg/sharp-stroke/country-afghanistan.svg) country-afghanistan, sharp stroke.
+  static const countryAfghanistan = AshlarIconData(
+    'country-afghanistan',
+    'sharp-stroke',
+    'M13.86 5.62l2.54-2.6 1.99 1.85 .04 .87 1.32-.71 2.43 .46 .16 1.92-4.16 1.51 .35 1-1.18 2.84-.8 .04 .33 .79-1.47 .63-.31 1.87-3.53 1.16-.92 2.43-3.59 .92-6.35-1.1 1.84-2.41-.97-.16-.49-3.52 1.25-5.52 2.54 .78 1.86-1.33 .44-1.39 2.06-1.14 1.36 .48z m2.58 .22l-1.82 1.86-4.46-.45-.74-.26-.58 .32-.4 1.27-3.2 2.29-1.42-.44-.69 3.06 .23 1.7 1.07 .18 .5 1.89-.64 .83 2.69 .47 2.17-.56 .9-2.35 3.27-1.08 .31-1.77 .63-.27-.69-1.61 2.42-.1 .4-.96-.73-2.14 .86-.32z',
+  );
+
+  /// ![country-aland](https://icons.ashlar.ke/svg/sharp-stroke/country-aland.svg) country-aland, sharp stroke.
+  static const countryAland = AshlarIconData(
+    'country-aland',
+    'sharp-stroke',
+    'M9.47 3.28l2.91-1.42 1.78 3.09 .68 .19 2.94-.13 5.41 5.86-2.35 5.01-2.32-.49-1.4 .69-.24 5.01-7.54 .77-2.06-1.34-.89-3.24-1.49 .1-.69 1.91-2.61-1.21-.63-2.89 1.12-4.14 3.4-.21 .18-.87 4.17-1.64-1.74-2.21z m2.11 1.2l-.61 .3-.53 1.08 2.14 2.71-.81 5.51-3.52 .83-.16-3.75-.68 .27-.24 1.13 1.83 6.7 .84 .54 5.12-.53 .22-4.47 3.08-1.51 1.44 .31 1.11-2.37-3.87-4.18-2.34 .11-1.76-.51z m-1.6 4.02l.13 3.11 .37-2.48z m-5.76 4.42l-.57 .03-.62 2.3 .19 .88 .24-.66 1.44-.1-.01-.1z',
+  );
+
+  /// ![country-albania](https://icons.ashlar.ke/svg/sharp-stroke/country-albania.svg) country-albania, sharp stroke.
+  static const countryAlbania = AshlarIconData(
+    'country-albania',
+    'sharp-stroke',
+    'M6.55 4.95l2.34-3.5 1.77 .2 .08 .24 1.09-.38 3.03 3.29-.17 6.18 .76 1.59 1.26 .18 .76 2.92-2.22 3.98-1.27 .67 .28 .92-1.7 1.93-2.13-.76-.83-2.46-2.46-2.24 .29-.75-.58-1.63 1.23-6.7 0-.25-1.08-.5z m4.7-1.12l-1.7 .58-.08-.23-.82 1.23 .17 1.11 1.28 .6-.02 1.71-1.17 6.34 .78 2.15 1.65 1.51 .65 1.96 .03-.03-.44-1.44 2.21-1.17 1.54-2.76-.22-.84-1-.15-1.44-3 .17-5.84z',
+  );
+
+  /// ![country-algeria](https://icons.ashlar.ke/svg/sharp-stroke/country-algeria.svg) country-algeria, sharp stroke.
+  static const countryAlgeria = AshlarIconData(
+    'country-algeria',
+    'sharp-stroke',
+    'M11.38 1.71l8.72-.56-1.32 4.29 1.31 1.69 .83 3.56-.35 3.07 2.89 3.36-6.97 5.2-3.64 .81-.31-1.56-11.54-8.22 0-2.67 4.78-2.46-.13-1.04 2.3-.42-.89-3.06z m5.96 1.62l-5.46 .36-2.42 1.11 1.03 3.52-2.62 .48 .07 .56-4.94 2.54 0 .41 11.34 8.1 .07 .32 1.22-.27 4.91-3.66-2.05-2.4 .41-3.59-.65-2.8-1.69-2.17z',
+  );
+
+  /// ![country-american-samoa](https://icons.ashlar.ke/svg/sharp-stroke/country-american-samoa.svg) country-american-samoa, sharp stroke.
+  static const countryAmericanSamoa = AshlarIconData(
+    'country-american-samoa',
+    'sharp-stroke',
+    'M.22 11.97l12.02-5.17 9.84 .78 .13 1.98-5.49 1.2-6.8 5.65-4.17 .85z m12.36-3.13l-8.8 3.77 2.59 2.48 2.65-.54 6.6-5.47z',
+  );
+
+  /// ![country-andorra](https://icons.ashlar.ke/svg/sharp-stroke/country-andorra.svg) country-andorra, sharp stroke.
+  static const countryAndorra = AshlarIconData(
+    'country-andorra',
+    'sharp-stroke',
+    'M1.92 6.69l5.14-4.48 13.65 3.42 2.23 2.91 .07 2.16-2.36 4.99-11.06 5.37-6.02 .42-1.72-2.69-.86-7.66z m5.66-2.28l-3.84 3.34-.73 3.48 .78 6.88 .82 1.29 4.46-.3 10.08-4.91 1.84-3.91-.03-1.04-1.41-1.85z',
+  );
+
+  /// ![country-angola](https://icons.ashlar.ke/svg/sharp-stroke/country-angola.svg) country-angola, sharp stroke.
+  static const countryAngola = AshlarIconData(
+    'country-angola',
+    'sharp-stroke',
+    'M1.47 1.46l8.78-.42 1.83 3.6 1.63-.13 .94-1.76 4.51 .79 .69 5.98 2.92-.43-.01 5.63-3.17 .02 .07 3.96 1.89 1.99-.58 1.68-4.44 .65-3.85-1.04-7.15 .02-1.37-.68-3.35 .7 1.67-8.01 1.68-1.9 .29-1.46-1.44-3.46 .61-1.1z m7.58 1.64l-4.52 .22 1.33 2.85-.63 1.14 1.3 3.14-.51 2.58-1.7 1.91-.93 4.5 1.03-.22 1.57 .78 6.95-.02 3.71 1 2.12-.31-1.09-1.15-.13-6.76 3.21-.02 .01-1.33-2.68 .39-.75-6.54-1.61-.29-.78 1.46-4.05 .31z',
+  );
+
+  /// ![country-anguilla](https://icons.ashlar.ke/svg/sharp-stroke/country-anguilla.svg) country-anguilla, sharp stroke.
+  static const countryAnguilla = AshlarIconData(
+    'country-anguilla',
+    'sharp-stroke',
+    'M1.86 13.71l14.78-8.48 6.87 .77-3.19 6.67-18 6.02-1.3-1.16z m15.2-6.42l-13.44 7.72-.27 1.22 15.53-5.18 1.61-3.37z',
+  );
+
+  /// ![country-antigua-and-barbuda](https://icons.ashlar.ke/svg/sharp-stroke/country-antigua-and-barbuda.svg) country-antigua-and-barbuda, sharp stroke.
+  static const countryAntiguaAndBarbuda = AshlarIconData(
+    'country-antigua-and-barbuda',
+    'sharp-stroke',
+    'M.94 10.09l7.75-8.21 8.68 3.51 3 3.45 2.76 .87-1.11 6.47-2.33 1.37-3.44 4.47-12.22-1.85-2.49-5.83z m8.27-5.85l-6.15 6.53 .42 3.03 1.95 4.55 9.96 1.51 2.95-3.83 1.86-1.11 .67-3.83-1.64-.51-3.06-3.51z',
+  );
+
+  /// ![country-argentina](https://icons.ashlar.ke/svg/sharp-stroke/country-argentina.svg) country-argentina, sharp stroke.
+  static const countryArgentina = AshlarIconData(
+    'country-argentina',
+    'sharp-stroke',
+    'M8.5 3.48l1.85-2.88 1.27 .86 .83-.58 3.75 3.02 .02-.03 1.8 .51 .13 1.47-2.08 2.12-.36 2.04 1.08 2.01-1.42 1.82-1.72 .19-.03 1.5-.96-.04-.49 .84-.33 1.47-.48 .32 .88 1.16-1.94 1.57 .47 2.27-3.73-.42-1.34-2.45 1.33-3.46-.38-2.44z m3.87-.1l-.73 .5-.71-.48-.53 .82-1.73 10.15 .42 2.64-.11 .28 1.08-.71 .36-1.56-.03-.06 .07-.13 .05-.19 .07 0 .7-1.2 .38 .01 .03-1.22 2.62-.29 .1-.12-.8-1.47 .6-3.34 .39-.4-1.41-.06 .74-1.92z m-3.64 14.57l-.83 2.16 .33 .59-.13-.63 1.38-1.13z',
+  );
+
+  /// ![country-armenia](https://icons.ashlar.ke/svg/sharp-stroke/country-armenia.svg) country-armenia, sharp stroke.
+  static const countryArmenia = AshlarIconData(
+    'country-armenia',
+    'sharp-stroke',
+    'M.48 2.75l11.8-1.82 2.32 2.35-.46 .37 3 1.73-1.52 1.94 3.6 3.68-.98 2.34-.36 .07 2.07 1.66 2.91 .53-1.07 1.85 .88 .94-.51 1.66-.18 .04 .6 2.48-4.25 .43-2.24-5.51-1.32 .41-2.6-.99-.56-1.11-1.4 .43-3.12-2.85-1.6 .18-2.86-1.23-.8-3.78 .89-1.8z m11.1 .32l-7.94 1.22 1.34 2.4-1.05 2.12 .44 2.1 1.42 .61 1.98-.24 2.94 2.71 1.92-.59 .98 1.91 1.24 .47 2.02-.62-1.91-1.53 .43-1.76 1.41-.28 .06-.15-3.88-3.98 1.17-1.5-3.55-2.05 1.02-.81z m5.93 12.61l2.1 5.18 .49-.05-.54-2.23 .45-.1-.7-.75 .39-.67-.61-.11z',
+  );
+
+  /// ![country-aruba](https://icons.ashlar.ke/svg/sharp-stroke/country-aruba.svg) country-aruba, sharp stroke.
+  static const countryAruba = AshlarIconData(
+    'country-aruba',
+    'sharp-stroke',
+    'M3.96 3.28l2.38-2.63 7.2 5.53 7.79 12.44 .54 4.84-6.46-2.21-6.45-6.61-6.81-5.23z m2.62 .08l-.83 .92-1.3 4.38 5.85 4.48 6.21 6.37 3.02 1.03-.14-1.24-7.35-11.76z',
+  );
+
+  /// ![country-australia](https://icons.ashlar.ke/svg/sharp-stroke/country-australia.svg) country-australia, sharp stroke.
+  static const countryAustralia = AshlarIconData(
+    'country-australia',
+    'sharp-stroke',
+    'M11.11 4.09l.37-.57 3.38 .64-.64 1.93 .63 .37 .51-2.31 1.72-.45 .62 .68 1.58 3.83 3.51 4-.13 3.57-1.71 3.82-2.68 1.36-.91-.82-1.85 .27-1.65-2.29-.92 1.13-1.23-2.29-.87-.33-6.53 1.93-2.6-.79 .48-2-1.75-4.24 1.02 .1-.08-1.98 3.88-1.4 2.78-3.4 1.47 .53 .36-1.09z m1.05 1.86l-.77 .12-.62 1.88-2.07-.74-2.24 2.74-3.02 1.08 .12 2.81 .73 1.77-.2 .8 .23 .07 6.6-1.95 2.19 .83 .17 .31 .12-.14 .66 .36 .39-.38 1.98 2.74 1.57-.23 .59 .54 .82-.42 1.27-2.82 .09-2.39-3.21-3.65-.84-2.03-.53 2.33-4.37-2.59z',
+  );
+
+  /// ![country-austria](https://icons.ashlar.ke/svg/sharp-stroke/country-austria.svg) country-austria, sharp stroke.
+  static const countryAustria = AshlarIconData(
+    'country-austria',
+    'sharp-stroke',
+    'M15.04 7.31l.77-1.53 6.32 1.48 .89 3.52-.38 2.13-.94 .07-.61 2.18-1.75 1.79-2.83 .28-1.03 .92-6.4-1.25-.63-1.24-2.85 1.07-1.29-.72-.75 .69-2.76-2.84 1.51-3.07 1.25 1.25 .44-.69 1.97 .77 3.08-1.28 .75 .33-.26-1.32 3.46-3.12z m1.85 .77l-.81 1.61-2.56-.74-1.8 1.62 .42 2.11-1.38 1.1-1.31-.57 .97 1.91 4.48 .87 .77-.68 2.75-.28 .89-.91 .31-1.12-.15-.13 .55-1.77 .92-.07 .04-.18-.49-1.92z m-7.86 4.94l-3.04 1.26-1.19-.47-.08 .14 1.04 .58 3.62-1.35z',
+  );
+
+  /// ![country-azerbaijan](https://icons.ashlar.ke/svg/sharp-stroke/country-azerbaijan.svg) country-azerbaijan, sharp stroke.
+  static const countryAzerbaijan = AshlarIconData(
+    'country-azerbaijan',
+    'sharp-stroke',
+    'M5.7 5l2.13-2.6 3.76 3.36 .94 .22 3.62-3.18 3.35 5.45 3.1 2.32-.46 1.79-2.19 .3-.59 3.47-1.75 2.3 .06 2.45-2.37 .27-3.32-3.23 1.26-.91-.61-.95 .35-.33-4.27 2.89-1.3-.68-.86 .95-2.59-.69-3.23-4.1 2.55-1.79 .77 1.4 .5 .03-.17-.11 .32-1.83 .17-.03-1.59-1.22 .45-1.37-1.52-.88-.51-2.07 1.97-1.46 2.9 1.1z m9.99 .86l-2.62 2.3-2.44-.56-.81-.73-1.04 1.97-4.75-1.8 2.1 1.22-.51 1.57 1.8 1.37-.48 1.66 2.17 1.34 .02 1.72 4.57-3.09 2.39 2.73-.88 .82 .66 1.03 1.61-2.1 .75-4.43 1.22-.17-1.45-1.08z m-8.86 9.28l.3 .8 0-.62z m-2.26 .6l.55 .7 .07 .02-.27-.7z m11.03 2.02l-.52 .38 .54 .52-.03-.89z',
+  );
+
+  /// ![country-bahamas](https://icons.ashlar.ke/svg/sharp-stroke/country-bahamas.svg) country-bahamas, sharp stroke.
+  static const countryBahamas = AshlarIconData(
+    'country-bahamas',
+    'sharp-stroke',
+    'M5.5 1.81l.17-.69 1.63 0 2.16 1.89-.98 4.15-2.31-1.72 .47-1.67-.69-.37 .03 .4-3 .76-1.13-.97 .56-1.76 1.58-.13z m-1.62 5.81l1.73-.45 1.92 2.18-1.95 3-2.29-2.01z',
+  );
+
+  /// ![country-bahrain](https://icons.ashlar.ke/svg/sharp-stroke/country-bahrain.svg) country-bahrain, sharp stroke.
+  static const countryBahrain = AshlarIconData(
+    'country-bahrain',
+    'sharp-stroke',
+    'M8.64 1.87l5.33-.6 .97 1.5-.84 1.4 1.96 3.09-.11 11.46-1.39 3.64-1.78 .16-4.67-7.56 1-4.4-1.53-6.11z m3.55 1.61l-2.15 .25-.36 .88 1.49 5.93-.92 4.06 3.17 5.15 .53-1.41 .11-10.5-2.3-3.63z',
+  );
+
+  /// ![country-bangladesh](https://icons.ashlar.ke/svg/sharp-stroke/country-bangladesh.svg) country-bangladesh, sharp stroke.
+  static const countryBangladesh = AshlarIconData(
+    'country-bangladesh',
+    'sharp-stroke',
+    'M3.66 4.66l1.92-4.28 1.65 1.39 .74-.66 1.17 1.47 1.5-1.14 .65 4.03 6.5 .4 1.6 1.07-.45 1.82-.26 .03-1.02 2.2 1.28 .01 1.54 10.39-1.28-.18 .11 .61-1.95 .44-1.41-5.24-.61-.92-1.52 .89-1.3 1.96-1.71-.46-.33 .61-.61-.11-1.76 .38-1.12-1.51-.39-3.8-1.26-1.84 .43-1.76-2.53-1.41 2.14-3.03z m2.66-1.04l-.2 .44 2.14 1.7-.47 1.77-1.15 .17-.48 .69 1.91 1.05-.57 2.38 1.04 1.54 .34 3.3 .64 .02 .52-.96 1.54 .55 .11-.02-.41-.97 .39-1.4-.4-.26 .14-1.76 2.09-.91 .23 .71 .85-1.96 1.63-.35 .72-1.53-7.36-.45-.37-2.33-.4 .3-1.07-1.33-.46 .42z m9.92 7.77l-.24 .05-.31 .71 .09 .36z m1.12 2.56l-.39 .98 .69 1.05z',
+  );
+
+  /// ![country-barbados](https://icons.ashlar.ke/svg/sharp-stroke/country-barbados.svg) country-barbados, sharp stroke.
+  static const countryBarbados = AshlarIconData(
+    'country-barbados',
+    'sharp-stroke',
+    'M2.63 2.38l5.58-1.51 8.24 9.86 5.38 4.04-5.82 6.43-2.74 1.95-7.61-3.48-2.7-4.27z m4.86 .75l-2.82 .77 .27 10.9 2.1 3.29 6.01 2.76 1.62-1.15 4.2-4.65-3.8-2.86z',
+  );
+
+  /// ![country-belarus](https://icons.ashlar.ke/svg/sharp-stroke/country-belarus.svg) country-belarus, sharp stroke.
+  static const countryBelarus = AshlarIconData(
+    'country-belarus',
+    'sharp-stroke',
+    'M10.67 3.68l1.13-1.39 3.73 .83 .26 .61 1.16-.43 2.31 1.59-.24 2.97 2.21 2.73-.13 .59 2.45 1.69-2.44 2.42-.9-.23 1.05 3.24-2.49 .87-.33 1.67-1.66 .54-.44-.41-1.9 .38-.26-.44-.39 .35-1.32-.71-.95 .43-4.2-1.66-2.46 .17-1.34 1.05-1.62-.84 .08-1.37-1.4-1.21 1.88-2.1-1.08-4.98 2.79 .27 2.35-1.39 .16-1.79 1.14-.74 .53-2.18z m1.91 .83l-.79 .97-1.8 .41-.03 .14 .14 1.26-1.51 .98-.19 2.21-1.62 .71-.07-.06-2.08 1.24-.71-.07 .72 3.3-1.22 1.34 .61 .53-.01 .14 .1-.08 3.52-.23 3.82 1.5 1.09-.49 .96 .53 1.17-1.03 .76 1.3 1.36-.27 .23-1.19 1.73-.59-.88-2.71 .88-1.71 1.46 .36-1.34-.92 .19-.97-2.11-2.61 .22-2.62-.51-.35-2 .72-.58-1.41z',
+  );
+
+  /// ![country-belgium](https://icons.ashlar.ke/svg/sharp-stroke/country-belgium.svg) country-belgium, sharp stroke.
+  static const countryBelgium = AshlarIconData(
+    'country-belgium',
+    'sharp-stroke',
+    'M10.42 3.81l5.13-.83 1.01 1.63 1.12-.04 2.75 1.96-.96 2.28 2.72 1.78 .92 3.14-2.13 2.65-.62-.33-.5 .84 .7 2.22-.91 1.68-2.35 .37-4.06-2.76-.1-1.17-.18 .2-3.36 0-.01-2.52-2.28-.44-.5-1.45-1.64-.43-.68-1.58-1.11 .44-1.93-2.04-.58-2.8 4.67-2.67 3.41 1.14z m4.13 1.35l-3.25 .53-1.91 1.65-3.63-1.22-2.63 1.51 .16 .82 .61 .64 1.67-.66 1.06 2.48 1.72 .45 .47 1.37 2.77 .52 .01 2.18 .48 0 1.13-1.25 1.74 .59 .21 2.51 2.62 1.78 .59-.09 .03-.06-.72-2.28 1.92-3.22 .85 .44 .44-.56-.42-1.43-3.5-2.29 1-2.34-.89-.64-1.62 .06z',
+  );
+
+  /// ![country-belize](https://icons.ashlar.ke/svg/sharp-stroke/country-belize.svg) country-belize, sharp stroke.
+  static const countryBelize = AshlarIconData(
+    'country-belize',
+    'sharp-stroke',
+    'M10.39 4.98l2.55-3.96 3.27 .11-.39 .88 .82 .03 .65 1.91-1.33 4.6 .45 .64-.89 7.45-4.73 6.34-4.07-.03 .6-15.9 .36-2.13z m3.06-1.06l-1.98 3.08-2.11-.04-.04 .29-.52 13.72 .99 .01 3.81-5.1 .73-6.17-.55-.8 1.41-4.91-.01-.02z',
+  );
+
+  /// ![country-benin](https://icons.ashlar.ke/svg/sharp-stroke/country-benin.svg) country-benin, sharp stroke.
+  static const countryBenin = AshlarIconData(
+    'country-benin',
+    'sharp-stroke',
+    'M11.21 1.84l2.62-.99 3.49 3.08-.45 1.24 1.14 2.62-2.97 5.83-.54 .08-.22 8.68-5.43 .77-.09-10.2-.72-2.58-1.91-1.28 .04-2.04 2.6-3.03 1.78 .09 .66-.73z m2.2 1.31l-.2 .07 0 .92-1.8 2.01-1.76-.09-1.5 1.75 0 .22 1.61 1.09 1 3.55 .07 8.18 1.49-.21 .22-8.69 1.2-.17 2.06-4.05-1.08-2.48 .26-.72z',
+  );
+
+  /// ![country-bermuda](https://icons.ashlar.ke/svg/sharp-stroke/country-bermuda.svg) country-bermuda, sharp stroke.
+  static const countryBermuda = AshlarIconData(
+    'country-bermuda',
+    'sharp-stroke',
+    'M10.8 13.07l8.11-9.92 4.65 1.03-7.23 12.23-9.79 4.36-3.1-.39-3.39-2.61z m8.88-7.7l-7.64 9.34-8.09 3.54 .27 .21 2.02 .25 8.69-3.86 5.51-9.31z',
+  );
+
+  /// ![country-bhutan](https://icons.ashlar.ke/svg/sharp-stroke/country-bhutan.svg) country-bhutan, sharp stroke.
+  static const countryBhutan = AshlarIconData(
+    'country-bhutan',
+    'sharp-stroke',
+    'M5.76 7.5l3.51-1.99 3.33 .7 .03 1.08 2.88 .54 1.64-.8 3.25 1.54-.1 1.83-.09 .55 1.94 .6 .89 1.74-.7 4.04-8.51 .63-2.21-.75-3.44 1.27-4.92-1.27-2.54-2.93z m3.84 .13l-2.48 1.41-3.84 5.14 1.08 1.25 3.72 .95 3.52-1.29 2.49 .85 6.55-.49 .32-1.84-.21-.4-2.8-.86 .35-2.17 .02-.38-1.16-.55-1.37 .66-5.12-.94-.03-1.12z',
+  );
+
+  /// ![country-bolivia](https://icons.ashlar.ke/svg/sharp-stroke/country-bolivia.svg) country-bolivia, sharp stroke.
+  static const countryBolivia = AshlarIconData(
+    'country-bolivia',
+    'sharp-stroke',
+    'M4.51 3.08l5.6-2.52 .71 4.17 6.56 2.76 .44 3.47 2.84 .02-.1 2.08 1.41 1.59-1.48 4.99-2.29-2.06-2.81 .4-1.37 4.15-1.96-.33-.26 .54-1.81-.03-.22-.48-1.42-.39-2.8 2.15-2.16-5.29 .4-1.47-1.57-3.01 .9-1.66-.72-.91 1.09-4.86-1.12-2.03 1.05-1.47z m4.06 .36l-3.54 1.6 .58 1.05-1.05 4.66 .96 1.21-1.04 1.88 1.45 2.77-.43 1.57 .91 2.23 1.52-1.16 2.78 .76 .21-.43 1.74 .29 1.23-3.71 4.95-.68 .63 .56 .26-.89-1.21-1.37 .04-.82-2.5-.02-.52-4.05-6.5-2.74z',
+  );
+
+  /// ![country-bosnia-and-herzegovina](https://icons.ashlar.ke/svg/sharp-stroke/country-bosnia-and-herzegovina.svg) country-bosnia-and-herzegovina, sharp stroke.
+  static const countryBosniaAndHerzegovina = AshlarIconData(
+    'country-bosnia-and-herzegovina',
+    'sharp-stroke',
+    'M.94 6.26l.73-5.13 2.99 1.71 .92-1.11 2.61-.56 4.75 1.46 4.82 0 .9 1.4 3.49 .03-1.43 4.46 3.2 3.02-2.3 .73 1.28 2.81-2.98 .55 .15 .67-1.36 1.14-.21-.09-1.35 1.74 .54 2.43-1.5 1.55-6-3.7 .57-.82-1.56-2.51-5.13-4.97-1.02-2.85z m7.16-3.03l-1.42 .31-1.56 1.88-1.89-1.09-.17 1.17 1.71 1.58 1.02 2.87 4.99 4.83 2.36 3.83-.11 .16 2.32 1.43-.36-1.59 2.75-3.53-.24-1.05 2.52-.45-1.16-2.53 1.22-.39-1.64-1.56 .97-3.06-1.85-.01-.9-1.4-4.02 0z',
+  );
+
+  /// ![country-botswana](https://icons.ashlar.ke/svg/sharp-stroke/country-botswana.svg) country-botswana, sharp stroke.
+  static const countryBotswana = AshlarIconData(
+    'country-botswana',
+    'sharp-stroke',
+    'M10.13 2.25l3.55-1.54 2.16 4.48 3.21 2.24 .61 2.19 3.91 1.99-5.93 3.89-3.53 4.98-2.99 .07-1.95-.8-2.78 3.21-3.47 .04 .15-2.79-1.64-2.49-.01-7.43 2.03 0 .01-7.98 6.01-.92z m2.58 1.06l-3.22 1.4-.89-1.16-3.14 .48-.01 8.26-2.03 0 .01 4.83 1.68 2.53-.08 1.33 .44 0 3.14-3.63 2.89 1.2 1.55-.05 3.17-4.46 3.37-2.21-1.61-.83-.66-2.33-3.06-2.14z',
+  );
+
+  /// ![country-brazil](https://icons.ashlar.ke/svg/sharp-stroke/country-brazil.svg) country-brazil, sharp stroke.
+  static const countryBrazil = AshlarIconData(
+    'country-brazil',
+    'sharp-stroke',
+    'M7.63 1.72l1.67-1.27 1.09 2.51 1.74-.29 .5-.75 1.73 .13 .91 1.89 .1-.08 2.52 1.09-.02 .31 1.55-.12 3.06 1.81 .21 2.39-2.04 2.38-1.13 4.97-3.71 1.67-.03 1.37-2.51 2.92-1.74-.43-.08-.4-2.7-1.35 2.39-2.49-.48-.9-1.39-.21-.2-3.26-3.24-2.18-.09-.52-2.89 .74 .04-.66-.11 .03-1.67-2.33 .97-2.2 1.19-.35 .07-3.5 2.41 .41 .29-.08 1.14-1.41z m1.14 2.55l-2.92 .82-.55-.09-.05 2.66-1.71 .49-.13 .3 .13 .19 1.53-.55-.06 .95 2.33-.59 .31 1.8 3.36 2.24 .16 2.64 .79 .11 1.62 3.08-1.51 1.57 .65 .33 1.08-1.25 .03-1.91 3.97-1.79 1.01-4.47 1.82-2.12-.05-.53-1.64-.97-3.19 .24 .06-1.19-.08-.03-1.53 1.34-.84-1.17-.17 .06-1.04-1.65 .11-.11-3.09 .53z',
+  );
+
+  /// ![country-british-indian-ocean-territory](https://icons.ashlar.ke/svg/sharp-stroke/country-british-indian-ocean-territory.svg) country-british-indian-ocean-territory, sharp stroke.
+  static const countryBritishIndianOceanTerritory = AshlarIconData(
+    'country-british-indian-ocean-territory',
+    'sharp-stroke',
+    'M11.81 2.77l2.12-2.14 5.41 4.7 .54 3.55-.64 8.03-2.41 4.18-5.09 2.34-2.19-10.38-5.2-6.42 .78-1.63 2.44 0 5.64 3.79 1.44 7.04 .27-.38-.44-2.65 1.05-2.56-.65-2.46z m3.26 1.5l1.67 2.71 .89 3.4-1.09 2.66 .48 2.89-2.06 2.95-1.8-.37-1.75-8.52-3.87-2.61 3.87 4.79 1.77 8.4 2.23-1.04 1.87-3.23 .58-7.35-.38-2.6z',
+  );
+
+  /// ![country-british-virgin-islands](https://icons.ashlar.ke/svg/sharp-stroke/country-british-virgin-islands.svg) country-british-virgin-islands, sharp stroke.
+  static const countryBritishVirginIslands = AshlarIconData(
+    'country-british-virgin-islands',
+    'sharp-stroke',
+    'M15.13 4.17l.42-1.94 6.63 .6 .67 4.08z m-1.19 10.01l5.59-.26 .67 1.78-3.56 2.82-3.71 .51z m2.59 1.88l-.95 .04-.11 .57 .35-.05z m-12.79 1.64l4.39-.22 1.32 .48 .27 1.73-2.55 1.95-4.3 .22-2.7-1.53z m2.86 1.86l-2.16 .1-.17 .13 2.18-.11z',
+  );
+
+  /// ![country-brunei](https://icons.ashlar.ke/svg/sharp-stroke/country-brunei.svg) country-brunei, sharp stroke.
+  static const countryBrunei = AshlarIconData(
+    'country-brunei',
+    'sharp-stroke',
+    'M7.33 8.87l9.18-5.84 2.24 .27-.31 1.72 1.23 0 2.33 4.89 1.12 4.74-1.44 1.13-3.95-.81-1.08-3.74-.27-3.46-2.4 1.57 1.36 4.72-1.16 4.08-2.45 2.63-2.24-.31-2.43-3.25-1.62-.12-1.7-3.71-2.32-1.67 .39-1.79z m11-1.85l.3 3.85 .68 2.38 1.5 .31-.71-2.99-1.69-3.55z m-6.68 1.48l-3.57 2.27-3.6 .68 .86 .61 1.42 3.13 1.36 .1 2.47 3.31 .38 .05 1.41-1.52 .88-3.07z',
+  );
+
+  /// ![country-bulgaria](https://icons.ashlar.ke/svg/sharp-stroke/country-bulgaria.svg) country-bulgaria, sharp stroke.
+  static const countryBulgaria = AshlarIconData(
+    'country-bulgaria',
+    'sharp-stroke',
+    'M1.2 6.13l1.8-1.97 2.38 1.61-.19 .57 6.75 .58 5.24-2.22 6 2.31-.78 3.18-1.09-.03-.65 2.33-.84 .8 1.14 1.47-.65 1.6-1.98 .27-.86-.71-1.37 .38-1.01 .65 .1 1.58-1.43 .67-2.63 .37-2.43-1.35-6.08 1.16 .43-2.72-2.11-2.51 .52-3.09 1.11-1.02-1.02-.96z m16.02 .73l-4.96 2.1-8.72-.75 1.96 1.85-2.18 2-.26 1.51 2.11 2.51-.13 .8 4-.76 2.47 1.37 1.6-.22-.08-1.36 2.25-1.45 2.39-.67-.55-.7 1.76-1.66 .92-3.31 .74 .02z',
+  );
+
+  /// ![country-burkina-faso](https://icons.ashlar.ke/svg/sharp-stroke/country-burkina-faso.svg) country-burkina-faso, sharp stroke.
+  static const countryBurkinaFaso = AshlarIconData(
+    'country-burkina-faso',
+    'sharp-stroke',
+    'M10.39 6l3.68-2.35 3.27 .61 .61 2.73 2.38 1.95-.37 .57 2.53 1.06 .3 3.46-4.31 2.22-8.63-.01 .12 3.03-1.73 .73-.8-.85-3.46 .46-3.06-2.48 .76-4.65 2.23-1.35 .81-2.89 2.41 .08 1.83-2.49z m4.1-.24l-3.64 2.32-.97-.12-1.77 2.4-1.89-.06-.59 2.13-2.13 1.29-.42 2.59 1.48 1.2 3.32-.44-.11-2.83 10.23 .01 2.69-1.38-.08-.92-3.65-1.53 .71-1.08-1.52-1.23-.47-2.13z',
+  );
+
+  /// ![country-burundi](https://icons.ashlar.ke/svg/sharp-stroke/country-burundi.svg) country-burundi, sharp stroke.
+  static const countryBurundi = AshlarIconData(
+    'country-burundi',
+    'sharp-stroke',
+    'M10.68 5.08l.7-4.23 2.56 1.05 2.79-1 2.57 1.54-1.53 2.86 .05 1.2 3.23 1.03 .15 3.9-3.67 3.15-4.49 6.76-2.57 1.67-3.96-.08-2.04-6.6 .11-7.07-2.02-2.47 .79-3.36 3.54 1.08 .75 1.1 2.12-.1z m5.83-1.98l-2.63 .94-.94-.39-.46 2.81-2.24 1.03-3.62 .16-.99-1.44-.82-.24-.07 .32 1.86 2.27-.13 7.49 1.52 4.9 1.9 .04 1.71-1.11 4.41-6.64 3.15-2.71-.05-1.52-3.23-1.03-.13-3.14 .89-1.66z',
+  );
+
+  /// ![country-cabo-verde](https://icons.ashlar.ke/svg/sharp-stroke/country-cabo-verde.svg) country-cabo-verde, sharp stroke.
+  static const countryCaboVerde = AshlarIconData(
+    'country-cabo-verde',
+    'sharp-stroke',
+    'M.89 2.8l3.86-1.13 1.29 2.02-2.36 1.92-2.25 .19z m17.79 9.88l.8-3.77 3.54 1.11-.35 2.7z m-5.69 4.73l1.73-.78 2.8 3.07-1.25 1.97-2.89-.69z m-5.98 1.9l3.45-.82 .42 3.32-2.74 .47z',
+  );
+
+  /// ![country-cambodia](https://icons.ashlar.ke/svg/sharp-stroke/country-cambodia.svg) country-cambodia, sharp stroke.
+  static const countryCambodia = AshlarIconData(
+    'country-cambodia',
+    'sharp-stroke',
+    'M19.44 3.96l1.68-1.11 1.5 1.13-.6 1.91 .99 2.54-.3 4.73-4.25 1.87-.06 1.26-1.66 .16 .75 2.05-1.38 1.24-1.29-.63-1.86 .2-.68 1.37-2.38 .7-2.06-.92-.69 .26-1.28-1.3 .16-.42-1.8 1.12-.17-3.61-2.33-4.61-.81-4.03 3.31-3.4 7.22-.74 3.38 1.37-.1-.54 1.63-.91 1.56-.58z m-1.72 1.31l-.52 .2-.23 .13 .19 .92-1.36 1.13-4.64-1.88-6.01 .62-2.07 2.12 .55 2.73 2.41 4.75 .03 .63 .78-.49 1.59 2.2-.07 .18 1.67 .75 .84-.26 .78-1.55 3.19-.36-.87-2.38 2.5-.24 .04-.78 4.27-1.87 .2-3.07-1.06-2.72-.43 .29z',
+  );
+
+  /// ![country-cameroon](https://icons.ashlar.ke/svg/sharp-stroke/country-cameroon.svg) country-cameroon, sharp stroke.
+  static const countryCameroon = AshlarIconData(
+    'country-cameroon',
+    'sharp-stroke',
+    'M14.66 4.39l-1.11-3.61 2.83 .41 2.72 6.96-2.46 .46 2.16 2.7-2.1 3.2 .89 2.99 1.84 1.91 .22 3.89-3.94-1.22-8.71 .07-.51-3.37-.89-.05-1.39-2.11 2.63-4.36 2.36-.87 .82 .81 .29-.31 3.23-6.68z m1.39 1.46l-.93 .68-.18 .37 1.42-.27z m-1.95 2.79l-2.13 4.39-1.89 2.03-1.38-1.35-.51 .19-1.62 2.68 .15 .21 1.51 .09 .49 3.25 7.29-.05 1.48 .46-.02-.27-1.66-1.73-1.29-4.35 1.82-2.76z',
+  );
+
+  /// ![country-canada](https://icons.ashlar.ke/svg/sharp-stroke/country-canada.svg) country-canada, sharp stroke.
+  static const countryCanada = AshlarIconData(
+    'country-canada',
+    'sharp-stroke',
+    'M13.37 1.7l5.11-.66 2 .38 .18 1.91-3.02 1.21 .05 .52-.99 .36-.17 .63 .51-.22 1.25 1.29 .84-.29 1.15 1.96 1.38 .82-.97 1.58-.33 1.07 .85 2.46 .4-.27 .2 .48 1.22 .4-.76 .74 .54 1.32-4.05 2.13-2.48 3.1-1.78-.64 .02-1.37-.75-.83-7.83-.33-2.12-2.98 .07-1.06-.37-.57-.2 .21-1.86-1.58 0-6.39 2.18 .78 .85-.49 .04 .06 .7-.53 1.77 .77 .01-1.12 1.33-.53 1.18 .37 1.47-.19 .84 1.14 .01-.07 1.21-.31-.06-.83 .91-.31-.34-1.54 .61-.26-1.03-.4z m-7.86 7.5l-.7 .54-.14-.16-.83 .48-.38-.14 0 2.16 .4-.4 2.07 3.19-.07 1.02 1.14 1.6 7.69 .33 1.53 1.68 1.24-1.56 2.73-1.43-.53-.17-.54-1.56-1.57-.55-.06-1.04-.02-.01-.22 4.48-1.95 .26-.53-1.62-2.37-.91-.68-2.66 1.02-1.51 .29-1.07 .32 0 .01-.06-1.72 .24-.11-.29-.47-.01-.45 1.4z m9.73 2.28l-.32 .65-.39 .01-.65 .97 .2 .78 1.33 .51 .13-2.78z',
+  );
+
+  /// ![country-cayman-islands](https://icons.ashlar.ke/svg/sharp-stroke/country-cayman-islands.svg) country-cayman-islands, sharp stroke.
+  static const countryCaymanIslands = AshlarIconData(
+    'country-cayman-islands',
+    'sharp-stroke',
+    'M.9 8.2l3.35-1.28 1.68 2.98 1.47 .94 1.77-.55 .87-1.68 11.1 1.2 2.51 4.76-8.97 .08-5.11 2.2-7.53-.51z m2.45 1.2l-.25 .1 .7 4.96 5.43 .37 5.03-2.18 6.09-.05-.49-.91-8.68-.94-.63 1.2-3.45 1.07-2.67-1.7z',
+  );
+
+  /// ![country-central-african-republic](https://icons.ashlar.ke/svg/sharp-stroke/country-central-african-republic.svg) country-central-african-republic, sharp stroke.
+  static const countryCentralAfricanRepublic = AshlarIconData(
+    'country-central-african-republic',
+    'sharp-stroke',
+    'M13.26 4.55l2.21-.26 1.78 2.49-.12 1.08 .39 .09 5.22 5.75-.85 1.66-2.73-.3-3.58 .8-.89 1.2-4.65-1.59-.61 .53 .03 1.92-3.39-.06-.42 1.23-1.8 .21-2.34-3.78-.56-2.9 2.1-2.92 4.59-.78 .48-1.27 2.91-.69z m1.27 1.86l-.31 .04-2.13 2.31-2.47 .59-.52 1.35-4.91 .84-1.11 1.54 .33 1.7 1.03 1.67 .21-.61 2.78 .04-.02-.78 2.19-1.89 4.35 1.49 .47-.64 4.63-1.02 .43 .05-3.04-3.35-1.49-.38 .23-2.04z',
+  );
+
+  /// ![country-chad](https://icons.ashlar.ke/svg/sharp-stroke/country-chad.svg) country-chad, sharp stroke.
+  static const countryChad = AshlarIconData(
+    'country-chad',
+    'sharp-stroke',
+    'M6.24 2.04l2.48-1.15 10.63 5.45-.01 6.16-1.52 .29-.97 2.49 1.63 3.06-2.25 .58-1.77 1.95-1.47 .21-.46 1.1-4.91 .86-3.01-4.52 2.23-.43-2.37-4.86 2.67-3.44 .52-3.8z m2.53 1.12l.93 2.61-.66 4.82-2.23 2.88 2.97 6.1-1.83 .35 .61 .92 2.55-.44 .48-1.14 1.87-.27 1.69-1.85 .37-.1-.87-1.64 1.71-4.37 .98-.19 .01-3.28z',
+  );
+
+  /// ![country-chile](https://icons.ashlar.ke/svg/sharp-stroke/country-chile.svg) country-chile, sharp stroke.
+  static const countryChile = AshlarIconData(
+    'country-chile',
+    'sharp-stroke',
+    'M11.45 1.68l2.17-.61 1.32 3.88-1.59 4.53-.27 7.2-.94 2.4 .23 .41 .63 .07 .13-.03 0 .05 .24 .03 .45 1.81-1.22 .85-.6-.33-.45 .13-.12-.29-.56 .01-.08-.5-1-.75 .22-.47-.05 .01-.33-1.59-1.09-.84 1.93-1.67 .05-.49-.83-.33 1.28-5.21z',
+  );
+
+  /// ![country-china](https://icons.ashlar.ke/svg/sharp-stroke/country-china.svg) country-china, sharp stroke.
+  static const countryChina = AshlarIconData(
+    'country-china',
+    'sharp-stroke',
+    'M16.7 4.53l2.78-.16 1.76 2.21 .76 0 .84 1.55-1.53 2.34-2.86 1.45 .27 .62-.68 .62 .76 2.57-2.31 3.01-1.02-.06-1.27 1.42-1.56-.99-.45-.39-2.04 .93-1.37-3.33-1.81 .68-3.2-1.4-3.2-5.05 2.53-1.24-.1-1.04 3.45-2.54 3.38 2.9 3.4 .09 .7-.94 .27-.07z m1.86 1.9l-.84 .04-.41 .53 .21 .09-.15 1.89-2.26 .56-.9 1.2-5.14-.13-2.72-2.32-1.25 .92 .14 1.28-1.79 .88 1.68 2.65 1.9 .82 2.87-1.06 1.31 3.19 1.32-.59 1.31 1.12 0 0 .79-.88 .92 .06 1.05-1.36-.84-2.8 .25-.22-.94-1.57 2.21-1.26 .64 .48 2.01-1.02 .28-.44z',
+  );
+
+  /// ![country-colombia](https://icons.ashlar.ke/svg/sharp-stroke/country-colombia.svg) country-colombia, sharp stroke.
+  static const countryColombia = AshlarIconData(
+    'country-colombia',
+    'sharp-stroke',
+    'M10.32 2.79l3.44-2.11 1.56 2.23-2.19 1.64-.22 .54 .95 2.51 5.88 1.11-.59 2.67 .79 1.6-.59 .67 .74 1.08-1.66 1.12-.26-.38-.78 .13 .91 1.38-1.44 .13 .42 1.15-.99 5.33-3-1.79 .49-.84-2.27-.21-2.28-2.69-2.98-.68-2.97-2.25 2.69-3.17-.93-3.77 1.28-3.6 .79 .92 .88-.6 1.37-2.87z m.55 2.01l-.68 .41-.09-.07-.53 1.11-1.21 .83 .03 .12-1.06 .52-.21 .57 1.03 4.19-1.98 2.33 .94 .71 3.22 .74 2.18 2.57 2.59 .24 .12-.63-1.14-3.11 .7-.06-.75-1.13 2.91-.49-.11-.16 .73-.83-.51-1.02 .29-1.35-4.95-.93-.94-2.47-1.36-.2z',
+  );
+
+  /// ![country-comoros](https://icons.ashlar.ke/svg/sharp-stroke/country-comoros.svg) country-comoros, sharp stroke.
+  static const countryComoros = AshlarIconData(
+    'country-comoros',
+    'sharp-stroke',
+    'M9.29 1.29l2.36-.34 2.6 2.06-.51 7.81 4.14 9.35-1.31 2.04-1.33 .95-5.88-2.94-3.14-3.86 1.11-12.4z m1.8 1.76l-.68 .1-1.14 1.55-.99 11.02 2.36 2.9 4.42 2.22 .03-.03 .53-.82-3.9-8.81 .47-7.25z',
+  );
+
+  /// ![country-cook-islands](https://icons.ashlar.ke/svg/sharp-stroke/country-cook-islands.svg) country-cook-islands, sharp stroke.
+  static const countryCookIslands = AshlarIconData(
+    'country-cook-islands',
+    'sharp-stroke',
+    'M3.14 7.82l4.61-3.25 8.64 .46 6.07 4.43 .55 7.29-1.02 2.59-6.84 .07-13.38-2.45-.82-2.72z m5.19-1.21l-3.51 2.47-1.77 5.2 .28 .94 12 2.19 5.3-.05 .36-.91-.45-5.92-4.85-3.54z',
+  );
+
+  /// ![country-costa-rica](https://icons.ashlar.ke/svg/sharp-stroke/country-costa-rica.svg) country-costa-rica, sharp stroke.
+  static const countryCostaRica = AshlarIconData(
+    'country-costa-rica',
+    'sharp-stroke',
+    'M.37 4.45l3.34-3.06 4.19 1.54 1.17-.61 2.79 .58 1.06 1.2 .75 .14 2.28-1.52 2.19 4.52 4.55 4.36-.75 1.72-.96-.06-.23 .24 0 1.43 1.86 1.27-1.64 1.55 .35 1.84-.79 .55 .46 .84-1.71 1.04-1.46-2.17-.4 .54-2.17-.52-1.51-1.58 .88-1.4-.45-1.27-5.03-2.53-.53-1.32-1.89 2.01-1.74-2-1.96-.59-1.78-3.14 .97-2.42z m3.79-.76l-.53 .48 1.04 .68-1.21 3.06 .9 1.6 1.74 .51-1-1.17 1.27-1.51 1.46 .87 2.12 1.52 .77 1.92 5.07 2.55 .91 2.58 .11-.15 1.48 .35 .7 1.03-.18-.96 .62-.6-.68-.46 0-3.29 1.05-1.1-3.3-3.16-1.35-2.78-1.04 .7-2.23-.42-1.08-1.22-1.44-.3-1.32 .69z',
+  );
+
+  /// ![country-croatia](https://icons.ashlar.ke/svg/sharp-stroke/country-croatia.svg) country-croatia, sharp stroke.
+  static const countryCroatia = AshlarIconData(
+    'country-croatia',
+    'sharp-stroke',
+    'M8.06 4.65l3.47-2.48 5.41 3.82 1.35 .13 2.85-1.32 .45 3.48 1 .75-.62 1.8-.21-.01-.99 2.37-1.78-1.89-5.23-.84-2.26 1.37-.91-.43-.02 .14 5.06 6.11 1.12 2.55-1.6 1.13-2.11-1.97-3.18-.62-3.8-4.36 .85-.42-.85-.82-.44-2.3-.51-.51-1.1 1.73-1.8-.26-1.36-4.62 3.59 .23 1.08-1.37 1.28 1.42 .21 .01-.14-.81 1.32-.65z m3.47-.02l-1.37 .98 .16 1.59-1.23 .6 .12 .73 2.17 1.04 1.98-1.2 6.37 1.03-.02-.02-.21-1.62-.87 .4-2.41-.23z m-4.45 4.84l.4 .39 .42 2.28 2.47 2.34-1.09 .54 1.64 1.88 1.79 .35-4.2-5.07 .24-2.66z',
+  );
+
+  /// ![country-cuba](https://icons.ashlar.ke/svg/sharp-stroke/country-cuba.svg) country-cuba, sharp stroke.
+  static const countryCuba = AshlarIconData(
+    'country-cuba',
+    'sharp-stroke',
+    'M3.03 8.81l4.59-1.11 4.12 .6 10.69 5.52-.37 1.89-6.63 .62-.96-1.5 .17-.29-.62-.09-1.16-1.69-6.23-1.33 .02-.75-.45-.01-3.71 1.63-1.15-1.57z m6.56 1.2l1.87 .4-.34-.18z m5.31 2.17l.28 .41 .71 .11z m2.63 1.36l-.35 .61 1.3-.12z',
+  );
+
+  /// ![country-curacao](https://icons.ashlar.ke/svg/sharp-stroke/country-curacao.svg) country-curacao, sharp stroke.
+  static const countryCuracao = AshlarIconData(
+    'country-curacao',
+    'sharp-stroke',
+    'M1.27 8.15l-.34-5.76 3.46 .62 2.41 1.84 3.05 5.42 9.04 3.64 4.79 6.34-4.35 1.22-9.9-5.09z m1.81-3.34l.15 2.46 7.4 7.47 8.92 4.59 .77-.22-2.69-3.56-9.18-3.68-3.19-5.68-1.69-1.3z',
+  );
+
+  /// ![country-cyprus](https://icons.ashlar.ke/svg/sharp-stroke/country-cyprus.svg) country-cyprus, sharp stroke.
+  static const countryCyprus = AshlarIconData(
+    'country-cyprus',
+    'sharp-stroke',
+    'M9.12 7.96l2.91-1.11 3.01 .2 .94 2.02 3.9-1.14 2.3 .57 1.37 2.85-5.14 .32-3.18 3-3.32 .74-1.36 1.92-1.77-.21-.79-1.08-1.66 .14-3.37-1.36-1.75-3.62-.2-1.97 1.4-1.02 .48 .21 1.64-1.28 2.36-.28z m3.21 .91l-3.31 1.27-2.49-1.22-1.21 .14-2.12 1.66 1.22 2.54 2.21 .88 2.32-.18 .78 1.07 .98-1.4 3.54-.8 1.82-1.7-1.18 .34-1.17-2.5z',
+  );
+
+  /// ![country-czechia](https://icons.ashlar.ke/svg/sharp-stroke/country-czechia.svg) country-czechia, sharp stroke.
+  static const countryCzechia = AshlarIconData(
+    'country-czechia',
+    'sharp-stroke',
+    'M9.67 6.01l.67-.77 5.69 2.53-.62 1.25 .14 .16 .88-1.01 3.44 .78-.26 1.02 2.32 .91 1.29 2.73-3.97 3.57-1.62 .19-.68 1.4-5.82-1.85-.76 1.59-2.48 .17-4.97-4.27-1.84-4.28 1.02-.7-.01-.03 .24-.13 .37-.25 .04 .03 5.55-2.95 .05 .09 .78-.61z m1.21 1.66l-.93 1.06-.97-.73-5.4 2.87 1 2.32 3.99 3.44 .5-.04 1.02-2.11 5.82 1.86 .4-.83 2.08-.25 2.39-2.15-.31-.65-3.22-1.27 .12-.51-2.09 1.25-2.25-2.61 .28-.57z',
+  );
+
+  /// ![country-democratic-republic-of-the-congo](https://icons.ashlar.ke/svg/sharp-stroke/country-democratic-republic-of-the-congo.svg) country-democratic-republic-of-the-congo, sharp stroke.
+  static const countryDemocraticRepublicOfTheCongo = AshlarIconData(
+    'country-democratic-republic-of-the-congo',
+    'sharp-stroke',
+    'M12.64 1.8l5.3-.59 1.1 .87 1.76-.28 2.48 3.79-1.81 1.81-.98 2.97 .64 3.62 1.99 3.1-3.02 .47-.1 .15 .05 1.65 1.41 .37-.05 3.18-2.1-.12-2.06-1.92-5.58-.45-.53-4.15-.56-.09-.48 .88-3.05 .23-1.24-2.39-5.55-.17 1.74-2.88 2.71-.78 .15 .24 .16-.14 .23-1.61 1.65-1.75 1.55-6.43 3.85 .87z m4.7 1.49l-3.62 .41-.6 .79-3.19-.73-1.21 5.03-1.58 1.67-.24 1.73-.83 .72 .98 .03 1.16 2.25 .65-.05 .64-1.18 3.44 .59 .51 4.01 4.58 .37-.05-1.8 .94-1.41 .86-.13-.55-.86-.8-4.51 1.3-3.9 .99-.99-.88-1.35-1.34 .22z',
+  );
+
+  /// ![country-denmark](https://icons.ashlar.ke/svg/sharp-stroke/country-denmark.svg) country-denmark, sharp stroke.
+  static const countryDenmark = AshlarIconData(
+    'country-denmark',
+    'sharp-stroke',
+    'M9.84 2.24l2.68-1.16 1.39 1.08-1.11 6.8 2.62 1.31-1.29 2.75-1.47 .17-.51 2.33-.3 .04-.02 .03 1.32-.29-.17-.5 2.08-.34 1.96-2.37 .33 .8 1.39-1.07 2.58 .71-.07 2.93-1.14 1.86 .97 1.58-1.65 .91-.15 2.59-2.33 .95-.9-3.21-1.34-.11-.08-.23 .06 .37-2.41 1.07-1.66-.76 .08 2.3-6-.78-.23-3.81-1.85-1.24 .16-8.79 .41 .16 .68-1.75 1.06-1.29 3.02-.41z m1.8 1.4l-.5 .22-2.07 2.87-.21 .03-.24 2.33-1.4 .39-1.09 2.16-1.41-.56-.08 4.81 1.77 1.2 .19 3.14 .77 .11 .98-1.83-.33-1.67 1.62-1.81 .49-1.24 .36-.05 .51-2.37 1.73-.2-2.15-1.07z m7.52 10.38l-.58 .44-.13 1.4-1.93 .28-.08-.21-.32 .39-.5 .08 .57 1.75 1.42 .11 .06 .24 .61-.34-.53-.84 1.52-2.44 .01-.83z m-6.93 3.53l-.94 .21 .18 .9 .83 .38 .17-.07z',
+  );
+
+  /// ![country-djibouti](https://icons.ashlar.ke/svg/sharp-stroke/country-djibouti.svg) country-djibouti, sharp stroke.
+  static const countryDjibouti = AshlarIconData(
+    'country-djibouti',
+    'sharp-stroke',
+    'M14.44 2.14l3.81-1.34 3.21 4.71 .36 3.92-4.22 3.4-2.66 .99-.28 .32 2.51-.51 3.59 1.61-4.57 7.23-4.51-1.02-6.66 1.58-2.75-.7-.07-9.1 8.02-10.41 2.75 1.56z m3.03 1.06l-1.73 .6-2.13 3.24-2.87-1.62-6.54 8.49 .05 6.86 .79 .2 6.63-1.58 3.58 .82 2.59-4.09-.91-.41-5.37 1.1-1.06-1.33 .89-1.61 .79 .08 1.58-1.83 2.84-1.05 3.14-2.52-.22-2.34z',
+  );
+
+  /// ![country-dominica](https://icons.ashlar.ke/svg/sharp-stroke/country-dominica.svg) country-dominica, sharp stroke.
+  static const countryDominica = AshlarIconData(
+    'country-dominica',
+    'sharp-stroke',
+    'M5.48 7.46l1.4-6.79 7.94 2.87 2.35 3.31 1.32 8-1.65 6.91-6.03 1.45-2.12-9.37z m2.9-4.13l-.8 3.85 3.01 5.98 1.72 7.63 2.87-.69 1.27-5.33-1.18-7.14-1.72-2.43z',
+  );
+
+  /// ![country-dominican-republic](https://icons.ashlar.ke/svg/sharp-stroke/country-dominican-republic.svg) country-dominican-republic, sharp stroke.
+  static const countryDominicanRepublic = AshlarIconData(
+    'country-dominican-republic',
+    'sharp-stroke',
+    'M4.04 4.54l3.85-.12 4.09 1.57 1.72-.27 1.26 2.28 2.22 .13 .24 1.45 3.17 .76 2.8 2.5-3.16 3.8-1.88-1.56-1.51-.15-2.5-.02-4.22 1.43-.97-.75-1.22 .21-2.76 4.53-2.91-3.76 .03-1.7-1.86-2.12 1.82-1.02-.28-1.22 .88-1.02-.75-3.3z m3.51 1.9l-2.75 .08-.48 .41 .71 3.1-.88 1.02 .4 1.7-.98 .54 .74 .84-.03 1.78 .69 .9 1.72-2.83 2.98-.51 .82 .63 3.53-1.19 2.93 .02 2.2 .23 .82 .66 .64-.78-.98-.88-4.88-1.17-.08-1-.93-.05-1.12-2.03-.86 .14z',
+  );
+
+  /// ![country-ecuador](https://icons.ashlar.ke/svg/sharp-stroke/country-ecuador.svg) country-ecuador, sharp stroke.
+  static const countryEcuador = AshlarIconData(
+    'country-ecuador',
+    'sharp-stroke',
+    'M8.65 2.01l.24-1.56 5.04 2.7 .85 1.23 1.9 .34 .86-.8 3.7 2.06-.23 .98 .94 1.19-1.22 3.68-3.72 3.47-4.98 2.49-2.3 5.23-2.12-.28-.91-1.42-3.04-.09-.06-2.92 .76-.33-.34-1.14 .76-1.04-2.83-1.91 .78-1.53-.49-2.94 1.58-1.17-.48-.6 1.65-1.99 .04-2.46z m1.76 1.53l-3.4 1.12-.04 1.74-1.05 1.27 .76 .96-2.26 1.67 .39 2.38-.28 .55 .5 .33 .59-.73 .01-.07 .05 0 .7-.88 .36 .86 .86-.02 .43 2.03-1.81 2.47 .56 1.9-.45 .19 1.47 .05 .81 1.24 1.88-4.27 5.36-2.69 3.14-2.93 .72-2.17-.81-1.02 .2-.44-1.26-.7-.52 .48-3.71-.66-1.04-1.51z',
+  );
+
+  /// ![country-egypt](https://icons.ashlar.ke/svg/sharp-stroke/country-egypt.svg) country-egypt, sharp stroke.
+  static const countryEgypt = AshlarIconData(
+    'country-egypt',
+    'sharp-stroke',
+    'M1 5.67l.94-3.7 7.14 1.6 3.24-1.39 2.18 .18 .29 .7 3.5-.43 1.54 4.49-1.58 4.43 2.98 5.56-.13 1.62 1.57 1.42-.67 1.74-20.51 0z m11.65-1.45l-3.37 1.45-5.88-1.32-.4 1.54 .43 14 15.98 0-.38-.34 .16-2.02-5.75-10.7 .6-1.11 1.8 .08 1.03 2.4 .34 .31 .5-1.41-.78-2.29-3.4 .41-.41-.96z',
+  );
+
+  /// ![country-el-salvador](https://icons.ashlar.ke/svg/sharp-stroke/country-el-salvador.svg) country-el-salvador, sharp stroke.
+  static const countryElSalvador = AshlarIconData(
+    'country-el-salvador',
+    'sharp-stroke',
+    'M5.29 6.04l2.96-.38 2.44 .48 3.49 2.94 1.99 .56 .12 .49 2.03-.84 4.67 1.68-.93 5.92-1.42 1.39-2.61 .19-2.86-.68-.21 .43-6.3-2.5-4.5-.71-3.23-2.02 .68-2.52 3.97-2.75z m2.9 1.64l-.58 .08 .15 .88-4.41 3.05-.1 .38 1.63 1.02 4.32 .69 4.83 1.92 .08-.22 4.08 .97 1.57-.11 .42-.41 .57-3.64-2.37-.86-3.51 1.46-.38-1.65-1.27-.36-3.43-2.88z',
+  );
+
+  /// ![country-equatorial-guinea](https://icons.ashlar.ke/svg/sharp-stroke/country-equatorial-guinea.svg) country-equatorial-guinea, sharp stroke.
+  static const countryEquatorialGuinea = AshlarIconData(
+    'country-equatorial-guinea',
+    'sharp-stroke',
+    'M5.26 5.12l1.61-.81 1.56 1.19 14.49 .01 .09 13.95-16 .45-1.4-1.1-1.64 .41-3.33-1.74 4.68-8.75z m2.03 2.03l.03 2.06-3.96 7.43 .87 .46 1.84-.47 1.6 1.26 13.32-.37-.05-10.01-13.19-.01z',
+  );
+
+  /// ![country-eritrea](https://icons.ashlar.ke/svg/sharp-stroke/country-eritrea.svg) country-eritrea, sharp stroke.
+  static const countryEritrea = AshlarIconData(
+    'country-eritrea',
+    'sharp-stroke',
+    'M4.58 5.2l4.38-3.56 3.55 9.03 .59-.12 .84 1.19 2.83 1.19 6.71 6.84-2.47 2.04-1.76-.48-4.74-5.19-1.73-.9-2.93-.47-2.05 .72-1.04-.84-1.01 2.34-1.57-1.59-2.76 .77-.43-4.08 2-6.87z m3.52-.28l-2.8 2.28-.81 0-1.48 5.07 .15 1.34 1.62-.45 .31 .31 .87-2.02 2.22 1.78 1.49-.52 2.83 .46-.48-.68-.91 .08z m10.41 12.64l1.82 1.99 .18 .05z',
+  );
+
+  /// ![country-estonia](https://icons.ashlar.ke/svg/sharp-stroke/country-estonia.svg) country-estonia, sharp stroke.
+  static const countryEstonia = AshlarIconData(
+    'country-estonia',
+    'sharp-stroke',
+    'M12.63 5.34l.29-.98 5.43 1.34 3.73-.24 1.11 1.7-2.41 3.79 1.1 5.6-1.89 2.89-3.72-.13-3.58-2.93-2.51 .9-1.32-1.16 .25-1.1-1.8-.95-.22-.47 0 .11-2.78 1.3-1.03 1.52-1.74-.97 .26-.6-.68-.46-.14-2.7 3.51-1.11 1.63 .75 0 0 .39-.58-.55-.56 .32-2.64 3.42-2.07z m1.67 1.42l-.13 .46-3.83 .33-2.2 1.32-.08 .71 1.03 1.06-.69 1 .45 .99 .38 .2 .89-.37 1.36 1.15-.27 1.18 1.88-.67 3.92 3.21 1.92 .07 .83-1.27-1.1-5.58 1.9-2.98-2.39 .15z m-10.27 6.17l-.97 .31 0 .15z',
+  );
+
+  /// ![country-eswatini](https://icons.ashlar.ke/svg/sharp-stroke/country-eswatini.svg) country-eswatini, sharp stroke.
+  static const countryEswatini = AshlarIconData(
+    'country-eswatini',
+    'sharp-stroke',
+    'M7.06 4.42l3.42-3.47 6.38 3.02 .94-.33 2.14 1.29 .7 12.3-1.5-.31-.41 6.14-9.09-1-2.83-1.9-1.99-3.96-1.33-.45 .13-5.47z m3.84-1.05l-2.24 2.27-3.06 5.2-.07 3.49 .71 .25 2.12 4.22 1.98 1.32 6.53 .72 .43-6.34 1.2 .25-.5-8.66-.42-.25-.83 .29z',
+  );
+
+  /// ![country-ethiopia](https://icons.ashlar.ke/svg/sharp-stroke/country-ethiopia.svg) country-ethiopia, sharp stroke.
+  static const countryEthiopia = AshlarIconData(
+    'country-ethiopia',
+    'sharp-stroke',
+    'M7.48 4.17l.47-1.06 5.02 1.29 2.71 2.89-.46 1.21 1.14-.02-.18 1.75 1.02 1.07 6.72 1.72-5.44 5.6-4.6 1.42-1.34-.36-1.71 1.12-5.4-1.6-1.26-1.74-.68-1.44-3.25-2.49 2.27-1.36 .22-2.43 2.51-3.04 .73-2.68z m1.61 1.3l-.37 .84-1.27-.13-.39 1.46-2.39 2.9-.26 2.83-.61 .36 1.29 .99 .8 1.72 .76 1.04 3.86 1.14 1.69-1.1 1.64 .44 3.56-1.1 2.68-2.76-3.94-1-2.04-2.17 .04-.41-1.85 .04 1.07-2.81-1.45-1.55z',
+  );
+
+  /// ![country-falkland-islands](https://icons.ashlar.ke/svg/sharp-stroke/country-falkland-islands.svg) country-falkland-islands, sharp stroke.
+  static const countryFalklandIslands = AshlarIconData(
+    'country-falkland-islands',
+    'sharp-stroke',
+    'M13.22 7.99l1.65-2.39 4.43 .91-.22 .68 2.17-.42 2.07 2.69-.44 .31 .38 .19-.77 1.98-5.04 2.18 .28 2.35-2.71-.66 .46 .92-2.49 .33-.15 .52-1.7 .38-1.95-2.16 .37-1.61-.49 .61-1.88 .16-.63 1.48-3.05 .71-3.25-2.48 3.88-2.48-.02-.01-.06-1.9 .88-.31-1.28-1.79 1.33-1.44 1.46 .87 6.05-1.11z m2.55-.17l-.96 1.4 .25 2.17-3.4 2.58-.29 1.27 .06 .06 .02-.06 .97-.13-.17-.33 1.12-1.42 2.03 .49-.11-.97 3.96-1.72-2.98-1.84 .43-1.31z m-4.46 .93l-4.23 .78 1.02 1.44-1.19 .42 .19 1.28-.52 .33 1.46-.12z m9.1 .22l-.4 .07-.01 .3 .45-.32z m-7.53 1.01l-1.08 1.37 1.14-.86z m7.06 .53l-.02 .37 .4-.18z m-14.36 3.13l-1.84 1.17 .23 .18 1.15-.27z',
+  );
+
+  /// ![country-faroe-islands](https://icons.ashlar.ke/svg/sharp-stroke/country-faroe-islands.svg) country-faroe-islands, sharp stroke.
+  static const countryFaroeIslands = AshlarIconData(
+    'country-faroe-islands',
+    'sharp-stroke',
+    'M16.74 2.03l1.81-.61 2.66 3.7-1.24 4.02-2.59-1.17-.4 4.61-2.38-1.39 1.37 4.26-1.68 1-3.95-4.17-1.12 1.24-2.88 .02-2.58-1.27-1.24-3.96 5.59 .07 .46 .52-2-5.15 4.84-1.49 5.44 3.13z m-5.57 2.39l-1.96 .61 2.07 5.33 1.44 1.52-.6-1.86 .83-2.1 2.31 1.35 .21-2.37z m7.68 .84l.02 .66 .14-.44z m-13.59 5.09l.16 .5 1.38 .69 1.39-.01-1-1.16z m6.27 7.55l1.28-1.29 4.01 1.43 .91 2.8-1.59 2.72-3.79-3.45z m2.93 1.42l.96 .88-.2-.6z',
+  );
+
+  /// ![country-federated-states-of-micronesia](https://icons.ashlar.ke/svg/sharp-stroke/country-federated-states-of-micronesia.svg) country-federated-states-of-micronesia, sharp stroke.
+  static const countryFederatedStatesOfMicronesia = AshlarIconData(
+    'country-federated-states-of-micronesia',
+    'sharp-stroke',
+    'M1.78 5.53l5.68-3.68 11.26 2.79 4.49 6.5-2.64 3.99 .59 4.38-6.6 2.59-7.97-1.12-2.26-8.2-3.43-2.28z m6.04-1.53l-4.22 2.73-.5 2.83 2.97 1.96 2.1 7.66 6.15 .86 4.64-1.81-.47-3.58 2.3-3.49-3.29-4.76z',
+  );
+
+  /// ![country-fiji](https://icons.ashlar.ke/svg/sharp-stroke/country-fiji.svg) country-fiji, sharp stroke.
+  static const countryFiji = AshlarIconData(
+    'country-fiji',
+    'sharp-stroke',
+    'M9.63 5.1l5.77-1.24 1.74 1.17 4.71 4.43 1.3 7.71-5.52 .93-2.46 1.74-3.37 .24-9.69-2.99-1.11-4.35 2.28-1.89-.31-1.53 1.98-1.85z m5.36 .9l-4.68 1-4.2 2.13-.96 .89 .33 1.61-2.23 1.85 .52 2.03 8.26 2.55 2.44-.18 2.38-1.68 4-.67-.86-5.07-4.11-3.87z',
+  );
+
+  /// ![country-finland](https://icons.ashlar.ke/svg/sharp-stroke/country-finland.svg) country-finland, sharp stroke.
+  static const countryFinland = AshlarIconData(
+    'country-finland',
+    'sharp-stroke',
+    'M11.69 1.43l2.03-.5 1.94 1.43-.6 2.48 1.35 1.72-.85 1.68 .75 1.93-.07 3.85 1.5 1.95-3.85 5.71-1.31-.22-3.34 1.8-2.05-2.38-.32-4.68 3.49-4.41 .02-.31-.92-.59-.43-4.27-3.26-2.76 2.85-1.67 .94 1.49 .92 .11z m1.59 1.66l-.22 .06-1.42 2.8-.68-.08 .4 3.86 1.06 .69-.08 2.11-3.43 4.31 .23 3.24 .56 .66 2.54-1.36 .71 .12 2.33-3.45-1.06-1.37 .09-4.15-.93-2.39 .67-1.34-1.15-1.48 .5-2.14z',
+  );
+
+  /// ![country-france](https://icons.ashlar.ke/svg/sharp-stroke/country-france.svg) country-france, sharp stroke.
+  static const countryFrance = AshlarIconData(
+    'country-france',
+    'sharp-stroke',
+    'M11.03 1.86l2.53-.92 2.53 2.54 1.09-.47 1.35 1.82 4.67 1.39-1.18 4.59-1.16 .36-.22 .42 .95 3.71-.81 .76 .14 .55 1.49 .5-.52 2.15-2.85 2.09-3.29-1.07-.55 .6 .39 1.69-3.27 .33-1.88-1.06-1.17 .32-2.81-1.05-.93-1.43 1.21-5.22 .28-.06-.27-.89-1.44-1.14-.27-1-2.85-.99-1.59-1.37 1.04-.89 .01-.97 2.91-1.09 .95 .78 .42-.05-.88-2.72 3.7 .56 2.15-1.23z m2.01 1.4l-.13 .04-.11 1.32-2.35 1.34-.57 .86-1.93-.29 .62 1.94-3.66 .47-.6-.5-.46 .4 3.16 1.1-.07 .8 .01 0 .12 .47 1.4 1.12 1.02 3.25-1.08 .52-.74 3.2 .11 .17 1.59 .59 1.33-.36 2.04 1.14 .39-.03-.11-.49 2.11-2.34 3.55 1.15 1.08-.79-.52-.18-.68-2.76 .8-.75-.17-.64-.22 .08-1.21-1.43 1.74-3.15 .86-.28 .42-1.65-3.47-1.03-.79-1.08-.89 .39z',
+  );
+
+  /// ![country-french-southern-and-antarctic-lands](https://icons.ashlar.ke/svg/sharp-stroke/country-french-southern-and-antarctic-lands.svg) country-french-southern-and-antarctic-lands, sharp stroke.
+  static const countryFrenchSouthernAndAntarcticLands = AshlarIconData(
+    'country-french-southern-and-antarctic-lands',
+    'sharp-stroke',
+    'M1.76 5.85l2.67-3.48 1.76 .36 .97 3.83-1.17 2.72 .04 .22 .75 .23 .97-.04 4.11-3.03 1.17 5.15-2.4 .12 .36 .29 1.92-.1 3.28-1.93 1.49-.01 1.37-1.41 2.89 .68 1.15 2.9-2.57 5.4-3.16-2-1.9 .06-.58 1.18-.21 .03 .21 .38 .72 .32 .1-1.1 3.4 .38 1.43 1.96-2.99 3.02-3.06-.35-1.63-1.26-1.34 .76-4.62-1.87-.56 1.55-3.42 1.39-1.88-1.89 1.09-3.87-.87-3.87 .76-.91-1.07-1.42z m3-.62l-1.12 1.46-.58 3.05 1.49 1.98-1.14 1.37 .77 3.41-.91 3.23 .12 .11 1.36-.55 .96-2.67 5.66 2.29 1.57-.89-1.43-2.58 2.05-.29 .64-1.3 3.72-.12 1.76 1.12 1.23-2.58-.45-1.12-.77-.18-1.15 1.19-1.79 .03-3.24 1.91-3.2 .16-2.37-1.95 .23-.63-1.65 .07-2.23-.71-.38-2 1.15-2.64z m12.74 13.61l-.04 .38 .34-.35z',
+  );
+
+  /// ![country-gabon](https://icons.ashlar.ke/svg/sharp-stroke/country-gabon.svg) country-gabon, sharp stroke.
+  static const countryGabon = AshlarIconData(
+    'country-gabon',
+    'sharp-stroke',
+    'M10.19 5.17l.04-4.23 8.32 .58-.23 2.72 2.57-.32 1.45 2.73-1.82 2.06-.13 .84 1.92 1.16-.35 5.1-2.19 3.35-1.01-1.37-.42 .39-2.38-.42-.31-.38-.14 .51-2.59 .04-.04 .3 1.28 1.56-.43 2.77-1.74-.66-1.46 1.54-5.13-5.24 .08-.18-.52-.21-2.05-3.71 .06-.07-1.15-2.26 1.26-1.39 .18 .07 .4-.38 .3-3.55 .61 .41 .03-.17-.1-1.69z m2.02-2.09l-.04 4.13-5.54-.1 .02 .41 2.13 1.12-2.53 1.84-.59-.4-.08 .91-1.28 1.24 .33 .64 1.16 .68-.45 .8 1.04 1.88 1.09 .46-.16 .6 3.2 3.27 .9-.96-.63-.77 .38-2.88 2.83-.04 .26-.9 1.73-.37 1.06 1.28 .66 .12 1.32-1.27 .65 .88 .33-.5 .23-3.36-2.04-1.22 .45-2.75 1.28-1.45-.15-.29-3.65 .46 .27-3.16z',
+  );
+
+  /// ![country-gambia](https://icons.ashlar.ke/svg/sharp-stroke/country-gambia.svg) country-gambia, sharp stroke.
+  static const countryGambia = AshlarIconData(
+    'country-gambia',
+    'sharp-stroke',
+    'M10.67 9.16l2.86-.78 4.78 2.15 3.03-.29 2.48 2.29-4.59 1.93-5.75-2.09-.69 .86-3.14 .43-.14 1.27-5.99 .02-1.74 1.4-.88-4.04 2.12-1.88 .38 .31 .35-.76 6.45 0z m1.49 1.67l-.17 .05-.28 .48 .02-.01z',
+  );
+
+  /// ![country-georgia](https://icons.ashlar.ke/svg/sharp-stroke/country-georgia.svg) country-georgia, sharp stroke.
+  static const countryGeorgia = AshlarIconData(
+    'country-georgia',
+    'sharp-stroke',
+    'M.66 7.86l1.16-1.96 8.91 1.73 3 2.27 2.97-.71 3.53 1.47-.21 1.26 2.77 1.49-.93 1.19 1.36 1.38-1.15 2.26-4.08-1.59-1.09 .8-4.91 .49-1.8-1.68-.51 .33-4.53-.5 1.12-2.73-.62-2.1z m4.68 .76l2.03 1.38 1.02 3.46-.38 .93 1.17 .14 1.22-.81 2.29 2.14 3.47-.35 1.53-1.12 1.86 .72-.35-.35 .55-.71-1.95-1.05 .19-1.1-1.45-.61-3.27 .77-3.38-2.55z',
+  );
+
+  /// ![country-germany](https://icons.ashlar.ke/svg/sharp-stroke/country-germany.svg) country-germany, sharp stroke.
+  static const countryGermany = AshlarIconData(
+    'country-germany',
+    'sharp-stroke',
+    'M8.04 3.99l.09-3.4 5.92 2.12 1.46-.67 2.54 1.11 1.29 1.63-.24 2.41 1.5 4.4-1 2.78-1.31-1.04-2.29 1.2 .54 1.28 2.47 2.26-2.07 2.07 .28 1.09-1.4 1.15-.91-.43-1.9 .84-.59-.25-.48 .83-1.89-1.12-1.19-.5-2.99 .8 1.15-4.42-2.64-1.12-.93-4.79 .22-2.91 1.49-.32-.43-.55 1.27-4.43 2 .64 .09-.6z m2.32-.48l1.28 1.34-1.36 1.46-.46-.39-.21 1.35-2.25-.72-.43 1.47 .62 .78-.96 1.93-1.04 .22-.08 1.15 .67 3.49 3.26 1.38-.73 2.76 .33-.08 1.95 .81 .27 .17 .36-.61 1.41 .59 1.8-.8-.07-.29 1.39-1.39-1.25-1.14-1.42-3.38 4.87-2.55-1.25-3.63 .21-2.05-.48-.59-1.26-.56-2.33 1.06-1.4-1.07 .03-.18z',
+  );
+
+  /// ![country-ghana](https://icons.ashlar.ke/svg/sharp-stroke/country-ghana.svg) country-ghana, sharp stroke.
+  static const countryGhana = AshlarIconData(
+    'country-ghana',
+    'sharp-stroke',
+    'M13.09 1.75l2.94-1.01-.1 2.34 1.52 1.25-.4 2.22 .97 .21-.61 2.53 .93 1.2-.49 4.67 2.31 2.69-1.55 1.85-2.38 .17-7.17 3.19-5.44-1.61 1.89-1.82-1.42-4.1 2.31-4.48-1.1-9.56z m-5.53 1.82l.9 7.86-2.2 4.26 1.55 4.5-.33 .32 1.44 .43 6.81-3.03 1.73-.13-1.69-1.98 .49-4.73-1.01-1.32 .35-1.47-.85-.19 .52-2.96-1.38-1.13 .02-.42-.52 .17z',
+  );
+
+  /// ![country-greece](https://icons.ashlar.ke/svg/sharp-stroke/country-greece.svg) country-greece, sharp stroke.
+  static const countryGreece = AshlarIconData(
+    'country-greece',
+    'sharp-stroke',
+    'M17.58 2.2l1.36-1.76 1.9 2.5-1.96 3.17-2.79-.87-1.33 .31 .41 .54-1.16 1.53-.44-.17-.7 .58-.03-.03-.15 .23-.37-.05 .54 .82-.49 .6 .36 .87-.16 .07 1.87 1.02 .26 2.17-1.59 .92-.21-.16-.66 1.14-.15-.03 .52 1.65-1.66 1.01-.19-.19-.96 1.33-1.11-2.25-.86-.01-2.08-4.2 .51-.4-1.51-2.46 .02-.01-.4-.19-1.32-2.13 1.97-1.57 .79-2.37 7.84-2.19z m-3.8 1.46l-1.59 .44 1.76-.41z m-3.41 .95l-3 .84-.63 1.93-1.05 .83 .06 .11 1.61 .74 .07 1.56 .19 .31 2.22-.21 .05-1.19 .53-.23 .15-.14-1.25-1.88 .15-2.29z m-1.66 8.58l-.44 .33 .93 1.88 .74 .01-.61-1.94z m2.82 6.07l1.77-.03 5.1 .65 .03 .13 .08-.04 1.34 1.29-.59 1.44-2.24 .18-.03 .01 0-.01-1.69 .13-3.62-1.23z',
+  );
+
+  /// ![country-greenland](https://icons.ashlar.ke/svg/sharp-stroke/country-greenland.svg) country-greenland, sharp stroke.
+  static const countryGreenland = AshlarIconData(
+    'country-greenland',
+    'sharp-stroke',
+    'M10.83 1.46l4.44-.44 1.26 .28-.01 .39 .96 .08 .04 .52 1.5-.01-.19 .43 1.34 .09 .4 1.88-1.89 1.01-.19 .84 .39 .29-.38 1.57 .44 .98-.44 .52 .1 .27-.24 .28-.1 .97 .17 1.46-.34 .22-.01 .02-.01 0-.36 .22 .24 .77-1.34 1.4-1.29 .16-.54 1.48-1.39 .7-.88 4.36-1.78 .4-1.9-2.51 .05-1.7-.46-.26 .09-.5-1.13-.43 .58-.71-.08-1.76 .39-.05 .31-.47-.61-.7 .56-.93-1.07-.23-.62-2.8-2.24-.3-2.04-2.23 1-.33-.07-1.05 1.51-.68-.16-1.09 2.22-1.62 .22 .11 2.02-.47 .09 .2 .38-.28 .04 .02-.03-.1 1.04-.01z m3.73 1.64l-2.31 .23-.04 .38-.44 0-.84 .74-.88-.36-1.48 1.1-.43-.98-.05 .01-.34 .57-.26-.13-1.04 1.84-.53 .24 0 .67 2.57 .34 .49 2.19 1.38 1.6 .64 2.4 .1 .11-.05 .07 .09 .35-.28-.07-.93 1.4 .01 .24 .81 .31-.23 1.39 .37 .18-.04 1.53 .14 .18 .64-3.13 1.55-.79 .68-1.87 .2-.03-.14-.03 1.5-2.79-.32-.86 .94-1.04 .66 .16-.99-2.19 .65-.11 .52-2.38-.36-.28-1.29 .01-.09-.73-.57-.05z',
+  );
+
+  /// ![country-grenada](https://icons.ashlar.ke/svg/sharp-stroke/country-grenada.svg) country-grenada, sharp stroke.
+  static const countryGrenada = AshlarIconData(
+    'country-grenada',
+    'sharp-stroke',
+    'M9.43 5.96l5.2-5.07 5.95 1.56-1.88 16.23-8.23 3.93-5.9 .39-.88-1.57 2.11-3.02 .49-5.42z m5.78-2.85l-4.11 4.01-2.85 6.39-.51 5.6-1.22 1.76 3.43-.22 6.89-3.29 1.56-13.41z',
+  );
+
+  /// ![country-guam](https://icons.ashlar.ke/svg/sharp-stroke/country-guam.svg) country-guam, sharp stroke.
+  static const countryGuam = AshlarIconData(
+    'country-guam',
+    'sharp-stroke',
+    'M10.96 6.58l2.69-5.72 3.03 .62 4.63 3.23-9.21 9.38-2.15 8.78-3.48 .15-3.2-3.72-.04-7.19z m3.83-3.44l-2.25 4.76-7.31 5.23 .04 5.43 2.08 2.42 1.02-.05 1.91-7.86 7.95-8.08-2.35-1.63z',
+  );
+
+  /// ![country-guatemala](https://icons.ashlar.ke/svg/sharp-stroke/country-guatemala.svg) country-guatemala, sharp stroke.
+  static const countryGuatemala = AshlarIconData(
+    'country-guatemala',
+    'sharp-stroke',
+    'M7.42 3.75l.02-2.75 10.65 .01-.37 9.61 1.03 .22 .07-1.44 4.38 2.75-5.19 3.96-.01 2.21-1.79 1 .1 .56-3.36 3.21-6.75-1.39-4.82-3.25 .84-2.86-.7-1.1 2.8-4.93 5.75-.01 .02-.16-4.32-3.9 .68-1.74z m2-.75l-.02 2.76-.35 0 3.12 2.83-.28 2.96-6.41 .01-1.62 2.87 .54 .86-.68 2.32 3.28 2.21 5.33 1.09 1.82-1.73-.16-.9 2.01-1.14 .01-2.03 2.89-2.2-3.24-.69 .35-9.21z',
+  );
+
+  /// ![country-guernsey](https://icons.ashlar.ke/svg/sharp-stroke/country-guernsey.svg) country-guernsey, sharp stroke.
+  static const countryGuernsey = AshlarIconData(
+    'country-guernsey',
+    'sharp-stroke',
+    'M.83 11.38l16.45-9.34 4.08 .08 1.72 3.64-5.71 16.48-15.13-5.63z m16.96-7.33l-14.62 8.31 .73 2.73 12.25 4.57 4.77-13.78-.84-1.78z',
+  );
+
+  /// ![country-guinea](https://icons.ashlar.ke/svg/sharp-stroke/country-guinea.svg) country-guinea, sharp stroke.
+  static const countryGuinea = AshlarIconData(
+    'country-guinea',
+    'sharp-stroke',
+    'M3.89 5.87l1.08-2.47 7.8 .91 .1 .49 .62-.32 .69 .97 4.79-1.47 .79 2.65 1.69 1.23-.44 .6 1.2 2.48-.3 1.63 .57 .19-.18 2.15 .52 .74-.74 1.21 .12 .24-1 2.55-1.52-.33-1.4 1.46-2.09-1.22-.13-2.32-1.04-.19-.91 .32-1.19-1.45 .28-.48-1.34-2.49-2.3 .15-3.11 3.1-1.52-3.39-1.97-.88-.86-1.72-.98-1.13 1.21-2.26 1.81-.43z m2.32-.31l-.12 .27 .93 1.92-3.35 .81-.08 .15 .83 1.68 2.03 .9 .64 1.45 1.59-1.58 4.34-.29 2.25 4.19 2.69 .5 .15 2.5 .89-.94 .96 .21 .06-.15-.35-.71 .65-.89-.08-.11 .12-1.31-.75-.25 .52-2.69-.55-1.13-.31-.02-.75-1.59 .13-.18-.61-.45-.41-1.37-4.25 1.31-.51-.73-1.4 .74-.36-1.67z',
+  );
+
+  /// ![country-guinea-bissau](https://icons.ashlar.ke/svg/sharp-stroke/country-guinea-bissau.svg) country-guinea-bissau, sharp stroke.
+  static const countryGuineaBissau = AshlarIconData(
+    'country-guinea-bissau',
+    'sharp-stroke',
+    'M9.18 6.45l2.56-1.3 10.83 .04 .23 3.99-.85 .49 .62 .51 .05 3.1-6.63 1.62-2.15 3.48-1.4-.36-.07 .05-.2-.12-.18-.04 0-.06-1.18-.65 0-.1-1.29-.46 .36-1.7-.19-1.1-.83-1.04 0 0-2.98 .64 .17-1.18-.56 .05-2.2-1.59 .18-.41-1.96-1.1 .37-1.86z m3.04 .7l-2.44 1.24-4.27 .53 .48 .61-.22 .51 .28 .21 2.32-.23-.11 .86 4.28-.93 .52 1.93-.61 .2 .84 .48-.08 1.78-1.29 .61-.08 .39 1.03 .36-.01 .21 .12 .06 1.75-2.81 5.87-1.44-.01-.58-2.16-1.77 2.31-1.31-.05-.87z',
+  );
+
+  /// ![country-guyana](https://icons.ashlar.ke/svg/sharp-stroke/country-guyana.svg) country-guyana, sharp stroke.
+  static const countryGuyana = AshlarIconData(
+    'country-guyana',
+    'sharp-stroke',
+    'M8.2 2.49l1.37-1.36 2.34 1.37 2.43 2.52-.14 .64 3.55 2.5-.08 3.61-1.94 .92-.27 1.2 4.01 5.5-.83 1.59-2.02-.05-4.28 2.17-1.67-.72-1.5-1.27-1.1-3.16 1.2-3.4-.14-.42-1.43-.49 .02-1.57-1.05 .07-2.46-2.8 1-3.05 1.42-.55-.8-1.17 2.42-1.99z m1.82 1.22l-1.51 1.24 1.19 1.73-2.88 1.13-.35 1.07 1.06 1.2 2.21-.13-.02 2.27 .99 .35 .68 2-1.2 3.38 .69 1.98 .85 .73 .55 .24 3.88-1.97 .5 .01-3.34-4.61 .67-3.04 1.71-.8 .03-1.31-1.79-1.26-.42 .56-1.78-.8 .42-2.04-1.49-1.56z',
+  );
+
+  /// ![country-haiti](https://icons.ashlar.ke/svg/sharp-stroke/country-haiti.svg) country-haiti, sharp stroke.
+  static const countryHaiti = AshlarIconData(
+    'country-haiti',
+    'sharp-stroke',
+    'M9.48 4.61l3.84-.68 8.56 1.74 1.21 5.26-1.14 1.31 .51 2.14-1.4 .77 1.13 1.28-.06 2.64-1.56 .81-1.76-1.21-5.55 .55-3.56-.73-2.02 .35-1.31 1.5-5.41-3.5 .88-2.99 1.89-.47 10.1 1.69 1.84-.66-3.03-2.74 .67-2.44-4.99-1.65z m3.82 1.36l-2.26 .4 4.71 1.56-.85 3.08 3.26 2.96-.15 .59 2.15-1.2-.39-1.66 1.14-1.31-.69-3.02z m4.68 8.7l-.31 1.14-3.66 1.32-10.2-1.71-.37 .09-.14 .46 2.71 1.75 .63-.72 3.09-.55 3.63 .75 5.97-.59 .84 .57 0-.01z',
+  );
+
+  /// ![country-heard-island-and-mcdonald-islands](https://icons.ashlar.ke/svg/sharp-stroke/country-heard-island-and-mcdonald-islands.svg) country-heard-island-and-mcdonald-islands, sharp stroke.
+  static const countryHeardIslandAndMcdonaldIslands = AshlarIconData(
+    'country-heard-island-and-mcdonald-islands',
+    'sharp-stroke',
+    'M.61 5.7l3.4-.98 3.06 2.06 6.77 1.55 5 3.67 3.48 1.17-.02 1.9-4.31 1.34-4.21 2.78-4.96-.02-2.16-2.6-2.5-6.33-1.71-.46z m3.06 1.2l-.29 .08 .51 1.12 1.75 .48 2.76 6.95 1.36 1.64 3.42 .02 3.95-2.6 1.62-.51-.85-.28-4.92-3.61-6.71-1.55z',
+  );
+
+  /// ![country-honduras](https://icons.ashlar.ke/svg/sharp-stroke/country-honduras.svg) country-honduras, sharp stroke.
+  static const countryHonduras = AshlarIconData(
+    'country-honduras',
+    'sharp-stroke',
+    'M9.86 6.77l2.9-.84 3.53 .12 2.61 .63 1.75 1.44-.15 .48 1.91 .85-.14 1.87-4.42 1.24-1.35-.29-2.59 3.2-1.29-.84-1.15 .51 .13 1.2-2.03 1.92-3.59-2.01 .02-1.15-1.43 .08-3.76-2.47 1.06-3.27 5.29-3.18z m3.15 1.17l-3.05 .89-2.42-.47-3.99 2.4-.36 1.11 1.93 1.27 2.94-.16-.06 2.11 1.27 .71 .23-.22-.18-1.68 3.48-1.53 .69 .44 2.23-2.74 2.07 .43 1.28-.36-.5-.22 .13-.81-.72-.59-1.97-.47z',
+  );
+
+  /// ![country-hong-kong](https://icons.ashlar.ke/svg/sharp-stroke/country-hong-kong.svg) country-hong-kong, sharp stroke.
+  static const countryHongKong = AshlarIconData(
+    'country-hong-kong',
+    'sharp-stroke',
+    'M9.99 4.02l3.38-1.11 6.48 1.18 1.41 2.52-.21 1.46 1.41 .77 .68 2.98-2.09 1.13-1.08 4.05-.43-.16-.83 3.17-2.13 1.43-4.47-6.45 1.94-.18-3.91-1.44 .95 1.22-1.48 2.22-.29 3.58-6.15 0-2.64-2.32 2.65-2.59 6.37-2.26-3.93 .49-1.98-1.92-.43-2.42 4.7-2.58 .31-1.06z m3.52 .95l-2.46 .81-1.05 1.01-.39 1.36-4.18 2.28 .07 .38 .82 .8 3.61-.45 8.68 3.2 .73-2.76 1.52-.82-.14-.62-1.85-.99 .31-2.18-.61-1.1z m-5.76 11.01l-3.49 1.24-.79 .77 .46 .4 3.55 0 .17-2.26z m8.05 .68l-.09 .01 1.31 1.9 .26-1.02z',
+  );
+
+  /// ![country-hungary](https://icons.ashlar.ke/svg/sharp-stroke/country-hungary.svg) country-hungary, sharp stroke.
+  static const countryHungary = AshlarIconData(
+    'country-hungary',
+    'sharp-stroke',
+    'M13.09 6.54l1.49-1.55 5.65 .62 3.35 3.03-3.39 2.5-2.98 5.77-4.62 .35-5.14 1.83-2.47-1.26-4.57-4.79 1.8-1.07 .36-1.27-.23-.18 .56-1.78 1.13-.08 .35-1.92 2.79 1.58 1.78-.05 .15-.67 3.29-1.31z m2.25 .55l-1.69 1.75-1.22-.41-1.61 .63-.25 1.17-3.9 .11-.83-.47-.13 .67-1.03 .08-.77 2.67-.32 .19 2.61 2.73 1.39 .7 4.58-1.63 3.78-.29 2.68-5.19 1.79-1.32-1.05-.95z',
+  );
+
+  /// ![country-iceland](https://icons.ashlar.ke/svg/sharp-stroke/country-iceland.svg) country-iceland, sharp stroke.
+  static const countryIceland = AshlarIconData(
+    'country-iceland',
+    'sharp-stroke',
+    'M15.9 5.66l.69-2.28 2.02 1.99 1.13-.43 1.12 1.58-.18 .21 .36 .22-.22 1.04 2.04 .98 .13 2.88-2.25 3.28-7.91 4.68-3.5-.79-1.5-1.51-3.4 .59-.28-3.52 1.63 .33-.71-1.23-2.35-.24-.1-1.97 2.57-.53-.05-.14-3.21-.22 .01-1.31-.79-1.91 1.26 .1 .4-.82-.05-.01 .14-.17 .56-1.17 .24 .16 .61-.78 1.83-.01 2.64 2.48-.27 .77 .11 .06 .22-1.08 1.72-.47 .03 .03 2.07-1 .61 .92 .58-.38 .56 .35 .49-.7z m1.65 1.48l-.17 .56-1.46-.04-.97 1.36-.63-.39-1.55 .6-.6-.9-.05 .35-1.7 .52-.32 1.59-.81-.35-.22 .61-1.09 .05-.49 1.4-.55 .12 1.19 1.38-.31 .49 .44 .72-.21 .24 .46-.08 1.82 1.83 2.16 .49 6.85-4.06 1.63-2.36-.05-1.02-2.4-1.14 .26-1.18-.49-.29-.18 .07-.43-.44-.08-.04 .02-.02z m-11.23 .43l-1.13 1.19-.76-.48-.12 .46 1.81 .13-.04-.09 .38-1.08z',
+  );
+
+  /// ![country-india](https://icons.ashlar.ke/svg/sharp-stroke/country-india.svg) country-india, sharp stroke.
+  static const countryIndia = AshlarIconData(
+    'country-india',
+    'sharp-stroke',
+    'M4.56 1.93l4.42-1.04 1.49 1.62-.15 1.96 1.93 1.07-.63 .95 .72 .39 2.33 .54 1.75-.55 .37 .45 .03 0-.05-.13 3.22-1.8 3.55 1.56-3.45 3.85-.23 1.23-1.92 .16-.29-.79-.63-1.23 .24 1.8-1.22 .75-.55 1.02-4.2 3.21-.3 3.84-2.83 2.96-3.53-7.62-.1-2.6-1.17 .26-2.32-2.39 .78-.44 .1-1.45 .66-.14-.93-1.79 2.35-.91 1.79-2.38z m3.74 1.18l-.78 .18 .63 1.2-2.89 3.84-.81 .31 1.11 2.17-.14 .02 1.03 .62 .16 4.2 2.13 4.6 .31-.32 .32-4.02 4.56-3.49 1.1-2.08-.11-.81-3.28-.77-2.9-1.53 .65-.99-1.15-.63 .17-2.38z m11.79 4.52l-.84 .46 .17 .46 .78-.88z',
+  );
+
+  /// ![country-indonesia](https://icons.ashlar.ke/svg/sharp-stroke/country-indonesia.svg) country-indonesia, sharp stroke.
+  static const countryIndonesia = AshlarIconData(
+    'country-indonesia',
+    'sharp-stroke',
+    'M10.04 9.28l1.72-1.92 1.22 2.18 1.99-.01 .15 1.99-.54 .08 .16 .43 .21 .35-1.27 1.12-.1 .27-1.93-.46 .03-.36-.8 .97-.06-.02-.52 1.89-3.71-.64-.66-.36 .04-.5-1.92-1.22-2.35-3.87 1.43-1.34 3.29 2.26 1.07 1.54-.34-2.72z m7.38 1.34l2.07-.48 .38 .78 .57-.42 2.56 .9 0 3.56-1.75 .66-1.5-1.7-.33-.18-.29 .22-.14-.29-.59 .64-1.94-2.61 .95-.34z m-7.97 .6l.04 .26 .67 .18 .27-.32z',
+  );
+
+  /// ![country-iran](https://icons.ashlar.ke/svg/sharp-stroke/country-iran.svg) country-iran, sharp stroke.
+  static const countryIran = AshlarIconData(
+    'country-iran',
+    'sharp-stroke',
+    'M4.29 2.93l2.3-1.22 1.43 3.14 1.58 .85 1.62-.05-.03-.39 4.55-1.43 5.18 2.53-.83 4.11 .27 2.12 1.53 1.05-1.18 1.53 2.7 3.57-2.08 1.51-.61 1.92-5.65-1.14-.47-1.24-1.66 .58-3.82-2-1.54-2.8-.15-.05-1.24 1.23-1.57-4.17-2.39-2.21 .76-1.85-.3-.09-1.45-2.82-.29-2.57 1.57-1.3z m1.36 1.54l-1.48 .78-1.04-.69 .05 .45 .91 1.76 1.58 .51-1.06 2.57 1.71 1.59 .69 1.82 1.95 .67 1.62 2.94 2.52 1.32 2.67-.94 .78 2.04 2.81 .56 .27-.84 .96-.69-2.4-3.15 .83-1.07-.54-.37-.41-3.34 .59-2.91-3.08-1.51-2.25 .71 .08 .89-4.29 .15-2.64-1.43z',
+  );
+
+  /// ![country-iraq](https://icons.ashlar.ke/svg/sharp-stroke/country-iraq.svg) country-iraq, sharp stroke.
+  static const countryIraq = AshlarIconData(
+    'country-iraq',
+    'sharp-stroke',
+    'M8.76 1.84l1.15-.86 3.69 .23 .16 .37 .88-.43 1.51 3.3 2.44 .77-1.98 4.89 1.04 1.76 2.53 1.28 1.27 2.07-.19 1.16 .17 .01 1.99 4.56-3.71-.26-1.39 2.27-4.59-.29-5.51-4.71-3.21-1.93-2.91-.53-1.09-4.36 4.68-2.68 .61-4.6z m1.77 1.18l-.53 .4-1.82 1.48-.63 4.8-4.24 2.42 .41 1.64 2.01 .37 3.67 2.21 5.13 4.37 2.71 .17 1.41-2.27 1.61 .12-.17-.4-1.17-.05 .43-2.65-.58-.96-2.54-1.28-1.84-3.12 1.54-3.79-1.22-.39-1.03-2.24-.94 .47-.5-1.19z',
+  );
+
+  /// ![country-ireland](https://icons.ashlar.ke/svg/sharp-stroke/country-ireland.svg) country-ireland, sharp stroke.
+  static const countryIreland = AshlarIconData(
+    'country-ireland',
+    'sharp-stroke',
+    'M13.93 1.43l.45-.84 3.07 1.91-1.69 1.6-2.19 2.53 .66 .64 1.5-2.17 1.61 2.63 .9 .01 .73 1.67-.2 .22 .95 5.02-1.2 2.71 .02 .03-.78 1.64-1.66-.02-3.48 2.27-.09-.03-2.05 1.14-3.3 .55-.38-.72-.44 .1-.53-1.04-.19 .04-.96-1.61 .44-.55 .18-1.92 .36-.05-.11-.21 .8-.7-.32-.59 1.94-2.1-2.65-.78-.25-2.24 .46-.11-.39-.44 .62-.25 .12-.84-.3-.27 .63-1.75 4.19-.11 .15-.25-1.95-.21 2.55-4.06z m-1.25 2.48l-.23 .07-.45 .72 .55 .06 .53-.62-.4-.1z m-.63 4.03l-.51 .83-3.63 .09-.02 .14 .2 .06 .07 1.37 1.05 1.21-.44 .1 2.84 .85-2.14 2.32 .61-.1 .42 1.96-2.38 .63-.07 .06 .34 .65 .09 .03-.05 .06 .33 .63-.92 .11-.17 .22 .73 1.53-.02 .02 1.44-.24 .61-.34-.41-1.71 2.28 .68 3.22-2.09 .96 .01 1.16-2.61-.88-4.69-.56-.01-.57-.95-.42 .6-1.8-.1z',
+  );
+
+  /// ![country-isle-of-man](https://icons.ashlar.ke/svg/sharp-stroke/country-isle-of-man.svg) country-isle-of-man, sharp stroke.
+  static const countryIsleOfMan = AshlarIconData(
+    'country-isle-of-man',
+    'sharp-stroke',
+    'M13.04 3.04l3.51-2.19 2.54 1.33 1.46 7.89-2.7 5.24-7.38 7.91-3.13-1.49-4.31 .7 3.51-10.55 2.9-2.48z m3.59 .11l-2.1 1.31-3.53 6.24-2.74 2.34-2.29 6.89 1.67-.28 2.37 1.13 6.18-6.63 2.26-4.38-1.15-6.27z',
+  );
+
+  /// ![country-israel](https://icons.ashlar.ke/svg/sharp-stroke/country-israel.svg) country-israel, sharp stroke.
+  static const countryIsrael = AshlarIconData(
+    'country-israel',
+    'sharp-stroke',
+    'M13.11 2.72l1.56-1.45 1.68 .64 .23 2.68-2.03 3.89-1.57-.71-.46 .85 .01 .76 1.65 .58-.62 .87 1.44-.34-2.73 11.74-1.92 .08-3.02-9.29 1.43-1.89 2.7-8.46z m1.42 1.41l-.66 .61-.97-.03-.23 .73 .98 .44 .89-1.69z m-3.61 6.8l-.07 .23 .15-.2z m-.37 1.15l-1 1.32 1.59 4.87 1.18-5.11-.91 .21z',
+  );
+
+  /// ![country-italy](https://icons.ashlar.ke/svg/sharp-stroke/country-italy.svg) country-italy, sharp stroke.
+  static const countryItaly = AshlarIconData(
+    'country-italy',
+    'sharp-stroke',
+    'M8.29 1.52l3.77-.64 .41 .96 1.35 .26 .48 1.42 1.19 2.08-2.83 .41 .08 .96 1.47 1.12 1.31 2.37 3.09 .9-.52 1.03 3.49 2.36-.61 2.79-1.92-1.15 .79 1.22-2.47 3.14-.37-.12-.66 2.91-5.89-3.36 1.23-2.05 4.27-.07 .2-.44-.49-1.33-6.54-4.65-1.27-2.85-1.17-.53-1.36 .94-1.11-.78-1.13-.35-.69-2.55 .78-.65-.21-1.21 3.42-1.71 .2 .27 .15-.47 1.22 .56z m2.55 1.6l-1.15 .19-.74 1.66-1-.46-.06 .17-1.75 .3-.36-.49-.6 .29 .15 .89-.68 .57 .07 .25 .69 .22 1.05-.73 2.91 1.29 1.35 3.05 6.4 4.55 .24-.56-1.86-1.26 .23-.44-1.57-.45-1.49-2.73-1.86-1.4-.27-3.74 1.75-.25-.12-.22-1.12-.2z m-6.16 10.16l2.84-1.3 1.3 1.61-.13 4.36-3.09 1.08z m10.39 6.79l-.75 .02 .66 .37z',
+  );
+
+  /// ![country-ivory-coast](https://icons.ashlar.ke/svg/sharp-stroke/country-ivory-coast.svg) country-ivory-coast, sharp stroke.
+  static const countryIvoryCoast = AshlarIconData(
+    'country-ivory-coast',
+    'sharp-stroke',
+    'M8 1.29l2.52-.43 .39 1.41 1.23-.53 3.04 2.38 4.36-.57 2.28 1.81 .7 4.68-2.27 4.84 1.23 4.33-1.43 1.15-.38-.2-.28 .41-6.37-.26-8.3 3.18 .34-5.62-3.95-2.3 1.25-1.96-.85-2.7 1.5 .02 .23-.55-.45-.74 .76-1.23-.04-.05 .14-1.55-.84-.28 .73-3.42 2.43-1.38 1.2 .74z m1.1 1.92l-1.37 1.96-1.8-1.12-.63 .36-.17 .78 .66 .22-.22 2.39 .63 .88-.8 1.4 .08 .14-1.15 2.73-.08 0 .29 .94-.63 1 3.21 1.88-.22 3.74 5.79-2.22 5.65 .24 .61-.92-.82-2.91 2.33-4.96-.5-3.3-1-.79-4.36 .57-2.76-2.18-2.25 .97z',
+  );
+
+  /// ![country-jamaica](https://icons.ashlar.ke/svg/sharp-stroke/country-jamaica.svg) country-jamaica, sharp stroke.
+  static const countryJamaica = AshlarIconData(
+    'country-jamaica',
+    'sharp-stroke',
+    'M2.66 7.83l3.66-.83 6.04 .67 9.02 3.18 2.19 3.95-4.61 .72-2.6-.9-.79 1.15-1.55-.29-1.01 2.07-2.22-1.77-3.91-.45-2.63-2.96-2.65-.48-.57-2.51z m3.78 1.19l-2.8 .63-.41 .39 .03 .11 2.03 .38 2.57 2.9 3.73 .43 .72 .57 .59-1.19 1.75 .33 .91-1.33 3.58 1.22 1.29-.2-.43-.77-8.1-2.86z',
+  );
+
+  /// ![country-japan](https://icons.ashlar.ke/svg/sharp-stroke/country-japan.svg) country-japan, sharp stroke.
+  static const countryJapan = AshlarIconData(
+    'country-japan',
+    'sharp-stroke',
+    'M15.3 2.04l1.59-.69 2 1.51 2.79-.48-.45 1.65 .02 .01-.12 1.83-1.69 .59-1.01 1.53-1.31-.34-.25 .09 .85 2.79-1.24 1.99-.69 4.32-.91 .61-.51-.27-.34 .45-.58-.13-.62 .77-.82-.34-1.51 1.4-1.31-.43-.23 1.67-1.17-.71-1.03 1.19-.46-.44-1.04 1.87-.12-.03-.25 .9-2.21-1.43 .39-1.75-.65-.1-.33-1.53 2.39-1.87 .01 0 1.91-1.85 2.97-.13 .93-2.27 2.39-.87-.01 .12 .61-.87 .2-2.68 .08-.06-.27-2.23 1.05-1.81 .73 .03z m1.79 1.97l-.16 1.52 .62 .16 .59-.89z m-1.71 5.69l-.07 .92 .23-.37z m-.94 2.95l-1.1 1.55-1.36 .76-.44-.29-.31 .76 .98 .42 .11-.14 .55 .14 .64-.86 .52 .17z',
+  );
+
+  /// ![country-jersey](https://icons.ashlar.ke/svg/sharp-stroke/country-jersey.svg) country-jersey, sharp stroke.
+  static const countryJersey = AshlarIconData(
+    'country-jersey',
+    'sharp-stroke',
+    'M.85 18.95l1.63-14.61 13.45 1.64 6.24 3.63 .91 8.1-5.11 1.96-3.47-2.51-6.17 0z m3.39-12.38l-1.09 9.78 4.94-1.19 7.05 0 3.13 2.25 2.65-1.02-.63-5.56-5.01-2.91z',
+  );
+
+  /// ![country-jordan](https://icons.ashlar.ke/svg/sharp-stroke/country-jordan.svg) country-jordan, sharp stroke.
+  static const countryJordan = AshlarIconData(
+    'country-jordan',
+    'sharp-stroke',
+    'M10.69 5.91l8.74-5.52 1.27 5.92 .45 .13 .38 1.71-1.51 1.34-6.9 2.02 3.72 4.22-2.88 3.33-2.94 .62-3.18 3.4-5.92-1.06 2.21-9.46 .59-7.69 1.81-.93z m7.38-2.3l-7.24 4.58-4.21-2-.51 6.67-1.77 7.56 2.78 .5 2.86-3.06 2.9-.62 1.3-1.49-4.64-5.28 9.42-2.76z',
+  );
+
+  /// ![country-kazakhstan](https://icons.ashlar.ke/svg/sharp-stroke/country-kazakhstan.svg) country-kazakhstan, sharp stroke.
+  static const countryKazakhstan = AshlarIconData(
+    'country-kazakhstan',
+    'sharp-stroke',
+    'M8.22 6.8l4.95-1.31 2.09 1.38 2.01-.87 1.67 2.9 1.39-.13 3 2.16-1.69 2.8-.91-.07-.22 1.34-1.09 .15 .21 2.44-3.98-1.04-1.12 .51-1.94 1.86-2.05-2.71-1.32 .14-1.59-1.43-.03 .01 0 1.97-1.63 .78-.4-.33-1.08 .55-2.11-3.77 .09-.04-.2 .02-1.25-3.85 2.93-2.16 2.16 1.03 1.98-.07z m4.59 .85l-2.67 .71-.15 2.62-4.3 .17-1.52-.73-.81 .6 .31 .95 2.43-.22 .1 1.54 1.91-.63 1.78 1.61 1.55-.18 1.39 1.83 .56-.54 2.08-.95 1.92 .51-.13-1.51 1.51-.21 .28-1.69 1.51 .12 .11-.18-.9-.64-1.92 .19-1.42-2.48-1.37 .59z m-7.21 7.24l-.4 .18 .09 .17 .31-.16z',
+  );
+
+  /// ![country-kenya](https://icons.ashlar.ke/svg/sharp-stroke/country-kenya.svg) country-kenya, sharp stroke.
+  static const countryKenya = AshlarIconData(
+    'country-kenya',
+    'sharp-stroke',
+    'M3.13 4.26l3.45-3.39 1.99 .62 .5 1.57 1.31 .08 2.36 1.52 2.18 .3 2.55-1.65 4.1 1.08-2.54 3.22 .03 6.57 1.45 2.16-3.12 2.36-2.01 4.61-4.44-2.67-.3-1.21-7.49-4.1 .11-3.2 1.9-2.93z m3.9-1.03l-1.54 1.51 1.91 4.66-2.16 3.35-.05 1.42 7.19 3.94 .3 1.25 1.78 1.07 1.31-3.01 2.02-1.54-.73-1.08-.03-7.89 1.08-1.36-.3-.08-2.43 1.57-3.36-.46-2.28-1.48-2.16-.14z',
+  );
+
+  /// ![country-kosovo](https://icons.ashlar.ke/svg/sharp-stroke/country-kosovo.svg) country-kosovo, sharp stroke.
+  static const countryKosovo = AshlarIconData(
+    'country-kosovo',
+    'sharp-stroke',
+    'M8.19 2.26l3.42-1.64 .71 1.92 2.02 1.06 4.07 4.14-.09 .79 4.13 1.26-2.78 5.51 .73 1.82-2.56 .57-1.31 2.06-2.74-1.16-2.09 1-.61 3.08-3.18 .21-1.06-5.52-2.39-1.53-2.11-3.39-.15-4.38 2.22 .12 1.42-.93 .77-.25 .05-1.14 1.54-1.14z m2.3 1.12l-.3 .14 .01 2.2-1.58 1.18-.07 1.56-1.83 .61-1.76 1.15-.68-.04 .05 1.66 1.59 2.55 2.73 1.75 .84 4.34 .45-2.25 3.79-1.84 2.02 .86 .85-1.34 1.06-.23-.19-.48 2.12-4.19-3.45-1.06 .17-1.49-3.17-3.24-2.43-1.26z',
+  );
+
+  /// ![country-kuwait](https://icons.ashlar.ke/svg/sharp-stroke/country-kuwait.svg) country-kuwait, sharp stroke.
+  static const countryKuwait = AshlarIconData(
+    'country-kuwait',
+    'sharp-stroke',
+    'M10.11 1.83l3.69-.23 4.14 1.63 .27 .75 .93-1.87 3 4.14-1.17 2.94-2.03 .31-.35 .37-1.24-.36-.79 .83 2.05 .26 4.89 11.65-10.21 .15-2.53-5.57-10.57-1.44 4.86-6.57 2.65-5.79z m3.37 1.79l-2.84 .19-1.42 .7-2.43 5.33-2.98 4.03 8.31 1.12 2.45 5.39 5.93-.09-3.29-7.85-2.87-.38-.59-1.68 3-3.13 .53 .16-.92-2.66z m5.98 2.33l-.13 .26 .36 .79 .19-.47z',
+  );
+
+  /// ![country-kyrgyzstan](https://icons.ashlar.ke/svg/sharp-stroke/country-kyrgyzstan.svg) country-kyrgyzstan, sharp stroke.
+  static const countryKyrgyzstan = AshlarIconData(
+    'country-kyrgyzstan',
+    'sharp-stroke',
+    'M8.91 7.06l2.12-1.04 2.34 1.1 6.93 .14 3.34 2.42-5.15 3.66-1.99 .11-1.13 1.71-2.93-.33-.96 .66-.59 1.61-3.65 .84-1.46-1.01-5.04 .24 1.12-3.61 2.19 .44 .79-.68 1.42 .22 .06-.03-4.51-2.04 2.14-1.68-.43-.3 2.11-2.36 3.21 .77z m2.14 1.18l-.24 .12-.17 2.02-3.52-.84 .19 .13-.51 .41 1.17 1.54 1.41 .42 .23 1.82-2.53 1.53 .58 .41 1.73-.4 .43-1.19 2.1-1.46 2.45 .29 1.01-1.53 2.43-.13 2.41-1.72-.58-.42-6.73-.13z m-4.44 4.89l-.14 .29 .24-.15z',
+  );
+
+  /// ![country-laos](https://icons.ashlar.ke/svg/sharp-stroke/country-laos.svg) country-laos, sharp stroke.
+  static const countryLaos = AshlarIconData(
+    'country-laos',
+    'sharp-stroke',
+    'M5.55 1.8l2.85-.61 2.45 2.19 .3 1.63 .22 .08 1.15-.65 2.61 1.71-.56 .56 1.15 .92-1.51 1.87 1.29 .71 3.36 5.06 2.46 1.58-.72 .79 .88 1.03-.92 2.77-2.59 .21-.45 1.65-3.7-1.32 .96-3.74-1.71-1.78 0-1.99-1.45-1.8-.59-.08-1.64 1.64-1.42-1.05-2.07 1.15-1.48-1.01 .52-3.58-1.85-.24 .31-1.31-.9-.28 .37-1.93 2.32-2.5 .83 .2z m2.5 1.76l.6 2.39-3.12 .1-.5 .55 .75 .23-.23 .97 1.67 .2-.53 3.6 1.44-.8 1.07 .8 1.13-1.13 2.01 .29-1.55-.86 .86-2.4 .82 .09-.61-.48-.33 .18-2.14-.82-.38-2.05z m4.83 7.5l2.19 2.71 0 1.89 1.93 2-.54 2.11 2.62-.21 .15-.45-1.29-1.52 .3-.34-.82-.52-3.32-5z',
+  );
+
+  /// ![country-latvia](https://icons.ashlar.ke/svg/sharp-stroke/country-latvia.svg) country-latvia, sharp stroke.
+  static const countryLatvia = AshlarIconData(
+    'country-latvia',
+    'sharp-stroke',
+    'M10.16 6.25l3.35-1.49 3.99 2.8 3.08 .2 1.46 1.81-.39 1.71 .27 .05 1.09 4.36-2.33 2.79-1.63-.18-1.58 1.03-4.99-3.89-1.72 .64-5.57-.7-2.59 1.53-1.51-.88 .07-4.06 2.11-4.37 3.35-1.14 2.91 3.64 .81-.56z m3.13 .79l-1.05 .47 .16 3.03-3.27 2.28-3.19-4.02-1.23 .42-1.55 3.23-.04 1.83 1.65-.98 5.75 .74 2.3-.86 4.75 3.69 .99-.63 1.28 .14 .99-1.19-.53-2.1-1.09-.17 .67-2.85-.3-.37-2.76-.18z',
+  );
+
+  /// ![country-lebanon](https://icons.ashlar.ke/svg/sharp-stroke/country-lebanon.svg) country-lebanon, sharp stroke.
+  static const countryLebanon = AshlarIconData(
+    'country-lebanon',
+    'sharp-stroke',
+    'M12.32 1.7l5.64-.48 1.41 1.52-.83 1.1 1.09 .51 1.14 3.59-2.99 3.47 1.45 1.72-4.8 .92-.28 .53 .96 1.52-5.32 4.91-.3-.05-.34 1.41-4.69 .52-1.02-1.39 5.16-11.71 .39-2.86 3.36-3.67z m4.08 1.66l-2.04 .18 .01 .48-3.48 3.8-.35 2.53-4.57 10.36 1.57-.18 .45-1.85 1.16 .19 3.38-3.11-.7-1.1 1.3-2.39 2.38-.46-.35-.42 3.37-3.91-.54-1.69-2.53-1.17z',
+  );
+
+  /// ![country-lesotho](https://icons.ashlar.ke/svg/sharp-stroke/country-lesotho.svg) country-lesotho, sharp stroke.
+  static const countryLesotho = AshlarIconData(
+    'country-lesotho',
+    'sharp-stroke',
+    'M7.22 4.69l8.36-3.87 6.36 5.5 1.01 2.34-2.75 7.01-3.51 2.05-2.64 .4-2.92 4.84-3.51-.41-3.49-3.13-3.23-7.76 2.59-1.33z m8.02-1.51l-6.66 3.09-3.71 5.6-1.41 .73 2.35 5.64 2.67 2.39 1.61 .19 2.74-4.54 3.18-.48 2.59-1.51 2.19-5.59-.51-1.16z',
+  );
+
+  /// ![country-liberia](https://icons.ashlar.ke/svg/sharp-stroke/country-liberia.svg) country-liberia, sharp stroke.
+  static const countryLiberia = AshlarIconData(
+    'country-liberia',
+    'sharp-stroke',
+    'M5.51 5.13l1.94-3.89 4.24 .08 1.77 4.63-.23 .72 1.05 .28 2.07-2.78 2.26 4.85-1.15 2.15 2.76 1.06 .44 1.25 1.87 .74-.56 9.28-8.96-4-12.27-9.62z m3.16-1.87l-1.52 3.05-3.39 3.39 10.29 8.08 6.1 2.72 .3-4.96-1.37-.54-.44-1.23-4.02-1.54 1.75-3.27-.42-.91-.87 1.18-4.41-1.18 .67-2.04-1.03-2.71z',
+  );
+
+  /// ![country-libya](https://icons.ashlar.ke/svg/sharp-stroke/country-libya.svg) country-libya, sharp stroke.
+  static const countryLibya = AshlarIconData(
+    'country-libya',
+    'sharp-stroke',
+    'M3.77 2.9l0-1.81 6.33 1.52 .7 1.43 3.42 1.29 .39-.31-.1-1.64 1.94-1.41 1.93-.27 4.37 1.71 .03 18.51-1.26 .01 0 1.4-11.11-6.12-2.23 1.16-5.65-3.09-1.53-3.06 .71-1.17-.47-4.7 1.19-2.56z m2 .73l0 .35-1.76 1.17-.73 1.54 .49 4.82-.49 .81 .76 1.5 4.16 2.29 2.25-1.16 9.07 5 1.26-.01-.03-15.17-2.61-1.01-.91 .13-.66 .47 .1 1.58-2.1 1.67-5.21-1.98-.64-1.3z',
+  );
+
+  /// ![country-liechtenstein](https://icons.ashlar.ke/svg/sharp-stroke/country-liechtenstein.svg) country-liechtenstein, sharp stroke.
+  static const countryLiechtenstein = AshlarIconData(
+    'country-liechtenstein',
+    'sharp-stroke',
+    'M7.13 11.05l2.8-9.34 1.94 .07 1.76 7.88 3.64 7.65-2.37 5.74-7.53-.58z m3.62-5.1l-1.62 5.38 .2 9.28 4.27 .34 1.49-3.58-3.36-7.05z',
+  );
+
+  /// ![country-lithuania](https://icons.ashlar.ke/svg/sharp-stroke/country-lithuania.svg) country-lithuania, sharp stroke.
+  static const countryLithuania = AshlarIconData(
+    'country-lithuania',
+    'sharp-stroke',
+    'M12.65 4.18l3.02-1.08 1.02 1.64 1.9 .53 3.89 3.2-.41 1.75 .28 .1 .21 1.77-2.91 1.96-.85 2.8 .45 .68-.85 1.55-1.64-.04-.08-.38-.53 .23-.43 1.24-5.62 .46-.78-2.04-2.36-1.06 .23-3.45-.46-.59-4.97-1.34-.83-6.19 2.82-1.98 4.67-.55z m-4.29 1.23l-3.87 .45-1.42 1 .49 3.67 4.33 1.16 1.34 1.72-.19 2.82 1.86 .84 .54 1.4 2.82-.22 .29-.84 2.3-1.01 1.1-3.61 1.89-1.28-.13-.04 .53-2.24-2.59-2.14-2.25-.63-.57-.94-2.02 .72z',
+  );
+
+  /// ![country-luxembourg](https://icons.ashlar.ke/svg/sharp-stroke/country-luxembourg.svg) country-luxembourg, sharp stroke.
+  static const countryLuxembourg = AshlarIconData(
+    'country-luxembourg',
+    'sharp-stroke',
+    'M4.5 8.53l4.62-7.63 3.17 .55 .85 1.61-.12 2.4 1.51 2.92 1.88 1.89 3.36 1.26-.07 3.5-1.93 3.06-.77 5.15-3.7-1.62-3.12 1.53-5.22-3.39 1.78-3.25-2.64-4.33z m5.62-5.43l-3.68 6.09-.28 2.53 2.9 4.73-1.46 2.65 2.72 1.75 2.94-1.43 2.14 .94 .45-2.99 1.87-2.94 .03-1.52-2.46-.92-2.4-2.41-1.89-3.68 .12-2.4-.14-.25z',
+  );
+
+  /// ![country-macao](https://icons.ashlar.ke/svg/sharp-stroke/country-macao.svg) country-macao, sharp stroke.
+  static const countryMacao = AshlarIconData(
+    'country-macao',
+    'sharp-stroke',
+    'M5.74 4.59l10.58-1.52 7.32 8.75-22.79 9.61 .79-8.69z m9.76 .62l-8.44 1.21-3.46 6.88-.45 4.99 17.21-7.27z',
+  );
+
+  /// ![country-madagascar](https://icons.ashlar.ke/svg/sharp-stroke/country-madagascar.svg) country-madagascar, sharp stroke.
+  static const countryMadagascar = AshlarIconData(
+    'country-madagascar',
+    'sharp-stroke',
+    'M14.33 1.69l1.7-.35 .62 .7 1.39 5.39-1.18 1.85-.14-.13-.24 2.33-3.24 10.1-3.62 1.52-2.45-1.26-1.29-4.64 1.63-3.7-.6-3.75 1.01-2.52 2.99-.47 1.62-1.37-.05-1.65 1.4-.69z m.91 2.92l-.72 .35 .03 1.33-2.78 2.35-2.41 .39-.39 .96 .6 3.77-1.57 3.59 .87 3.11 .83 .44 1.92-.8 2.9-9.03 .41-4.07 .85-.33z',
+  );
+
+  /// ![country-malawi](https://icons.ashlar.ke/svg/sharp-stroke/country-malawi.svg) country-malawi, sharp stroke.
+  static const countryMalawi = AshlarIconData(
+    'country-malawi',
+    'sharp-stroke',
+    'M7.84 2.5l.97-1.5 2.94 .3 1.83 1.91 .22 2.8 1.67 2.41-1.95 .25-.29 .63 .42 2.51 3.43 4.07-.33 3.69-1.31 .77-.34 1.83-1.8 .39-2.44-3.55 .5-2.6-1.49-.06-1.31-1.71-1.79-1.46 1.24-3.49 .4-.24 .02-4.04 .73-.63z m2.71 .69l1.17 2.01-1.29 1.13-.02 2.27 .79 .72-.05-.3 .93-1.98-.24-.33-.2-2.63-.83-.86z m.77 6.85l-1.67 1-.52 1.48 .87 .72 .89 1.15 2.39 .09-1.51-1.79z m2.36 4.91l-.7 3.62 .59 .86 .07-.35 1.21-.71 .17-1.83z',
+  );
+
+  /// ![country-malaysia](https://icons.ashlar.ke/svg/sharp-stroke/country-malaysia.svg) country-malaysia, sharp stroke.
+  static const countryMalaysia = AshlarIconData(
+    'country-malaysia',
+    'sharp-stroke',
+    'M16.69 5.24l.87-.93 2.22 2.12 0 .01 .74-.24-.11 1.38 1.83 .48 .1 1.9-1.05 .4 .67 1.42-3.34 .72-3.18-.04-.33 1.74-2.24 3.77-2.49 .6-2.11-.59-1.19 .99-3.47 .39-2.31-2.38 .98-1.67 2.2 .6 .03-1.51 4.05-1.72 2.45-3.49 1.12 .95 .23-.54 .66-.03 .1-1.04 3-3.49z m.41 1.72l-2.05 2.39-.1 1.1 3.47 .05 .66-.14-.51-1.1 .15-.06-.45-.12 .05-.51-.92-.85 .15-.59z m-3.62 5.1l-.57 1.34-1.52-1.27-1.53 2.17-3.37 1.44-.02 1.14 1.34-1.1 2.61 .73 1.16-.28 1.63-2.75z',
+  );
+
+  /// ![country-maldives](https://icons.ashlar.ke/svg/sharp-stroke/country-maldives.svg) country-maldives, sharp stroke.
+  static const countryMaldives = AshlarIconData(
+    'country-maldives',
+    'sharp-stroke',
+    'M11.92 4.22l3.55-3.39 3.64 1.5-3.73 18.3-4.5 2.43-4.34-1.01-1.61-3.42z m3.99-1.05l-2.35 2.25-6.41 13.23 .79 1.68 2.66 .61 3-1.63 3.22-15.76z',
+  );
+
+  /// ![country-mali](https://icons.ashlar.ke/svg/sharp-stroke/country-mali.svg) country-mali, sharp stroke.
+  static const countryMali = AshlarIconData(
+    'country-mali',
+    'sharp-stroke',
+    'M9.08 13.57l-1.3-12 3.56 0 10.25 6.95 .07 .52 1.35-.2-.07 4.66-1.19 2.27-5.44 .39-1.91 .88-.96 1.33-1.17 .19-1.84 3.3-1.21-.08-2.54 .86-1.37-2.89-1.59 .58-1.48-1.16-1.38-3.88 2.01-2.27 .98 .91 1.56-.54z m.93-10l1.31 12.12-5.63-.28-2.32 .8-.09-.08 .64 1.82 .16 .12 2.27-.82 1.37 2.93 1.68-.57 1.59-2.87 1.31-.21 .78-1.09 2.73-1.24 4.68-.35 .45-.85 .03-1.84-1.01 .14-.23-1.62-9.01-6.11z',
+  );
+
+  /// ![country-malta](https://icons.ashlar.ke/svg/sharp-stroke/country-malta.svg) country-malta, sharp stroke.
+  static const countryMalta = AshlarIconData(
+    'country-malta',
+    'sharp-stroke',
+    'M1.1 15.62l-.11-14.02 10.55 2.83 8.51 8.42 3.21 4.55-3.92 4.7-9.76-.19z m1.91-11.4l.09 10.38 7.16 5.33 8.16 .15 2.32-2.78-2.23-3.15-7.99-7.92z',
+  );
+
+  /// ![country-mauritania](https://icons.ashlar.ke/svg/sharp-stroke/country-mauritania.svg) country-mauritania, sharp stroke.
+  static const countryMauritania = AshlarIconData(
+    'country-mauritania',
+    'sharp-stroke',
+    'M14.36 2l1.54-.84 5.75 3.65-.54 1.84-1.53 0 1.63 15.21-6.69-.34-2.77 .98-.51-.48-1.14 1.29-3.79-3.33-1.49 .12-.21 .53-1.91-.56 .67-3.53-.72-1.87 .4-1.24-.69-.95 .13-.1-.57-.21 .26-1.67 .65 0 .26-.43 .31 .43 4.42-.01-.16-1.9 1.73-1.06 .01-4.47 4.97 0z m2.01 1.83l.01 1.23-4.98 0-.01 3.59-1.63 1 .24 2.84-5.16 .01 .43 .59-.5 1.52 .67 1.75-.33 1.71 1.88-.15 2.93 2.57 1.18-1.35 1.13 1.06 1.99-.7 4.75 .24-1.61-15.09 .31 0z',
+  );
+
+  /// ![country-mauritius](https://icons.ashlar.ke/svg/sharp-stroke/country-mauritius.svg) country-mauritius, sharp stroke.
+  static const countryMauritius = AshlarIconData(
+    'country-mauritius',
+    'sharp-stroke',
+    'M12.29 1.32l3.91-.38 5.32 9.35-.46 5.11-2.08 1.65-.64 2.48-2.38 2.3-4.96 1.18-5.65-.4-3.42-4.24 2.34-1.11 .7-6.48 1.33-2.1 2.41-1.45 .97-3.23z m2.81 1.74l-1.89 .18-1.75 1.8-1.06 3.51-2.66 1.59-.83 1.32-.78 7.12-1.06 .51 1.29 1.58 4.48 .32 4.12-.98 1.58-1.52 .68-2.58 1.92-1.54 .34-3.64z',
+  );
+
+  /// ![country-mexico](https://icons.ashlar.ke/svg/sharp-stroke/country-mexico.svg) country-mexico, sharp stroke.
+  static const countryMexico = AshlarIconData(
+    'country-mexico',
+    'sharp-stroke',
+    'M1.18 6.17l1.03-1.55 3.86 .84 3.31-.35 1.95 1.84 1.38-.65 1.79 2.81 1.81 .49-.56 3.07 .88 1.85 1.59 .14 .7-1.65 4.11-.86-.89 4.59-1.64 .26 .4 1.41-1.42 .02-.57 1.88-2.16-1.9-1.21 .4-5.18-2.18-2.59-3.79-1.22 1.31-2.14-3.28-2.71-1.72 .98-.8z m7.5 1.02l-2.19 .23 5.19 7.59 3.94 1.66 .58-.19-.89-.07-1.64-3.46 .34-1.9-.77-.22-1.27-1.97-1.02 .47z m11.81 7.54l-.13 .02-.11 .26 .19-.03z m-2.73 1.9l.13 .12 .04-.11z',
+  );
+
+  /// ![country-moldova](https://icons.ashlar.ke/svg/sharp-stroke/country-moldova.svg) country-moldova, sharp stroke.
+  static const countryMoldova = AshlarIconData(
+    'country-moldova',
+    'sharp-stroke',
+    'M3.76 2.49l4.61-1.58 8.39 4.45-.28 2.73 1.73 1.37 .15 1.97 1.36 .88 .22 1.98 .61 .51-.29 1.71-1.94 .71-.67-.73-2.05 .42-.03 1.41-2.48 4.15-2.25 .72-1.23-1.94 .78-5.82-.7-3.13-4.66-7.37-1.34-.57z m4.44 .6l-1.62 .55 4.99 7.88 .86 3.83-.74 5.44 .01 .02 .07-.02 1.82-3.04 .05-3.08 2.9-1.21 .1 1.2 1.3-.27-.1-.92-1.4-.9-.16-2.09-1.9-1.51 .26-2.47z',
+  );
+
+  /// ![country-monaco](https://icons.ashlar.ke/svg/sharp-stroke/country-monaco.svg) country-monaco, sharp stroke.
+  static const countryMonaco = AshlarIconData(
+    'country-monaco',
+    'sharp-stroke',
+    'M7.08 4.79l7.05-2.8 8.23 4.79 .72 6.25-22.21 9.43 .93-11.74z m6.89-.58l-5.71 2.26-4.52 5.07-.61 7.8 17.79-7.57-.44-3.77z',
+  );
+
+  /// ![country-mongolia](https://icons.ashlar.ke/svg/sharp-stroke/country-mongolia.svg) country-mongolia, sharp stroke.
+  static const countryMongolia = AshlarIconData(
+    'country-mongolia',
+    'sharp-stroke',
+    'M7.43 8.14l1.07-2.4 3.45 2.21 2.17-.11 1.14 .88 5.83-.73-.47 2.01 .98-.06 1.2 1.56-.71 1.61-1.27 .11-2.56 1.79-.21-.06 .01 .35-1.47 1.3-3.81 1.22-6.09-1.18-.68-1.46-2.95-.9-.38-2.5-2.38-2.07 4.47-2.45z m1.95 .54l-.85 1.93-3.56-1.17-1.19 .65 .76 .67 .3 1.97 2.61 .79 .62 1.35 4.59 .89 2.93-.94 .45-.4-.05-2.11 1.89 .52 1.06-.74-.88 .05 .43-1.81-3.79 .47-1.22-.92-2.07 .09z',
+  );
+
+  /// ![country-montenegro](https://icons.ashlar.ke/svg/sharp-stroke/country-montenegro.svg) country-montenegro, sharp stroke.
+  static const countryMontenegro = AshlarIconData(
+    'country-montenegro',
+    'sharp-stroke',
+    'M6.86 1.24l3.84-.15 3.84 4.48 2.8 1.06 4.63 3.56-2.59 2.25-.5-.03 .12 1.96-1.82 .95-2.39 .64-.37-1.29-2.24 3.71 .57 1-.19 2.69-1.76 .58-3.84-4.44-2.71-1.81 .01-.13-.44 .05-1.4-2.15 1.1-1.62-.85-4.78 1.71-.43 .4-2.14 2.28-2.03 .3 .13z m2.95 1.89l-.43 .01 .38 1.62-1.36 1.15-.96-.4-.82 .73-.5 2.72-1.15 .29 .65 3.74-.8 1.2 0 .01 1.82-.19-.23 1.43 1.89 1.25 1.81 2.1-.25-.43 3.85-6.38 1.97-.22 .49 1.76 .27-.08 .48-.25-.16-2.9 1.92 .11 .13-.11-2.45-1.9-3-1.14z',
+  );
+
+  /// ![country-montserrat](https://icons.ashlar.ke/svg/sharp-stroke/country-montserrat.svg) country-montserrat, sharp stroke.
+  static const countryMontserrat = AshlarIconData(
+    'country-montserrat',
+    'sharp-stroke',
+    'M10.48 1.99l3.6-1.25 4.51 11.91-1.01 10.64-11.91-3.38-.25-9.12z m2.42 1.27l-1.06 .37-4.4 7.66 .19 7.1 8.19 2.32 .73-7.78z',
+  );
+
+  /// ![country-morocco](https://icons.ashlar.ke/svg/sharp-stroke/country-morocco.svg) country-morocco, sharp stroke.
+  static const countryMorocco = AshlarIconData(
+    'country-morocco',
+    'sharp-stroke',
+    'M13.79 4.03l1.4-2.97 5.84 1.23 1.68 5.76-3.24 .61 .1 .78-5.78 2.83-.7 2.79-3.26 .34-1.11 2.5-1.73 1.54-1.18 3.42-5.06 .21 3.88-8.26 1.96-2.52 3.14-1.9 1.14-4.38z m2.54-.69l-.96 2.03-2.76 1.88-1.15 4.42-3.51 2.14-1.6 2.06-2.38 5.06 .4-.01 .9-2.62 1.79-1.6 1.41-3.16 3.02-.32 .58-2.33 5.34-2.62-.14-1.23 2.9-.55-.72-2.49z',
+  );
+
+  /// ![country-mozambique](https://icons.ashlar.ke/svg/sharp-stroke/country-mozambique.svg) country-mozambique, sharp stroke.
+  static const countryMozambique = AshlarIconData(
+    'country-mozambique',
+    'sharp-stroke',
+    'M13.94 2.51l4.73-2.01 .15 8.1-6.67 5.04 .88 2.7-.43 3.35-2.6 1.28-.11 2.02-2.68-.03-1.18-6.62 2.03-3.03-.04-2.95-2.82-.85-.46-2.66 4.58-1.58 .56 .21 .09-3.1z m2.79 .99l-2.41 1.03-2.41-.09-.02 .74 1.63 1.98-.85 3.22-1.76 .36-.9-1.16 .04 3.14 6.75-5.1z m-7.43 3.89l-1.96 .68 2.17 .66 .09-1.23z m.76 6.29l0 .23-1.92 2.87 .47 2.64 2.15-1.05 .23-1.83z',
+  );
+
+  /// ![country-myanmar](https://icons.ashlar.ke/svg/sharp-stroke/country-myanmar.svg) country-myanmar, sharp stroke.
+  static const countryMyanmar = AshlarIconData(
+    'country-myanmar',
+    'sharp-stroke',
+    'M12.01 1.68l1.81-.19 1.41 2.39-.72 1.82 .53-.09 .41 2.47 2.77 .59-2.06 3.06-2.08 .6-.2 .42 1.53 2.33-.75 1.6 1.46 3.5-1.31 2.31-1.85-.66 .28-1.63-1.03-4.62-1.51 1.85-1.4-1.72-.77-.4 .29-1.3-1.65-2.88 .09-.01-1.05-1.14 3.54-6.75 1.92-.53z m.84 2.77l-1.74 .48-2.48 4.73 1.38 1.48-.2 .58 1.13 1.97-.09 .4 .84-1.03-.11-.17 1.1-2.24 2.22-.64-1.19-.25-.31-1.85-.31 .06-1.1-1.36z',
+  );
+
+  /// ![country-namibia](https://icons.ashlar.ke/svg/sharp-stroke/country-namibia.svg) country-namibia, sharp stroke.
+  static const countryNamibia = AshlarIconData(
+    'country-namibia',
+    'sharp-stroke',
+    'M.58 2.15l3.6-.8 1.45 .75 6.37-.01 3.39 .97 3.81-.59 2.89 .25 .31 1.92-3.05 1.34-.75-.86-1.93 .3 0 6.05-1.47 0 0 10.13-4.04 .99-1.22-1.06-1.03 1.08-2.59-3.27-1.24-7.85z m3.32 1.31l-.42 .09 3.54 7.34 1.2 7.63 .83 1.05 .77-.8 1.88 1.64 1.5-.37 0-10.57 1.47 0 0-4.54-2.95-.84-6.57 .01z',
+  );
+
+  /// ![country-nauru](https://icons.ashlar.ke/svg/sharp-stroke/country-nauru.svg) country-nauru, sharp stroke.
+  static const countryNauru = AshlarIconData(
+    'country-nauru',
+    'sharp-stroke',
+    'M4.93 4.43l9.14-3.51 6.32 2.88 1.01 7.27-6.84 12.05-8.59-1.64-3.38-8.22z m9.08-1.35l-7.4 2.85-1.92 7.19 2.72 6.6 6.11 1.16 5.8-10.21-.77-5.51z',
+  );
+
+  /// ![country-nepal](https://icons.ashlar.ke/svg/sharp-stroke/country-nepal.svg) country-nepal, sharp stroke.
+  static const countryNepal = AshlarIconData(
+    'country-nepal',
+    'sharp-stroke',
+    'M2.64 6.78l3.94-1.47 9.77 6.58 .15-.24 6.4 .89-.19 5.82-2.93 .29-5.53-1.21-2.63-1.98-3.29-.07-7.62-4.37z m3.68 .77l-2.2 .81-.83 1.83 5.6 3.22 3.41 .07 2.81 2.1 4.79 1.05 .87-.09 .07-2.26-3.32-.47-.55 .9z',
+  );
+
+  /// ![country-netherlands](https://icons.ashlar.ke/svg/sharp-stroke/country-netherlands.svg) country-netherlands, sharp stroke.
+  static const countryNetherlands = AshlarIconData(
+    'country-netherlands',
+    'sharp-stroke',
+    'M14.1 1.53l4.97-.57 2.58 1.75-.97 6.08-.36 .03 .31 .18 .15 2.11-1.35 1.39 .1 1.66-3.27 .73 .77 1.77-.42 2.96-.65 .46 .44 .47-.62 2.84-3.56-1.51 .7-2.25-2.1-.74-.51-.86-.37 .21-1.28-.43-.6 .87-4.93-1.6 .01-1.9 1.69-.53 .06 .03-.38-.54 2.73-4.15 1.45-5.19 1.7-.19z m4.47 1.51l-3.65 .41-3.71 3.08-.96 .11-1.17 4.19-2.15 3.26 .97 1.35 1.82 .62 1.31-.77 1.15 1.96 2.62 .92 .17-1.23-1.51-3.47 3.97-.89-.06-.84 1.35-1.39-.01-.15-1.67-.98 .73-2.15 1.17-.12 .53-3.3z',
+  );
+
+  /// ![country-new-caledonia](https://icons.ashlar.ke/svg/sharp-stroke/country-new-caledonia.svg) country-new-caledonia, sharp stroke.
+  static const countryNewCaledonia = AshlarIconData(
+    'country-new-caledonia',
+    'sharp-stroke',
+    'M1.09 6.68l1.37-1.26 .81 .4 5 2.83 2.33 2.64 6.52 4.5 .31 2.95-3.95-.56-7.81-5.26-3.89-4.46z m15.31 2.63l.38-1.13 1.93 .12 .67 2.97-1.45 1.1-2.5-1.34z m-11.41-.22l2.02 2.31 7.21 4.86 .08 .01-5.04-3.48-2.27-2.56z m14.56 4.11l1.07-1.48 .93 .19 1.54 .2-.26 2.62-2.19 .38z',
+  );
+
+  /// ![country-new-zealand](https://icons.ashlar.ke/svg/sharp-stroke/country-new-zealand.svg) country-new-zealand, sharp stroke.
+  static const countryNewZealand = AshlarIconData(
+    'country-new-zealand',
+    'sharp-stroke',
+    'M15.59 2.14l1.92-.95 .66 1 .11-.05 .49 1.02 1.04-.61 .6 .47 .17-.12 .22 .24 .01-.01 1.33 1.43-.38 .57 .5 .99-2.92 4.69-.85 .57 .62 1.17-1.11 1.44-1-.23-2.19 1.19-1.08 5.16-3.97 2.87-2.92-.07-1.95-1.45-1.52 .13-.73-1.14-.31-.12 .07-1.67-.89-1.14 1.83-.33 .08-1.22 1.92-1.11 1.4-2.22 1.88-.42 4.01-3.12z m1.37 1.87l-2.69 6.35-4.77 3.72-1.51 .33-1.21 1.93-1.44 .83-.1 1.7-.13 .03 .41 .53 2 1.5 1.62 .03 2.79-2.01 1.12-5.32 2.29-1.24 .68-.9 .3 .06-.43-.81 1.97-1.35 2.1-3.37-.48-.96-1.55 .92z',
+  );
+
+  /// ![country-nicaragua](https://icons.ashlar.ke/svg/sharp-stroke/country-nicaragua.svg) country-nicaragua, sharp stroke.
+  static const countryNicaragua = AshlarIconData(
+    'country-nicaragua',
+    'sharp-stroke',
+    'M16.23 2.91l5.5-1.51 .82 1.79-.43 .29 .83 1.8-1.76 4.83 .24 3.92-.98 .16 .29 1.98-.42 .46 .71 .89-1.09 1.77 1.04 3.53-9.47-2.09-1.03 .84-9.72-9.54 1.28-2.22 1.35 .87 1.21-.38 .63-.68-.13-2.65 2.41-.04 1.57-1.56 1.4 .89 1.74-1.56 1.11-2.39z m3.89 1l-3.83 1.06-1.82-.38-.61 1.33-3.18 2.84-1.32-.85-1.01 1-1.15 .02 .07 1.43-1.57 1.68-1.57 .5 6.47 6.35 .39-.32 7.11 1.57-.34-1.13 .83-1.35-.87-1.11 .9-1.02-.31-2.11 .96-1.29 .04 0-.14-2.32 1.62-4.45z',
+  );
+
+  /// ![country-niger](https://icons.ashlar.ke/svg/sharp-stroke/country-niger.svg) country-niger, sharp stroke.
+  static const countryNiger = AshlarIconData(
+    'country-niger',
+    'sharp-stroke',
+    'M8.77 8.58l8.05-5.56 2.92 1.22 1.57-.82 1.71 4.83-.68 5.08-2.44 3.19 .31 1.41-6.22 1.46-5.74-1.12-1.61 3.21-1.19-1.09-.63 .77-4.27-5.22 2.55-1.83 2.51-.1 .48-.9 .06-3.96z m8.29-3.3l-7.47 5.16-1.46 .33-.04 2.84-1.24 2.36-3.07 .12-.33 .23 1.37 1.68 .41-.51 .81 .73 1.11-2.21 6.8 1.34 3.88-.92-.09-.39 2.69-3.51 .55-4.06-.79-2.21-.35 .18z',
+  );
+
+  /// ![country-nigeria](https://icons.ashlar.ke/svg/sharp-stroke/country-nigeria.svg) country-nigeria, sharp stroke.
+  static const countryNigeria = AshlarIconData(
+    'country-nigeria',
+    'sharp-stroke',
+    'M18.18 4.15l2.59-1.39 2.37 5.39-1.91 1.46-4.15 7.94-2.24-.82-3 4-1.68-.22 .07 .29-2.61 .38-1.69-1.08-.22-1.67-1.12-.81-3.59-.04 .16-5.86 1.66-2.32-.23-3.54 1.72-2.52 2.57-.54 2.34 1.42 1.36-.52 2.89 .87 1.36-.82z m-11.66 .77l-1.01 .21-.88 1.29 .23 3.56-1.72 2.4-.08 3.22 2.19 .02 2.32 1.69 .22 1.61 .28 .18 .34-.05 .33-.75 2.2 .29 3.2-4.26 1.98 .74 3.55-6.78 1.01-.78-.87-1.97-1.23 .67-3.3-.4-1.53 .94-3.09-.93-1.64 .62z',
+  );
+
+  /// ![country-niue](https://icons.ashlar.ke/svg/sharp-stroke/country-niue.svg) country-niue, sharp stroke.
+  static const countryNiue = AshlarIconData(
+    'country-niue',
+    'sharp-stroke',
+    'M12.74 1.33l3.89-.4 4.95 9.86-1.28 5.47-12.24 7.08-5.72-8.82 4.74-10.44z m2.73 1.73l-2.17 .23-4.7 2.27-3.98 8.79 4.08 6.31 9.85-5.7 .91-3.92z',
+  );
+
+  /// ![country-norfolk-island](https://icons.ashlar.ke/svg/sharp-stroke/country-norfolk-island.svg) country-norfolk-island, sharp stroke.
+  static const countryNorfolkIsland = AshlarIconData(
+    'country-norfolk-island',
+    'sharp-stroke',
+    'M2.3 4.77l3.47-3.87 4.71 1.06 11.52 6.31-.44 4.95-2.26 4.43-3.06 2.29-.64 2.33-1.9 .08-1.2-3.24-1.78-1.81-1.26-.11-1.5 2.54-2.66 0-1.51-5.87-.46-2.61 2.54-4.25 .06-.94-.42-.27-2.19 .61z m4.17-1.66l-.51 .58 2.05 1.33-.18 2.6-2.4 4.01 .32 1.81 1.09 4.25 1.54-2.6 3.25 .28 2.59 2.64 .28 .74 0-.01 3.23-2.41 1.87-3.67 .29-3.27-10.13-5.54z',
+  );
+
+  /// ![country-north-korea](https://icons.ashlar.ke/svg/sharp-stroke/country-north-korea.svg) country-north-korea, sharp stroke.
+  static const countryNorthKorea = AshlarIconData(
+    'country-north-korea',
+    'sharp-stroke',
+    'M17.96 1.18l1.94-.12 2.59 3.77-3.05 2.53-.14 3.29-6.37 4.45-.18 .86 3.14 2.45-1.9 2.34-2.69 .09-1.29 1.87-2.41 .24-.68-.63-1.12 .93-2.53-1.86-1.17-.14 2.03-3.02 .51-2.54-.7-.35-1.18-.15-1.03-2.62 5.18-3.39 3.3-4.15 1.35 1.62 1.38 .26-.97-1.97 3.58-.26 1.1-1.41 .83-.1z m1.42 2.65l-.28 1.16-1.39 .17-1.14 1.44-1.5 .12 .27 .55-.96 1.96-3.9-.76-.23-.27-1.98 2.48-3.96 2.59 2.59 1.34-.54 2.66 .35 .15-.05 1.86-1.09 .38-.07 .12 .28 .88 1.2-1 1.32 1.21 .59-.06 1.34-1.93 2.78-.09 .04-.06-2.52-1.97 .6-2.84 6.21-4.35 .14-3.19 2.33-1.93z',
+  );
+
+  /// ![country-north-macedonia](https://icons.ashlar.ke/svg/sharp-stroke/country-north-macedonia.svg) country-north-macedonia, sharp stroke.
+  static const countryNorthMacedonia = AshlarIconData(
+    'country-north-macedonia',
+    'sharp-stroke',
+    'M10.5 4.29l5.76-1.26 4.88 3.91 1.88 3.45-.72 5.02-1.24 .29-.43 1.48-1.56 .67-4.62 .09-3.29 2.77-7.5-.44-2.31-4.5-.36-2.95 1.02-4.45 1.32-.12 .37-1.83 3.06-1.44 1.4 .59 .59-.9z m5.26 .9l-5.79 1.26-1.03 1.6-2.13-.89-1.35 .64-.47 2.31-1.36 .12-.62 2.69 .28 2.25 1.63 3.17 5.56 .33 3.23-2.71 4.94-.11 .32-.14 .51-1.7 1.04-.24 .42-3-1.36-2.53z',
+  );
+
+  /// ![country-norway](https://icons.ashlar.ke/svg/sharp-stroke/country-norway.svg) country-norway, sharp stroke.
+  static const countryNorway = AshlarIconData(
+    'country-norway',
+    'sharp-stroke',
+    'M17.5 1.42l1.34-1.24 .32 1.05 1.84 .94-.13 1.21 1.49 .95-2.56 1.68-1.36-.85-1.4 1.72-2.69-.31-.05-.09-.37 .9-1.39-.38-.49 .49-.22 .41 .41 .56-.78 .13-.47 .85 .3 .29-.55 .2-.35 3.36-1.1 .69 .41 2.96-.86 3.89-1.58 .22-1.11 1.72-2.09 .14-1.37-1.87 .45-1-.41-.41 .01-.01-.15-.06-.13-3.03 .03-.01-.16-1.43 .85 .01 0-.34 .85-.39-.12-.25 .93-.98-.02-.85 1.01 .16 1.76-1.87 .03-1.6-.37-.36 1.83-1.08-.64-.87 1.29-.67 1.83-2.3 1.54-.83 .46 .32 1.7-1.59 .18 .25 .5-.9z m-.8 2.28l-.58 1.06 .06 0 .75-.91z m-9.87 10.92l-1 .6 .11 .48-.93 .42 .18 0 .17 1.99-.42 .06 .72 .55-.66 1.05 .33 .28-.34 .75 .03 .04 2.23-3.48 .21 .41 .21-.91-.3-2.15z',
+  );
+
+  /// ![country-oman](https://icons.ashlar.ke/svg/sharp-stroke/country-oman.svg) country-oman, sharp stroke.
+  static const countryOman = AshlarIconData(
+    'country-oman',
+    'sharp-stroke',
+    'M10.56 1.49l2.97-.6 1.82 2.65 3.69 1.11 2.92 3.95-3.92 5.75-.67-.43-.13 3.15-2.5 .72-1.02 1.89-2 .35-.92 1.91-5.72 1.21-3.25-7.37 7.27-2.59 1.24-4-.98-2.46 .84-3.07 .79-.19z m2.55 2.32l.24 1.13-1.53 .38-.36 1.29 1 2.5-1.74 5.62-6.19 2.21 1.73 3.91 3.16-.67 .94-1.95 2.06-.35 .96-1.77 1.92-.56 .1-2.56 1.48-1.77 .6 .39 2.02-2.97-1.68-2.27-3.71-1.11z',
+  );
+
+  /// ![country-pakistan](https://icons.ashlar.ke/svg/sharp-stroke/country-pakistan.svg) country-pakistan, sharp stroke.
+  static const countryPakistan = AshlarIconData(
+    'country-pakistan',
+    'sharp-stroke',
+    'M15.57 2.02l4.43-.47 2.72 2.54-.42 2.67-3.09 .11 .02 .64 2.33 1.85-1.59 1.09 .08 .93-3.97 5.12-1.83-.09-.34 .42 2.23 4.68-3.92 .17-1.31 1.29-2.57-3.06-6.74 .67 .74-3.19 1.27-.94-2.4-3.06 .95-1.61 3.82 .64 1.91-.5 .73-1.96 2.91-.94 .27-1.5 .49-.19-.64-1.44 2.28-.09 .28-.65-.68-1.54z m3.73 1.61l-2.95 .31-.36 .29 .4 .92-1.12 2.59-.6 .03 .28 .62-1.37 .57-.29 1.6-3.13 1-.75 2.04-3.34 .86-1.7-.28 2.08 2.65-1.96 1.45 4.7-.47 1.86 2.22 .32-.31 1.67-.07-1.49-3.12 1.8-2.16 1.79 .08 2.85-3.67-.12-1.31 .33-.23-.95-.75-.08-3.54 3.4-.13z',
+  );
+
+  /// ![country-palau](https://icons.ashlar.ke/svg/sharp-stroke/country-palau.svg) country-palau, sharp stroke.
+  static const countryPalau = AshlarIconData(
+    'country-palau',
+    'sharp-stroke',
+    'M12.68 6.33l2.27-4.76 1.89 .26 .49 2.95-1.56 9.55-1.92 3.53-.17 3.64-5 1.77-2.02-5.49 .58-5.5 2.51-4.3z m2.46-.5l-.92 1.92-3.01 1.71-2.03 3.46-.48 4.6 1.18 3.21 1.86-.67 .13-2.76 1.98-3.63z',
+  );
+
+  /// ![country-palestine](https://icons.ashlar.ke/svg/sharp-stroke/country-palestine.svg) country-palestine, sharp stroke.
+  static const countryPalestine = AshlarIconData(
+    'country-palestine',
+    'sharp-stroke',
+    'M13.45 2.49l2.28-1.55 2.78 .53 3.01 2.1 .11 10.18-1.6 4.98-8.17 2.27-1.12-1.69 1.25-3.88 2.48-1.7-2.59-.43 .03-5.82z m2.72 .57l-1.02 .69-1.24 4.03-.02 3.82 1.7 .29 2.03 2.09-3.93 2.71-.61 1.89 5.37-1.49 1.18-3.64-.09-8.82-1.83-1.28z m-14.11 16.99l4.82-5.33 1.75 2.51-4.02 5.37-1.74-.27z',
+  );
+
+  /// ![country-panama](https://icons.ashlar.ke/svg/sharp-stroke/country-panama.svg) country-panama, sharp stroke.
+  static const countryPanama = AshlarIconData(
+    'country-panama',
+    'sharp-stroke',
+    'M1.16 10.17l.94-3.61 2.83 1.1 .87 1.47 .13-.01 .52-.49 1.38 .93 5.84-2.71 1.97 .26 3.8 1.12 2.84 2.35 .82 3.18-2.05 2.46-.39-.24-.12 .39-1.81 .25-2.16-3.5 .35-.42-1.78-1.72-.69 .05-2.32 1.87 1.67 2.71-3.6 1.54-1.72-.39-.19-.71-.19 .26-2.16-2.45-2.34-.46-1.23 1.58-1.5-2.71 .87-1.7z m12.83-1.26l-6.34 2.95-1.14-.77-1.79 .14-.58-.97-.56 1.1 3.4 .66 1.04 1.17 1.68 .33 .39 1.5 .79-.33-1.39-2.23 4.2-3.39 1.04-.06z m-10.53 .33l-.02 .07 .24 .16-.12-.19z m12.94 .18l1.64 1.57 1.02-.48-.58-.48z m3.14 1.49l1.05 1.15-.09-.36z m1.15 1.51l-.72 .82 .64 .38 .29-.35z m-1.48 1.17l.04 .07 .01-.03z',
+  );
+
+  /// ![country-papua-new-guinea](https://icons.ashlar.ke/svg/sharp-stroke/country-papua-new-guinea.svg) country-papua-new-guinea, sharp stroke.
+  static const countryPapuaNewGuinea = AshlarIconData(
+    'country-papua-new-guinea',
+    'sharp-stroke',
+    'M1.18 17.22l.27-13.64 7.3 2.63 2.77 2.16-.03 .79 2.87 1.04 .35 .77 .14-1.64 2.04-.2 .21-.41 1.78 .26 .13-.01 .66-.48-.25-2.13 1.92 .58 1.96 .16-1.03 3.55-3.52 1.78-3.88-1.09 .67 1.45-1.47 .28 1.77 2.13 1.46-.05 .15 1.05 1.77 .45-.23 .54 .53 .13 .41 1.75-1.29 1.03-5.21-1.2-3.02-3.49-2.16-.57-.88 .7 .95 .63-3.05 1.56z m2.21-10.81l-.17 9.05 .57 .07 .54-1.8 1.81 .01 .95-1.27 4.42 1.16 3 3.47 .37 .08-2.78-3.35-.96-2.22 .79-.16-2.5-.91 .05-1.23-1.71-1.32z m12.19 10.8l-.49 .02 .51 .12z',
+  );
+
+  /// ![country-paraguay](https://icons.ashlar.ke/svg/sharp-stroke/country-paraguay.svg) country-paraguay, sharp stroke.
+  static const countryParaguay = AshlarIconData(
+    'country-paraguay',
+    'sharp-stroke',
+    'M3.88 1.97l6.91-1.01 2.77 1.76 .07 1.2 .76 2.1-.2 1.92 4.39 .45 .95 3.97 2.99 .26-1.41 7.4-2.65 2.66-8.32-.32 2.34-5.28-6.82-3.45-4.12-4.23z m6.47 1.07l-4.93 .73-1.62 5.09 3.06 3.13 8.22 4.17-1.92 4.32 4.5 .16 1.61-1.6 .87-4.62-2.21-.2-.97-3.99-4.97-.51 .36-3.46-.7-1.94-.03-.46z',
+  );
+
+  /// ![country-peru](https://icons.ashlar.ke/svg/sharp-stroke/country-peru.svg) country-peru, sharp stroke.
+  static const countryPeru = AshlarIconData(
+    'country-peru',
+    'sharp-stroke',
+    'M10.79 1.78l1.7-.47 2.21 2.3 4.22 .4-.98 1.75-.21 1.78-2.71 .83-.84 1.85 .55 1.33 .43 .24 2.75-.96-.13 2.09 .65-.03 1.45 2.56-.77 3.34 .82 1.01-2.77 3.56-6.95-4.75-3.1-6.68-2.67-2.91-.31-2.24 1.35-1.73 1.77 .76 .35-.8 2.91-1.98z m1.54 2.25l-.04 .21-3.09 2.09-1 2.32-1.89-.71 .03 .19 2.45 2.68 3 6.46 4.95 3.37 .64-.82-.43-.53 .81-3.52-.46-.82-1.66 .09 .09-1.33-.79 .28-1.79-1.06-1.15-2.74 1.56-3.46 1.87-.58 .25-.44-1.91-.18z',
+  );
+
+  /// ![country-philippines](https://icons.ashlar.ke/svg/sharp-stroke/country-philippines.svg) country-philippines, sharp stroke.
+  static const countryPhilippines = AshlarIconData(
+    'country-philippines',
+    'sharp-stroke',
+    'M9.11 1.35l1.64-.37 2.64 .37 .58 3.13-1.65 2.71 .24 .75 3.16 .53 .38 2 1.6-.23 1 3.07-1.65 1.02-2.11-2.08 .18-.54-.56 .31-1.4-1.31-.8 .35-.07-.06-.11 .37 1.14 .49 2.37 1.27-.81 .59 .15 .05-.16 2.41 .36 .67 1.15-.66-.02-.55 1.64-.8 1.04 .88 1.03 3.81-.7 1.75-1.05 .05-.17 .87-1.43 .02-.01 .02-.05-.02-.46 .01-.04-.16-2-.6 .14-1.11-.94-.45-.49 .61-1.74-.89 .52-1.86 1.14-.75-1.34-1.42 .44-.62-.82-.41-.05-2.29-.84 .14-1.36-1.88-.21 .03 .07-.21-.77-1.06 1.23-.23 .1-.27-.82-.2-.95-4.32 1.33 .32z m1.85 1.68l-.28 3.02 1.19-1.95-.18-.97z m-6.65 14l3.37-4.42 1.78 .45 .28 1.79-3.98 3.54z m13.23 .79l-1.3 .76 .28 .23-.16 1.24 .17 .05 .17-.85 1.18-.17z',
+  );
+
+  /// ![country-pitcairn-islands](https://icons.ashlar.ke/svg/sharp-stroke/country-pitcairn-islands.svg) country-pitcairn-islands, sharp stroke.
+  static const countryPitcairnIslands = AshlarIconData(
+    'country-pitcairn-islands',
+    'sharp-stroke',
+    'M4.76 5.46l5-4.64 6.4 2.75 2.82 7.51 .16 7.77-2.71 4.58-5.25-3.6-4.6-6.8z m5.4-2.28l-3.18 2.95 1.46 6.08 4.18 6.18 3.18 2.18 1.32-2.24-.14-6.87-2.4-6.39z',
+  );
+
+  /// ![country-poland](https://icons.ashlar.ke/svg/sharp-stroke/country-poland.svg) country-poland, sharp stroke.
+  static const countryPoland = AshlarIconData(
+    'country-poland',
+    'sharp-stroke',
+    'M1.82 4.49l8.11-3 1.69 .61-.09 .27 .65 .75 7.7-.13 1.7 1.21 .98 4.1 .04 1.6-.96 .9 .48 .39-.11 2.03 1.08 3.59-2.86 3.08 .16 1.46-1.47 .99-2.1-1.15-1.87 .06-1.06 1.16-1.39-1.51-1.17 .81-1.16-2.26-2.33-.96 .03-.13-1.77-.05-.56-1.43-2.22-1 .09-.2-1-.51 .34-1.04-.7-3.63-1.16-1.33 .8-2.86-.03-.02z m8.11-.88l-6.04 2.25-.78 2.81 .8 .93 .9 4.67-.03 .08 2.32 1.05 .16 .39 3.11 .74-.19 .76 1.43 .58 .46 .9 .73-.51 1.09 1.19 .16-.17 3.25-.11 .9 .49-.05-.46 2.7-2.91-.86-2.83 .08-1.37-1.45-1.21 1.96-1.82-.02-.5-.75-3.16-.55-.4-7.99 .14-1.29-1.51z',
+  );
+
+  /// ![country-portugal](https://icons.ashlar.ke/svg/sharp-stroke/country-portugal.svg) country-portugal, sharp stroke.
+  static const countryPortugal = AshlarIconData(
+    'country-portugal',
+    'sharp-stroke',
+    'M8.16 2.17l3.23-1.61 .43 1.62 4.32-.48 2.11 2.77-2.5 2.37-.15 5.02-1.08 .34 1.17 1.71-.97 2.18 1.33 1.2-1.82 2.22 .12 2.39-2.07 1.11-4.8-.14 .34-5.49-.81-.05-.14-1.04-1.13 .06 2.73-9.07z m7.08 1.65l-4.9 .54-.05-.19 .2 3.35-1.8 5.99 1.26 1.03-.7 .88 .42 .06-.09 .94 .31 .02-.29 4.49 2.2 .06 .49-.25-.1-1.89 1.11-1.36-1-.9 1.11-2.48-2.07-3.01 2.3-.72 .13-4.42 1.8-1.71z',
+  );
+
+  /// ![country-puerto-rico](https://icons.ashlar.ke/svg/sharp-stroke/country-puerto-rico.svg) country-puerto-rico, sharp stroke.
+  static const countryPuertoRico = AshlarIconData(
+    'country-puerto-rico',
+    'sharp-stroke',
+    'M.79 10.29l2.01-2.71 13.1 .73 6.95 .93 .18 3.12-4.92 3.97-11.75 .35-4.63-.77 .35-3.54z m2.97-.65l-.55 .75 .93 1.5-.23 2.36 2.59 .43 10.87-.33 3.6-2.91-.02-.44-5.23-.69z',
+  );
+
+  /// ![country-qatar](https://icons.ashlar.ke/svg/sharp-stroke/country-qatar.svg) country-qatar, sharp stroke.
+  static const countryQatar = AshlarIconData(
+    'country-qatar',
+    'sharp-stroke',
+    'M9.14 3.53l3.88-2.84 4 3.97 .45 2.07-.98 3.21 1.42 6-2.35 5.53-2.32 .97-4.07 .49-1.83-1.93-1.22-9.63z m3.68-.22l-2.02 1.48-2.64 6.83 1.08 8.48 .69 .73 2.79-.35 1.32-.55 1.77-4.17-1.4-5.88 1-3.23-.22-.99z',
+  );
+
+  /// ![country-republic-of-the-congo](https://icons.ashlar.ke/svg/sharp-stroke/country-republic-of-the-congo.svg) country-republic-of-the-congo, sharp stroke.
+  static const countryRepublicOfTheCongo = AshlarIconData(
+    'country-republic-of-the-congo',
+    'sharp-stroke',
+    'M15.24 1.46l6.31-.33-2 11.09-3.54 3.76-.81 4.11-3.31 2.69-1.88-.33-.04-.44-1.37 .78-1.35-.89-2 1.47-3.2-3.92 1.76-1.86-.57-2.69 2.41-.04 .13-.44 1.73-.37 .53 .64 1.74-.4 .11 .15 .14-2.1-1.69-1.02 1.5-2.91 0 0-2.76 .35 .36-4.22 4.04-.13 2.59 .93z m3.89 1.79l-2.39 .13-1.37 4.54-4.21-1.5-.11 .01 1.05 1.97-1.12 2.18 1.13 .68-.26 3.89-1.82 2.83-1.07-1.45-1.68 .4-.1-.13-.01 .04-1.47 .02 .39 1.85-1.21 1.04 .71 .88 1.6-1.17 1.49 .99 2.97-1.7 .15 1.52 1.58-1.28 .77-3.97 3.54-3.74z',
+  );
+
+  /// ![country-romania](https://icons.ashlar.ke/svg/sharp-stroke/country-romania.svg) country-romania, sharp stroke.
+  static const countryRomania = AshlarIconData(
+    'country-romania',
+    'sharp-stroke',
+    'M11.77 5.62l4.25-1.83 3.51 4.78 .26 4.16 3.43 .63-.78 3.2-1.35-.22-.7 3.81-3.9-1.59-3.21 1.44-6.94-.64 .41-1.33-1.36-1.29-2.28-.53 .42-1.46-3.35-3.7 2.98-.85 1.76-3.54 3.01-2.21z m3.58 .63l-3.46 1.49-3.58-1.09-1.81 1.33-1.94 3.9-.74 .21 1.93 2.14-.14 .5 3.53 .82-.98 1.07 .87 .83-.05 .15 3.96 .36 3.51-1.58 2.42 .99 .49-2.69-1.47-.27-.32-5.13z',
+  );
+
+  /// ![country-russia](https://icons.ashlar.ke/svg/sharp-stroke/country-russia.svg) country-russia, sharp stroke.
+  static const countryRussia = AshlarIconData(
+    'country-russia',
+    'sharp-stroke',
+    'M7.68 7.75l4.37-1.52 1.62 .59 .12 .89 8.95 .81 .39 2.91-.77 .09-.11 .6-1.62 .53-.75 1.91-1.93-.3-.03-.46-.19 1.45-1.4 1.79-1.74-.93 .32-.93-.15-.14-.49 .68-2.78-.76-1.68 .88-2.41-1.62-.04 .99-1.73 .09 .01 1.4-1.58 .82-2.06-1.45 .52-1.32-1.49-1.71 .15-4.66 2.25 .41 .11-.17 3.13 .07 .16-.47 1.08 .14z m4.12 .69l-1.7 .58-.47 .38 .44 1.06-3.14 1.23-.05-.99-2.24-.06-1.2 1.95-.38-.46-.01 .19 .93 1.06 1.46-.07 .03-.63 2.12-.74 2.34 1.58 1.32-.7 2.21 .6 1-1.4 .75 .71 1.09-1.32 3.48-1.14 .31 .46 .85-.28 .03-.08 0-.01-8.87-.79z',
+  );
+
+  /// ![country-rwanda](https://icons.ashlar.ke/svg/sharp-stroke/country-rwanda.svg) country-rwanda, sharp stroke.
+  static const countryRwanda = AshlarIconData(
+    'country-rwanda',
+    'sharp-stroke',
+    'M16.48 2.48l2.91-.14-.04 2.09 2.98 3.46 .68 6.24-.66 2.7-3.72 .83-1.38-.82-2.8 1-1.05-.43-.49 3.02-2.34 1.07-3.8 .17-1.07-1.54-.92-.37-.87 1.24-2.1-.86-.94-3.4 2.85-2.62 .12-3.64 2.36-3.39 2.57-1.47 3.23-.68 .74 .97z m.88 1.96l-.06 0-4.81 4.41-1.31-1.69-1.69 .36-1.91 1.09-1.76 2.53-.12 3.88-2.58 2.36 .25 .91 .69-.97 2.94 1.17 .79 1.14 2.3-.11 1.02-.47 .73-4.46 2.67 1.11 2.96-1.06 1.5 .9 1.73-.39 .29-1.16-.58-5.26-3.07-3.58z',
+  );
+
+  /// ![country-saint-barthelemy](https://icons.ashlar.ke/svg/sharp-stroke/country-saint-barthelemy.svg) country-saint-barthelemy, sharp stroke.
+  static const countrySaintBarthelemy = AshlarIconData(
+    'country-saint-barthelemy',
+    'sharp-stroke',
+    'M.97 8l.54-4.03 3.43 1.64 18.87 2.9-5.98 7.91-3.99 2.73-4.6 .41-3.61-2.67-2.92-4.39z m2.16-1.03l-.11 .79 1.47 3.82 2.6 3.91 2.73 2.01 3.32-.29 3.29-2.25 3.76-4.98-15.85-2.43z',
+  );
+
+  /// ![country-saint-helena](https://icons.ashlar.ke/svg/sharp-stroke/country-saint-helena.svg) country-saint-helena, sharp stroke.
+  static const countrySaintHelena = AshlarIconData(
+    'country-saint-helena',
+    'sharp-stroke',
+    'M2.29 11.74l11.59-9.08 8.63 1.31 .51 11.15-5.9 5.08-16.3 1.18z m12.15-6.98l-10.29 8.06-.97 6.38 13.14-.94 4.66-4.02-.39-8.53z',
+  );
+
+  /// ![country-saint-kitts-and-nevis](https://icons.ashlar.ke/svg/sharp-stroke/country-saint-kitts-and-nevis.svg) country-saint-kitts-and-nevis, sharp stroke.
+  static const countrySaintKittsAndNevis = AshlarIconData(
+    'country-saint-kitts-and-nevis',
+    'sharp-stroke',
+    'M2.55 3.97l3.87-2.01 8.4 5.36 3.66 6.28 3.41 2.9 1.36 3.23-3.98 2.51-4.67-6.62-6.79-1.61-6.65-4.01-.06-3.43z m3.77 .29l-2.31 1.21-.9 1.6 .03 1.79 5.43 3.27 7.23 1.73 4.01 5.68 .94-.59-.52-1.23-3.31-2.82-3.58-6.16z',
+  );
+
+  /// ![country-saint-lucia](https://icons.ashlar.ke/svg/sharp-stroke/country-saint-lucia.svg) country-saint-lucia, sharp stroke.
+  static const countrySaintLucia = AshlarIconData(
+    'country-saint-lucia',
+    'sharp-stroke',
+    'M13.17 2.32l3.19-1.85 1.46 5.81-.45 10.43-3.51 6.71-6.95-4.3-.73-5.02 .56-3.03 3.6-5.28z m1.89 1.21l-.57 .33-2.55 3.13-3.31 4.86-.43 2.29 .55 3.77 4.33 2.67 2.31-4.41 .41-9.69z',
+  );
+
+  /// ![country-saint-martin](https://icons.ashlar.ke/svg/sharp-stroke/country-saint-martin.svg) country-saint-martin, sharp stroke.
+  static const countrySaintMartin = AshlarIconData(
+    'country-saint-martin',
+    'sharp-stroke',
+    'M2.61 11.55l9.73-4.85 7.25 .44 3.44 2.06-.39 8.09-22.05 0z m10.15-2.83l-8.53 4.25-.82 2.32 17.33 0 .23-4.99-1.98-1.2z',
+  );
+
+  /// ![country-saint-pierre-and-miquelon](https://icons.ashlar.ke/svg/sharp-stroke/country-saint-pierre-and-miquelon.svg) country-saint-pierre-and-miquelon, sharp stroke.
+  static const countrySaintPierreAndMiquelon = AshlarIconData(
+    'country-saint-pierre-and-miquelon',
+    'sharp-stroke',
+    'M6.02 3.68l1.48-3.05 4.4 2.34 .49 2.79-1.41 4.56 2.35 5.39-.69 1.97-4.43 3.22-2.19-2.54 2.16-5.85z m2.38-.31l-.26 .53 1.2 4.95 .99-3.22-.23-1.36z m1.66 9.82l-1.76 4.75 .23 .26 2.43-1.78 .23-.63z m3.42 5.34l3.08-1.04 1.46 1.35-.73 3.22-1.56 1.03-4.66-1.37z m2.25 1.35l-1.03 .35-.29 .39 .99 .29 .11-.07z',
+  );
+
+  /// ![country-saint-vincent-and-the-grenadines](https://icons.ashlar.ke/svg/sharp-stroke/country-saint-vincent-and-the-grenadines.svg) country-saint-vincent-and-the-grenadines, sharp stroke.
+  static const countrySaintVincentAndTheGrenadines = AshlarIconData(
+    'country-saint-vincent-and-the-grenadines',
+    'sharp-stroke',
+    'M13.36 1.28l4.98-.34 1.56 6.98-.99 8.9-3.92 4.51-3.44 1.9-7.49-7.06 .88-8.07 4.33-4.3z m3.4 1.78l-2.78 .18-3.47 2.14-3.65 3.64-.7 6.37 5.71 5.38 1.84-1.02 3.28-3.77 .89-7.95z',
+  );
+
+  /// ![country-samoa](https://icons.ashlar.ke/svg/sharp-stroke/country-samoa.svg) country-samoa, sharp stroke.
+  static const countrySamoa = AshlarIconData(
+    'country-samoa',
+    'sharp-stroke',
+    'M5.57 7.2l11.51-2.07 4.29 3.72 1.7 4.88-2.07 5.28-4.22-1.21-7.1 .61-7.36-7.74-1.2-2.24 .95-1.47z m10.93 .07l-10.82 1.95-1.94-.14 .22 .41 6.5 6.84 6.52-.55 2.82 .81 1.13-2.9-1.28-3.68z',
+  );
+
+  /// ![country-san-marino](https://icons.ashlar.ke/svg/sharp-stroke/country-san-marino.svg) country-san-marino, sharp stroke.
+  static const countrySanMarino = AshlarIconData(
+    'country-san-marino',
+    'sharp-stroke',
+    'M9.2 2.61l10.8-1.75 1.91 8.92-4.75 11.58-10.14 1.75-5.05-9.63z m9.24 .53l-8.06 1.31-6.09 9.15 3.83 7.29 7.61-1.31 4.1-9.98z',
+  );
+
+  /// ![country-sao-tome-and-principe](https://icons.ashlar.ke/svg/sharp-stroke/country-sao-tome-and-principe.svg) country-sao-tome-and-principe, sharp stroke.
+  static const countrySaoTomeAndPrincipe = AshlarIconData(
+    'country-sao-tome-and-principe',
+    'sharp-stroke',
+    'M12.64 1.25l4.18-.28 4.06 5.09 .01 5.29-5.33 7.26-6.4 4.56-3-1.53-3.08-9.65 .61-3.45 2.89-3.71z m3.26 1.78l-2.66 .18-5.32 3.14-2.35 3.03-.43 2.47 2.68 8.39 1.16 .59 5.16-3.66 4.75-6.48-.01-3.93z',
+  );
+
+  /// ![country-saudi-arabia](https://icons.ashlar.ke/svg/sharp-stroke/country-saudi-arabia.svg) country-saudi-arabia, sharp stroke.
+  static const countrySaudiArabia = AshlarIconData(
+    'country-saudi-arabia',
+    'sharp-stroke',
+    'M2.42 3.96l4.01-1.27 5.51 3.19 3.81 .74 3.88 5.8 2.54 .24 .91 1.55-.9 3-3.41 1.24-2.59 .4-1.93 1.84-3.31-.56-1.01 2.05-4.42-6.33-.76-2.83-3.82-4.75 .55-2.4 2.15-.61z m3.77 .91l-.15 .05 .53 .56-1.32 1.41-2.09 .58-.07 .3 3.48 4.33 .78 2.89 2.28 3.27 .17-.35 3.79 .64 1.67-1.58 3.01-.46 2.29-.84 .33-1.12-2.4-.23-3.94-5.9-3.33-.64z',
+  );
+
+  /// ![country-senegal](https://icons.ashlar.ke/svg/sharp-stroke/country-senegal.svg) country-senegal, sharp stroke.
+  static const countrySenegal = AshlarIconData(
+    'country-senegal',
+    'sharp-stroke',
+    'M5.54 4.26l4.96-.58 5.17 1.99 4.34 4.84 .72 3.84 1.51 1.14 .98 4.12-4.21 .71-4.76-1.18-4.54-.02-5.74 1.27-.32-1.14-.37-.02 .16-.75-.15-.54 .28-.08 .5-2.33 .19 0-1.03-1.68 .24-.23-3.07-2.46 3.04-2.44z m4.7 1.46l-3.36 .4-1.82 3.86-1.46 1.18 2.89 2.32-.62 .6 2.45 0 1.45-.85 4.6 1.5 .08 1.87-1.26 .54 1.3 0 4.6 1.14 1.69-.29-.32-1.34-1.55-1.16-.76-4.06-3.64-4.06z m-.38 10.56l-1.98 1.2 1.61-.36 2.67 .01z m-2.17 1.24l-2 .01-.05 .2 .03 .24z',
+  );
+
+  /// ![country-serbia](https://icons.ashlar.ke/svg/sharp-stroke/country-serbia.svg) country-serbia, sharp stroke.
+  static const countrySerbia = AshlarIconData(
+    'country-serbia',
+    'sharp-stroke',
+    'M3.6 2.62l3.5-1.64 2.78 .28 2.61 2.42 .06 1.32 2.75 1.76-.46 1.59 1.48 .8 1.5-.86 2.58 1.6-1.27 .94 .57 .99-1.18 2.25 2.36 3.23-2.22 2.09-.18 3.06-5.52 .72 .86-2.69-.64-.2-1.54-1.86-1.52 2.02-6.01-4.8 1.43-1.05-1.08-1.94 .72-.23-.83-.73 .65-2.07-1.09-.04 .43-2.93-.22-.15z m3.84 .4l-1.66 .78 .2 1.54 1.06 .69-.23 1.66 .87 .03-1.03 3.33 1.18 1.03-.35 1.7-.09 .03 .75 1.34-.75 .55 2.37 1.9 1.81-2.4 2.77 3.34 2 .62-.52 1.61 .76-.09 .14-2.2 1.5-1.42-2.06-2.81 1.26-2.39-.45-.78-.63 .35-3.88-2.09 .5-1.7-2.35-1.51-.08-1.54-1.51-1.41z',
+  );
+
+  /// ![country-seychelles](https://icons.ashlar.ke/svg/sharp-stroke/country-seychelles.svg) country-seychelles, sharp stroke.
+  static const countrySeychelles = AshlarIconData(
+    'country-seychelles',
+    'sharp-stroke',
+    'M3.54 6.25l8.1-5.67 8.13 12.96 .24 8.43-1.54 .87-4.59-2.95-1.18-5.29-5.47-3.79z m7.52-2.83l-4.62 3.24 2.17 2.67 5.87 4.07 1.18 5.25 2.3 1.48-.17-5.99z',
+  );
+
+  /// ![country-sierra-leone](https://icons.ashlar.ke/svg/sharp-stroke/country-sierra-leone.svg) country-sierra-leone, sharp stroke.
+  static const countrySierraLeone = AshlarIconData(
+    'country-sierra-leone',
+    'sharp-stroke',
+    'M7.37 1.68l8.35-.72 4.41 5.21-.25 .97 .42 .12 1.03 3.34-.17 .29 .14-.05 1.23 1.38-2.41 4.85-6.12 6.15-7.48-3.72 .04-2.14-2.14-.38-.77-2.44-1.83-1.66 .33-.84-.28-3.03-.09-.07 .39-1.79 1.32-.27z m7.49 1.36l-6.43 .56-3.8 5.08-.24 .05-.23 1.24 .58-.1 .91 1.66-1.07 1.16 .81 .73 .57 1.8 2.62 .46-.04 2.59 5.06 2.51 4.88-4.89 1.16-2.34-.42 .14-1.19-1.45 1.12-1.9-.45-1.46-1.26-.36 .49-1.85z',
+  );
+
+  /// ![country-singapore](https://icons.ashlar.ke/svg/sharp-stroke/country-singapore.svg) country-singapore, sharp stroke.
+  static const countrySingapore = AshlarIconData(
+    'country-singapore',
+    'sharp-stroke',
+    'M4.53 7.24l7.24-1.53 8.67 3.33 2.98 2.26-2.33 2.94-9.24 4.08-11.3-4.01z m7.08 .55l-5.78 1.22-2.38 4.21 8.32 2.96 8.06-3.56 .75-.96-1.12-.86z',
+  );
+
+  /// ![country-sint-maarten](https://icons.ashlar.ke/svg/sharp-stroke/country-sint-maarten.svg) country-sint-maarten, sharp stroke.
+  static const countrySintMaarten = AshlarIconData(
+    'country-sint-maarten',
+    'sharp-stroke',
+    'M.81 8.64l.76-2.25 21.48 0-.26 5.57-2.3 5.91-12.91-4.48z m3.13-.25l4.56 3.2 10.83 3.76 1.48-3.81 .14-3.15z',
+  );
+
+  /// ![country-slovakia](https://icons.ashlar.ke/svg/sharp-stroke/country-slovakia.svg) country-slovakia, sharp stroke.
+  static const countrySlovakia = AshlarIconData(
+    'country-slovakia',
+    'sharp-stroke',
+    'M9.75 7.05l1.54-1.57 1.45 2.46 1.43-.74 2.1 .37 1.56-.65 5.47 2.48-2.1 5.02-2.46 .45-1.01-1.17-2.5 .1-2.07 2.21-1.41-.5-2.08 .85-.3 1.44-4.96-.16-2.42-1.54-1.06-2.52 1.32-3.37 2.42-.27 3.11-3.38z m1.14 1.69l-.52 .53-1.92-.48-2.81 3.05-1.97 .23-.58 1.49 .5 1.18 1.44 .92 2.72 .08 .18-.84 3.78-1.53 .89 .32 1.73-1.85 4.28-.18 .89 1.03 .28-.05 .92-2.22-2.91-1.32-1.29 .53-2.01-.35-2.51 1.32z',
+  );
+
+  /// ![country-slovenia](https://icons.ashlar.ke/svg/sharp-stroke/country-slovenia.svg) country-slovenia, sharp stroke.
+  static const countrySlovenia = AshlarIconData(
+    'country-slovenia',
+    'sharp-stroke',
+    'M17.79 6.17l.91-1.8 2.48 .12 1.73 3.84-1.16 1.38-.39-.1-.43 1.06-3.52 1.48 .1 3.07-2.3 1.15 .47 2.9-5.13-.14-.92-1.07-.87 1.1-2.46-.26-.87 .89-2.55-1.08-.04-1.82 .6-.29-1.16-1.14 .07-1.03-1.23-.12 1.13-2.15-1.86-.9 3.29-3.8 5.51 1.12 2.06-1.77z m2.09 .3l-.79 1.58-7.02 .68-2.32 2.01-5.33-1.08-.81 .94 1.38 .66-.71 1.35 .21 .02-.15 2.05 2.29 2.24 1.25 .14 1.67-2.14 1.94 2.23 1.83 .06-.33-1.98 2.48-1.23-.1-3.17 4.02-1.68 .77-1.92 .07 .02z',
+  );
+
+  /// ![country-somalia](https://icons.ashlar.ke/svg/sharp-stroke/country-somalia.svg) country-somalia, sharp stroke.
+  static const countrySomalia = AshlarIconData(
+    'country-somalia',
+    'sharp-stroke',
+    'M15.02 2.28l5.59-1.39-.55 3.52-.34-.06-.02 .46 .11 .05-.12 .24-.01 .23-.11 .02-4.13 8.2-10.37 10-1.64-2.46 0-6.07 1.94-2.43 4.31-1.15 4.16-4.24 1.18-1.8z m3.15 1.28l-1.15 .28 0 2.12 1.12-2.22z m-1.24 2.57l-1.53 2.33-4.68 4.78-4.19 1.11-1.1 1.37 0 4.71 8.37-8.08z',
+  );
+
+  /// ![country-south-africa](https://icons.ashlar.ke/svg/sharp-stroke/country-south-africa.svg) country-south-africa, sharp stroke.
+  static const countrySouthAfrica = AshlarIconData(
+    'country-south-africa',
+    'sharp-stroke',
+    'M14.22 4.52l3.24-2.24 3.37 .42 1.05 3.5-.03 2.88 1.11 .94-.66 2.46-2.7 3.65-3.13 3.05-3.14 1.53-3.74-.04-3.23 1.14-2.69-.87-1.01-2.87 .42-1.44-2.25-4.53 1.34-1.76 3.09 1.14 .04-.02 0-4.57 1.96-.29 .64 2.14 1.73-2.19 2.86 .54z m3.76-.16l-2.32 1.6-2.25 3.33-2.96-.56-1.59 2.03-1.56-.03 0 1.78-1.76 1.21-2.05-.76 1.73 3.47-.46 1.58 .47 1.33 1.11 .35 2.92-1.02 3.61 .04 2.44-1.19 2.77-2.71 2.38-3.21 .03-.09-2.24-1.44 1.07-2.83 .55 .1 .01-.86-.59-1.96z',
+  );
+
+  /// ![country-south-georgia-and-the-south-sandwich-islands](https://icons.ashlar.ke/svg/sharp-stroke/country-south-georgia-and-the-south-sandwich-islands.svg) country-south-georgia-and-the-south-sandwich-islands, sharp stroke.
+  static const countrySouthGeorgiaAndTheSouthSandwichIslands = AshlarIconData(
+    'country-south-georgia-and-the-south-sandwich-islands',
+    'sharp-stroke',
+    'M1.94 4.53l6-.39 2.86 1.45 .67 .58 2.88-.11 1.46 2.13-.03 .09 .48 .53 1.33-1.08 2.57 5.26 2.04 .02-.2 2.95 1.73 1.38-4.6 2.85-4.15-6.02-2.05-.69-1.25-1.8-.86 .01-4.36-2.83-1.63 .25-.85-2.28-2.13-.31z m5.58 1.65l-1.44 .09 .16 .55-.08 .07 .76-.11 4.48 2.91 1.32-.03 1.47 2.14 2.06 .69 3.44 5 .58-.35-.33-.26 .12-1.89-1.16 0-2.01-4.12-.87 .7-1.07-1.21-.38 .09-1.17-1.29 .21-.65-.28-.41-2.56 .09-1.09-.92z',
+  );
+
+  /// ![country-south-korea](https://icons.ashlar.ke/svg/sharp-stroke/country-south-korea.svg) country-south-korea, sharp stroke.
+  static const countrySouthKorea = AshlarIconData(
+    'country-south-korea',
+    'sharp-stroke',
+    'M12.17 2.48l1.9-2.2 4.4 7.69 .23 4.97 1.05 .02-1.97 5.91-2.56 .37-.31 1.3-2.47-.36 .01 1.41-1.41-.56-.08 .45-1.66 .03-2.56 1.97-2.1-3.51 .86-.49-.46-1.47 1.74-3.36-.76-2.9-.68-.2-.38-1.71 1.77-1.57 .48 .28-.92-2.82 2.29-3.13z m1.56 1.24l-.62 .73-3.49 .11-1.11 1.53 1.28 3.91-1.23 1.67-.58-.34 .92 3.56-1.7 3.3 .35 1.15-.11 .04 .23 .86 1.71-1.31 .12-.68 .5 .2 .34-.26 .09 .42-.01-.73 2.97 .42 .19-.84 2.7-.39 .71-2.15-.21-.01-.29-6.36z',
+  );
+
+  /// ![country-south-sudan](https://icons.ashlar.ke/svg/sharp-stroke/country-south-sudan.svg) country-south-sudan, sharp stroke.
+  static const countrySouthSudan = AshlarIconData(
+    'country-south-sudan',
+    'sharp-stroke',
+    'M14.89 3.71l4.45-.85-.17 3.41 1.32 .95 .51 4-1.66 .5 2.46 1.79 1.4 2.99-2.83 2.82-1.12 1.09-5.56 .56-2.29-2.06-2.77 .39-3.37-4.38-4.37-3.55 1.98-4.56 2.62-.55 1.37 1.77 2.23 .3 1 0 2.28-1.89 1.99 .89 1.36-1.43z m2.28 3.57l-2.33 2.45-2.15-.95-1.88 1.55-1.86 0-3.17-.42-1.11-1.43-.38 .07-.96 2.22 3.37 2.75 2.81 3.64 2.53-.37 2.33 2.1 3.99-.4 .62-.6 1.82-1.81-.6-1.25-3.57-2.61 1.11-2.11 1.06-.32-.19-1.45z',
+  );
+
+  /// ![country-spain](https://icons.ashlar.ke/svg/sharp-stroke/country-spain.svg) country-spain, sharp stroke.
+  static const countrySpain = AshlarIconData(
+    'country-spain',
+    'sharp-stroke',
+    'M.96 4.65l3.28-1.71 9.92 .78 2.8 1.5 5.84 .6 .15 2.48-4.36 2.51-1.23 2 .85 1.6-2.07 3.22-1.39 .43-.96 1.48-3.7 .05-2.69 1.94-1.28-2.49-2.07-.61-.35-1.86 .83-1.2-1.06-3.53 1.15-.37 .07-2.21 .5-.5-3.4 .03z m3.7 .33l-1.44 .75 .21 1.04 3.21-.02 1.51 1.86-1.48 1.49-.09 2.83-.63 .21 .78 2.58-.82 1.17 1.59 .47 .62 1.19 1.31-.95 3.26-.04 .78-1.2 1.39-.43 1.03-1.62-.83-1.57 2.09-3.41 3.06-1.76-3.85-.41-2.78-1.48z',
+  );
+
+  /// ![country-sri-lanka](https://icons.ashlar.ke/svg/sharp-stroke/country-sri-lanka.svg) country-sri-lanka, sharp stroke.
+  static const countrySriLanka = AshlarIconData(
+    'country-sri-lanka',
+    'sharp-stroke',
+    'M7.25 2.8l.66-1.8 1.74 .1 2.69 2.55 3.52 5.01 2.75 6.33-1.43 5.25-5.43 2.68-4.09-1.16-1.42-4.1-.77-7.11 .62-.24 1.33-7.38z m2.82 1.45l-.21 .43-.69-.19-1.23 6.82-.37 .08 .63 5.83 1 2.9 2.35 .66 3.93-1.94 1.01-3.69-2.39-5.51-3.28-4.67z',
+  );
+
+  /// ![country-sudan](https://icons.ashlar.ke/svg/sharp-stroke/country-sudan.svg) country-sudan, sharp stroke.
+  static const countrySudan = AshlarIconData(
+    'country-sudan',
+    'sharp-stroke',
+    'M4.76 5.36l0-2.47 16.01 0 .78 4.35 2.23 1.66-2.79 1.71-1 5.07-3.32 5.52-1.84-2.58-1.47 1.59-1.46-.66-1.2 1.03-3.42-.25-.76-.86-.57 1.57-3.03 .23 .22-2.11-2.25-3.8 1.7-4.36 .97-.19 .01-5.44z m2-.47l0 2.45-1.19 .01-.01 5.11-1.51 .3-.94 2.42 1.76 2.97 .25-.69 1.99-.34 1.13 1.27 1.78 .13 1.55-1.33 1.31 .6 .6-.65-.56-1.51 1.9-.66 1.77 .03-.11 2.5 .05 .06 1.56-2.62 1.1-5.57 1.03-.63-.49-.36-.64-3.49z',
+  );
+
+  /// ![country-suriname](https://icons.ashlar.ke/svg/sharp-stroke/country-suriname.svg) country-suriname, sharp stroke.
+  static const countrySuriname = AshlarIconData(
+    'country-suriname',
+    'sharp-stroke',
+    'M4.56 5.32l2.38-4.5 4.95 1.37 .27-1.07 8.03 .29 2.44 .82-.74 3.29-1.34 1.57 .01 2.06 .41 1.75 1.93 2.5-2.31 6.33-2.19 1.13-1.64-1.4-3.48 .88-.12-.06 .48 .47-.65 2.38-4.91-1.2-2.68-4.43-.39-1.93-1.39-.08-2.33-3.69 .9-5.22 2.77-.82z m3.4-2.14l-.98 1.84 .56 .6-1.05 1.78-2.54 .74-.56 3.24 1.37 2.17 1.91 .1 .63 3.11 2.06 3.43 1.15 .28-.36-.36 1.83-2.67 1.54 .78 3.76-.96 1.4 1.2 .31-.15 1.65-4.55-1.53-1.98-.55-2.39-.01-3.04 1.5-1.75 .24-1.05-.46-.16-6.13-.21-.39 1.47z',
+  );
+
+  /// ![country-sweden](https://icons.ashlar.ke/svg/sharp-stroke/country-sweden.svg) country-sweden, sharp stroke.
+  static const countrySweden = AshlarIconData(
+    'country-sweden',
+    'sharp-stroke',
+    'M13.01 1.81l.61-1.38 3.41 2.62 .53 4.75-1.65-.11-.95 2.45-2.14 1.87-.07 1.79 1.58 1.7-2.33 2.15-.15 3.67-3.82 2.14-1.33-6.9 1.03-3.41-.55-3.73 1.43-.82 .3-2.68 1.71-2.88 1.53-1.45z m1.41 1.76l-.27 .6-1.42-.36-.53 .49-1.35 2.28-.36 3.26-1.13 .64 .41 2.83-1.01 3.35 .71 3.7 .42-.24 .15-3.39 1.45-1.34-.78-.84 .15-3.48 2.42-2.11 1.29-3.37 .73 .05-.17-1.53z',
+  );
+
+  /// ![country-switzerland](https://icons.ashlar.ke/svg/sharp-stroke/country-switzerland.svg) country-switzerland, sharp stroke.
+  static const countrySwitzerland = AshlarIconData(
+    'country-switzerland',
+    'sharp-stroke',
+    'M12.43 5.83l.66-1.44 5.8 2.24-.17 3.06 1.67 .8 1.24-1.12 1.39 1.66-.19 3.85-1.37-.3 .08 1.02-1.69 .8-.47-.45-1.91 .39-.26-.33-.96 2.67-1.87 .01-.5-1.31-1.39-.95-1.89 2.29-4.25 .16-1.76-2.38-.04-1.04-.14-.01-1.73 1.55-1.63-1.02 .88-3.16 4.55-6.53 1.18 .51 1.36-.95z m1.7 1.1l-.4 .9-4.07 .02-1.76 1.23-.72-.31-3.23 4.65 2.52 .16 .1 2.22 .76 1.04 2.3-.08 2.54-3.08 1.76 .52 .11 .86 1.11 .77 .78-2.17 1.72-.29 .62 .77 1.13-.23-.13-1.74-2.61-1.25 .15-2.95z',
+  );
+
+  /// ![country-syria](https://icons.ashlar.ke/svg/sharp-stroke/country-syria.svg) country-syria, sharp stroke.
+  static const countrySyria = AshlarIconData(
+    'country-syria',
+    'sharp-stroke',
+    'M16.73 2.57l5.27-.86 1.33 1.98-3.52 2.93 .15 2.39-1.25 5.03-13.46 8.3-4.28-2.12 .75-5.01 1.38-.45 .3-.64-.19-.51-1.51 .14-.39-7.35 1.62 .64 .73-.73 .09-2.95 3.24 .81 2.28-.96 3.55 .83z m2.97 1.54l-2.45 .4-4.29 1.61-3.51-.81-2.3 .96-1.48-.37-.03 1.25-2.17 2.19 .11 2.23 .97-.08 1.03 2.71-1.04 2.2-1.02 .33-.35 2.35 1.98 .98 11.82-7.3 .97-3.93-.19-3.09z',
+  );
+
+  /// ![country-taiwan](https://icons.ashlar.ke/svg/sharp-stroke/country-taiwan.svg) country-taiwan, sharp stroke.
+  static const countryTaiwan = AshlarIconData(
+    'country-taiwan',
+    'sharp-stroke',
+    'M11.52 2.69l3.92-1.88 2.76 2.69-3.11 11.47-2.11 3.27-1.13 5.08-1.96-.7-3.93-7.38 .31-3.87z m3.52 .52l-2.12 1.02-4.69 7.78-.23 2.81 2.6 4.89 .5-2.25 2.15-3.31 2.71-10.04z',
+  );
+
+  /// ![country-tajikistan](https://icons.ashlar.ke/svg/sharp-stroke/country-tajikistan.svg) country-tajikistan, sharp stroke.
+  static const countryTajikistan = AshlarIconData(
+    'country-tajikistan',
+    'sharp-stroke',
+    'M7.95 4.93l2.07-1.45 2.07 2.36-.66 .75 .23 .1 .18 1.74-.85 .6 .07 .05 1.67-.66 2.03 1.36 4.23-.94 .5 3.14 2.55 .48 1.17 5.24-5.02 .73-.75-.6-4.81 2.75-1.15-2.72 .26-1.76-.59-.03-.05-1.31-.75 .76-.1 1.65-2 .11-.71 2.07-1.57-1.12-2.25 1.32-1.88-1.72 1.69-3.79-.37-1.57-2.29-1.09 .51-2.31 2.94-.26 .81-1.13 .1-1 .83-.05 .26-2.36z m.66 3.72l-.17 .05 .23-.01z m-2.74 1.43l-.45 .64-1.09 .09 .55 .26 .75 3.17-1.12 2.53 1.56-.92 .45 .32 .27-.81 1.58-.09 .03-.61 2.49-2.56 2.15 1.11 .03 .94 .98 .03-.51 3.42 .05 .12 4.03-2.31 1.15 .92 2.02-.29-.41-1.86-2.65-.48-.38-2.44-2.99 .66-1.87-1.26-1.79 .72-.92-.76-4.17 .28z',
+  );
+
+  /// ![country-tanzania](https://icons.ashlar.ke/svg/sharp-stroke/country-tanzania.svg) country-tanzania, sharp stroke.
+  static const countryTanzania = AshlarIconData(
+    'country-tanzania',
+    'sharp-stroke',
+    'M2.78 1.46l7.83-.14 7.38 4.14-.08 .91 3.02 2.25-.8 2.66 1.28 1.67-.47 2.77 .6 2.22 2.21 1.4-2.12 1.62-5.04 1.72-5.2-.29-1.18-3.44-2.07-.49-3.87-1.7-2.86-4.52-.3-4.1 2.1-1.88-.52-.5 1-1.52z m7.33 1.88l-4.59 .08 .37 1.12-.62 .94 .86 .86-2.96 2.64 .2 2.62 2.26 3.58 3.15 1.38 2.96 .69 1.11 3.22 3.46 .19 3.76-1.28-.26-.16-.91-3.4 .39-2.35-1.38-1.79 .7-2.3-2.78-2.07 .06-.73z',
+  );
+
+  /// ![country-thailand](https://icons.ashlar.ke/svg/sharp-stroke/country-thailand.svg) country-thailand, sharp stroke.
+  static const countryThailand = AshlarIconData(
+    'country-thailand',
+    'sharp-stroke',
+    'M6.71 2.06l4-1.09 .6 1.21 1.43 0-.29 2.37 3.23-.86 2.88 4.66-1.19 3.07-2.77-.16-.38 .35 .61 1.87-1.61 1.07-1.17-1.03-1.43-.02-.04 .15 .01 .03-.03 .08-.52 2.26 .63 .42 .76 2.8 3.28 1.9-4.07 2.57-.17-1.71-.82-.18-3.12-3.37 1.9-4.74-1.89-4.37 .86-1.75-2.01-2.94z m2.94 1.27l-1.56 .43-.38 .75 1.99 2.92-.96 1.97 .53 1.22 3.1-.25-.02 .25 1.51-1.4 2.17 .12 .31-.79-1.58-2.54-4.67 1.24 .39-3.07-.41 0z m-.69 14.43l-.11 .25 .24 .26z',
+  );
+
+  /// ![country-timor-leste](https://icons.ashlar.ke/svg/sharp-stroke/country-timor-leste.svg) country-timor-leste, sharp stroke.
+  static const countryTimorLeste = AshlarIconData(
+    'country-timor-leste',
+    'sharp-stroke',
+    'M16.1 7.15l3.09-1.31 3.13 1.05 .29 1.74-3.32 2.56-12.68 4.78-3.82 2.69-1.75-4.9 .2-.03-.23-1.8 2.65-3.08 5.67-1.42z m3.17 .83l-2.73 1.15-6.93 .28-4.85 1.22-1.27 1.48 1.88-.1-1.01 3.1 1.31-.92 12.64-4.76 1.6-1.24z m-15.13 7.29l-.42 .07 .07 .18z',
+  );
+
+  /// ![country-togo](https://icons.ashlar.ke/svg/sharp-stroke/country-togo.svg) country-togo, sharp stroke.
+  static const countryTogo = AshlarIconData(
+    'country-togo',
+    'sharp-stroke',
+    'M7.31 4.01l.16-3.14 5.97 .77-.64 2.82 1.97 1.37 1.22 4.27-.28 8.16 1.23 3.53-3.9 1.38-3.33-3.88 .65-5.84-1.29-1.87 .48-2-1.1-.24 .65-3.69z m2.04-.88l0 .04 1.41 1.28 .24-1.11z m1.77 2.6l-.37 2.07 1.2 .28-.72 3.1 1.2 1.75-.64 5.72 1.87 2.18 .74-.26-.71-2.01 .28-8.22-.92-3.27z',
+  );
+
+  /// ![country-tonga](https://icons.ashlar.ke/svg/sharp-stroke/country-tonga.svg) country-tonga, sharp stroke.
+  static const countryTonga = AshlarIconData(
+    'country-tonga',
+    'sharp-stroke',
+    'M.78 7.32l3.66-3.42 1.67 .86-.23 1.73 .82 .56 5.19 .41 4.89 2.15-.12 1.3 .88-1.77 5.7-1.22-.71 4.07-5.87 8.92-3.99-3.75-9.53-5.05z m2.97-.04l-.52 .48 1.41 2.89 9.21 4.87 2.45 2.31 4.33-6.6 .13-.73-1.86 .4-1.17 2.37-1.81-.02-2.84-1.1 .13-1.9 .03-.01-1.85-.82-5.37-.41-2.3-1.56z',
+  );
+
+  /// ![country-trinidad-and-tobago](https://icons.ashlar.ke/svg/sharp-stroke/country-trinidad-and-tobago.svg) country-trinidad-and-tobago, sharp stroke.
+  static const countryTrinidadAndTobago = AshlarIconData(
+    'country-trinidad-and-tobago',
+    'sharp-stroke',
+    'M18.61 3.19l3.34-.17 .88 1.56-2.19 3.26-.07 3.36 1.45 3.36-1.08 4.75-3.95 1.39-14.98 .19-.46-1.89 4.67-2.39 .66-1.2 2.4-.46 .35-5.55-3.03-2.04 .36-1.81z m1.45 1.93l-1.19 .06-9.17 1.86 1.99 1.34-.51 8.23-3 .58-.5 .92-1.42 .72 10.37-.13 2.61-.91 .68-3.03-1.35-3.18 .09-4.36z',
+  );
+
+  /// ![country-tunisia](https://icons.ashlar.ke/svg/sharp-stroke/country-tunisia.svg) country-tunisia, sharp stroke.
+  static const countryTunisia = AshlarIconData(
+    'country-tunisia',
+    'sharp-stroke',
+    'M9.15 2.32l3.2-1.39 2 .64 .24 .64 .47-.3 1.42 1.31-1.09 2.04 1.55 2.73-2.28 3.04 2.99 2.16 0 3.19-2.91 2.06-.12 2.45-1.92 1.83-1.67-.51-1.03-4.83-1.54-1.24-2.34-4.33 1.9-2.78-.09-5.04z m3.3 .75l-2 .87-.5 .69 .09 5-1.58 2.3 1.56 2.91 1.78 1.42 .81 3.78 .05-.05 .14-2.61 2.85-2.04 0-1.13-3.81-2.76 2.72-3.62-1.45-2.53 .31-.58-.59-1.53z',
+  );
+
+  /// ![country-turkey](https://icons.ashlar.ke/svg/sharp-stroke/country-turkey.svg) country-turkey, sharp stroke.
+  static const countryTurkey = AshlarIconData(
+    'country-turkey',
+    'sharp-stroke',
+    'M7.38 8.02l4.19-1.37 3.64 1.58 3.12-.75 2.12-.1 1.08 2.27 .94 .5-.06 1.79-.06 .03 .78 2.72-1.53 1.14-1.82-.63-3.51 .92-2.34-.13-.29 .68-1.92-.33-.01-.16-2.62 .9-2.05-1.01-.94 .89-2.95-.94-.03-.3-.84 .06-.05-1.77-.4-.16 .09-1.35-1.31-2.68 4.15-.75 .11-.07 .46-1.12z m4.09 .77l-3.83 1.25-.48-.03-1.7 .96-1.89 .35 .98 2.02-.34 .09 .01 .21 0 0 .19 .69 1.17 .37 1.1-1.05 2.55 1.27 4.32-1.5 .03 .55 2.49 .13 3.79-.98 .82 .28-.65-2.28-.02-.01-.8-1.67-.6 .03-3.58 .86z',
+  );
+
+  /// ![country-turkmenistan](https://icons.ashlar.ke/svg/sharp-stroke/country-turkmenistan.svg) country-turkmenistan, sharp stroke.
+  static const countryTurkmenistan = AshlarIconData(
+    'country-turkmenistan',
+    'sharp-stroke',
+    'M8.46 4.94l2.19-.97 2.89 1.5 .13 1.29 2.37 .51 .92 2.3 1.54 1.25 4.46 2.34-.19 3.21-1.9-.71-.6 .35-.41 1.4-3.91 2.68-2.48-1.35-.16-1.49-.64 0-1.63-1.76-2.54-1.09-2.08 .25-1.88 1.17-1.53-.83-.05-2.35-1.27-.74 .27-.68-.67-1.75 .29-1.12-.92-1.96 1.08-.48 .02-.19 .85-.19 1.8-.79 2.87 2.01 .04 0-.04-.46 1.39-1.06z m2.13 1.25l-.08 .03-.11 .13 .04 .06-.25 .18-.21 .24-.06-.03-.56 .43 .12 1.68-2.9-.2-.21-.15-2.37 1.55-.41-.22 .01 .03 .74 .75-.15 .37 .75 .42 .03 1.73 .77-.48 3.06-.35 3.42 1.46 1.31 1.43 1.56-.02 .26 2.25 .48 .27 2.31-1.59 .45-1.47 1.4-.83-2.59-1.36-2.1-1.71-.72-1.78-2.75-.6-.17-1.66z',
+  );
+
+  /// ![country-turks-and-caicos-islands](https://icons.ashlar.ke/svg/sharp-stroke/country-turks-and-caicos-islands.svg) country-turks-and-caicos-islands, sharp stroke.
+  static const countryTurksAndCaicosIslands = AshlarIconData(
+    'country-turks-and-caicos-islands',
+    'sharp-stroke',
+    'M10.6 8.01l3.7-.08 1.42 3.31 5.96 .35 1.6 2.52-1.63 1.6-5.92-.95-.56-1.88-.38 .42-2.34-.8-2.39-2.19z m2.4 1.95l-.36 0 .59 .54z m-11.83 6.13l.14-5.71 4.47 2.33 1.88 .09 .14 1.98z',
+  );
+
+  /// ![country-tuvalu](https://icons.ashlar.ke/svg/sharp-stroke/country-tuvalu.svg) country-tuvalu, sharp stroke.
+  static const countryTuvalu = AshlarIconData(
+    'country-tuvalu',
+    'sharp-stroke',
+    'M8.78 2.63l2.75-2.29 3.02 7.72 1.49 8.14-1 3.25-4.3 3.57-2.99-.13 1.72-7.63z m2.09 1.53l.62 11.26-1.22 5.39 3.03-2.52 .68-2.21-1.37-7.46z',
+  );
+
+  /// ![country-uganda](https://icons.ashlar.ke/svg/sharp-stroke/country-uganda.svg) country-uganda, sharp stroke.
+  static const countryUganda = AshlarIconData(
+    'country-uganda',
+    'sharp-stroke',
+    'M15.99 2.53l2.09-2 2.45 3 2.07 7.43-3.73 5.58-.16 4.82-11.75-.03-1.21 .21-1.68 1.55-2.67-.62 1.49-9.02 4-3.73-1.36-1.08 .48-4.51 1.21-1.35 3.44-.35 1.04 .87 2.78-1.15z m1.91 .94l-1.33 1.26-1.93-.48-3.28 1.37-1.34-1.11-1.82 .19-.27 .29-.3 2.77 2.34 1.82-5.22 4.87-1.03 6.25 1.11-1.02 1.95-.35 9.99 .03 .12-3.46 3.53-5.28-1.71-6.15z',
+  );
+
+  /// ![country-ukraine](https://icons.ashlar.ke/svg/sharp-stroke/country-ukraine.svg) country-ukraine, sharp stroke.
+  static const countryUkraine = AshlarIconData(
+    'country-ukraine',
+    'sharp-stroke',
+    'M11.09 5.62l4.53-.74 .62 2.16 1.23 .35 .25 .92 1.48-.05 3.83 1.83-.51 4.21-1.61 .49-.17 .84-3.35 1.12-.44 1.65-4.79-1.29-.04-.05-.05-.01-1.05 1.88-1.91 .09-1.65-1 1.52-3.11 .36 .02-.34-.8-1.01-.5-2.79 1.23-2.92-.51-1.5-1.92 2.31-3.52-.64-2.16 1.85-.98 6.39 .95z m3.1 1.52l-1.62 .26-.56 1.54-7.14-1.06 .4 1.35-2.03 3.1 .14 .18 1.56 .27 3.11-1.35 2.49 1.24 .92 2.12 .38-.05 1.6-.74 .91 1-.22 .57 1.4 .37 .2-.75 3.27-1.08 .17-.9 1.52-.45 .18-1.49-2.09-.99-2.58 .09-.37-1.36-1.21-.35z',
+  );
+
+  /// ![country-united-arab-emirates](https://icons.ashlar.ke/svg/sharp-stroke/country-united-arab-emirates.svg) country-united-arab-emirates, sharp stroke.
+  static const countryUnitedArabEmirates = AshlarIconData(
+    'country-united-arab-emirates',
+    'sharp-stroke',
+    'M13.13 11.48l7.82-9.11 1.65 3.39 .46 3.78-2.62 2.13-.02 .36 .57 .5-.41 1.72-1.57 .41-1.51 6.29-11.96-1.58-4.57-6.11 .19-1.36 1.78-.48 .85 1.09 2.6-.65 5.08 .35z m7.36-5.49l-6.14 7.13-2.52 1.11-5.26-.35-2.22 .55 2.29 3.06 9.34 1.24 1.37-5.71 1.04-.27 .18-3.79 2.28-1.04-.19-1.58z',
+  );
+
+  /// ![country-united-kingdom](https://icons.ashlar.ke/svg/sharp-stroke/country-united-kingdom.svg) country-united-kingdom, sharp stroke.
+  static const countryUnitedKingdom = AshlarIconData(
+    'country-united-kingdom',
+    'sharp-stroke',
+    'M8.97 1.17l3.19-.13 .9 1.51-.53 .89 2.73-.07-1.51 3.99-.08 .04 .45 .09 1.36 3.05 1.63 1.42 .39 1.71 .35 .25-.16 .55 .02 .13 2.06 .48-.4 2.62-.34 .32 .83 .14-1.65 2.69-5.44 .5-.89 1.06-2.98 .51-.98-1.58 1.72-2.34-.86-.41-.13-1.73 1.09-.74 .02-.36-.59-.79 .8-1.12 1.57-.29-.06-.72-1.21-1.12-.14 .01 .04 .09-1.99 1.88-4.59-1.48 2.44-2.88 1.62-.32 .37-1.54-1.46 .11z m1.01 2.98l-.46 1.22 1.08-.07-.56 2.31 .79 .32-.27 1.77 1.58-.13 .85 1.64-.14 .17 .57 .52 .26 3.3-1.91 .35-.07 1.65-.48 .33 .32 .15 .81-.32 1.21 1.48-.3 .46 3.27-.3-.32-1.08 1.28-1.2 .02-.12-2.39-.56 .4-1.32-.67-.49 .49-1.06-.03-.13-1.47-1.28-1.12-2.51-1.72-.35-.04-1.95 .44-.11-.05-.41 .78-.45 .21-.53-1.57 .04z m-2.47 6.93l-.4 .08-.06 .08 .61 .2 .03-.02z',
+  );
+
+  /// ![country-united-states](https://icons.ashlar.ke/svg/sharp-stroke/country-united-states.svg) country-united-states, sharp stroke.
+  static const countryUnitedStates = AshlarIconData(
+    'country-united-states',
+    'sharp-stroke',
+    'M20.06 7.56l1.1-1.86 2.34 3.42-1.55 .7 .14 1.11-1.79 .24-.37 .99 .33 .66-2.21 2.21 .26 2.07-1.87 .61-.89-1.64-.83-.19-.18 .04-.46 .67-1.22-.2-1.03 2.13-3.8-3.09-1.44 .18-3.9-1.67-1.55-2.99-.14-3.75 .67-.34-.04-1 13.26 .34 2.74 1.74-.02 .45 1.42-.74z m-16.81 .35l-.22 .1 .09 2.42 1.01 1.95 2.76 1.18 1.74-.21 2.5 2.03 .59-1.19 .86 .13 2.14-.5 1.39 .32 1.71-1.72-.63-1.28 .92-.75-2.6 1.36 .08-2.73-1.3-.84z m15.3 2.25l-.21 .11 .14 .07z',
+  );
+
+  /// ![country-united-states-virgin-islands](https://icons.ashlar.ke/svg/sharp-stroke/country-united-states-virgin-islands.svg) country-united-states-virgin-islands, sharp stroke.
+  static const countryUnitedStatesVirginIslands = AshlarIconData(
+    'country-united-states-virgin-islands',
+    'sharp-stroke',
+    'M1.33 9.52l8.84-1.72 5.52 3.05 6.31 0 .4 1.92-7.04 3.08-14.42 .32z m8.5 .38l-6.6 1.28-.17 2.95 11.86-.27 2.3-1.01-2.05 0z',
+  );
+
+  /// ![country-uruguay](https://icons.ashlar.ke/svg/sharp-stroke/country-uruguay.svg) country-uruguay, sharp stroke.
+  static const countryUruguay = AshlarIconData(
+    'country-uruguay',
+    'sharp-stroke',
+    'M6.88 1.68l1.63-.89 3.49 3.52 .66-.45 7.1 5.52 2.78 3.53-1.6 2.04 .54 2.26-1.77 3.22-4.48 2.64-2.84-.69-2.17 .56-3.34-1.93-2.72-.02-2.46-3.77 .33-2.88 .91-1.1-.35-3.78 2.34-8.34z m1.27 1.59l-1.03 .55-.81-.22-1.7 6.04 .39 4.24-1.05 1.28-.18 1.58 1.47 2.25 2.18 .02 3.1 1.79 1.85-.48 2.54 .61 3.32-1.94 1.13-2.06-.58-2.46 1.22-1.56-1.66-2.1-5.76-4.47-2.17 1.47-.29-2.55z',
+  );
+
+  /// ![country-uzbekistan](https://icons.ashlar.ke/svg/sharp-stroke/country-uzbekistan.svg) country-uzbekistan, sharp stroke.
+  static const countryUzbekistan = AshlarIconData(
+    'country-uzbekistan',
+    'sharp-stroke',
+    'M1 5.61l4.23-1.23 4.09 3.28 3.4-.35 1.97 1.59 .59 2.37 1.21-.02 .24 .39 2.07-1.77 .86 .82 .21-.44 4 2.65-3.3 2-2.36-.17-.11-.58-.87 1.58-.29 .04 .59 1.07-1.2 2.81-3.09-.6 .07-1.27-2.91-1.59-2.08-2.88-2.46-.55-.14-1.45-1.52 .59 .08 1.35-3.28-.27z m3.79 .98l-1.79 .52 0 3.11 1.03-.4 .29-1.55 3.3 1.78 .1 1.07 1.78 .41 2.26 3.12 3.26 1.79-1.28-2.31 2.04-.24-.39-.62-1.65 .04-.83-3.27-.81-.65-3.4 .35z',
+  );
+
+  /// ![country-vanuatu](https://icons.ashlar.ke/svg/sharp-stroke/country-vanuatu.svg) country-vanuatu, sharp stroke.
+  static const countryVanuatu = AshlarIconData(
+    'country-vanuatu',
+    'sharp-stroke',
+    'M6.41 7.52l-.57-3.73 2.74 .85 .12 .66 .97 .42 .06 1.92 .68 1 1.15 1-.39 1.71-1.86 .53-1.55-2.57 .23-.45-.78 .11z',
+  );
+
+  /// ![country-vatican-city](https://icons.ashlar.ke/svg/sharp-stroke/country-vatican-city.svg) country-vatican-city, sharp stroke.
+  static const countryVaticanCity = AshlarIconData(
+    'country-vatican-city',
+    'sharp-stroke',
+    'M6.54 2.78l15.04-1.89 1.49 20.05-16.33 2.12-5.89-8.31z m13.2 .35l-11.86 1.49-4.72 9.93 4.52 6.37 13.25-1.72z',
+  );
+
+  /// ![country-venezuela](https://icons.ashlar.ke/svg/sharp-stroke/country-venezuela.svg) country-venezuela, sharp stroke.
+  static const countryVenezuela = AshlarIconData(
+    'country-venezuela',
+    'sharp-stroke',
+    'M5.13 3.91l1.8-1.84 3.15 2.86 2.64-.19 1.54 .77 1.05-.32 .05-.44 3.57-.16 .2 1.62 1.72 .48 .28 1.14 .62 .02 .8 1.56-.65 .95 .87 1.26-1.91 .75-.06 .18 1.48 2.05-4.64 2.72-1.18-.42 .08 .18 .59 .26 .18 1.73-3.64 2.6-2.76-1.12-2.01-3.24 .86-.98-.67-1.34 .35-1.58-2.07 .06-1.07-1.26-2.99-.13-1.2-3.16-1.52-.24 1.59-3.86 .77-.59-.15-.38 1.8-.83z m2.45 1.45l-.03 .09-1.65 .52 .35 2.76-1.92 .4 .38 1.01 2.55 .11 1.01 1.2 3.67-.1-.75 3.38 .95 1.92-.76 .86 .89 1.44 1.14 .46 1.49-1.07-1.15-2.74 1.25-1.33 2.43 .85 1.93-1.14-.78-1.07 .66-2.06 .45-.17-.21-.32 .38-.56-.53-.02-.6-1.61-.99-.27-.96-1.21-.26 .01 .01 .21-2.45 .76-1.76-.89-2.96 .21z',
+  );
+
+  /// ![country-vietnam](https://icons.ashlar.ke/svg/sharp-stroke/country-vietnam.svg) country-vietnam, sharp stroke.
+  static const countryVietnam = AshlarIconData(
+    'country-vietnam',
+    'sharp-stroke',
+    'M9.27 2.12l1.96-1.24 3.16 1.25-.15 1.06 .96 .36 .03 1.86-1.33 .55-.92 1.82 3.89 4.55 .94 4.29-.85 2.42-2.91 1.11 0 .14-.59 .28 .37 .7-2.64 1.57-1.48-1.08 .27-1.19-.34-.24 .37-1.78 1.16-.27-.33-.94 2.43-1.11 .14-2.97-2.92-4.13-2.85-1.55 1.58-1.12-1.32-.23-2.39-3.76z m2.17 1l-1.51 .94-.98 .09 .17 .26 1.97 .35 .6 1.14 .64-1.28-.29-.11 .15-1.1z m3.91 11.6l-.14 2.82-.39 .17 .56-.21 .35-1z',
+  );
+
+  /// ![country-wallis-and-futuna](https://icons.ashlar.ke/svg/sharp-stroke/country-wallis-and-futuna.svg) country-wallis-and-futuna, sharp stroke.
+  static const countryWallisAndFutuna = AshlarIconData(
+    'country-wallis-and-futuna',
+    'sharp-stroke',
+    'M.81 8.86l2.94-4.42 5.74 1.8 4.94 5.7 8.72 2.8-.71 3.66-8.42 .99-7.91-1.91z m3.78-2.06l-1.4 2.1 4.2 6.83 6.75 1.64 6.62-.79 .09-.48-7.56-2.42-4.94-5.7z',
+  );
+
+  /// ![country-western-sahara](https://icons.ashlar.ke/svg/sharp-stroke/country-western-sahara.svg) country-western-sahara, sharp stroke.
+  static const countryWesternSahara = AshlarIconData(
+    'country-western-sahara',
+    'sharp-stroke',
+    'M20.68 3.12l2-.11 .4 5.39-7.95 0-.05 .12-.02 6.02-2.63 1.66 .36 4.35-9.7 .01-.12 .48-1.96-.4 .36-2.29 5.5-.2 1.9-5.33 3.5-3 .81-1.74 0-1.68 .77 0 1.04-2.25 5.81-.58z m.18 2.44l-4.63 .47-.17 .37 4.86 0z m-7.79 6.22l-2.6 2.22-1.63 4.55 1.77 0-.28-3.39 2.73-1.72z',
+  );
+
+  /// ![country-yemen](https://icons.ashlar.ke/svg/sharp-stroke/country-yemen.svg) country-yemen, sharp stroke.
+  static const countryYemen = AshlarIconData(
+    'country-yemen',
+    'sharp-stroke',
+    'M14.24 5.41l6.23-.87 2.74 6.01-3.52 3.25-15.01 5.6-1.86-.33-1.87-5.93 1.64-5.55 7.6 .51 .27 .22 1.49-1.82z m5.03 1.31l-4.45 .63-1.61 .77-2.47 3-1.31-1.06-5.38-.37-1 3.43 1.31 4.19 .14 .03 14.13-5.28 2.16-1.99z',
+  );
+
+  /// ![country-zambia](https://icons.ashlar.ke/svg/sharp-stroke/country-zambia.svg) country-zambia, sharp stroke.
+  static const countryZambia = AshlarIconData(
+    'country-zambia',
+    'sharp-stroke',
+    'M13.26 2.94l3.96-.65 4.75 2.87 1.27 2.58-.85 .74 .4 2.39-1.16 1.76 .21 .16-.31 1.73-4.21 1.42 .3 1.24-3.25 .78-3.79 3.75-6.66-.81-2.81-2.96-.13-7.13 3.42-.03 0-2.73 1.8-.6 .32 .44 1.45-.34 1.24 1.17 1.95-.54 .8 .79 .03-4.11z m3.56 1.45l-2.38 .39-.45 .68-.03 3.45 .52 .61 1.92-.52-.06 4.65-2.75-.25-3.01-2.98-1.93 .53-1.28-1.21-.97 .23 0 2.79-3.38 .03 .07 4.33 1.79 1.88 4.98 .61 3.5-3.47 1.84-.44-.26-1.06 4.23-1.44-.2-.17 1.72-2.6-.46-2.73 .53-.46-.33-.68z',
+  );
+
+  /// ![country-zimbabwe](https://icons.ashlar.ke/svg/sharp-stroke/country-zimbabwe.svg) country-zimbabwe, sharp stroke.
+  static const countryZimbabwe = AshlarIconData(
+    'country-zimbabwe',
+    'sharp-stroke',
+    'M13.37 1.82l2.81-.02 .12 1 1.37 .06 5.16 2.19 .14 5.36-.7 1.47 .78 2.93-1.4 2-.17 1.81-3.53 3.62-5.83-.67-.92-1.14-2.83-.72-.87-2.99-3.85-2.64-2.46-4.98 1-1.43 3.99 .39 2.15-2.65 1.91-.89 .4-1.49z m1.03 1.99l-.61 .01-1.47 .65-.38 1.47-2.35 1.09-2.53 3.13-3.28-.33 1.43 2.89 4.01 2.76 .75 2.57 2.37 .6 .82 1.02 4.05 .47 2.35-2.41 .15-1.64 1.17-1.66-.73-2.75 .8-1.69-.08-3.6-3.64-1.55-2.73-.1z',
   );
 
   /// ![cowboy-hat](https://icons.ashlar.ke/svg/sharp-stroke/cowboy-hat.svg) cowboy-hat, sharp stroke.

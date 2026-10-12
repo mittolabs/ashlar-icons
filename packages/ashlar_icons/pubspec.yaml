@@ -1,6 +1,6 @@
 name: ashlar_icons
-description: 6,553 icons in ten styles (Rounded, Standard and Sharp; stroke, solid, duotone, twotone, bulk) as Flutter icon fonts whose codepoints never change.
-version: 0.2.0
+description: 6,791 icons in ten styles (Rounded, Standard and Sharp; stroke, solid, duotone, twotone, bulk) as Flutter icon fonts whose codepoints never change.
+version: 0.3.0
 homepage: https://icons.ashlar.ke
 repository: https://github.com/mittolabs/ashlar-icons/tree/main/packages/ashlar_icons
 issue_tracker: https://github.com/mittolabs/ashlar-icons/issues

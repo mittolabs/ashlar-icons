@@ -1,7 +1,7 @@
 {
   "name": "@mittolabs/ashlar-icons-core",
-  "version": "0.2.0",
-  "description": "The ashlaricons drawings as data: 6,553 icons in ten styles, for any framework's icon component.",
+  "version": "0.3.0",
+  "description": "The ashlaricons drawings as data: 6,791 icons in ten styles, for any framework's icon component.",
   "license": "ISC",
   "homepage": "https://icons.ashlar.ke",
   "repository": {
@@ -61,6 +61,18 @@
     "./sharp-solid": {
       "types": "./icons/sharp-solid.d.ts",
       "default": "./icons/sharp-solid.js"
+    },
+    "./flags": {
+      "types": "./flags/rect.d.ts",
+      "default": "./flags/rect.js"
+    },
+    "./flags/rect": {
+      "types": "./flags/rect.d.ts",
+      "default": "./flags/rect.js"
+    },
+    "./flags/circle": {
+      "types": "./flags/circle.d.ts",
+      "default": "./flags/circle.js"
     }
   },
   "files": [
@@ -68,6 +80,7 @@
     "index.d.ts",
     "same.js",
     "icons",
+    "flags",
     "LICENSE",
     "NOTICE",
     "README.md",

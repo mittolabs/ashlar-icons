@@ -14923,6 +14923,62 @@ abstract final class AshlarIconsRoundedDuotone {
     fontPackage: _p,
   );
 
+  /// ![continent-africa](https://icons.ashlar.ke/svg/rounded-duotone/continent-africa.svg) continent-africa, rounded duotone.
+  static const IconData continentAfrica = IconData(
+    0xf00a1,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![continent-antarctica](https://icons.ashlar.ke/svg/rounded-duotone/continent-antarctica.svg) continent-antarctica, rounded duotone.
+  static const IconData continentAntarctica = IconData(
+    0xf00a2,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![continent-asia](https://icons.ashlar.ke/svg/rounded-duotone/continent-asia.svg) continent-asia, rounded duotone.
+  static const IconData continentAsia = IconData(
+    0xf00a3,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![continent-europe](https://icons.ashlar.ke/svg/rounded-duotone/continent-europe.svg) continent-europe, rounded duotone.
+  static const IconData continentEurope = IconData(
+    0xf00a4,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![continent-north-america](https://icons.ashlar.ke/svg/rounded-duotone/continent-north-america.svg) continent-north-america, rounded duotone.
+  static const IconData continentNorthAmerica = IconData(
+    0xf00a5,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![continent-oceania](https://icons.ashlar.ke/svg/rounded-duotone/continent-oceania.svg) continent-oceania, rounded duotone.
+  static const IconData continentOceania = IconData(
+    0xf00a6,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![continent-south-america](https://icons.ashlar.ke/svg/rounded-duotone/continent-south-america.svg) continent-south-america, rounded duotone.
+  static const IconData continentSouthAmerica = IconData(
+    0xf00a7,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
   /// ![contract](https://icons.ashlar.ke/svg/rounded-duotone/contract.svg) contract, rounded duotone.
   static const IconData contract = IconData(
     0xecf2,
@@ -15195,6 +15251,1849 @@ abstract final class AshlarIconsRoundedDuotone {
     0xed03,
     fontFamily: 'AshlarRoundedStroke',
     fontPackage: _p,
+  );
+
+  /// ![country-afghanistan](https://icons.ashlar.ke/svg/rounded-duotone/country-afghanistan.svg) country-afghanistan, rounded duotone.
+  static const IconData countryAfghanistan = IconData(
+    0xf00a8,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-aland](https://icons.ashlar.ke/svg/rounded-duotone/country-aland.svg) country-aland, rounded duotone.
+  static const IconData countryAland = IconData(
+    0xf00a9,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-albania](https://icons.ashlar.ke/svg/rounded-duotone/country-albania.svg) country-albania, rounded duotone.
+  static const IconData countryAlbania = IconData(
+    0xf00aa,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-algeria](https://icons.ashlar.ke/svg/rounded-duotone/country-algeria.svg) country-algeria, rounded duotone.
+  static const IconData countryAlgeria = IconData(
+    0xf00ab,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-american-samoa](https://icons.ashlar.ke/svg/rounded-duotone/country-american-samoa.svg) country-american-samoa, rounded duotone.
+  static const IconData countryAmericanSamoa = IconData(
+    0xf00ac,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-andorra](https://icons.ashlar.ke/svg/rounded-duotone/country-andorra.svg) country-andorra, rounded duotone.
+  static const IconData countryAndorra = IconData(
+    0xf00ad,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-angola](https://icons.ashlar.ke/svg/rounded-duotone/country-angola.svg) country-angola, rounded duotone.
+  static const IconData countryAngola = IconData(
+    0xf00ae,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-anguilla](https://icons.ashlar.ke/svg/rounded-duotone/country-anguilla.svg) country-anguilla, rounded duotone.
+  static const IconData countryAnguilla = IconData(
+    0xf00af,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-antigua-and-barbuda](https://icons.ashlar.ke/svg/rounded-duotone/country-antigua-and-barbuda.svg) country-antigua-and-barbuda, rounded duotone.
+  static const IconData countryAntiguaAndBarbuda = IconData(
+    0xf00b0,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-argentina](https://icons.ashlar.ke/svg/rounded-duotone/country-argentina.svg) country-argentina, rounded duotone.
+  static const IconData countryArgentina = IconData(
+    0xf00b1,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-armenia](https://icons.ashlar.ke/svg/rounded-duotone/country-armenia.svg) country-armenia, rounded duotone.
+  static const IconData countryArmenia = IconData(
+    0xf00b2,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-aruba](https://icons.ashlar.ke/svg/rounded-duotone/country-aruba.svg) country-aruba, rounded duotone.
+  static const IconData countryAruba = IconData(
+    0xf00b3,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-australia](https://icons.ashlar.ke/svg/rounded-duotone/country-australia.svg) country-australia, rounded duotone.
+  static const IconData countryAustralia = IconData(
+    0xf00b4,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-austria](https://icons.ashlar.ke/svg/rounded-duotone/country-austria.svg) country-austria, rounded duotone.
+  static const IconData countryAustria = IconData(
+    0xf00b5,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-azerbaijan](https://icons.ashlar.ke/svg/rounded-duotone/country-azerbaijan.svg) country-azerbaijan, rounded duotone.
+  static const IconData countryAzerbaijan = IconData(
+    0xf00b6,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-bahamas](https://icons.ashlar.ke/svg/rounded-duotone/country-bahamas.svg) country-bahamas, rounded duotone.
+  static const IconData countryBahamas = IconData(
+    0xf00b7,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+  );
+
+  /// ![country-bahrain](https://icons.ashlar.ke/svg/rounded-duotone/country-bahrain.svg) country-bahrain, rounded duotone.
+  static const IconData countryBahrain = IconData(
+    0xf00b8,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-bangladesh](https://icons.ashlar.ke/svg/rounded-duotone/country-bangladesh.svg) country-bangladesh, rounded duotone.
+  static const IconData countryBangladesh = IconData(
+    0xf00b9,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-barbados](https://icons.ashlar.ke/svg/rounded-duotone/country-barbados.svg) country-barbados, rounded duotone.
+  static const IconData countryBarbados = IconData(
+    0xf00ba,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-belarus](https://icons.ashlar.ke/svg/rounded-duotone/country-belarus.svg) country-belarus, rounded duotone.
+  static const IconData countryBelarus = IconData(
+    0xf00bb,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-belgium](https://icons.ashlar.ke/svg/rounded-duotone/country-belgium.svg) country-belgium, rounded duotone.
+  static const IconData countryBelgium = IconData(
+    0xf00bc,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-belize](https://icons.ashlar.ke/svg/rounded-duotone/country-belize.svg) country-belize, rounded duotone.
+  static const IconData countryBelize = IconData(
+    0xf00bd,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-benin](https://icons.ashlar.ke/svg/rounded-duotone/country-benin.svg) country-benin, rounded duotone.
+  static const IconData countryBenin = IconData(
+    0xf00be,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-bermuda](https://icons.ashlar.ke/svg/rounded-duotone/country-bermuda.svg) country-bermuda, rounded duotone.
+  static const IconData countryBermuda = IconData(
+    0xf00bf,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-bhutan](https://icons.ashlar.ke/svg/rounded-duotone/country-bhutan.svg) country-bhutan, rounded duotone.
+  static const IconData countryBhutan = IconData(
+    0xf00c0,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-bolivia](https://icons.ashlar.ke/svg/rounded-duotone/country-bolivia.svg) country-bolivia, rounded duotone.
+  static const IconData countryBolivia = IconData(
+    0xf00c1,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-bosnia-and-herzegovina](https://icons.ashlar.ke/svg/rounded-duotone/country-bosnia-and-herzegovina.svg) country-bosnia-and-herzegovina, rounded duotone.
+  static const IconData countryBosniaAndHerzegovina = IconData(
+    0xf00c2,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-botswana](https://icons.ashlar.ke/svg/rounded-duotone/country-botswana.svg) country-botswana, rounded duotone.
+  static const IconData countryBotswana = IconData(
+    0xf00c3,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-brazil](https://icons.ashlar.ke/svg/rounded-duotone/country-brazil.svg) country-brazil, rounded duotone.
+  static const IconData countryBrazil = IconData(
+    0xf00c4,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-british-indian-ocean-territory](https://icons.ashlar.ke/svg/rounded-duotone/country-british-indian-ocean-territory.svg) country-british-indian-ocean-territory, rounded duotone.
+  static const IconData countryBritishIndianOceanTerritory = IconData(
+    0xf00c5,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-british-virgin-islands](https://icons.ashlar.ke/svg/rounded-duotone/country-british-virgin-islands.svg) country-british-virgin-islands, rounded duotone.
+  static const IconData countryBritishVirginIslands = IconData(
+    0xf00c6,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+  );
+
+  /// ![country-brunei](https://icons.ashlar.ke/svg/rounded-duotone/country-brunei.svg) country-brunei, rounded duotone.
+  static const IconData countryBrunei = IconData(
+    0xf00c7,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-bulgaria](https://icons.ashlar.ke/svg/rounded-duotone/country-bulgaria.svg) country-bulgaria, rounded duotone.
+  static const IconData countryBulgaria = IconData(
+    0xf00c8,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-burkina-faso](https://icons.ashlar.ke/svg/rounded-duotone/country-burkina-faso.svg) country-burkina-faso, rounded duotone.
+  static const IconData countryBurkinaFaso = IconData(
+    0xf00c9,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-burundi](https://icons.ashlar.ke/svg/rounded-duotone/country-burundi.svg) country-burundi, rounded duotone.
+  static const IconData countryBurundi = IconData(
+    0xf00ca,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-cabo-verde](https://icons.ashlar.ke/svg/rounded-duotone/country-cabo-verde.svg) country-cabo-verde, rounded duotone.
+  static const IconData countryCaboVerde = IconData(
+    0xf00cb,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+  );
+
+  /// ![country-cambodia](https://icons.ashlar.ke/svg/rounded-duotone/country-cambodia.svg) country-cambodia, rounded duotone.
+  static const IconData countryCambodia = IconData(
+    0xf00cc,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-cameroon](https://icons.ashlar.ke/svg/rounded-duotone/country-cameroon.svg) country-cameroon, rounded duotone.
+  static const IconData countryCameroon = IconData(
+    0xf00cd,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-canada](https://icons.ashlar.ke/svg/rounded-duotone/country-canada.svg) country-canada, rounded duotone.
+  static const IconData countryCanada = IconData(
+    0xf00ce,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-cayman-islands](https://icons.ashlar.ke/svg/rounded-duotone/country-cayman-islands.svg) country-cayman-islands, rounded duotone.
+  static const IconData countryCaymanIslands = IconData(
+    0xf00cf,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-central-african-republic](https://icons.ashlar.ke/svg/rounded-duotone/country-central-african-republic.svg) country-central-african-republic, rounded duotone.
+  static const IconData countryCentralAfricanRepublic = IconData(
+    0xf00d0,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-chad](https://icons.ashlar.ke/svg/rounded-duotone/country-chad.svg) country-chad, rounded duotone.
+  static const IconData countryChad = IconData(
+    0xf00d1,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-chile](https://icons.ashlar.ke/svg/rounded-duotone/country-chile.svg) country-chile, rounded duotone.
+  static const IconData countryChile = IconData(
+    0xf00d2,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-china](https://icons.ashlar.ke/svg/rounded-duotone/country-china.svg) country-china, rounded duotone.
+  static const IconData countryChina = IconData(
+    0xf00d3,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-colombia](https://icons.ashlar.ke/svg/rounded-duotone/country-colombia.svg) country-colombia, rounded duotone.
+  static const IconData countryColombia = IconData(
+    0xf00d4,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-comoros](https://icons.ashlar.ke/svg/rounded-duotone/country-comoros.svg) country-comoros, rounded duotone.
+  static const IconData countryComoros = IconData(
+    0xf00d5,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-cook-islands](https://icons.ashlar.ke/svg/rounded-duotone/country-cook-islands.svg) country-cook-islands, rounded duotone.
+  static const IconData countryCookIslands = IconData(
+    0xf00d6,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-costa-rica](https://icons.ashlar.ke/svg/rounded-duotone/country-costa-rica.svg) country-costa-rica, rounded duotone.
+  static const IconData countryCostaRica = IconData(
+    0xf00d7,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-croatia](https://icons.ashlar.ke/svg/rounded-duotone/country-croatia.svg) country-croatia, rounded duotone.
+  static const IconData countryCroatia = IconData(
+    0xf00d8,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-cuba](https://icons.ashlar.ke/svg/rounded-duotone/country-cuba.svg) country-cuba, rounded duotone.
+  static const IconData countryCuba = IconData(
+    0xf00d9,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-curacao](https://icons.ashlar.ke/svg/rounded-duotone/country-curacao.svg) country-curacao, rounded duotone.
+  static const IconData countryCuracao = IconData(
+    0xf00da,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-cyprus](https://icons.ashlar.ke/svg/rounded-duotone/country-cyprus.svg) country-cyprus, rounded duotone.
+  static const IconData countryCyprus = IconData(
+    0xf00db,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-czechia](https://icons.ashlar.ke/svg/rounded-duotone/country-czechia.svg) country-czechia, rounded duotone.
+  static const IconData countryCzechia = IconData(
+    0xf00dc,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-democratic-republic-of-the-congo](https://icons.ashlar.ke/svg/rounded-duotone/country-democratic-republic-of-the-congo.svg) country-democratic-republic-of-the-congo, rounded duotone.
+  static const IconData countryDemocraticRepublicOfTheCongo = IconData(
+    0xf00dd,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-denmark](https://icons.ashlar.ke/svg/rounded-duotone/country-denmark.svg) country-denmark, rounded duotone.
+  static const IconData countryDenmark = IconData(
+    0xf00de,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-djibouti](https://icons.ashlar.ke/svg/rounded-duotone/country-djibouti.svg) country-djibouti, rounded duotone.
+  static const IconData countryDjibouti = IconData(
+    0xf00df,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-dominica](https://icons.ashlar.ke/svg/rounded-duotone/country-dominica.svg) country-dominica, rounded duotone.
+  static const IconData countryDominica = IconData(
+    0xf00e0,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-dominican-republic](https://icons.ashlar.ke/svg/rounded-duotone/country-dominican-republic.svg) country-dominican-republic, rounded duotone.
+  static const IconData countryDominicanRepublic = IconData(
+    0xf00e1,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-ecuador](https://icons.ashlar.ke/svg/rounded-duotone/country-ecuador.svg) country-ecuador, rounded duotone.
+  static const IconData countryEcuador = IconData(
+    0xf00e2,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-egypt](https://icons.ashlar.ke/svg/rounded-duotone/country-egypt.svg) country-egypt, rounded duotone.
+  static const IconData countryEgypt = IconData(
+    0xf00e3,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-el-salvador](https://icons.ashlar.ke/svg/rounded-duotone/country-el-salvador.svg) country-el-salvador, rounded duotone.
+  static const IconData countryElSalvador = IconData(
+    0xf00e4,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-equatorial-guinea](https://icons.ashlar.ke/svg/rounded-duotone/country-equatorial-guinea.svg) country-equatorial-guinea, rounded duotone.
+  static const IconData countryEquatorialGuinea = IconData(
+    0xf00e5,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-eritrea](https://icons.ashlar.ke/svg/rounded-duotone/country-eritrea.svg) country-eritrea, rounded duotone.
+  static const IconData countryEritrea = IconData(
+    0xf00e6,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-estonia](https://icons.ashlar.ke/svg/rounded-duotone/country-estonia.svg) country-estonia, rounded duotone.
+  static const IconData countryEstonia = IconData(
+    0xf00e7,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-eswatini](https://icons.ashlar.ke/svg/rounded-duotone/country-eswatini.svg) country-eswatini, rounded duotone.
+  static const IconData countryEswatini = IconData(
+    0xf00e8,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-ethiopia](https://icons.ashlar.ke/svg/rounded-duotone/country-ethiopia.svg) country-ethiopia, rounded duotone.
+  static const IconData countryEthiopia = IconData(
+    0xf00e9,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-falkland-islands](https://icons.ashlar.ke/svg/rounded-duotone/country-falkland-islands.svg) country-falkland-islands, rounded duotone.
+  static const IconData countryFalklandIslands = IconData(
+    0xf00ea,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-faroe-islands](https://icons.ashlar.ke/svg/rounded-duotone/country-faroe-islands.svg) country-faroe-islands, rounded duotone.
+  static const IconData countryFaroeIslands = IconData(
+    0xf00eb,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-federated-states-of-micronesia](https://icons.ashlar.ke/svg/rounded-duotone/country-federated-states-of-micronesia.svg) country-federated-states-of-micronesia, rounded duotone.
+  static const IconData countryFederatedStatesOfMicronesia = IconData(
+    0xf00ec,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-fiji](https://icons.ashlar.ke/svg/rounded-duotone/country-fiji.svg) country-fiji, rounded duotone.
+  static const IconData countryFiji = IconData(
+    0xf00ed,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-finland](https://icons.ashlar.ke/svg/rounded-duotone/country-finland.svg) country-finland, rounded duotone.
+  static const IconData countryFinland = IconData(
+    0xf00ee,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-france](https://icons.ashlar.ke/svg/rounded-duotone/country-france.svg) country-france, rounded duotone.
+  static const IconData countryFrance = IconData(
+    0xf00ef,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-french-southern-and-antarctic-lands](https://icons.ashlar.ke/svg/rounded-duotone/country-french-southern-and-antarctic-lands.svg) country-french-southern-and-antarctic-lands, rounded duotone.
+  static const IconData countryFrenchSouthernAndAntarcticLands = IconData(
+    0xf00f0,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-gabon](https://icons.ashlar.ke/svg/rounded-duotone/country-gabon.svg) country-gabon, rounded duotone.
+  static const IconData countryGabon = IconData(
+    0xf00f1,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-gambia](https://icons.ashlar.ke/svg/rounded-duotone/country-gambia.svg) country-gambia, rounded duotone.
+  static const IconData countryGambia = IconData(
+    0xf00f2,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-georgia](https://icons.ashlar.ke/svg/rounded-duotone/country-georgia.svg) country-georgia, rounded duotone.
+  static const IconData countryGeorgia = IconData(
+    0xf00f3,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-germany](https://icons.ashlar.ke/svg/rounded-duotone/country-germany.svg) country-germany, rounded duotone.
+  static const IconData countryGermany = IconData(
+    0xf00f4,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-ghana](https://icons.ashlar.ke/svg/rounded-duotone/country-ghana.svg) country-ghana, rounded duotone.
+  static const IconData countryGhana = IconData(
+    0xf00f5,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-greece](https://icons.ashlar.ke/svg/rounded-duotone/country-greece.svg) country-greece, rounded duotone.
+  static const IconData countryGreece = IconData(
+    0xf00f6,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-greenland](https://icons.ashlar.ke/svg/rounded-duotone/country-greenland.svg) country-greenland, rounded duotone.
+  static const IconData countryGreenland = IconData(
+    0xf00f7,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-grenada](https://icons.ashlar.ke/svg/rounded-duotone/country-grenada.svg) country-grenada, rounded duotone.
+  static const IconData countryGrenada = IconData(
+    0xf00f8,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-guam](https://icons.ashlar.ke/svg/rounded-duotone/country-guam.svg) country-guam, rounded duotone.
+  static const IconData countryGuam = IconData(
+    0xf00f9,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-guatemala](https://icons.ashlar.ke/svg/rounded-duotone/country-guatemala.svg) country-guatemala, rounded duotone.
+  static const IconData countryGuatemala = IconData(
+    0xf00fa,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-guernsey](https://icons.ashlar.ke/svg/rounded-duotone/country-guernsey.svg) country-guernsey, rounded duotone.
+  static const IconData countryGuernsey = IconData(
+    0xf00fb,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-guinea](https://icons.ashlar.ke/svg/rounded-duotone/country-guinea.svg) country-guinea, rounded duotone.
+  static const IconData countryGuinea = IconData(
+    0xf00fc,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-guinea-bissau](https://icons.ashlar.ke/svg/rounded-duotone/country-guinea-bissau.svg) country-guinea-bissau, rounded duotone.
+  static const IconData countryGuineaBissau = IconData(
+    0xf00fd,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-guyana](https://icons.ashlar.ke/svg/rounded-duotone/country-guyana.svg) country-guyana, rounded duotone.
+  static const IconData countryGuyana = IconData(
+    0xf00fe,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-haiti](https://icons.ashlar.ke/svg/rounded-duotone/country-haiti.svg) country-haiti, rounded duotone.
+  static const IconData countryHaiti = IconData(
+    0xf00ff,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-heard-island-and-mcdonald-islands](https://icons.ashlar.ke/svg/rounded-duotone/country-heard-island-and-mcdonald-islands.svg) country-heard-island-and-mcdonald-islands, rounded duotone.
+  static const IconData countryHeardIslandAndMcdonaldIslands = IconData(
+    0xf0100,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-honduras](https://icons.ashlar.ke/svg/rounded-duotone/country-honduras.svg) country-honduras, rounded duotone.
+  static const IconData countryHonduras = IconData(
+    0xf0101,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-hong-kong](https://icons.ashlar.ke/svg/rounded-duotone/country-hong-kong.svg) country-hong-kong, rounded duotone.
+  static const IconData countryHongKong = IconData(
+    0xf0102,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-hungary](https://icons.ashlar.ke/svg/rounded-duotone/country-hungary.svg) country-hungary, rounded duotone.
+  static const IconData countryHungary = IconData(
+    0xf0103,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-iceland](https://icons.ashlar.ke/svg/rounded-duotone/country-iceland.svg) country-iceland, rounded duotone.
+  static const IconData countryIceland = IconData(
+    0xf0104,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-india](https://icons.ashlar.ke/svg/rounded-duotone/country-india.svg) country-india, rounded duotone.
+  static const IconData countryIndia = IconData(
+    0xf0105,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-indonesia](https://icons.ashlar.ke/svg/rounded-duotone/country-indonesia.svg) country-indonesia, rounded duotone.
+  static const IconData countryIndonesia = IconData(
+    0xf0106,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+  );
+
+  /// ![country-iran](https://icons.ashlar.ke/svg/rounded-duotone/country-iran.svg) country-iran, rounded duotone.
+  static const IconData countryIran = IconData(
+    0xf0107,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-iraq](https://icons.ashlar.ke/svg/rounded-duotone/country-iraq.svg) country-iraq, rounded duotone.
+  static const IconData countryIraq = IconData(
+    0xf0108,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-ireland](https://icons.ashlar.ke/svg/rounded-duotone/country-ireland.svg) country-ireland, rounded duotone.
+  static const IconData countryIreland = IconData(
+    0xf0109,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-isle-of-man](https://icons.ashlar.ke/svg/rounded-duotone/country-isle-of-man.svg) country-isle-of-man, rounded duotone.
+  static const IconData countryIsleOfMan = IconData(
+    0xf010a,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-israel](https://icons.ashlar.ke/svg/rounded-duotone/country-israel.svg) country-israel, rounded duotone.
+  static const IconData countryIsrael = IconData(
+    0xf010b,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-italy](https://icons.ashlar.ke/svg/rounded-duotone/country-italy.svg) country-italy, rounded duotone.
+  static const IconData countryItaly = IconData(
+    0xf010c,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-ivory-coast](https://icons.ashlar.ke/svg/rounded-duotone/country-ivory-coast.svg) country-ivory-coast, rounded duotone.
+  static const IconData countryIvoryCoast = IconData(
+    0xf010d,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-jamaica](https://icons.ashlar.ke/svg/rounded-duotone/country-jamaica.svg) country-jamaica, rounded duotone.
+  static const IconData countryJamaica = IconData(
+    0xf010e,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-japan](https://icons.ashlar.ke/svg/rounded-duotone/country-japan.svg) country-japan, rounded duotone.
+  static const IconData countryJapan = IconData(
+    0xf010f,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-jersey](https://icons.ashlar.ke/svg/rounded-duotone/country-jersey.svg) country-jersey, rounded duotone.
+  static const IconData countryJersey = IconData(
+    0xf0110,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-jordan](https://icons.ashlar.ke/svg/rounded-duotone/country-jordan.svg) country-jordan, rounded duotone.
+  static const IconData countryJordan = IconData(
+    0xf0111,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-kazakhstan](https://icons.ashlar.ke/svg/rounded-duotone/country-kazakhstan.svg) country-kazakhstan, rounded duotone.
+  static const IconData countryKazakhstan = IconData(
+    0xf0112,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-kenya](https://icons.ashlar.ke/svg/rounded-duotone/country-kenya.svg) country-kenya, rounded duotone.
+  static const IconData countryKenya = IconData(
+    0xf0113,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-kosovo](https://icons.ashlar.ke/svg/rounded-duotone/country-kosovo.svg) country-kosovo, rounded duotone.
+  static const IconData countryKosovo = IconData(
+    0xf0114,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-kuwait](https://icons.ashlar.ke/svg/rounded-duotone/country-kuwait.svg) country-kuwait, rounded duotone.
+  static const IconData countryKuwait = IconData(
+    0xf0115,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-kyrgyzstan](https://icons.ashlar.ke/svg/rounded-duotone/country-kyrgyzstan.svg) country-kyrgyzstan, rounded duotone.
+  static const IconData countryKyrgyzstan = IconData(
+    0xf0116,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-laos](https://icons.ashlar.ke/svg/rounded-duotone/country-laos.svg) country-laos, rounded duotone.
+  static const IconData countryLaos = IconData(
+    0xf0117,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-latvia](https://icons.ashlar.ke/svg/rounded-duotone/country-latvia.svg) country-latvia, rounded duotone.
+  static const IconData countryLatvia = IconData(
+    0xf0118,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-lebanon](https://icons.ashlar.ke/svg/rounded-duotone/country-lebanon.svg) country-lebanon, rounded duotone.
+  static const IconData countryLebanon = IconData(
+    0xf0119,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-lesotho](https://icons.ashlar.ke/svg/rounded-duotone/country-lesotho.svg) country-lesotho, rounded duotone.
+  static const IconData countryLesotho = IconData(
+    0xf011a,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-liberia](https://icons.ashlar.ke/svg/rounded-duotone/country-liberia.svg) country-liberia, rounded duotone.
+  static const IconData countryLiberia = IconData(
+    0xf011b,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-libya](https://icons.ashlar.ke/svg/rounded-duotone/country-libya.svg) country-libya, rounded duotone.
+  static const IconData countryLibya = IconData(
+    0xf011c,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-liechtenstein](https://icons.ashlar.ke/svg/rounded-duotone/country-liechtenstein.svg) country-liechtenstein, rounded duotone.
+  static const IconData countryLiechtenstein = IconData(
+    0xf011d,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-lithuania](https://icons.ashlar.ke/svg/rounded-duotone/country-lithuania.svg) country-lithuania, rounded duotone.
+  static const IconData countryLithuania = IconData(
+    0xf011e,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-luxembourg](https://icons.ashlar.ke/svg/rounded-duotone/country-luxembourg.svg) country-luxembourg, rounded duotone.
+  static const IconData countryLuxembourg = IconData(
+    0xf011f,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-macao](https://icons.ashlar.ke/svg/rounded-duotone/country-macao.svg) country-macao, rounded duotone.
+  static const IconData countryMacao = IconData(
+    0xf0120,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-madagascar](https://icons.ashlar.ke/svg/rounded-duotone/country-madagascar.svg) country-madagascar, rounded duotone.
+  static const IconData countryMadagascar = IconData(
+    0xf0121,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-malawi](https://icons.ashlar.ke/svg/rounded-duotone/country-malawi.svg) country-malawi, rounded duotone.
+  static const IconData countryMalawi = IconData(
+    0xf0122,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-malaysia](https://icons.ashlar.ke/svg/rounded-duotone/country-malaysia.svg) country-malaysia, rounded duotone.
+  static const IconData countryMalaysia = IconData(
+    0xf0123,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-maldives](https://icons.ashlar.ke/svg/rounded-duotone/country-maldives.svg) country-maldives, rounded duotone.
+  static const IconData countryMaldives = IconData(
+    0xf0124,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-mali](https://icons.ashlar.ke/svg/rounded-duotone/country-mali.svg) country-mali, rounded duotone.
+  static const IconData countryMali = IconData(
+    0xf0125,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-malta](https://icons.ashlar.ke/svg/rounded-duotone/country-malta.svg) country-malta, rounded duotone.
+  static const IconData countryMalta = IconData(
+    0xf0126,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-mauritania](https://icons.ashlar.ke/svg/rounded-duotone/country-mauritania.svg) country-mauritania, rounded duotone.
+  static const IconData countryMauritania = IconData(
+    0xf0127,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-mauritius](https://icons.ashlar.ke/svg/rounded-duotone/country-mauritius.svg) country-mauritius, rounded duotone.
+  static const IconData countryMauritius = IconData(
+    0xf0128,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-mexico](https://icons.ashlar.ke/svg/rounded-duotone/country-mexico.svg) country-mexico, rounded duotone.
+  static const IconData countryMexico = IconData(
+    0xf0129,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-moldova](https://icons.ashlar.ke/svg/rounded-duotone/country-moldova.svg) country-moldova, rounded duotone.
+  static const IconData countryMoldova = IconData(
+    0xf012a,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-monaco](https://icons.ashlar.ke/svg/rounded-duotone/country-monaco.svg) country-monaco, rounded duotone.
+  static const IconData countryMonaco = IconData(
+    0xf012b,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-mongolia](https://icons.ashlar.ke/svg/rounded-duotone/country-mongolia.svg) country-mongolia, rounded duotone.
+  static const IconData countryMongolia = IconData(
+    0xf012c,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-montenegro](https://icons.ashlar.ke/svg/rounded-duotone/country-montenegro.svg) country-montenegro, rounded duotone.
+  static const IconData countryMontenegro = IconData(
+    0xf012d,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-montserrat](https://icons.ashlar.ke/svg/rounded-duotone/country-montserrat.svg) country-montserrat, rounded duotone.
+  static const IconData countryMontserrat = IconData(
+    0xf012e,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-morocco](https://icons.ashlar.ke/svg/rounded-duotone/country-morocco.svg) country-morocco, rounded duotone.
+  static const IconData countryMorocco = IconData(
+    0xf012f,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-mozambique](https://icons.ashlar.ke/svg/rounded-duotone/country-mozambique.svg) country-mozambique, rounded duotone.
+  static const IconData countryMozambique = IconData(
+    0xf0130,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-myanmar](https://icons.ashlar.ke/svg/rounded-duotone/country-myanmar.svg) country-myanmar, rounded duotone.
+  static const IconData countryMyanmar = IconData(
+    0xf0131,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-namibia](https://icons.ashlar.ke/svg/rounded-duotone/country-namibia.svg) country-namibia, rounded duotone.
+  static const IconData countryNamibia = IconData(
+    0xf0132,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-nauru](https://icons.ashlar.ke/svg/rounded-duotone/country-nauru.svg) country-nauru, rounded duotone.
+  static const IconData countryNauru = IconData(
+    0xf0133,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-nepal](https://icons.ashlar.ke/svg/rounded-duotone/country-nepal.svg) country-nepal, rounded duotone.
+  static const IconData countryNepal = IconData(
+    0xf0134,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-netherlands](https://icons.ashlar.ke/svg/rounded-duotone/country-netherlands.svg) country-netherlands, rounded duotone.
+  static const IconData countryNetherlands = IconData(
+    0xf0135,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-new-caledonia](https://icons.ashlar.ke/svg/rounded-duotone/country-new-caledonia.svg) country-new-caledonia, rounded duotone.
+  static const IconData countryNewCaledonia = IconData(
+    0xf0136,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-new-zealand](https://icons.ashlar.ke/svg/rounded-duotone/country-new-zealand.svg) country-new-zealand, rounded duotone.
+  static const IconData countryNewZealand = IconData(
+    0xf0137,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-nicaragua](https://icons.ashlar.ke/svg/rounded-duotone/country-nicaragua.svg) country-nicaragua, rounded duotone.
+  static const IconData countryNicaragua = IconData(
+    0xf0138,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-niger](https://icons.ashlar.ke/svg/rounded-duotone/country-niger.svg) country-niger, rounded duotone.
+  static const IconData countryNiger = IconData(
+    0xf0139,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-nigeria](https://icons.ashlar.ke/svg/rounded-duotone/country-nigeria.svg) country-nigeria, rounded duotone.
+  static const IconData countryNigeria = IconData(
+    0xf013a,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-niue](https://icons.ashlar.ke/svg/rounded-duotone/country-niue.svg) country-niue, rounded duotone.
+  static const IconData countryNiue = IconData(
+    0xf013b,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-norfolk-island](https://icons.ashlar.ke/svg/rounded-duotone/country-norfolk-island.svg) country-norfolk-island, rounded duotone.
+  static const IconData countryNorfolkIsland = IconData(
+    0xf013c,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-north-korea](https://icons.ashlar.ke/svg/rounded-duotone/country-north-korea.svg) country-north-korea, rounded duotone.
+  static const IconData countryNorthKorea = IconData(
+    0xf013d,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-north-macedonia](https://icons.ashlar.ke/svg/rounded-duotone/country-north-macedonia.svg) country-north-macedonia, rounded duotone.
+  static const IconData countryNorthMacedonia = IconData(
+    0xf013e,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-norway](https://icons.ashlar.ke/svg/rounded-duotone/country-norway.svg) country-norway, rounded duotone.
+  static const IconData countryNorway = IconData(
+    0xf013f,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-oman](https://icons.ashlar.ke/svg/rounded-duotone/country-oman.svg) country-oman, rounded duotone.
+  static const IconData countryOman = IconData(
+    0xf0140,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-pakistan](https://icons.ashlar.ke/svg/rounded-duotone/country-pakistan.svg) country-pakistan, rounded duotone.
+  static const IconData countryPakistan = IconData(
+    0xf0141,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-palau](https://icons.ashlar.ke/svg/rounded-duotone/country-palau.svg) country-palau, rounded duotone.
+  static const IconData countryPalau = IconData(
+    0xf0142,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-palestine](https://icons.ashlar.ke/svg/rounded-duotone/country-palestine.svg) country-palestine, rounded duotone.
+  static const IconData countryPalestine = IconData(
+    0xf0143,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-panama](https://icons.ashlar.ke/svg/rounded-duotone/country-panama.svg) country-panama, rounded duotone.
+  static const IconData countryPanama = IconData(
+    0xf0144,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-papua-new-guinea](https://icons.ashlar.ke/svg/rounded-duotone/country-papua-new-guinea.svg) country-papua-new-guinea, rounded duotone.
+  static const IconData countryPapuaNewGuinea = IconData(
+    0xf0145,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-paraguay](https://icons.ashlar.ke/svg/rounded-duotone/country-paraguay.svg) country-paraguay, rounded duotone.
+  static const IconData countryParaguay = IconData(
+    0xf0146,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-peru](https://icons.ashlar.ke/svg/rounded-duotone/country-peru.svg) country-peru, rounded duotone.
+  static const IconData countryPeru = IconData(
+    0xf0147,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-philippines](https://icons.ashlar.ke/svg/rounded-duotone/country-philippines.svg) country-philippines, rounded duotone.
+  static const IconData countryPhilippines = IconData(
+    0xf0148,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-pitcairn-islands](https://icons.ashlar.ke/svg/rounded-duotone/country-pitcairn-islands.svg) country-pitcairn-islands, rounded duotone.
+  static const IconData countryPitcairnIslands = IconData(
+    0xf0149,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-poland](https://icons.ashlar.ke/svg/rounded-duotone/country-poland.svg) country-poland, rounded duotone.
+  static const IconData countryPoland = IconData(
+    0xf014a,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-portugal](https://icons.ashlar.ke/svg/rounded-duotone/country-portugal.svg) country-portugal, rounded duotone.
+  static const IconData countryPortugal = IconData(
+    0xf014b,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-puerto-rico](https://icons.ashlar.ke/svg/rounded-duotone/country-puerto-rico.svg) country-puerto-rico, rounded duotone.
+  static const IconData countryPuertoRico = IconData(
+    0xf014c,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-qatar](https://icons.ashlar.ke/svg/rounded-duotone/country-qatar.svg) country-qatar, rounded duotone.
+  static const IconData countryQatar = IconData(
+    0xf014d,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-republic-of-the-congo](https://icons.ashlar.ke/svg/rounded-duotone/country-republic-of-the-congo.svg) country-republic-of-the-congo, rounded duotone.
+  static const IconData countryRepublicOfTheCongo = IconData(
+    0xf014e,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-romania](https://icons.ashlar.ke/svg/rounded-duotone/country-romania.svg) country-romania, rounded duotone.
+  static const IconData countryRomania = IconData(
+    0xf014f,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-russia](https://icons.ashlar.ke/svg/rounded-duotone/country-russia.svg) country-russia, rounded duotone.
+  static const IconData countryRussia = IconData(
+    0xf0150,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-rwanda](https://icons.ashlar.ke/svg/rounded-duotone/country-rwanda.svg) country-rwanda, rounded duotone.
+  static const IconData countryRwanda = IconData(
+    0xf0151,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-saint-barthelemy](https://icons.ashlar.ke/svg/rounded-duotone/country-saint-barthelemy.svg) country-saint-barthelemy, rounded duotone.
+  static const IconData countrySaintBarthelemy = IconData(
+    0xf0152,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-saint-helena](https://icons.ashlar.ke/svg/rounded-duotone/country-saint-helena.svg) country-saint-helena, rounded duotone.
+  static const IconData countrySaintHelena = IconData(
+    0xf0153,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-saint-kitts-and-nevis](https://icons.ashlar.ke/svg/rounded-duotone/country-saint-kitts-and-nevis.svg) country-saint-kitts-and-nevis, rounded duotone.
+  static const IconData countrySaintKittsAndNevis = IconData(
+    0xf0154,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-saint-lucia](https://icons.ashlar.ke/svg/rounded-duotone/country-saint-lucia.svg) country-saint-lucia, rounded duotone.
+  static const IconData countrySaintLucia = IconData(
+    0xf0155,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-saint-martin](https://icons.ashlar.ke/svg/rounded-duotone/country-saint-martin.svg) country-saint-martin, rounded duotone.
+  static const IconData countrySaintMartin = IconData(
+    0xf0156,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-saint-pierre-and-miquelon](https://icons.ashlar.ke/svg/rounded-duotone/country-saint-pierre-and-miquelon.svg) country-saint-pierre-and-miquelon, rounded duotone.
+  static const IconData countrySaintPierreAndMiquelon = IconData(
+    0xf0157,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-saint-vincent-and-the-grenadines](https://icons.ashlar.ke/svg/rounded-duotone/country-saint-vincent-and-the-grenadines.svg) country-saint-vincent-and-the-grenadines, rounded duotone.
+  static const IconData countrySaintVincentAndTheGrenadines = IconData(
+    0xf0158,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-samoa](https://icons.ashlar.ke/svg/rounded-duotone/country-samoa.svg) country-samoa, rounded duotone.
+  static const IconData countrySamoa = IconData(
+    0xf0159,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-san-marino](https://icons.ashlar.ke/svg/rounded-duotone/country-san-marino.svg) country-san-marino, rounded duotone.
+  static const IconData countrySanMarino = IconData(
+    0xf015a,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-sao-tome-and-principe](https://icons.ashlar.ke/svg/rounded-duotone/country-sao-tome-and-principe.svg) country-sao-tome-and-principe, rounded duotone.
+  static const IconData countrySaoTomeAndPrincipe = IconData(
+    0xf015b,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-saudi-arabia](https://icons.ashlar.ke/svg/rounded-duotone/country-saudi-arabia.svg) country-saudi-arabia, rounded duotone.
+  static const IconData countrySaudiArabia = IconData(
+    0xf015c,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-senegal](https://icons.ashlar.ke/svg/rounded-duotone/country-senegal.svg) country-senegal, rounded duotone.
+  static const IconData countrySenegal = IconData(
+    0xf015d,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-serbia](https://icons.ashlar.ke/svg/rounded-duotone/country-serbia.svg) country-serbia, rounded duotone.
+  static const IconData countrySerbia = IconData(
+    0xf015e,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-seychelles](https://icons.ashlar.ke/svg/rounded-duotone/country-seychelles.svg) country-seychelles, rounded duotone.
+  static const IconData countrySeychelles = IconData(
+    0xf015f,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-sierra-leone](https://icons.ashlar.ke/svg/rounded-duotone/country-sierra-leone.svg) country-sierra-leone, rounded duotone.
+  static const IconData countrySierraLeone = IconData(
+    0xf0160,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-singapore](https://icons.ashlar.ke/svg/rounded-duotone/country-singapore.svg) country-singapore, rounded duotone.
+  static const IconData countrySingapore = IconData(
+    0xf0161,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-sint-maarten](https://icons.ashlar.ke/svg/rounded-duotone/country-sint-maarten.svg) country-sint-maarten, rounded duotone.
+  static const IconData countrySintMaarten = IconData(
+    0xf0162,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-slovakia](https://icons.ashlar.ke/svg/rounded-duotone/country-slovakia.svg) country-slovakia, rounded duotone.
+  static const IconData countrySlovakia = IconData(
+    0xf0163,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-slovenia](https://icons.ashlar.ke/svg/rounded-duotone/country-slovenia.svg) country-slovenia, rounded duotone.
+  static const IconData countrySlovenia = IconData(
+    0xf0164,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-somalia](https://icons.ashlar.ke/svg/rounded-duotone/country-somalia.svg) country-somalia, rounded duotone.
+  static const IconData countrySomalia = IconData(
+    0xf0165,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-south-africa](https://icons.ashlar.ke/svg/rounded-duotone/country-south-africa.svg) country-south-africa, rounded duotone.
+  static const IconData countrySouthAfrica = IconData(
+    0xf0166,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-south-georgia-and-the-south-sandwich-islands](https://icons.ashlar.ke/svg/rounded-duotone/country-south-georgia-and-the-south-sandwich-islands.svg) country-south-georgia-and-the-south-sandwich-islands, rounded duotone.
+  static const IconData countrySouthGeorgiaAndTheSouthSandwichIslands =
+      IconData(
+        0xf0167,
+        fontFamily: 'AshlarRoundedStroke',
+        fontPackage: _p,
+        fontFamilyFallback: ['AshlarRoundedBodies'],
+      );
+
+  /// ![country-south-korea](https://icons.ashlar.ke/svg/rounded-duotone/country-south-korea.svg) country-south-korea, rounded duotone.
+  static const IconData countrySouthKorea = IconData(
+    0xf0168,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-south-sudan](https://icons.ashlar.ke/svg/rounded-duotone/country-south-sudan.svg) country-south-sudan, rounded duotone.
+  static const IconData countrySouthSudan = IconData(
+    0xf0169,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-spain](https://icons.ashlar.ke/svg/rounded-duotone/country-spain.svg) country-spain, rounded duotone.
+  static const IconData countrySpain = IconData(
+    0xf016a,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-sri-lanka](https://icons.ashlar.ke/svg/rounded-duotone/country-sri-lanka.svg) country-sri-lanka, rounded duotone.
+  static const IconData countrySriLanka = IconData(
+    0xf016b,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-sudan](https://icons.ashlar.ke/svg/rounded-duotone/country-sudan.svg) country-sudan, rounded duotone.
+  static const IconData countrySudan = IconData(
+    0xf016c,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-suriname](https://icons.ashlar.ke/svg/rounded-duotone/country-suriname.svg) country-suriname, rounded duotone.
+  static const IconData countrySuriname = IconData(
+    0xf016d,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-sweden](https://icons.ashlar.ke/svg/rounded-duotone/country-sweden.svg) country-sweden, rounded duotone.
+  static const IconData countrySweden = IconData(
+    0xf016e,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-switzerland](https://icons.ashlar.ke/svg/rounded-duotone/country-switzerland.svg) country-switzerland, rounded duotone.
+  static const IconData countrySwitzerland = IconData(
+    0xf016f,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-syria](https://icons.ashlar.ke/svg/rounded-duotone/country-syria.svg) country-syria, rounded duotone.
+  static const IconData countrySyria = IconData(
+    0xf0170,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-taiwan](https://icons.ashlar.ke/svg/rounded-duotone/country-taiwan.svg) country-taiwan, rounded duotone.
+  static const IconData countryTaiwan = IconData(
+    0xf0171,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-tajikistan](https://icons.ashlar.ke/svg/rounded-duotone/country-tajikistan.svg) country-tajikistan, rounded duotone.
+  static const IconData countryTajikistan = IconData(
+    0xf0172,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-tanzania](https://icons.ashlar.ke/svg/rounded-duotone/country-tanzania.svg) country-tanzania, rounded duotone.
+  static const IconData countryTanzania = IconData(
+    0xf0173,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-thailand](https://icons.ashlar.ke/svg/rounded-duotone/country-thailand.svg) country-thailand, rounded duotone.
+  static const IconData countryThailand = IconData(
+    0xf0174,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-timor-leste](https://icons.ashlar.ke/svg/rounded-duotone/country-timor-leste.svg) country-timor-leste, rounded duotone.
+  static const IconData countryTimorLeste = IconData(
+    0xf0175,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-togo](https://icons.ashlar.ke/svg/rounded-duotone/country-togo.svg) country-togo, rounded duotone.
+  static const IconData countryTogo = IconData(
+    0xf0176,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-tonga](https://icons.ashlar.ke/svg/rounded-duotone/country-tonga.svg) country-tonga, rounded duotone.
+  static const IconData countryTonga = IconData(
+    0xf0177,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-trinidad-and-tobago](https://icons.ashlar.ke/svg/rounded-duotone/country-trinidad-and-tobago.svg) country-trinidad-and-tobago, rounded duotone.
+  static const IconData countryTrinidadAndTobago = IconData(
+    0xf0178,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-tunisia](https://icons.ashlar.ke/svg/rounded-duotone/country-tunisia.svg) country-tunisia, rounded duotone.
+  static const IconData countryTunisia = IconData(
+    0xf0179,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-turkey](https://icons.ashlar.ke/svg/rounded-duotone/country-turkey.svg) country-turkey, rounded duotone.
+  static const IconData countryTurkey = IconData(
+    0xf017a,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-turkmenistan](https://icons.ashlar.ke/svg/rounded-duotone/country-turkmenistan.svg) country-turkmenistan, rounded duotone.
+  static const IconData countryTurkmenistan = IconData(
+    0xf017b,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-turks-and-caicos-islands](https://icons.ashlar.ke/svg/rounded-duotone/country-turks-and-caicos-islands.svg) country-turks-and-caicos-islands, rounded duotone.
+  static const IconData countryTurksAndCaicosIslands = IconData(
+    0xf017c,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+  );
+
+  /// ![country-tuvalu](https://icons.ashlar.ke/svg/rounded-duotone/country-tuvalu.svg) country-tuvalu, rounded duotone.
+  static const IconData countryTuvalu = IconData(
+    0xf017d,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-uganda](https://icons.ashlar.ke/svg/rounded-duotone/country-uganda.svg) country-uganda, rounded duotone.
+  static const IconData countryUganda = IconData(
+    0xf017e,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-ukraine](https://icons.ashlar.ke/svg/rounded-duotone/country-ukraine.svg) country-ukraine, rounded duotone.
+  static const IconData countryUkraine = IconData(
+    0xf017f,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-united-arab-emirates](https://icons.ashlar.ke/svg/rounded-duotone/country-united-arab-emirates.svg) country-united-arab-emirates, rounded duotone.
+  static const IconData countryUnitedArabEmirates = IconData(
+    0xf0180,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-united-kingdom](https://icons.ashlar.ke/svg/rounded-duotone/country-united-kingdom.svg) country-united-kingdom, rounded duotone.
+  static const IconData countryUnitedKingdom = IconData(
+    0xf0181,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-united-states](https://icons.ashlar.ke/svg/rounded-duotone/country-united-states.svg) country-united-states, rounded duotone.
+  static const IconData countryUnitedStates = IconData(
+    0xf0182,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-united-states-virgin-islands](https://icons.ashlar.ke/svg/rounded-duotone/country-united-states-virgin-islands.svg) country-united-states-virgin-islands, rounded duotone.
+  static const IconData countryUnitedStatesVirginIslands = IconData(
+    0xf0183,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-uruguay](https://icons.ashlar.ke/svg/rounded-duotone/country-uruguay.svg) country-uruguay, rounded duotone.
+  static const IconData countryUruguay = IconData(
+    0xf0184,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-uzbekistan](https://icons.ashlar.ke/svg/rounded-duotone/country-uzbekistan.svg) country-uzbekistan, rounded duotone.
+  static const IconData countryUzbekistan = IconData(
+    0xf0185,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-vanuatu](https://icons.ashlar.ke/svg/rounded-duotone/country-vanuatu.svg) country-vanuatu, rounded duotone.
+  static const IconData countryVanuatu = IconData(
+    0xf0186,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+  );
+
+  /// ![country-vatican-city](https://icons.ashlar.ke/svg/rounded-duotone/country-vatican-city.svg) country-vatican-city, rounded duotone.
+  static const IconData countryVaticanCity = IconData(
+    0xf0187,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-venezuela](https://icons.ashlar.ke/svg/rounded-duotone/country-venezuela.svg) country-venezuela, rounded duotone.
+  static const IconData countryVenezuela = IconData(
+    0xf0188,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-vietnam](https://icons.ashlar.ke/svg/rounded-duotone/country-vietnam.svg) country-vietnam, rounded duotone.
+  static const IconData countryVietnam = IconData(
+    0xf0189,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-wallis-and-futuna](https://icons.ashlar.ke/svg/rounded-duotone/country-wallis-and-futuna.svg) country-wallis-and-futuna, rounded duotone.
+  static const IconData countryWallisAndFutuna = IconData(
+    0xf018a,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-western-sahara](https://icons.ashlar.ke/svg/rounded-duotone/country-western-sahara.svg) country-western-sahara, rounded duotone.
+  static const IconData countryWesternSahara = IconData(
+    0xf018b,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-yemen](https://icons.ashlar.ke/svg/rounded-duotone/country-yemen.svg) country-yemen, rounded duotone.
+  static const IconData countryYemen = IconData(
+    0xf018c,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-zambia](https://icons.ashlar.ke/svg/rounded-duotone/country-zambia.svg) country-zambia, rounded duotone.
+  static const IconData countryZambia = IconData(
+    0xf018d,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
+  );
+
+  /// ![country-zimbabwe](https://icons.ashlar.ke/svg/rounded-duotone/country-zimbabwe.svg) country-zimbabwe, rounded duotone.
+  static const IconData countryZimbabwe = IconData(
+    0xf018e,
+    fontFamily: 'AshlarRoundedStroke',
+    fontPackage: _p,
+    fontFamilyFallback: ['AshlarRoundedBodies'],
   );
 
   /// ![cowboy-hat](https://icons.ashlar.ke/svg/rounded-duotone/cowboy-hat.svg) cowboy-hat, rounded duotone.

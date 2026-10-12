@@ -1,6 +1,6 @@
 # ashlaricons
 
-6,553 icons in ten styles for Flutter, as icon fonts whose codepoints never change.
+6,791 icons in ten styles for Flutter, as icon fonts whose codepoints never change.
 Browse them at [icons.ashlar.ke](https://icons.ashlar.ke).
 
 | Corner | Styles |
@@ -47,6 +47,28 @@ under 1 KB of each style's font. The faint layers of Duotone, Twotone and Bulk a
 exception: their three fonts ship whole, about 740 KB in all, because nothing in your
 code names their glyphs. The package needs only Flutter's widgets layer, not Material
 or Cupertino.
+
+## Flags
+
+271 flags of countries and regions, drawn in colour: 4:3 in a rectangle with rounded
+corners (`AshlarFlags`) or 1:1 in a circle (`AshlarFlagsCircle`). A flag is named by
+its code in upper case, as a country picker keeps it.
+
+```dart
+AshlarFlag(AshlarFlags.KE)
+AshlarFlag(AshlarFlagsCircle.KE, size: 32, semanticLabel: 'Kenya')
+
+// A country picker, by code. Using byCode keeps every flag in the build.
+AshlarFlag(AshlarFlags.byCode[country.code]!)
+```
+
+`AshlarFlag` draws with Flutter's canvas, so it needs no other package. Only the flags
+you use end up in a release build, unless you use `byCode`.
+
+## Countries and continents
+
+Outlines of 231 countries and territories and 7 continents, as icons in all ten styles,
+named `country-<name>` and `continent-<name>`: `AshlarIcon(AshlarIconsRoundedSolid.countryKenya)`, `AshlarIconsRoundedStroke.continentAfrica`.
 
 ## Promises
 

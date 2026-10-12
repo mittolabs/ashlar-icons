@@ -1,6 +1,6 @@
 # ashlaricons for Jaspr
 
-6,553 icons in ten styles for [Jaspr](https://jaspr.site), drawn as inline SVG, so
+6,791 icons in ten styles for [Jaspr](https://jaspr.site), drawn as inline SVG, so
 they render on the server and need nothing loaded. Browse them at
 [icons.ashlar.ke](https://icons.ashlar.ke).
 
@@ -42,6 +42,23 @@ before your own, so every ashlaricons icon on a page, inline or font, answers to
 same selectors. Loading the stylesheet as well does not resize it.
 
 Every icon is a `const AshlarIconData`, so a compiled site keeps only the icons it uses.
+
+## Flags
+
+271 flags of countries and regions, drawn in colour as inline SVG: 4:3 in a rectangle
+with rounded corners (`AshlarFlags`) or 1:1 in a circle (`AshlarFlagsCircle`), named by
+their code in upper case.
+
+```dart
+AshlarFlag(AshlarFlags.KE)
+AshlarFlag(AshlarFlagsCircle.KE, size: 32, label: 'Kenya')
+AshlarFlag(AshlarFlags.byCode[country.code]!) // keeps every flag in the build
+```
+
+## Countries and continents
+
+Outlines of 231 countries and territories and 7 continents, as icons in all ten styles,
+named `country-<name>` and `continent-<name>`: `AshlarIcon(AshlarIconsRoundedSolid.countryKenya)`.
 
 ## Licence
 

@@ -12798,6 +12798,48 @@ abstract final class AshlarIconsStandardStroke {
     'M2.29 2.29c.39-.39 1.02-.39 1.42 0l18 18c.39 .39 .39 1.02 0 1.42-.39 .39-1.02 .39-1.42 0l-.91-.91c-.06-.05-.12-.11-.17-.17l-2.21-2.22 0 1.09c0 .83-.67 1.5-1.5 1.5l-7 0c-.83 0-1.5-.67-1.5-1.5l0-11.09-3.62-3.61c-.06-.05-.12-.11-.17-.17l-.92-.92c-.39-.39-.39-1.02 0-1.42z m5.3 1.29c.37-.37 .88-.58 1.41-.58l6.5 0c.83 0 1.5 .67 1.5 1.5l0 7.5c0 .55-.45 1-1 1-.55 0-1-.45-1-1l0-7-6 0c-.39 .39-1.03 .38-1.41-.01-.39-.39-.39-1.03 0-1.41z m11.41 .42c0-.55 .45-1 1-1 .55 0 1 .45 1 1l0 .01c0 .55-.45 1-1 1-.55 0-1-.45-1-1z m-16 4c0-.55 .45-1 1-1 .55 0 1 .45 1 1l0 .01c0 .55-.45 1-1 1-.55 0-1-.45-1-1z m16 0c0-.55 .45-1 1-1 .55 0 1 .45 1 1l0 .01c0 .55-.45 1-1 1-.55 0-1-.45-1-1z m-10 2.41l0 8.59 6 0 0-2.59z m-6 1.59c0-.55 .45-1 1-1 .55 0 1 .45 1 1l0 .01c0 .55-.45 1-1 1-.55 0-1-.45-1-1z m16 0c0-.55 .45-1 1-1 .55 0 1 .45 1 1l0 .01c0 .55-.45 1-1 1-.55 0-1-.45-1-1z m-16 4c0-.55 .45-1 1-1 .55 0 1 .45 1 1l0 .01c0 .55-.45 1-1 1-.55 0-1-.45-1-1z m16 0c0-.55 .45-1 1-1 .55 0 1 .45 1 1l0 .01c0 .55-.45 1-1 1-.55 0-1-.45-1-1z m-16 4c0-.55 .45-1 1-1 .55 0 1 .45 1 1l0 .01c0 .55-.45 1-1 1-.55 0-1-.45-1-1z',
   );
 
+  /// ![continent-africa](https://icons.ashlar.ke/svg/standard-stroke/continent-africa.svg) continent-africa, standard stroke.
+  static const continentAfrica = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.continentAfrica,
+  );
+
+  /// ![continent-antarctica](https://icons.ashlar.ke/svg/standard-stroke/continent-antarctica.svg) continent-antarctica, standard stroke.
+  static const continentAntarctica = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.continentAntarctica,
+  );
+
+  /// ![continent-asia](https://icons.ashlar.ke/svg/standard-stroke/continent-asia.svg) continent-asia, standard stroke.
+  static const continentAsia = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.continentAsia,
+  );
+
+  /// ![continent-europe](https://icons.ashlar.ke/svg/standard-stroke/continent-europe.svg) continent-europe, standard stroke.
+  static const continentEurope = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.continentEurope,
+  );
+
+  /// ![continent-north-america](https://icons.ashlar.ke/svg/standard-stroke/continent-north-america.svg) continent-north-america, standard stroke.
+  static const continentNorthAmerica = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.continentNorthAmerica,
+  );
+
+  /// ![continent-oceania](https://icons.ashlar.ke/svg/standard-stroke/continent-oceania.svg) continent-oceania, standard stroke.
+  static const continentOceania = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.continentOceania,
+  );
+
+  /// ![continent-south-america](https://icons.ashlar.ke/svg/standard-stroke/continent-south-america.svg) continent-south-america, standard stroke.
+  static const continentSouthAmerica = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.continentSouthAmerica,
+  );
+
   /// ![contract](https://icons.ashlar.ke/svg/standard-stroke/contract.svg) contract, standard stroke.
   static const contract = AshlarIconData(
     'contract',
@@ -13047,6 +13089,1393 @@ abstract final class AshlarIconsStandardStroke {
     'corner-up-right-double',
     'standard-stroke',
     'M9.29 4.29c.39-.39 1.02-.39 1.42 0l4 4c.18 .18 .29 .43 .29 .71 0 .28-.11 .53-.29 .71l-4 4c-.39 .39-1.02 .39-1.42 0-.39-.39-.39-1.02 0-1.42l2.3-2.29-6.09 0c-.28 0-.5 .22-.5 .5l0 7.5c0 .55-.45 1-1 1-.55 0-1-.45-1-1l0-7.5c0-1.38 1.12-2.5 2.5-2.5l6.09 0-2.3-2.29c-.39-.39-.39-1.02 0-1.42z m5 0c.39-.39 1.02-.39 1.42 0l4 4c.39 .39 .39 1.02 0 1.42l-4 4c-.39 .39-1.02 .39-1.42 0-.39-.39-.39-1.02 0-1.42l3.3-3.29-3.3-3.29c-.39-.39-.39-1.02 0-1.42z',
+  );
+
+  /// ![country-afghanistan](https://icons.ashlar.ke/svg/standard-stroke/country-afghanistan.svg) country-afghanistan, standard stroke.
+  static const countryAfghanistan = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryAfghanistan,
+  );
+
+  /// ![country-aland](https://icons.ashlar.ke/svg/standard-stroke/country-aland.svg) country-aland, standard stroke.
+  static const countryAland = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryAland,
+  );
+
+  /// ![country-albania](https://icons.ashlar.ke/svg/standard-stroke/country-albania.svg) country-albania, standard stroke.
+  static const countryAlbania = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryAlbania,
+  );
+
+  /// ![country-algeria](https://icons.ashlar.ke/svg/standard-stroke/country-algeria.svg) country-algeria, standard stroke.
+  static const countryAlgeria = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryAlgeria,
+  );
+
+  /// ![country-american-samoa](https://icons.ashlar.ke/svg/standard-stroke/country-american-samoa.svg) country-american-samoa, standard stroke.
+  static const countryAmericanSamoa = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryAmericanSamoa,
+  );
+
+  /// ![country-andorra](https://icons.ashlar.ke/svg/standard-stroke/country-andorra.svg) country-andorra, standard stroke.
+  static const countryAndorra = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryAndorra,
+  );
+
+  /// ![country-angola](https://icons.ashlar.ke/svg/standard-stroke/country-angola.svg) country-angola, standard stroke.
+  static const countryAngola = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryAngola,
+  );
+
+  /// ![country-anguilla](https://icons.ashlar.ke/svg/standard-stroke/country-anguilla.svg) country-anguilla, standard stroke.
+  static const countryAnguilla = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryAnguilla,
+  );
+
+  /// ![country-antigua-and-barbuda](https://icons.ashlar.ke/svg/standard-stroke/country-antigua-and-barbuda.svg) country-antigua-and-barbuda, standard stroke.
+  static const countryAntiguaAndBarbuda = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryAntiguaAndBarbuda,
+  );
+
+  /// ![country-argentina](https://icons.ashlar.ke/svg/standard-stroke/country-argentina.svg) country-argentina, standard stroke.
+  static const countryArgentina = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryArgentina,
+  );
+
+  /// ![country-armenia](https://icons.ashlar.ke/svg/standard-stroke/country-armenia.svg) country-armenia, standard stroke.
+  static const countryArmenia = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryArmenia,
+  );
+
+  /// ![country-aruba](https://icons.ashlar.ke/svg/standard-stroke/country-aruba.svg) country-aruba, standard stroke.
+  static const countryAruba = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryAruba,
+  );
+
+  /// ![country-australia](https://icons.ashlar.ke/svg/standard-stroke/country-australia.svg) country-australia, standard stroke.
+  static const countryAustralia = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryAustralia,
+  );
+
+  /// ![country-austria](https://icons.ashlar.ke/svg/standard-stroke/country-austria.svg) country-austria, standard stroke.
+  static const countryAustria = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryAustria,
+  );
+
+  /// ![country-azerbaijan](https://icons.ashlar.ke/svg/standard-stroke/country-azerbaijan.svg) country-azerbaijan, standard stroke.
+  static const countryAzerbaijan = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryAzerbaijan,
+  );
+
+  /// ![country-bahamas](https://icons.ashlar.ke/svg/standard-stroke/country-bahamas.svg) country-bahamas, standard stroke.
+  static const countryBahamas = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryBahamas,
+  );
+
+  /// ![country-bahrain](https://icons.ashlar.ke/svg/standard-stroke/country-bahrain.svg) country-bahrain, standard stroke.
+  static const countryBahrain = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryBahrain,
+  );
+
+  /// ![country-bangladesh](https://icons.ashlar.ke/svg/standard-stroke/country-bangladesh.svg) country-bangladesh, standard stroke.
+  static const countryBangladesh = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryBangladesh,
+  );
+
+  /// ![country-barbados](https://icons.ashlar.ke/svg/standard-stroke/country-barbados.svg) country-barbados, standard stroke.
+  static const countryBarbados = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryBarbados,
+  );
+
+  /// ![country-belarus](https://icons.ashlar.ke/svg/standard-stroke/country-belarus.svg) country-belarus, standard stroke.
+  static const countryBelarus = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryBelarus,
+  );
+
+  /// ![country-belgium](https://icons.ashlar.ke/svg/standard-stroke/country-belgium.svg) country-belgium, standard stroke.
+  static const countryBelgium = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryBelgium,
+  );
+
+  /// ![country-belize](https://icons.ashlar.ke/svg/standard-stroke/country-belize.svg) country-belize, standard stroke.
+  static const countryBelize = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryBelize,
+  );
+
+  /// ![country-benin](https://icons.ashlar.ke/svg/standard-stroke/country-benin.svg) country-benin, standard stroke.
+  static const countryBenin = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryBenin,
+  );
+
+  /// ![country-bermuda](https://icons.ashlar.ke/svg/standard-stroke/country-bermuda.svg) country-bermuda, standard stroke.
+  static const countryBermuda = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryBermuda,
+  );
+
+  /// ![country-bhutan](https://icons.ashlar.ke/svg/standard-stroke/country-bhutan.svg) country-bhutan, standard stroke.
+  static const countryBhutan = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryBhutan,
+  );
+
+  /// ![country-bolivia](https://icons.ashlar.ke/svg/standard-stroke/country-bolivia.svg) country-bolivia, standard stroke.
+  static const countryBolivia = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryBolivia,
+  );
+
+  /// ![country-bosnia-and-herzegovina](https://icons.ashlar.ke/svg/standard-stroke/country-bosnia-and-herzegovina.svg) country-bosnia-and-herzegovina, standard stroke.
+  static const countryBosniaAndHerzegovina = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryBosniaAndHerzegovina,
+  );
+
+  /// ![country-botswana](https://icons.ashlar.ke/svg/standard-stroke/country-botswana.svg) country-botswana, standard stroke.
+  static const countryBotswana = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryBotswana,
+  );
+
+  /// ![country-brazil](https://icons.ashlar.ke/svg/standard-stroke/country-brazil.svg) country-brazil, standard stroke.
+  static const countryBrazil = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryBrazil,
+  );
+
+  /// ![country-british-indian-ocean-territory](https://icons.ashlar.ke/svg/standard-stroke/country-british-indian-ocean-territory.svg) country-british-indian-ocean-territory, standard stroke.
+  static const countryBritishIndianOceanTerritory = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryBritishIndianOceanTerritory,
+  );
+
+  /// ![country-british-virgin-islands](https://icons.ashlar.ke/svg/standard-stroke/country-british-virgin-islands.svg) country-british-virgin-islands, standard stroke.
+  static const countryBritishVirginIslands = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryBritishVirginIslands,
+  );
+
+  /// ![country-brunei](https://icons.ashlar.ke/svg/standard-stroke/country-brunei.svg) country-brunei, standard stroke.
+  static const countryBrunei = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryBrunei,
+  );
+
+  /// ![country-bulgaria](https://icons.ashlar.ke/svg/standard-stroke/country-bulgaria.svg) country-bulgaria, standard stroke.
+  static const countryBulgaria = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryBulgaria,
+  );
+
+  /// ![country-burkina-faso](https://icons.ashlar.ke/svg/standard-stroke/country-burkina-faso.svg) country-burkina-faso, standard stroke.
+  static const countryBurkinaFaso = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryBurkinaFaso,
+  );
+
+  /// ![country-burundi](https://icons.ashlar.ke/svg/standard-stroke/country-burundi.svg) country-burundi, standard stroke.
+  static const countryBurundi = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryBurundi,
+  );
+
+  /// ![country-cabo-verde](https://icons.ashlar.ke/svg/standard-stroke/country-cabo-verde.svg) country-cabo-verde, standard stroke.
+  static const countryCaboVerde = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryCaboVerde,
+  );
+
+  /// ![country-cambodia](https://icons.ashlar.ke/svg/standard-stroke/country-cambodia.svg) country-cambodia, standard stroke.
+  static const countryCambodia = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryCambodia,
+  );
+
+  /// ![country-cameroon](https://icons.ashlar.ke/svg/standard-stroke/country-cameroon.svg) country-cameroon, standard stroke.
+  static const countryCameroon = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryCameroon,
+  );
+
+  /// ![country-canada](https://icons.ashlar.ke/svg/standard-stroke/country-canada.svg) country-canada, standard stroke.
+  static const countryCanada = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryCanada,
+  );
+
+  /// ![country-cayman-islands](https://icons.ashlar.ke/svg/standard-stroke/country-cayman-islands.svg) country-cayman-islands, standard stroke.
+  static const countryCaymanIslands = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryCaymanIslands,
+  );
+
+  /// ![country-central-african-republic](https://icons.ashlar.ke/svg/standard-stroke/country-central-african-republic.svg) country-central-african-republic, standard stroke.
+  static const countryCentralAfricanRepublic = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryCentralAfricanRepublic,
+  );
+
+  /// ![country-chad](https://icons.ashlar.ke/svg/standard-stroke/country-chad.svg) country-chad, standard stroke.
+  static const countryChad = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryChad,
+  );
+
+  /// ![country-chile](https://icons.ashlar.ke/svg/standard-stroke/country-chile.svg) country-chile, standard stroke.
+  static const countryChile = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryChile,
+  );
+
+  /// ![country-china](https://icons.ashlar.ke/svg/standard-stroke/country-china.svg) country-china, standard stroke.
+  static const countryChina = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryChina,
+  );
+
+  /// ![country-colombia](https://icons.ashlar.ke/svg/standard-stroke/country-colombia.svg) country-colombia, standard stroke.
+  static const countryColombia = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryColombia,
+  );
+
+  /// ![country-comoros](https://icons.ashlar.ke/svg/standard-stroke/country-comoros.svg) country-comoros, standard stroke.
+  static const countryComoros = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryComoros,
+  );
+
+  /// ![country-cook-islands](https://icons.ashlar.ke/svg/standard-stroke/country-cook-islands.svg) country-cook-islands, standard stroke.
+  static const countryCookIslands = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryCookIslands,
+  );
+
+  /// ![country-costa-rica](https://icons.ashlar.ke/svg/standard-stroke/country-costa-rica.svg) country-costa-rica, standard stroke.
+  static const countryCostaRica = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryCostaRica,
+  );
+
+  /// ![country-croatia](https://icons.ashlar.ke/svg/standard-stroke/country-croatia.svg) country-croatia, standard stroke.
+  static const countryCroatia = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryCroatia,
+  );
+
+  /// ![country-cuba](https://icons.ashlar.ke/svg/standard-stroke/country-cuba.svg) country-cuba, standard stroke.
+  static const countryCuba = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryCuba,
+  );
+
+  /// ![country-curacao](https://icons.ashlar.ke/svg/standard-stroke/country-curacao.svg) country-curacao, standard stroke.
+  static const countryCuracao = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryCuracao,
+  );
+
+  /// ![country-cyprus](https://icons.ashlar.ke/svg/standard-stroke/country-cyprus.svg) country-cyprus, standard stroke.
+  static const countryCyprus = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryCyprus,
+  );
+
+  /// ![country-czechia](https://icons.ashlar.ke/svg/standard-stroke/country-czechia.svg) country-czechia, standard stroke.
+  static const countryCzechia = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryCzechia,
+  );
+
+  /// ![country-democratic-republic-of-the-congo](https://icons.ashlar.ke/svg/standard-stroke/country-democratic-republic-of-the-congo.svg) country-democratic-republic-of-the-congo, standard stroke.
+  static const countryDemocraticRepublicOfTheCongo = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryDemocraticRepublicOfTheCongo,
+  );
+
+  /// ![country-denmark](https://icons.ashlar.ke/svg/standard-stroke/country-denmark.svg) country-denmark, standard stroke.
+  static const countryDenmark = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryDenmark,
+  );
+
+  /// ![country-djibouti](https://icons.ashlar.ke/svg/standard-stroke/country-djibouti.svg) country-djibouti, standard stroke.
+  static const countryDjibouti = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryDjibouti,
+  );
+
+  /// ![country-dominica](https://icons.ashlar.ke/svg/standard-stroke/country-dominica.svg) country-dominica, standard stroke.
+  static const countryDominica = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryDominica,
+  );
+
+  /// ![country-dominican-republic](https://icons.ashlar.ke/svg/standard-stroke/country-dominican-republic.svg) country-dominican-republic, standard stroke.
+  static const countryDominicanRepublic = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryDominicanRepublic,
+  );
+
+  /// ![country-ecuador](https://icons.ashlar.ke/svg/standard-stroke/country-ecuador.svg) country-ecuador, standard stroke.
+  static const countryEcuador = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryEcuador,
+  );
+
+  /// ![country-egypt](https://icons.ashlar.ke/svg/standard-stroke/country-egypt.svg) country-egypt, standard stroke.
+  static const countryEgypt = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryEgypt,
+  );
+
+  /// ![country-el-salvador](https://icons.ashlar.ke/svg/standard-stroke/country-el-salvador.svg) country-el-salvador, standard stroke.
+  static const countryElSalvador = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryElSalvador,
+  );
+
+  /// ![country-equatorial-guinea](https://icons.ashlar.ke/svg/standard-stroke/country-equatorial-guinea.svg) country-equatorial-guinea, standard stroke.
+  static const countryEquatorialGuinea = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryEquatorialGuinea,
+  );
+
+  /// ![country-eritrea](https://icons.ashlar.ke/svg/standard-stroke/country-eritrea.svg) country-eritrea, standard stroke.
+  static const countryEritrea = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryEritrea,
+  );
+
+  /// ![country-estonia](https://icons.ashlar.ke/svg/standard-stroke/country-estonia.svg) country-estonia, standard stroke.
+  static const countryEstonia = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryEstonia,
+  );
+
+  /// ![country-eswatini](https://icons.ashlar.ke/svg/standard-stroke/country-eswatini.svg) country-eswatini, standard stroke.
+  static const countryEswatini = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryEswatini,
+  );
+
+  /// ![country-ethiopia](https://icons.ashlar.ke/svg/standard-stroke/country-ethiopia.svg) country-ethiopia, standard stroke.
+  static const countryEthiopia = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryEthiopia,
+  );
+
+  /// ![country-falkland-islands](https://icons.ashlar.ke/svg/standard-stroke/country-falkland-islands.svg) country-falkland-islands, standard stroke.
+  static const countryFalklandIslands = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryFalklandIslands,
+  );
+
+  /// ![country-faroe-islands](https://icons.ashlar.ke/svg/standard-stroke/country-faroe-islands.svg) country-faroe-islands, standard stroke.
+  static const countryFaroeIslands = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryFaroeIslands,
+  );
+
+  /// ![country-federated-states-of-micronesia](https://icons.ashlar.ke/svg/standard-stroke/country-federated-states-of-micronesia.svg) country-federated-states-of-micronesia, standard stroke.
+  static const countryFederatedStatesOfMicronesia = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryFederatedStatesOfMicronesia,
+  );
+
+  /// ![country-fiji](https://icons.ashlar.ke/svg/standard-stroke/country-fiji.svg) country-fiji, standard stroke.
+  static const countryFiji = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryFiji,
+  );
+
+  /// ![country-finland](https://icons.ashlar.ke/svg/standard-stroke/country-finland.svg) country-finland, standard stroke.
+  static const countryFinland = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryFinland,
+  );
+
+  /// ![country-france](https://icons.ashlar.ke/svg/standard-stroke/country-france.svg) country-france, standard stroke.
+  static const countryFrance = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryFrance,
+  );
+
+  /// ![country-french-southern-and-antarctic-lands](https://icons.ashlar.ke/svg/standard-stroke/country-french-southern-and-antarctic-lands.svg) country-french-southern-and-antarctic-lands, standard stroke.
+  static const countryFrenchSouthernAndAntarcticLands = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryFrenchSouthernAndAntarcticLands,
+  );
+
+  /// ![country-gabon](https://icons.ashlar.ke/svg/standard-stroke/country-gabon.svg) country-gabon, standard stroke.
+  static const countryGabon = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryGabon,
+  );
+
+  /// ![country-gambia](https://icons.ashlar.ke/svg/standard-stroke/country-gambia.svg) country-gambia, standard stroke.
+  static const countryGambia = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryGambia,
+  );
+
+  /// ![country-georgia](https://icons.ashlar.ke/svg/standard-stroke/country-georgia.svg) country-georgia, standard stroke.
+  static const countryGeorgia = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryGeorgia,
+  );
+
+  /// ![country-germany](https://icons.ashlar.ke/svg/standard-stroke/country-germany.svg) country-germany, standard stroke.
+  static const countryGermany = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryGermany,
+  );
+
+  /// ![country-ghana](https://icons.ashlar.ke/svg/standard-stroke/country-ghana.svg) country-ghana, standard stroke.
+  static const countryGhana = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryGhana,
+  );
+
+  /// ![country-greece](https://icons.ashlar.ke/svg/standard-stroke/country-greece.svg) country-greece, standard stroke.
+  static const countryGreece = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryGreece,
+  );
+
+  /// ![country-greenland](https://icons.ashlar.ke/svg/standard-stroke/country-greenland.svg) country-greenland, standard stroke.
+  static const countryGreenland = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryGreenland,
+  );
+
+  /// ![country-grenada](https://icons.ashlar.ke/svg/standard-stroke/country-grenada.svg) country-grenada, standard stroke.
+  static const countryGrenada = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryGrenada,
+  );
+
+  /// ![country-guam](https://icons.ashlar.ke/svg/standard-stroke/country-guam.svg) country-guam, standard stroke.
+  static const countryGuam = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryGuam,
+  );
+
+  /// ![country-guatemala](https://icons.ashlar.ke/svg/standard-stroke/country-guatemala.svg) country-guatemala, standard stroke.
+  static const countryGuatemala = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryGuatemala,
+  );
+
+  /// ![country-guernsey](https://icons.ashlar.ke/svg/standard-stroke/country-guernsey.svg) country-guernsey, standard stroke.
+  static const countryGuernsey = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryGuernsey,
+  );
+
+  /// ![country-guinea](https://icons.ashlar.ke/svg/standard-stroke/country-guinea.svg) country-guinea, standard stroke.
+  static const countryGuinea = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryGuinea,
+  );
+
+  /// ![country-guinea-bissau](https://icons.ashlar.ke/svg/standard-stroke/country-guinea-bissau.svg) country-guinea-bissau, standard stroke.
+  static const countryGuineaBissau = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryGuineaBissau,
+  );
+
+  /// ![country-guyana](https://icons.ashlar.ke/svg/standard-stroke/country-guyana.svg) country-guyana, standard stroke.
+  static const countryGuyana = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryGuyana,
+  );
+
+  /// ![country-haiti](https://icons.ashlar.ke/svg/standard-stroke/country-haiti.svg) country-haiti, standard stroke.
+  static const countryHaiti = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryHaiti,
+  );
+
+  /// ![country-heard-island-and-mcdonald-islands](https://icons.ashlar.ke/svg/standard-stroke/country-heard-island-and-mcdonald-islands.svg) country-heard-island-and-mcdonald-islands, standard stroke.
+  static const countryHeardIslandAndMcdonaldIslands = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryHeardIslandAndMcdonaldIslands,
+  );
+
+  /// ![country-honduras](https://icons.ashlar.ke/svg/standard-stroke/country-honduras.svg) country-honduras, standard stroke.
+  static const countryHonduras = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryHonduras,
+  );
+
+  /// ![country-hong-kong](https://icons.ashlar.ke/svg/standard-stroke/country-hong-kong.svg) country-hong-kong, standard stroke.
+  static const countryHongKong = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryHongKong,
+  );
+
+  /// ![country-hungary](https://icons.ashlar.ke/svg/standard-stroke/country-hungary.svg) country-hungary, standard stroke.
+  static const countryHungary = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryHungary,
+  );
+
+  /// ![country-iceland](https://icons.ashlar.ke/svg/standard-stroke/country-iceland.svg) country-iceland, standard stroke.
+  static const countryIceland = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryIceland,
+  );
+
+  /// ![country-india](https://icons.ashlar.ke/svg/standard-stroke/country-india.svg) country-india, standard stroke.
+  static const countryIndia = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryIndia,
+  );
+
+  /// ![country-indonesia](https://icons.ashlar.ke/svg/standard-stroke/country-indonesia.svg) country-indonesia, standard stroke.
+  static const countryIndonesia = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryIndonesia,
+  );
+
+  /// ![country-iran](https://icons.ashlar.ke/svg/standard-stroke/country-iran.svg) country-iran, standard stroke.
+  static const countryIran = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryIran,
+  );
+
+  /// ![country-iraq](https://icons.ashlar.ke/svg/standard-stroke/country-iraq.svg) country-iraq, standard stroke.
+  static const countryIraq = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryIraq,
+  );
+
+  /// ![country-ireland](https://icons.ashlar.ke/svg/standard-stroke/country-ireland.svg) country-ireland, standard stroke.
+  static const countryIreland = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryIreland,
+  );
+
+  /// ![country-isle-of-man](https://icons.ashlar.ke/svg/standard-stroke/country-isle-of-man.svg) country-isle-of-man, standard stroke.
+  static const countryIsleOfMan = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryIsleOfMan,
+  );
+
+  /// ![country-israel](https://icons.ashlar.ke/svg/standard-stroke/country-israel.svg) country-israel, standard stroke.
+  static const countryIsrael = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryIsrael,
+  );
+
+  /// ![country-italy](https://icons.ashlar.ke/svg/standard-stroke/country-italy.svg) country-italy, standard stroke.
+  static const countryItaly = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryItaly,
+  );
+
+  /// ![country-ivory-coast](https://icons.ashlar.ke/svg/standard-stroke/country-ivory-coast.svg) country-ivory-coast, standard stroke.
+  static const countryIvoryCoast = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryIvoryCoast,
+  );
+
+  /// ![country-jamaica](https://icons.ashlar.ke/svg/standard-stroke/country-jamaica.svg) country-jamaica, standard stroke.
+  static const countryJamaica = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryJamaica,
+  );
+
+  /// ![country-japan](https://icons.ashlar.ke/svg/standard-stroke/country-japan.svg) country-japan, standard stroke.
+  static const countryJapan = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryJapan,
+  );
+
+  /// ![country-jersey](https://icons.ashlar.ke/svg/standard-stroke/country-jersey.svg) country-jersey, standard stroke.
+  static const countryJersey = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryJersey,
+  );
+
+  /// ![country-jordan](https://icons.ashlar.ke/svg/standard-stroke/country-jordan.svg) country-jordan, standard stroke.
+  static const countryJordan = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryJordan,
+  );
+
+  /// ![country-kazakhstan](https://icons.ashlar.ke/svg/standard-stroke/country-kazakhstan.svg) country-kazakhstan, standard stroke.
+  static const countryKazakhstan = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryKazakhstan,
+  );
+
+  /// ![country-kenya](https://icons.ashlar.ke/svg/standard-stroke/country-kenya.svg) country-kenya, standard stroke.
+  static const countryKenya = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryKenya,
+  );
+
+  /// ![country-kosovo](https://icons.ashlar.ke/svg/standard-stroke/country-kosovo.svg) country-kosovo, standard stroke.
+  static const countryKosovo = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryKosovo,
+  );
+
+  /// ![country-kuwait](https://icons.ashlar.ke/svg/standard-stroke/country-kuwait.svg) country-kuwait, standard stroke.
+  static const countryKuwait = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryKuwait,
+  );
+
+  /// ![country-kyrgyzstan](https://icons.ashlar.ke/svg/standard-stroke/country-kyrgyzstan.svg) country-kyrgyzstan, standard stroke.
+  static const countryKyrgyzstan = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryKyrgyzstan,
+  );
+
+  /// ![country-laos](https://icons.ashlar.ke/svg/standard-stroke/country-laos.svg) country-laos, standard stroke.
+  static const countryLaos = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryLaos,
+  );
+
+  /// ![country-latvia](https://icons.ashlar.ke/svg/standard-stroke/country-latvia.svg) country-latvia, standard stroke.
+  static const countryLatvia = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryLatvia,
+  );
+
+  /// ![country-lebanon](https://icons.ashlar.ke/svg/standard-stroke/country-lebanon.svg) country-lebanon, standard stroke.
+  static const countryLebanon = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryLebanon,
+  );
+
+  /// ![country-lesotho](https://icons.ashlar.ke/svg/standard-stroke/country-lesotho.svg) country-lesotho, standard stroke.
+  static const countryLesotho = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryLesotho,
+  );
+
+  /// ![country-liberia](https://icons.ashlar.ke/svg/standard-stroke/country-liberia.svg) country-liberia, standard stroke.
+  static const countryLiberia = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryLiberia,
+  );
+
+  /// ![country-libya](https://icons.ashlar.ke/svg/standard-stroke/country-libya.svg) country-libya, standard stroke.
+  static const countryLibya = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryLibya,
+  );
+
+  /// ![country-liechtenstein](https://icons.ashlar.ke/svg/standard-stroke/country-liechtenstein.svg) country-liechtenstein, standard stroke.
+  static const countryLiechtenstein = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryLiechtenstein,
+  );
+
+  /// ![country-lithuania](https://icons.ashlar.ke/svg/standard-stroke/country-lithuania.svg) country-lithuania, standard stroke.
+  static const countryLithuania = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryLithuania,
+  );
+
+  /// ![country-luxembourg](https://icons.ashlar.ke/svg/standard-stroke/country-luxembourg.svg) country-luxembourg, standard stroke.
+  static const countryLuxembourg = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryLuxembourg,
+  );
+
+  /// ![country-macao](https://icons.ashlar.ke/svg/standard-stroke/country-macao.svg) country-macao, standard stroke.
+  static const countryMacao = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryMacao,
+  );
+
+  /// ![country-madagascar](https://icons.ashlar.ke/svg/standard-stroke/country-madagascar.svg) country-madagascar, standard stroke.
+  static const countryMadagascar = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryMadagascar,
+  );
+
+  /// ![country-malawi](https://icons.ashlar.ke/svg/standard-stroke/country-malawi.svg) country-malawi, standard stroke.
+  static const countryMalawi = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryMalawi,
+  );
+
+  /// ![country-malaysia](https://icons.ashlar.ke/svg/standard-stroke/country-malaysia.svg) country-malaysia, standard stroke.
+  static const countryMalaysia = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryMalaysia,
+  );
+
+  /// ![country-maldives](https://icons.ashlar.ke/svg/standard-stroke/country-maldives.svg) country-maldives, standard stroke.
+  static const countryMaldives = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryMaldives,
+  );
+
+  /// ![country-mali](https://icons.ashlar.ke/svg/standard-stroke/country-mali.svg) country-mali, standard stroke.
+  static const countryMali = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryMali,
+  );
+
+  /// ![country-malta](https://icons.ashlar.ke/svg/standard-stroke/country-malta.svg) country-malta, standard stroke.
+  static const countryMalta = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryMalta,
+  );
+
+  /// ![country-mauritania](https://icons.ashlar.ke/svg/standard-stroke/country-mauritania.svg) country-mauritania, standard stroke.
+  static const countryMauritania = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryMauritania,
+  );
+
+  /// ![country-mauritius](https://icons.ashlar.ke/svg/standard-stroke/country-mauritius.svg) country-mauritius, standard stroke.
+  static const countryMauritius = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryMauritius,
+  );
+
+  /// ![country-mexico](https://icons.ashlar.ke/svg/standard-stroke/country-mexico.svg) country-mexico, standard stroke.
+  static const countryMexico = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryMexico,
+  );
+
+  /// ![country-moldova](https://icons.ashlar.ke/svg/standard-stroke/country-moldova.svg) country-moldova, standard stroke.
+  static const countryMoldova = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryMoldova,
+  );
+
+  /// ![country-monaco](https://icons.ashlar.ke/svg/standard-stroke/country-monaco.svg) country-monaco, standard stroke.
+  static const countryMonaco = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryMonaco,
+  );
+
+  /// ![country-mongolia](https://icons.ashlar.ke/svg/standard-stroke/country-mongolia.svg) country-mongolia, standard stroke.
+  static const countryMongolia = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryMongolia,
+  );
+
+  /// ![country-montenegro](https://icons.ashlar.ke/svg/standard-stroke/country-montenegro.svg) country-montenegro, standard stroke.
+  static const countryMontenegro = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryMontenegro,
+  );
+
+  /// ![country-montserrat](https://icons.ashlar.ke/svg/standard-stroke/country-montserrat.svg) country-montserrat, standard stroke.
+  static const countryMontserrat = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryMontserrat,
+  );
+
+  /// ![country-morocco](https://icons.ashlar.ke/svg/standard-stroke/country-morocco.svg) country-morocco, standard stroke.
+  static const countryMorocco = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryMorocco,
+  );
+
+  /// ![country-mozambique](https://icons.ashlar.ke/svg/standard-stroke/country-mozambique.svg) country-mozambique, standard stroke.
+  static const countryMozambique = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryMozambique,
+  );
+
+  /// ![country-myanmar](https://icons.ashlar.ke/svg/standard-stroke/country-myanmar.svg) country-myanmar, standard stroke.
+  static const countryMyanmar = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryMyanmar,
+  );
+
+  /// ![country-namibia](https://icons.ashlar.ke/svg/standard-stroke/country-namibia.svg) country-namibia, standard stroke.
+  static const countryNamibia = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryNamibia,
+  );
+
+  /// ![country-nauru](https://icons.ashlar.ke/svg/standard-stroke/country-nauru.svg) country-nauru, standard stroke.
+  static const countryNauru = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryNauru,
+  );
+
+  /// ![country-nepal](https://icons.ashlar.ke/svg/standard-stroke/country-nepal.svg) country-nepal, standard stroke.
+  static const countryNepal = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryNepal,
+  );
+
+  /// ![country-netherlands](https://icons.ashlar.ke/svg/standard-stroke/country-netherlands.svg) country-netherlands, standard stroke.
+  static const countryNetherlands = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryNetherlands,
+  );
+
+  /// ![country-new-caledonia](https://icons.ashlar.ke/svg/standard-stroke/country-new-caledonia.svg) country-new-caledonia, standard stroke.
+  static const countryNewCaledonia = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryNewCaledonia,
+  );
+
+  /// ![country-new-zealand](https://icons.ashlar.ke/svg/standard-stroke/country-new-zealand.svg) country-new-zealand, standard stroke.
+  static const countryNewZealand = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryNewZealand,
+  );
+
+  /// ![country-nicaragua](https://icons.ashlar.ke/svg/standard-stroke/country-nicaragua.svg) country-nicaragua, standard stroke.
+  static const countryNicaragua = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryNicaragua,
+  );
+
+  /// ![country-niger](https://icons.ashlar.ke/svg/standard-stroke/country-niger.svg) country-niger, standard stroke.
+  static const countryNiger = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryNiger,
+  );
+
+  /// ![country-nigeria](https://icons.ashlar.ke/svg/standard-stroke/country-nigeria.svg) country-nigeria, standard stroke.
+  static const countryNigeria = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryNigeria,
+  );
+
+  /// ![country-niue](https://icons.ashlar.ke/svg/standard-stroke/country-niue.svg) country-niue, standard stroke.
+  static const countryNiue = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryNiue,
+  );
+
+  /// ![country-norfolk-island](https://icons.ashlar.ke/svg/standard-stroke/country-norfolk-island.svg) country-norfolk-island, standard stroke.
+  static const countryNorfolkIsland = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryNorfolkIsland,
+  );
+
+  /// ![country-north-korea](https://icons.ashlar.ke/svg/standard-stroke/country-north-korea.svg) country-north-korea, standard stroke.
+  static const countryNorthKorea = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryNorthKorea,
+  );
+
+  /// ![country-north-macedonia](https://icons.ashlar.ke/svg/standard-stroke/country-north-macedonia.svg) country-north-macedonia, standard stroke.
+  static const countryNorthMacedonia = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryNorthMacedonia,
+  );
+
+  /// ![country-norway](https://icons.ashlar.ke/svg/standard-stroke/country-norway.svg) country-norway, standard stroke.
+  static const countryNorway = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryNorway,
+  );
+
+  /// ![country-oman](https://icons.ashlar.ke/svg/standard-stroke/country-oman.svg) country-oman, standard stroke.
+  static const countryOman = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryOman,
+  );
+
+  /// ![country-pakistan](https://icons.ashlar.ke/svg/standard-stroke/country-pakistan.svg) country-pakistan, standard stroke.
+  static const countryPakistan = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryPakistan,
+  );
+
+  /// ![country-palau](https://icons.ashlar.ke/svg/standard-stroke/country-palau.svg) country-palau, standard stroke.
+  static const countryPalau = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryPalau,
+  );
+
+  /// ![country-palestine](https://icons.ashlar.ke/svg/standard-stroke/country-palestine.svg) country-palestine, standard stroke.
+  static const countryPalestine = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryPalestine,
+  );
+
+  /// ![country-panama](https://icons.ashlar.ke/svg/standard-stroke/country-panama.svg) country-panama, standard stroke.
+  static const countryPanama = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryPanama,
+  );
+
+  /// ![country-papua-new-guinea](https://icons.ashlar.ke/svg/standard-stroke/country-papua-new-guinea.svg) country-papua-new-guinea, standard stroke.
+  static const countryPapuaNewGuinea = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryPapuaNewGuinea,
+  );
+
+  /// ![country-paraguay](https://icons.ashlar.ke/svg/standard-stroke/country-paraguay.svg) country-paraguay, standard stroke.
+  static const countryParaguay = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryParaguay,
+  );
+
+  /// ![country-peru](https://icons.ashlar.ke/svg/standard-stroke/country-peru.svg) country-peru, standard stroke.
+  static const countryPeru = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryPeru,
+  );
+
+  /// ![country-philippines](https://icons.ashlar.ke/svg/standard-stroke/country-philippines.svg) country-philippines, standard stroke.
+  static const countryPhilippines = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryPhilippines,
+  );
+
+  /// ![country-pitcairn-islands](https://icons.ashlar.ke/svg/standard-stroke/country-pitcairn-islands.svg) country-pitcairn-islands, standard stroke.
+  static const countryPitcairnIslands = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryPitcairnIslands,
+  );
+
+  /// ![country-poland](https://icons.ashlar.ke/svg/standard-stroke/country-poland.svg) country-poland, standard stroke.
+  static const countryPoland = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryPoland,
+  );
+
+  /// ![country-portugal](https://icons.ashlar.ke/svg/standard-stroke/country-portugal.svg) country-portugal, standard stroke.
+  static const countryPortugal = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryPortugal,
+  );
+
+  /// ![country-puerto-rico](https://icons.ashlar.ke/svg/standard-stroke/country-puerto-rico.svg) country-puerto-rico, standard stroke.
+  static const countryPuertoRico = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryPuertoRico,
+  );
+
+  /// ![country-qatar](https://icons.ashlar.ke/svg/standard-stroke/country-qatar.svg) country-qatar, standard stroke.
+  static const countryQatar = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryQatar,
+  );
+
+  /// ![country-republic-of-the-congo](https://icons.ashlar.ke/svg/standard-stroke/country-republic-of-the-congo.svg) country-republic-of-the-congo, standard stroke.
+  static const countryRepublicOfTheCongo = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryRepublicOfTheCongo,
+  );
+
+  /// ![country-romania](https://icons.ashlar.ke/svg/standard-stroke/country-romania.svg) country-romania, standard stroke.
+  static const countryRomania = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryRomania,
+  );
+
+  /// ![country-russia](https://icons.ashlar.ke/svg/standard-stroke/country-russia.svg) country-russia, standard stroke.
+  static const countryRussia = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryRussia,
+  );
+
+  /// ![country-rwanda](https://icons.ashlar.ke/svg/standard-stroke/country-rwanda.svg) country-rwanda, standard stroke.
+  static const countryRwanda = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryRwanda,
+  );
+
+  /// ![country-saint-barthelemy](https://icons.ashlar.ke/svg/standard-stroke/country-saint-barthelemy.svg) country-saint-barthelemy, standard stroke.
+  static const countrySaintBarthelemy = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countrySaintBarthelemy,
+  );
+
+  /// ![country-saint-helena](https://icons.ashlar.ke/svg/standard-stroke/country-saint-helena.svg) country-saint-helena, standard stroke.
+  static const countrySaintHelena = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countrySaintHelena,
+  );
+
+  /// ![country-saint-kitts-and-nevis](https://icons.ashlar.ke/svg/standard-stroke/country-saint-kitts-and-nevis.svg) country-saint-kitts-and-nevis, standard stroke.
+  static const countrySaintKittsAndNevis = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countrySaintKittsAndNevis,
+  );
+
+  /// ![country-saint-lucia](https://icons.ashlar.ke/svg/standard-stroke/country-saint-lucia.svg) country-saint-lucia, standard stroke.
+  static const countrySaintLucia = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countrySaintLucia,
+  );
+
+  /// ![country-saint-martin](https://icons.ashlar.ke/svg/standard-stroke/country-saint-martin.svg) country-saint-martin, standard stroke.
+  static const countrySaintMartin = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countrySaintMartin,
+  );
+
+  /// ![country-saint-pierre-and-miquelon](https://icons.ashlar.ke/svg/standard-stroke/country-saint-pierre-and-miquelon.svg) country-saint-pierre-and-miquelon, standard stroke.
+  static const countrySaintPierreAndMiquelon = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countrySaintPierreAndMiquelon,
+  );
+
+  /// ![country-saint-vincent-and-the-grenadines](https://icons.ashlar.ke/svg/standard-stroke/country-saint-vincent-and-the-grenadines.svg) country-saint-vincent-and-the-grenadines, standard stroke.
+  static const countrySaintVincentAndTheGrenadines = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countrySaintVincentAndTheGrenadines,
+  );
+
+  /// ![country-samoa](https://icons.ashlar.ke/svg/standard-stroke/country-samoa.svg) country-samoa, standard stroke.
+  static const countrySamoa = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countrySamoa,
+  );
+
+  /// ![country-san-marino](https://icons.ashlar.ke/svg/standard-stroke/country-san-marino.svg) country-san-marino, standard stroke.
+  static const countrySanMarino = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countrySanMarino,
+  );
+
+  /// ![country-sao-tome-and-principe](https://icons.ashlar.ke/svg/standard-stroke/country-sao-tome-and-principe.svg) country-sao-tome-and-principe, standard stroke.
+  static const countrySaoTomeAndPrincipe = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countrySaoTomeAndPrincipe,
+  );
+
+  /// ![country-saudi-arabia](https://icons.ashlar.ke/svg/standard-stroke/country-saudi-arabia.svg) country-saudi-arabia, standard stroke.
+  static const countrySaudiArabia = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countrySaudiArabia,
+  );
+
+  /// ![country-senegal](https://icons.ashlar.ke/svg/standard-stroke/country-senegal.svg) country-senegal, standard stroke.
+  static const countrySenegal = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countrySenegal,
+  );
+
+  /// ![country-serbia](https://icons.ashlar.ke/svg/standard-stroke/country-serbia.svg) country-serbia, standard stroke.
+  static const countrySerbia = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countrySerbia,
+  );
+
+  /// ![country-seychelles](https://icons.ashlar.ke/svg/standard-stroke/country-seychelles.svg) country-seychelles, standard stroke.
+  static const countrySeychelles = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countrySeychelles,
+  );
+
+  /// ![country-sierra-leone](https://icons.ashlar.ke/svg/standard-stroke/country-sierra-leone.svg) country-sierra-leone, standard stroke.
+  static const countrySierraLeone = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countrySierraLeone,
+  );
+
+  /// ![country-singapore](https://icons.ashlar.ke/svg/standard-stroke/country-singapore.svg) country-singapore, standard stroke.
+  static const countrySingapore = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countrySingapore,
+  );
+
+  /// ![country-sint-maarten](https://icons.ashlar.ke/svg/standard-stroke/country-sint-maarten.svg) country-sint-maarten, standard stroke.
+  static const countrySintMaarten = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countrySintMaarten,
+  );
+
+  /// ![country-slovakia](https://icons.ashlar.ke/svg/standard-stroke/country-slovakia.svg) country-slovakia, standard stroke.
+  static const countrySlovakia = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countrySlovakia,
+  );
+
+  /// ![country-slovenia](https://icons.ashlar.ke/svg/standard-stroke/country-slovenia.svg) country-slovenia, standard stroke.
+  static const countrySlovenia = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countrySlovenia,
+  );
+
+  /// ![country-somalia](https://icons.ashlar.ke/svg/standard-stroke/country-somalia.svg) country-somalia, standard stroke.
+  static const countrySomalia = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countrySomalia,
+  );
+
+  /// ![country-south-africa](https://icons.ashlar.ke/svg/standard-stroke/country-south-africa.svg) country-south-africa, standard stroke.
+  static const countrySouthAfrica = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countrySouthAfrica,
+  );
+
+  /// ![country-south-georgia-and-the-south-sandwich-islands](https://icons.ashlar.ke/svg/standard-stroke/country-south-georgia-and-the-south-sandwich-islands.svg) country-south-georgia-and-the-south-sandwich-islands, standard stroke.
+  static const countrySouthGeorgiaAndTheSouthSandwichIslands =
+      AshlarIconData.same(
+        'standard-stroke',
+        AshlarIconsRoundedStroke.countrySouthGeorgiaAndTheSouthSandwichIslands,
+      );
+
+  /// ![country-south-korea](https://icons.ashlar.ke/svg/standard-stroke/country-south-korea.svg) country-south-korea, standard stroke.
+  static const countrySouthKorea = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countrySouthKorea,
+  );
+
+  /// ![country-south-sudan](https://icons.ashlar.ke/svg/standard-stroke/country-south-sudan.svg) country-south-sudan, standard stroke.
+  static const countrySouthSudan = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countrySouthSudan,
+  );
+
+  /// ![country-spain](https://icons.ashlar.ke/svg/standard-stroke/country-spain.svg) country-spain, standard stroke.
+  static const countrySpain = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countrySpain,
+  );
+
+  /// ![country-sri-lanka](https://icons.ashlar.ke/svg/standard-stroke/country-sri-lanka.svg) country-sri-lanka, standard stroke.
+  static const countrySriLanka = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countrySriLanka,
+  );
+
+  /// ![country-sudan](https://icons.ashlar.ke/svg/standard-stroke/country-sudan.svg) country-sudan, standard stroke.
+  static const countrySudan = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countrySudan,
+  );
+
+  /// ![country-suriname](https://icons.ashlar.ke/svg/standard-stroke/country-suriname.svg) country-suriname, standard stroke.
+  static const countrySuriname = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countrySuriname,
+  );
+
+  /// ![country-sweden](https://icons.ashlar.ke/svg/standard-stroke/country-sweden.svg) country-sweden, standard stroke.
+  static const countrySweden = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countrySweden,
+  );
+
+  /// ![country-switzerland](https://icons.ashlar.ke/svg/standard-stroke/country-switzerland.svg) country-switzerland, standard stroke.
+  static const countrySwitzerland = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countrySwitzerland,
+  );
+
+  /// ![country-syria](https://icons.ashlar.ke/svg/standard-stroke/country-syria.svg) country-syria, standard stroke.
+  static const countrySyria = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countrySyria,
+  );
+
+  /// ![country-taiwan](https://icons.ashlar.ke/svg/standard-stroke/country-taiwan.svg) country-taiwan, standard stroke.
+  static const countryTaiwan = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryTaiwan,
+  );
+
+  /// ![country-tajikistan](https://icons.ashlar.ke/svg/standard-stroke/country-tajikistan.svg) country-tajikistan, standard stroke.
+  static const countryTajikistan = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryTajikistan,
+  );
+
+  /// ![country-tanzania](https://icons.ashlar.ke/svg/standard-stroke/country-tanzania.svg) country-tanzania, standard stroke.
+  static const countryTanzania = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryTanzania,
+  );
+
+  /// ![country-thailand](https://icons.ashlar.ke/svg/standard-stroke/country-thailand.svg) country-thailand, standard stroke.
+  static const countryThailand = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryThailand,
+  );
+
+  /// ![country-timor-leste](https://icons.ashlar.ke/svg/standard-stroke/country-timor-leste.svg) country-timor-leste, standard stroke.
+  static const countryTimorLeste = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryTimorLeste,
+  );
+
+  /// ![country-togo](https://icons.ashlar.ke/svg/standard-stroke/country-togo.svg) country-togo, standard stroke.
+  static const countryTogo = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryTogo,
+  );
+
+  /// ![country-tonga](https://icons.ashlar.ke/svg/standard-stroke/country-tonga.svg) country-tonga, standard stroke.
+  static const countryTonga = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryTonga,
+  );
+
+  /// ![country-trinidad-and-tobago](https://icons.ashlar.ke/svg/standard-stroke/country-trinidad-and-tobago.svg) country-trinidad-and-tobago, standard stroke.
+  static const countryTrinidadAndTobago = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryTrinidadAndTobago,
+  );
+
+  /// ![country-tunisia](https://icons.ashlar.ke/svg/standard-stroke/country-tunisia.svg) country-tunisia, standard stroke.
+  static const countryTunisia = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryTunisia,
+  );
+
+  /// ![country-turkey](https://icons.ashlar.ke/svg/standard-stroke/country-turkey.svg) country-turkey, standard stroke.
+  static const countryTurkey = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryTurkey,
+  );
+
+  /// ![country-turkmenistan](https://icons.ashlar.ke/svg/standard-stroke/country-turkmenistan.svg) country-turkmenistan, standard stroke.
+  static const countryTurkmenistan = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryTurkmenistan,
+  );
+
+  /// ![country-turks-and-caicos-islands](https://icons.ashlar.ke/svg/standard-stroke/country-turks-and-caicos-islands.svg) country-turks-and-caicos-islands, standard stroke.
+  static const countryTurksAndCaicosIslands = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryTurksAndCaicosIslands,
+  );
+
+  /// ![country-tuvalu](https://icons.ashlar.ke/svg/standard-stroke/country-tuvalu.svg) country-tuvalu, standard stroke.
+  static const countryTuvalu = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryTuvalu,
+  );
+
+  /// ![country-uganda](https://icons.ashlar.ke/svg/standard-stroke/country-uganda.svg) country-uganda, standard stroke.
+  static const countryUganda = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryUganda,
+  );
+
+  /// ![country-ukraine](https://icons.ashlar.ke/svg/standard-stroke/country-ukraine.svg) country-ukraine, standard stroke.
+  static const countryUkraine = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryUkraine,
+  );
+
+  /// ![country-united-arab-emirates](https://icons.ashlar.ke/svg/standard-stroke/country-united-arab-emirates.svg) country-united-arab-emirates, standard stroke.
+  static const countryUnitedArabEmirates = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryUnitedArabEmirates,
+  );
+
+  /// ![country-united-kingdom](https://icons.ashlar.ke/svg/standard-stroke/country-united-kingdom.svg) country-united-kingdom, standard stroke.
+  static const countryUnitedKingdom = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryUnitedKingdom,
+  );
+
+  /// ![country-united-states](https://icons.ashlar.ke/svg/standard-stroke/country-united-states.svg) country-united-states, standard stroke.
+  static const countryUnitedStates = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryUnitedStates,
+  );
+
+  /// ![country-united-states-virgin-islands](https://icons.ashlar.ke/svg/standard-stroke/country-united-states-virgin-islands.svg) country-united-states-virgin-islands, standard stroke.
+  static const countryUnitedStatesVirginIslands = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryUnitedStatesVirginIslands,
+  );
+
+  /// ![country-uruguay](https://icons.ashlar.ke/svg/standard-stroke/country-uruguay.svg) country-uruguay, standard stroke.
+  static const countryUruguay = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryUruguay,
+  );
+
+  /// ![country-uzbekistan](https://icons.ashlar.ke/svg/standard-stroke/country-uzbekistan.svg) country-uzbekistan, standard stroke.
+  static const countryUzbekistan = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryUzbekistan,
+  );
+
+  /// ![country-vanuatu](https://icons.ashlar.ke/svg/standard-stroke/country-vanuatu.svg) country-vanuatu, standard stroke.
+  static const countryVanuatu = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryVanuatu,
+  );
+
+  /// ![country-vatican-city](https://icons.ashlar.ke/svg/standard-stroke/country-vatican-city.svg) country-vatican-city, standard stroke.
+  static const countryVaticanCity = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryVaticanCity,
+  );
+
+  /// ![country-venezuela](https://icons.ashlar.ke/svg/standard-stroke/country-venezuela.svg) country-venezuela, standard stroke.
+  static const countryVenezuela = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryVenezuela,
+  );
+
+  /// ![country-vietnam](https://icons.ashlar.ke/svg/standard-stroke/country-vietnam.svg) country-vietnam, standard stroke.
+  static const countryVietnam = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryVietnam,
+  );
+
+  /// ![country-wallis-and-futuna](https://icons.ashlar.ke/svg/standard-stroke/country-wallis-and-futuna.svg) country-wallis-and-futuna, standard stroke.
+  static const countryWallisAndFutuna = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryWallisAndFutuna,
+  );
+
+  /// ![country-western-sahara](https://icons.ashlar.ke/svg/standard-stroke/country-western-sahara.svg) country-western-sahara, standard stroke.
+  static const countryWesternSahara = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryWesternSahara,
+  );
+
+  /// ![country-yemen](https://icons.ashlar.ke/svg/standard-stroke/country-yemen.svg) country-yemen, standard stroke.
+  static const countryYemen = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryYemen,
+  );
+
+  /// ![country-zambia](https://icons.ashlar.ke/svg/standard-stroke/country-zambia.svg) country-zambia, standard stroke.
+  static const countryZambia = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryZambia,
+  );
+
+  /// ![country-zimbabwe](https://icons.ashlar.ke/svg/standard-stroke/country-zimbabwe.svg) country-zimbabwe, standard stroke.
+  static const countryZimbabwe = AshlarIconData.same(
+    'standard-stroke',
+    AshlarIconsRoundedStroke.countryZimbabwe,
   );
 
   /// ![cowboy-hat](https://icons.ashlar.ke/svg/standard-stroke/cowboy-hat.svg) cowboy-hat, standard stroke.
