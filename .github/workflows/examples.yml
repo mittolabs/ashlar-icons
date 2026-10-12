@@ -1,0 +1,58 @@
+name: examples
+
+# The examples install the packages from pub.dev and npm, so this checks what users
+# get: a release that breaks the documented API fails here. Weekly as well, to catch a
+# registry release made from somewhere else.
+on:
+  workflow_dispatch:
+  pull_request:
+    branches: [main]
+  push:
+    branches: [main]
+  schedule:
+    - cron: "0 6 * * 1"
+
+jobs:
+  flutter:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: examples/flutter_app
+    steps:
+      - uses: actions/checkout@v4
+      - uses: subosito/flutter-action@v2
+        with:
+          flutter-version: "3.47.5"
+          cache: true
+      - run: flutter pub get
+      - run: flutter analyze --fatal-infos
+      - name: Build, with icon tree shaking
+        run: flutter build web --release
+
+  jaspr:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: examples/jaspr_app
+    steps:
+      - uses: actions/checkout@v4
+      - uses: dart-lang/setup-dart@v1
+        with:
+          sdk: "3.13.4"
+      - run: dart pub get
+      - run: dart analyze --fatal-infos lib
+      - run: dart pub global activate jaspr_cli 0.23.4
+      - run: jaspr build
+
+  react:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: examples/react_app
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: npm ci
+      - run: npm run build

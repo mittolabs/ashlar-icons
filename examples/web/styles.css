@@ -1,0 +1,30 @@
+:root { font-family: system-ui, sans-serif; color: #16163a; background: #fafafa; }
+body { margin: 0; }
+.shell { display: grid; grid-template-columns: 220px 1fr; min-height: 100vh; }
+aside { display: flex; flex-direction: column; gap: 4px; padding: 20px 12px; border-right: 1px solid #e7e7ea; background: #fff; }
+.brand { padding: 0 12px 16px; font-size: 18px; }
+aside button { display: flex; align-items: center; gap: 12px; padding: 10px 12px; border: 0; border-radius: 10px; background: none; font: inherit; color: #4b4b57; cursor: pointer; text-align: left; }
+aside button.current { background: #f1edff; color: #1d1440; font-weight: 600; }
+main { padding: 24px 32px; max-width: 760px; }
+header { display: flex; align-items: center; gap: 4px; }
+header h1 { flex: 1; margin: 0; font-size: 24px; }
+header button { display: grid; place-items: center; width: 40px; height: 40px; border: 0; border-radius: 10px; background: none; color: #4b4b57; cursor: pointer; }
+header button:hover { background: #f1f1f3; }
+.list { list-style: none; padding: 0; margin: 20px 0; border: 1px solid #e7e7ea; border-radius: 14px; background: #fff; }
+.list li { display: flex; align-items: center; gap: 16px; padding: 14px 16px; }
+.list li + li { border-top: 1px solid #e7e7ea; }
+.list span { flex: 1; display: flex; flex-direction: column; color: #8d8d99; font-size: 14px; }
+.list b { color: #16163a; font-size: 16px; font-weight: 500; }
+h2 { font-size: 15px; margin: 28px 0 12px; }
+.row { display: flex; align-items: center; gap: 16px; }
+.muted { color: #b9b9c2; }
+.accent { color: #6a4cf0; }
+.big { width: 48px; height: 48px; }
+.amber { --ash-secondary: #f59e0b; --ash-secondary-opacity: 1; display: inline-flex; }
+table { border-collapse: collapse; }
+th { text-align: left; font-weight: 400; padding: 6px 24px 6px 0; }
+td { padding: 6px 16px 6px 0; }
+/* The icon font: an icon is 1em, so font-size sets its size and color its colour. */
+aside button .ash, .list .ash, header .ash { font-size: 20px; }
+.list .ash, header .ash { font-size: 24px; }
+td .ash { font-size: 24px; }
